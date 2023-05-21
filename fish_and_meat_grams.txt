@@ -1,0 +1,1004 @@
+,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,0,2.20,Wiener,M-Classic,200.0,Fish and Meat,Migros,2023-05-19
+1,1,2.50,Bacon rolls,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+2,2,1.95,Cervelas,M-Classic,200.0,Fish and Meat,Migros,2023-05-19
+3,3,1.45,Chicken escalope,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+4,4,2.60,Minced beef,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+5,5,4.95,Atlantic salmon for canapeSmoked and pre-sliced - ASC,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+6,6,2.95,Turkey breastWafer-thin,Don Pollo,150.0,Fish and Meat,Migros,2023-05-19
+7,7,3.50,"Turkey product, cooked and smoked",Minipic,90.0,Fish and Meat,Migros,2023-05-19
+8,8,3.20,IP-SUISSEBacon cubes,unknown,120.0,Fish and Meat,Migros,2023-05-19
+9,10,2.–,Bacon,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+10,11,2.40,Lyon cold cuts,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+11,12,5.80,Dried meat,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+12,14,2.65,  CottoFront ham,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+13,15,2.80,IP-SUISSEBacon,unknown,100.0,Fish and Meat,Migros,2023-05-19
+14,17,3.95,Cervelas,M-Budget,500.0,Fish and Meat,Migros,2023-05-19
+15,18,3.80,IP-SUISSEToast pad,unknown,150.0,Fish and Meat,Migros,2023-05-19
+16,20,1.20,Minced meatMixed,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+17,21,1.20,Meatloaf,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+18,23,3.95,IP-SUISSEVeal Cipollata,unknown,200.0,Fish and Meat,Migros,2023-05-19
+19,24,3.60,Ham,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+20,25,6.60,Salmon smoked,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+21,26,3.95,St-Galler Olma BratwurstSausage to roast,Spécialité Suisse,320.0,Fish and Meat,Migros,2023-05-19
+22,27,3.70,Salami,Citterio,70.0,Fish and Meat,Migros,2023-05-19
+23,29,3.50,IP-SUISSESlices of ham from the front,unknown,130.0,Fish and Meat,Migros,2023-05-19
+24,30,4.40,Raw ham,M-Budget,130.0,Fish and Meat,Migros,2023-05-19
+25,31,2.55,Salami,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+26,32,3.80,Roast sausage,M-Budget,480.0,Fish and Meat,Migros,2023-05-19
+27,33,3.25,WienerHot Dog,M-Budget,400.0,Fish and Meat,Migros,2023-05-19
+28,34,2.40,Chicken escalope,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+29,36,3.55,HamPuccini,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+30,37,4.10,Bacon cubesSmoked,Migros Bio,120.0,Fish and Meat,Migros,2023-05-19
+31,38,1.60,Diced chicken,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+32,39,3.25,Country smoked hamSmoked,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+33,40,4.10,MostmöckliMostmöckli,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+34,41,2.95,Chicken breastWith roasting rim,Don Pollo,150.0,Fish and Meat,Migros,2023-05-19
+35,42,3.50,  Gusto del SolRaw hamSerrano,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+36,43,6.70,SalamiMilano,Citterio,130.0,Fish and Meat,Migros,2023-05-19
+37,44,1.60,Minced beef,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+38,45,4.95,Country Hunter,M-Budget,300.0,Fish and Meat,Migros,2023-05-19
+39,46,5.90,  AtlanticSmoked salmon Atlantic Ocean,Scotland,100.0,Fish and Meat,Migros,2023-05-19
+40,47,7.40,Minced beef,Léger,300.0,Fish and Meat,Migros,2023-05-19
+41,48,3.50,TofuPlain,Migros Bio,230.0,Fish and Meat,Migros,2023-05-19
+42,49,3.95,Chicken breast,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+43,50,5.95,Chicken mini fillets,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+44,51,4.20,Bratwurst,M-Budget,390.0,Fish and Meat,Migros,2023-05-19
+45,52,3.95,Cervelas,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+46,53,4.95,Farmer's hamMaxi,Tradition,150.0,Fish and Meat,Migros,2023-05-19
+47,54,4.95,  IrresistibiliSalami SticksClassic,Citterio,80.0,Fish and Meat,Migros,2023-05-19
+48,56,4.95,IP-SUISSEVeal bratwurst,unknown,280.0,Fish and Meat,Migros,2023-05-19
+49,57,2.15,  MSCSurimi sticks,M-Budget,230.0,Fish and Meat,Migros,2023-05-19
+50,58,2.95,Poultry SausageHot Dog,M-Budget,400.0,Fish and Meat,Migros,2023-05-19
+51,59,4.50,Wiener,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+52,60,1.65,IP-SUISSEM-Classic meat loaf,unknown,100.0,Fish and Meat,Migros,2023-05-19
+53,61,2.40,Diced chicken,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+54,62,4.25,Pic-Stick,M-Budget,160.0,Fish and Meat,Migros,2023-05-19
+55,63,5.45,Chicken sticks,M-Budget,400.0,Fish and Meat,Migros,2023-05-19
+56,65,3.–,Beef salami,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+57,66,3.75,Chicken skewersOriental,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+58,67,3.70,Shoulder ham cubes,M-Budget,180.0,Fish and Meat,Migros,2023-05-19
+59,68,2.80,Beef cutlets,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+60,69,2.25,Chicken cordon bleuBreaded,Don Pollo,100.0,Fish and Meat,Migros,2023-05-19
+61,70,3.95,  IP-SUISSEOven-baked ham,Tradition,120.0,Fish and Meat,Migros,2023-05-19
+62,71,2.60,  Gusto del SolChorizo,M-Classic,121.0,Fish and Meat,Migros,2023-05-19
+63,72,4.20,TofuSmoked,Migros Bio,230.0,Fish and Meat,Migros,2023-05-19
+64,73,4.75,Mini Chicken cordon bleuBreaded,Don Pollo,180.0,Fish and Meat,Migros,2023-05-19
+65,74,3.95,NuggetsVegan,Cornatur,225.0,Fish and Meat,Migros,2023-05-19
+66,75,2.50,Party SticksClassic,Malbuner,40.0,Fish and Meat,Migros,2023-05-19
+67,77,2.10,IP-SUISSEMixed minced meatMixed,unknown,100.0,Fish and Meat,Migros,2023-05-19
+68,78,2.85,Mortadella,Fratelli Beretta,100.0,Fish and Meat,Migros,2023-05-19
+69,79,5.20,IP-SUISSEBeef Balls,unknown,200.0,Fish and Meat,Migros,2023-05-19
+70,80,2.70,IP-SUISSEFront hamMidi,unknown,142.0,Fish and Meat,Migros,2023-05-19
+71,82,3.65,Chicken breast medallionIdeal for table grill,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+72,83,7.30,  MSCWild salmon smokedSockeye,Alaska,100.0,Fish and Meat,Migros,2023-05-19
+73,84,2.95,Chicken breastCurry,Don Pollo,150.0,Fish and Meat,Migros,2023-05-19
+74,85,6.25,BioSalmon fillets with skin,unknown,100.0,Fish and Meat,Migros,2023-05-19
+75,86,3.30,  ASCShrimpsCooked - ASC,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+76,87,4.50,"  ASCSalmon troutSmoked, sliced",M-Budget,150.0,Fish and Meat,Migros,2023-05-19
+77,88,3.95,SalamiExtrafino,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+78,89,3.95,IP-SUISSETurkey breastWafer-thin with a crust,unknown,100.0,Fish and Meat,Migros,2023-05-19
+79,90,4.95,SalamettiMilan,Rapelli,140.0,Fish and Meat,Migros,2023-05-19
+80,91,6.95,Parma ham,Fratelli Beretta,100.0,Fish and Meat,Migros,2023-05-19
+81,93,5.05,  GrillMiPiece of lamb,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+82,94,3.80,  aha!Tofu nature,Migros Bio,250.0,Fish and Meat,Migros,2023-05-19
+83,96,3.–,Poultry salami,M-Budget,150.0,Fish and Meat,Migros,2023-05-19
+84,97,2.25,Pork kidney pie,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+85,98,2.95,Turkey breastSpicy,Don Pollo,150.0,Fish and Meat,Migros,2023-05-19
+86,99,5.70,Chicken escalope,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+87,100,4.95,SalamettiX,M-Budget,3210.0,Fish and Meat,Migros,2023-05-19
+88,101,1.50,Pork cut-ups,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+89,102,4.80,Landjäger smoked,Tradition,200.0,Fish and Meat,Migros,2023-05-19
+90,103,5.60,IP-SUISSECipollata with baconLardées,unknown,260.0,Fish and Meat,Migros,2023-05-19
+91,104,4.90,Falafel with a chickpea baseVegan,V-Love,180.0,Fish and Meat,Migros,2023-05-19
+92,109,3.50,"Sausage dwarfsMini, Poulet",M-Classic,160.0,Fish and Meat,Migros,2023-05-19
+93,111,1.25,Pork chop neck,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+94,112,3.30,  QuornCold Cuts PepperoniVegetarian,Cornatur,100.0,Fish and Meat,Migros,2023-05-19
+95,113,5.95,Pork cipollata,Tradition,250.0,Fish and Meat,Migros,2023-05-19
+96,114,2.30,Chicken LyonMidi bowl,Don Pollo,150.0,Fish and Meat,Migros,2023-05-19
+97,116,3.95,Chicken Nuggets,Don Pollo,250.0,Fish and Meat,Migros,2023-05-19
+98,117,4.95,Salami,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+99,118,3.45,IP-SUISSECervelas,unknown,340.0,Fish and Meat,Migros,2023-05-19
+100,119,2.30,Chicken Lyon,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+101,120,4.95,Turkey-mockli,Don Pollo,100.0,Fish and Meat,Migros,2023-05-19
+102,121,3.40,BioBaconMidi,unknown,100.0,Fish and Meat,Migros,2023-05-19
+103,122,7.15,Roast beefRôti,Finest,100.0,Fish and Meat,Migros,2023-05-19
+104,124,4.45,HamWithout rind,Del Maître,120.0,Fish and Meat,Migros,2023-05-19
+105,125,3.40,Oven baked meat loaf,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+106,126,10.95,Bündnerfleisch,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+107,127,4.90,  essentielHind ham cookedGekocht,Del Maître,120.0,Fish and Meat,Migros,2023-05-19
+108,129,4.95,Thinly sliced meat,Spécialité Suisse,65.0,Fish and Meat,Migros,2023-05-19
+109,130,7.95,Möckli beef,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+110,132,5.50,  MSCCod back filletMSC - from sustainable fisheries,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+111,133,4.95,IP-SUISSEHamGourmet,unknown,130.0,Fish and Meat,Migros,2023-05-19
+112,135,4.95,  QuornLemon Paper Escalope,Cornatur,220.0,Fish and Meat,Migros,2023-05-19
+113,138,1.65,Chicken shanks seasonedÉpicées,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+114,139,6.50,  MSCAlaska pollack filletBreaded,M-Classic,220.0,Fish and Meat,Migros,2023-05-19
+115,141,5.95,Planted.Pea protein chickenVegan,unknown,175.0,Fish and Meat,Migros,2023-05-19
+116,142,3.20,Crackers,M-Classic,220.0,Fish and Meat,Migros,2023-05-19
+117,143,5.95,  QuornEscalopeMozzarella & Pesto,Cornatur,240.0,Fish and Meat,Migros,2023-05-19
+118,145,3.40,Beef patties,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+119,146,4.95,Cubes of ham from behind,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+120,147,2.95,  GrillMiChicken Kebab skewerReconstituted,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+121,148,5.95,Pork bratwurst,Tradition,330.0,Fish and Meat,Migros,2023-05-19
+122,149,4.95,Poultry bratwurst,M-Budget,400.0,Fish and Meat,Migros,2023-05-19
+123,150,7.95,Raw hamEmilia Romagna,Specialità Italiana,100.0,Fish and Meat,Migros,2023-05-19
+124,151,13.95,  GrillMiSnails of pork sausage for roastingPaprika-Herbs-Curry-Nature,M-Classic,450.0,Fish and Meat,Migros,2023-05-19
+125,152,3.80,Turkey breastSmoked,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+126,153,6.95,Vaudois meat paste,Rapelli,260.0,Fish and Meat,Migros,2023-05-19
+127,156,5.90,IP-SUISSEBeef minced steak naturePlain,unknown,230.0,Fish and Meat,Migros,2023-05-19
+128,157,1.50,Chicken wingsX,Optigal,8100.0,Fish and Meat,Migros,2023-05-19
+129,158,3.30,  QuornCharcuterie fine,Cornatur,100.0,Fish and Meat,Migros,2023-05-19
+130,159,2.–,Poultry Cervelas,Optigal,200.0,Fish and Meat,Migros,2023-05-19
+131,160,1.90,IP-SUISSESaucisson Tradition,unknown,100.0,Fish and Meat,Migros,2023-05-19
+132,161,4.75,  QuornShredded meatVegetarian,Cornatur,200.0,Fish and Meat,Migros,2023-05-19
+133,162,1.75,Cabbage sausage,Tradition,100.0,Fish and Meat,Migros,2023-05-19
+134,163,5.50,Vegetable minced meatVegan,V-Love,300.0,Fish and Meat,Migros,2023-05-19
+135,164,2.40,"Turkey product, cooked and smoked",Optigal,200.0,Fish and Meat,Migros,2023-05-19
+136,165,2.–,IP-SUISSECutted pork,unknown,100.0,Fish and Meat,Migros,2023-05-19
+137,166,3.70,SalamiRustico,Citterio,70.0,Fish and Meat,Migros,2023-05-19
+138,167,3.20,IP-SUISSEWiener,unknown,200.0,Fish and Meat,Migros,2023-05-19
+139,168,3.60,IP-SUISSEVeal sausageThin,unknown,120.0,Fish and Meat,Migros,2023-05-19
+140,169,3.95,Escalope with vegetables and potatoes,Migros Bio,180.0,Fish and Meat,Migros,2023-05-19
+141,170,2.20,IP-SUISSEMinced beef,unknown,100.0,Fish and Meat,Migros,2023-05-19
+142,171,5.95,Planted.Pea protein KebabVegan,unknown,175.0,Fish and Meat,Migros,2023-05-19
+143,173,5.95,SticksVegan,V-Love,300.0,Fish and Meat,Migros,2023-05-19
+144,174,4.95,ChipolataX,Migros Bio,1760.0,Fish and Meat,Migros,2023-05-19
+145,175,4.70,Vegetable BurgerVegan,V-Love,240.0,Fish and Meat,Migros,2023-05-19
+146,176,2.95,Cold cutsDelicacy,Tradition,170.0,Fish and Meat,Migros,2023-05-19
+147,177,5.95,Bratwurst,Migros Bio,280.0,Fish and Meat,Migros,2023-05-19
+148,178,3.70,Poultry Cervelas,M-Budget,500.0,Fish and Meat,Migros,2023-05-19
+149,180,1.95,Chicken breastSpicy,Don Pollo,80.0,Fish and Meat,Migros,2023-05-19
+150,181,2.90,  CottoTurkey Ham,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+151,182,2.10,  IP-SUISSEPork neck steak marinatedWith café de Paris Butter,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+152,183,4.70,"Tofu Piccata with herbsFor frying, cooked",Migros Bio,165.0,Fish and Meat,Migros,2023-05-19
+153,185,4.95,Cordon vertVegetarian,Cornatur,260.0,Fish and Meat,Migros,2023-05-19
+154,188,4.95,  Fish & Dip MSCSurimi snackCocktail sauce,Coraya,210.0,Fish and Meat,Migros,2023-05-19
+155,189,5.95,Planted.Pea protein chickenVegan,unknown,175.0,Fish and Meat,Migros,2023-05-19
+156,190,1.60,Chicken wingsPaprika,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+157,191,1.90,Chicken mince,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+158,192,4.95,Smoked salmon cutsFor pasta or pizza,unknown,180.0,Fish and Meat,Migros,2023-05-19
+159,193,3.20,MortadellaGran Selezione - extra-fine,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+160,194,3.70,  GrillMiHussar beef skewer,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+161,195,5.95,  Beyond BurgerBavarian burgerVegan,Beyond Meat,226.0,Fish and Meat,Migros,2023-05-19
+162,196,4.50,Beef cutletsGrazing Beef,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+163,197,4.20,TofuCurry,Migros Bio,230.0,Fish and Meat,Migros,2023-05-19
+164,198,4.20,  IP-SUISSECrusted ham,Tradition,120.0,Fish and Meat,Migros,2023-05-19
+165,199,6.50,  SensationalFilet chicken-styleVegan,Garden Gourmet,180.0,Fish and Meat,Migros,2023-05-19
+166,200,5.95,  BioCervelas-roasting sausage,GrillMi,300.0,Fish and Meat,Migros,2023-05-19
+167,201,10.90,  ASCSalmon back filletSmoked,Norway,150.0,Fish and Meat,Migros,2023-05-19
+168,202,3.50,Vegetable triangleVegetarian,V-Love,180.0,Fish and Meat,Migros,2023-05-19
+169,203,6.30,Beef patties à la minuteGrazing Beef,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+170,204,3.95,Ticino roasting sausage,Rapelli,180.0,Fish and Meat,Migros,2023-05-19
+171,205,4.50,Quorn Hot DogSmoked & cooked,Cornatur,180.0,Fish and Meat,Migros,2023-05-19
+172,206,2.50,  IP-SUISSEPork ribeye steakWith herbs,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+173,207,4.50,  QuornMinced meatVegetarian,Cornatur,230.0,Fish and Meat,Migros,2023-05-19
+174,208,5.95,Trout filletsSmoked,M-Budget,300.0,Fish and Meat,Migros,2023-05-19
+175,209,1.95,Whole chickenEntier,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+176,210,2.50,Poultry meatloaf,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+177,211,2.20,IP-SUISSEBacon SmokedÀ cuire,unknown,100.0,Fish and Meat,Migros,2023-05-19
+178,212,3.70,Chicken mini filletsThyme-Lemon,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+179,213,3.95,  Le Prestige je t'aimeHamJe t'aime,Del Maître,100.0,Fish and Meat,Migros,2023-05-19
+180,214,2.10,Chicken schnitzelBreaded,Don Pollo,100.0,Fish and Meat,Migros,2023-05-19
+181,215,3.60,Vegetable Meatballs,M-Budget,220.0,Fish and Meat,Migros,2023-05-19
+182,216,4.20,TofuBasilic,Migros Bio,230.0,Fish and Meat,Migros,2023-05-19
+183,217,2.90,  GrillMiTurkey and pepper skewerAvec poivrons,Don Pollo,100.0,Fish and Meat,Migros,2023-05-19
+184,219,4.95,Vegan cevapcici,V-Love,240.0,Fish and Meat,Migros,2023-05-19
+185,221,10.95,King salmon smoked,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+186,222,3.70,"Ticino PlateProsciutto crudo, salame Milano, pancetta",M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+187,223,2.50,Chicken charcuterie,Don Pollo,150.0,Fish and Meat,Migros,2023-05-19
+188,224,6.25,  MSCPrawns in Lake,M-Budget,250.0,Fish and Meat,Migros,2023-05-19
+189,225,5.50,Spinach FalafelVegan,V-Love,200.0,Fish and Meat,Migros,2023-05-19
+190,227,5.95,Beef tartareReady for use,Rapelli,130.0,Fish and Meat,Migros,2023-05-19
+191,228,4.95,  IP-SUISSESausagesSpicy Chili,GrillMi,180.0,Fish and Meat,Migros,2023-05-19
+192,229,4.85,  CitterinoSalamePiccolo ma speciale,Citterio,100.0,Fish and Meat,Migros,2023-05-19
+193,230,5.30,Mini Crispy PolloMini,M-Budget,400.0,Fish and Meat,Migros,2023-05-19
+194,231,3.75,BurgerVegan,Cornatur,200.0,Fish and Meat,Migros,2023-05-19
+195,233,8.30,Mountain dried meat,Schweizer Bergprodukt,100.0,Fish and Meat,Migros,2023-05-19
+196,234,2.50,Poultry meat,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+197,235,4.95,Crispy burgerVegan,Cornatur,180.0,Fish and Meat,Migros,2023-05-19
+198,236,3.70,Chicken mini filletsTikka Masala,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+199,238,2.80,Marinated pork loin steakMariné,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+200,239,7.50,  MSCPacific dab filletsMilling,Anna's Best,200.0,Fish and Meat,Migros,2023-05-19
+201,240,4.50,  QuornBratwurstVegetarian,Cornatur,180.0,Fish and Meat,Migros,2023-05-19
+202,241,3.70,Morel tureen,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+203,242,3.95,White sausages,unknown,260.0,Fish and Meat,Migros,2023-05-19
+204,243,7.20,  MSCScallopsMSC,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+205,244,7.90,  de GruyèresGarlic sausage,Spécialité Suisse,180.0,Fish and Meat,Migros,2023-05-19
+206,245,5.15,Marinated loin of lambMariné,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+207,246,3.70,Pork fillet,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+208,247,2.55,  Gusto del SolChorizoPiquant,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+209,248,6.95,Raw hamSerrano,Especialidad espanola,100.0,Fish and Meat,Migros,2023-05-19
+210,250,4.20,Chicken breat stripsPaprika,Anna's Best,100.0,Fish and Meat,Migros,2023-05-19
+211,251,5.95,Lamb Racks,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+212,252,5.20,Pork sausage,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+213,253,3.50,House pâté,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+214,254,4.45,Pork kidney Charbonnade,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+215,256,2.–,Pork steak grill,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+216,257,7.95,Dried meat,Tradition,100.0,Fish and Meat,Migros,2023-05-19
+217,258,2.45,Chicken legs,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+218,259,2.–,Chicken Ailerons,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+219,260,4.50,Silken TofuPlain,Migros Bio,250.0,Fish and Meat,Migros,2023-05-19
+220,261,1.75,Chicken lower leg without skin,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+221,264,2.75,IP-SUISSEPork Spare-RibsMarinated,unknown,100.0,Fish and Meat,Migros,2023-05-19
+222,265,1.50,Pork sideburns lean,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+223,268,9.–,  MSC SockeyeWild salmon smoked,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+224,269,1.40,  GrillMiMarinated chicken sticksMarinés,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+225,270,3.60,IP-SUISSEMini cervelasMini,unknown,200.0,Fish and Meat,Migros,2023-05-19
+226,271,2.20,Pork fillet,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+227,272,6.20,Chicken Curry Bols,Don Pollo,300.0,Fish and Meat,Migros,2023-05-19
+228,273,3.30,Lyoner Ham,Tradition,150.0,Fish and Meat,Migros,2023-05-19
+229,274,17.90,ASCSalmon filletLemons and Coriander - ASC,unknown,400.0,Fish and Meat,Migros,2023-05-19
+230,275,5.90,  IP-SUISSEBeef burger,GrillMi,240.0,Fish and Meat,Migros,2023-05-19
+231,277,5.90,Smoked salmon piecesSmoked,unknown,150.0,Fish and Meat,Migros,2023-05-19
+232,278,5.95,Knebeli,Migros Bio,88.0,Fish and Meat,Migros,2023-05-19
+233,279,11.95,Poke BowlSmoked Salmon & Mustard sauce,Sushi Mania,360.0,Fish and Meat,Migros,2023-05-19
+234,280,3.95,  IP-SUISSEHamGran Riserva,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+235,281,6.50,  IP-SUISSESkewer of pork tenderloinWith raw bacon,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+236,282,3.60,Cattle feedsGrazing Beef,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+237,283,3.95,Duck filet,unknown,100.0,Fish and Meat,Migros,2023-05-19
+238,284,5.80,Delicious piecesVegan,V-Love,180.0,Fish and Meat,Migros,2023-05-19
+239,285,4.95,Crispy TofuWith sweet chilli sauce,Migros Bio,220.0,Fish and Meat,Migros,2023-05-19
+240,286,4.50,Salami SpianataSpicy,Fratelli Beretta,100.0,Fish and Meat,Migros,2023-05-19
+241,287,3.80,SalamiNatural gut,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+242,288,8.95,Viande séchée des GrisonsCoin,Spécialité Suisse,93.0,Fish and Meat,Migros,2023-05-19
+243,289,4.20,Chicken breat stripsFajita,Anna's Best,100.0,Fish and Meat,Migros,2023-05-19
+244,291,2.45,Chicken strips,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+245,292,4.85,Original Salame di Milano,Citterio,100.0,Fish and Meat,Migros,2023-05-19
+246,293,3.90,  Le Prestige fuméHamSmoked,Del Maître,100.0,Fish and Meat,Migros,2023-05-19
+247,294,3.25,IP-SUISSEPork cordon bleuLean,unknown,100.0,Fish and Meat,Migros,2023-05-19
+248,295,3.50,Cooked pulled beefCuit,Anna's Best,100.0,Fish and Meat,Migros,2023-05-19
+249,296,4.90,  de GruyèresMarshal's Staff,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+250,297,4.95,IP-SUISSECold cuts mixed,unknown,150.0,Fish and Meat,Migros,2023-05-19
+251,299,9.50,Lime smoked salmon,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+252,300,5.80,  ASCStrem salmonSeasoned,Hot Smoked Salmon,125.0,Fish and Meat,Migros,2023-05-19
+253,301,4.95,  QuornPepper Steak,Cornatur,195.0,Fish and Meat,Migros,2023-05-19
+254,302,4.90,  IP-SUISSEBacon Burger,GrillMi,200.0,Fish and Meat,Migros,2023-05-19
+255,303,2.50,Pepper tureen,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+256,304,6.95,Raw ham,Pure Nature,100.0,Fish and Meat,Migros,2023-05-19
+257,305,3.95,Salami with Ticino chilliPre-cut,Rapelli,85.0,Fish and Meat,Migros,2023-05-19
+258,306,4.95,Vegetarian Balls,Garden Gourmet,200.0,Fish and Meat,Migros,2023-05-19
+259,307,6.95,Vegetarian Viennese cutlet,Cornatur,340.0,Fish and Meat,Migros,2023-05-19
+260,310,5.80,Freiburg farmer sausage,Spécialité Suisse,190.0,Fish and Meat,Migros,2023-05-19
+261,311,4.95,Escalope with spinachVegan,Cornatur,200.0,Fish and Meat,Migros,2023-05-19
+262,312,1.60,Rolled shoulder ham,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+263,313,6.95,Smoked country ham,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+264,316,5.90,Rabbit filet,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+265,317,5.50,NuggetsVegan,V-Love,220.0,Fish and Meat,Migros,2023-05-19
+266,318,6.95,Planted.SkewersVegan,unknown,200.0,Fish and Meat,Migros,2023-05-19
+267,320,3.95,Salame milano,Fratelli Beretta,100.0,Fish and Meat,Migros,2023-05-19
+268,322,4.20,MSCPickled herring,unknown,400.0,Fish and Meat,Migros,2023-05-19
+269,323,3.50,  aha!Tofu with herbs,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+270,324,4.95,  IrresistibiliSalami SticksSpicy,Citterio,80.0,Fish and Meat,Migros,2023-05-19
+271,325,5.50,IP-SUISSEPastrami,unknown,100.0,Fish and Meat,Migros,2023-05-19
+272,326,1.45,CoqueletEntier,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+273,327,4.90,IP-SUISSECoppa,unknown,120.0,Fish and Meat,Migros,2023-05-19
+274,328,3.–,"IP-SUISSEQuick Ham MiniSmoked, cooked",unknown,100.0,Fish and Meat,Migros,2023-05-19
+275,329,15.90,Roast emperor,unknown,600.0,Fish and Meat,Migros,2023-05-19
+276,330,8.90,Beef sirloin steakGrazing Beef,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+277,331,2.90,Cooked pulled porkCuit,Anna's Best,100.0,Fish and Meat,Migros,2023-05-19
+278,332,3.40,Minced meatVegan,M-Budget,230.0,Fish and Meat,Migros,2023-05-19
+279,333,6.45,Salami,M-Budget,450.0,Fish and Meat,Migros,2023-05-19
+280,334,4.50,  de GruyèresSalami sticksNature - mini,Spécialité Suisse,80.0,Fish and Meat,Migros,2023-05-19
+281,335,11.40,Fillet of beef,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+282,336,3.45,Pork chopsX,Migros Bio,4100.0,Fish and Meat,Migros,2023-05-19
+283,337,3.65,Marinated chicken skewersMarinées,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+284,338,9.95,Raw hamSan Daniele,Fratelli Beretta,100.0,Fish and Meat,Migros,2023-05-19
+285,339,6.95,Smoked raw ham,Citterio,90.0,Fish and Meat,Migros,2023-05-19
+286,341,2.40,Chicken upper legs,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+287,343,3.90,Country Hunter,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+288,344,5.40,IP-SUISSEPork fillet,unknown,100.0,Fish and Meat,Migros,2023-05-19
+289,346,5.90,Beef hoof steak,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+290,347,6.50,  SensationalVeggie BBQ BurgerSmokey,Garden Gourmet,200.0,Fish and Meat,Migros,2023-05-19
+291,349,5.70,Artisanal salamiApero,Migros Bio,60.0,Fish and Meat,Migros,2023-05-19
+292,350,4.90,Apero natural sausageMini,Spécialité de Gruyère,80.0,Fish and Meat,Migros,2023-05-19
+293,351,4.70,Kale BurgerWith rapeseed,Migros Bio,180.0,Fish and Meat,Migros,2023-05-19
+294,352,5.95,SalameRiserva,Citterio,90.0,Fish and Meat,Migros,2023-05-19
+295,353,4.95,  QuornNature SchnitzelVegetarian,Cornatur,220.0,Fish and Meat,Migros,2023-05-19
+296,355,5.95,Bavarian burgerVegan,V-Love,220.0,Fish and Meat,Migros,2023-05-19
+297,356,5.30,Dried meat,Migros Bio,50.0,Fish and Meat,Migros,2023-05-19
+298,357,5.95,Raw bacon,Pure Nature,100.0,Fish and Meat,Migros,2023-05-19
+299,358,4.80,IP-SUISSERaw bacon,unknown,100.0,Fish and Meat,Migros,2023-05-19
+300,360,4.50,  de GruyèresSalami sticksBeef - mini,Spécialité Suisse,80.0,Fish and Meat,Migros,2023-05-19
+301,361,1.75,IP-SUISSELean salted baconSalé,unknown,100.0,Fish and Meat,Migros,2023-05-19
+302,363,6.95,  Meat SnacksBeef jerkyOriginal,Jack Link's,70.0,Fish and Meat,Migros,2023-05-19
+303,364,3.95,Vegetable nuggetsVegetarian,V-Love,225.0,Fish and Meat,Migros,2023-05-19
+304,365,5.50,Falafel with a chickpea baseVegan,V-Love,200.0,Fish and Meat,Migros,2023-05-19
+305,366,4.50,Plant-based Sausage,V-Love,250.0,Fish and Meat,Migros,2023-05-19
+306,367,2.80,  essentielFarmer's tureen,Del Maître,100.0,Fish and Meat,Migros,2023-05-19
+307,368,4.50,Plant-based Mini SticksVegan,V-Love,110.0,Fish and Meat,Migros,2023-05-19
+308,369,11.50,  Le Bâton de BergerSaucisson secPure porc,Justin Bridou,250.0,Fish and Meat,Migros,2023-05-19
+309,370,4.20,TofuAlmonds and sesame,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+310,371,6.95,Gran Riserva salami,Rapelli,180.0,Fish and Meat,Migros,2023-05-19
+311,372,4.50,Minced meatVegan,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+312,374,4.20,Bratwurst vegetarianÀ base de seitan et de tofu,Alnatura,250.0,Fish and Meat,Migros,2023-05-19
+313,375,4.95,Shredded meatVegan,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+314,377,16.60,"MSCCod back filletAlmonds, Pistachios and Basil - MSC",unknown,360.0,Fish and Meat,Migros,2023-05-19
+315,378,4.50,  de GruyèresApero salami pearlsBeef - mini,Spécialité Suisse,80.0,Fish and Meat,Migros,2023-05-19
+316,379,3.80,Salami StripsMini,Spécialité de Gruyère,50.0,Fish and Meat,Migros,2023-05-19
+317,380,4.20,MSCLumpfish roe,unknown,60.0,Fish and Meat,Migros,2023-05-19
+318,381,6.50,Marinated anchovy fillets,Antipasti,150.0,Fish and Meat,Migros,2023-05-19
+319,382,6.70,Veal cutlet,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+320,384,7.35,BioShrimps Tail-on cooked,unknown,110.0,Fish and Meat,Migros,2023-05-19
+321,385,9.20,  GrillMi ASCShrimpsRaw - Tail-off,M-Classic,180.0,Fish and Meat,Migros,2023-05-19
+322,386,2.90,IP-SUISSERippli Kidney PieceSmoked,unknown,100.0,Fish and Meat,Migros,2023-05-19
+323,387,9.95,  ASCFlame Salmon,Sélection,140.0,Fish and Meat,Migros,2023-05-19
+324,389,4.50,  GrillMi ASCShrimp skewerLemonpepper - ASC,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+325,391,5.90,Beef entrecôte,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+326,392,2.10,Pork cordon bleu,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+327,393,5.60,Royal pâté,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+328,394,4.95,Chickpea CroquettesVegan,V-Love,200.0,Fish and Meat,Migros,2023-05-19
+329,395,3.80,Mini ViennaSeitan & tofu,Alnatura,170.0,Fish and Meat,Migros,2023-05-19
+330,396,4.30,  DemeterTofuPlain,Noppas's,200.0,Fish and Meat,Migros,2023-05-19
+331,397,9.–,  ASCShrimpsCooked,M-Classic,200.0,Fish and Meat,Migros,2023-05-19
+332,398,2.50,Chicken lower thighs,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+333,399,3.50,Pre-cooked pork Spare-RibsPrécuits,Anna's Best,100.0,Fish and Meat,Migros,2023-05-19
+334,401,10.90,  de GruyèresMarshal's baton,Spécialité Suisse,250.0,Fish and Meat,Migros,2023-05-19
+335,402,5.50,Coppa,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+336,404,12.50,Cuttlefish tentaclesCooked,Fruits de mer,200.0,Fish and Meat,Migros,2023-05-19
+337,406,2.80,  essentielMushroom terrine,Del Maître,100.0,Fish and Meat,Migros,2023-05-19
+338,408,8.95,Meat pie,M-Budget,550.0,Fish and Meat,Migros,2023-05-19
+339,409,3.50,IP-SUISSEBacon,unknown,100.0,Fish and Meat,Migros,2023-05-19
+340,410,7.50,  IGPSalame FelinoIGP,Fratelli Beretta,100.0,Fish and Meat,Migros,2023-05-19
+341,411,6.50,  SensationalFilet StripsAsian style soy-based,Garden Gourmet,160.0,Fish and Meat,Migros,2023-05-19
+342,412,8.20,  BioBresaola,Fratelli Beretta,80.0,Fish and Meat,Migros,2023-05-19
+343,413,3.95,  Le PrestigeHamNature,Del Maître,100.0,Fish and Meat,Migros,2023-05-19
+344,414,3.95,IP-SUISSEPierrade of meat,unknown,100.0,Fish and Meat,Migros,2023-05-19
+345,416,2.95,SticksClassic,Pure Nature,50.0,Fish and Meat,Migros,2023-05-19
+346,417,6.50,VunaBased on pea protein,Garden Gourmet,175.0,Fish and Meat,Migros,2023-05-19
+347,418,9.90,MSCWild salmon roe,unknown,60.0,Fish and Meat,Migros,2023-05-19
+348,419,7.70,  MSCShrimp cocktail,M-Classic,250.0,Fish and Meat,Migros,2023-05-19
+349,421,7.90,"  QuornEscalope with pepper and lemonPanée, préfrite, bien cuite, à base de Quorn, produit de champignon, destinée à être consommé cuit",Cornatur,440.0,Fish and Meat,Migros,2023-05-19
+350,422,6.30,NuggetsVegan,Cornatur,450.0,Fish and Meat,Migros,2023-05-19
+351,423,7.50,Kale BurgerWith rapeseed,Migros Bio,360.0,Fish and Meat,Migros,2023-05-19
+352,424,7.80,Falafel with a chickpea baseVegan,V-Love,360.0,Fish and Meat,Migros,2023-05-19
+353,428,9.60,Escalope de poulet,Don Pollo,780.0,Fish and Meat,Migros,2023-05-19
+354,430,3.30,Lyoner HamWith pistachios,M-Classic,150.0,Fish and Meat,Migros,2023-05-19
+355,435,5.55,Country smoked ham,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+356,436,7.90,"  QuornGrill pepper steakBien cuite, à base de Quorn, produit de champignon, destinée à être consommée cuite",Cornatur,390.0,Fish and Meat,Migros,2023-05-19
+357,437,2.50,Turkey cubes,Don Pollo,100.0,Fish and Meat,Migros,2023-05-19
+358,438,2.20,Turkey filet,Don Pollo,100.0,Fish and Meat,Migros,2023-05-19
+359,444,7.50,BioSmoked pork filetFumé,unknown,100.0,Fish and Meat,Migros,2023-05-19
+360,445,2.40,"IP-SUISSEShoulder Ham rolledFumé, cru",unknown,100.0,Fish and Meat,Migros,2023-05-19
+361,446,4.95,Horse Entrecôte,Horse Line,100.0,Fish and Meat,Migros,2023-05-19
+362,448,4.95,Roasting sausageWith chestnuts,Rapelli,180.0,Fish and Meat,Migros,2023-05-19
+363,449,5.90,BioRaw hamApéro,unknown,50.0,Fish and Meat,Migros,2023-05-19
+364,452,3.75,"Trout filletsWith pepper, smoked, ASC",M-Classic,125.0,Fish and Meat,Migros,2023-05-19
+365,455,2.95,Tofu Nature,Alnatura,400.0,Fish and Meat,Migros,2023-05-19
+366,457,3.20,Pork sausage,M-Classic,200.0,Fish and Meat,Migros,2023-05-19
+367,458,3.–,Saucisse extra,M-Budget,500.0,Fish and Meat,Migros,2023-05-19
+368,461,2.10,Sliced porkBreaded,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+369,462,5.50,Beef fillet,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+370,463,4.–,Beef entrecôte,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+371,464,4.–,Beef hoof steak,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+372,466,3.95,Beef hoof steak,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+373,467,5.95,Saucisson du Vully,unknown,230.0,Fish and Meat,Migros,2023-05-19
+374,468,8.60,  MSCPlaice filletsMSC,M-Classic,300.0,Fish and Meat,Migros,2023-05-19
+375,471,5.95,Saucisses à rôtir de porcMini Escargot,GrillMi,200.0,Fish and Meat,Migros,2023-05-19
+376,474,9.95,"Sushi - Salmon Masago RollsWith ginger, wasabi and soy sauce",Sushi Mania,205.0,Fish and Meat,Migros,2023-05-19
+377,475,11.50,"Sushi - SnackWith ginger, wasabi and soy sauce",Sushi Mania,185.0,Fish and Meat,Migros,2023-05-19
+378,478,7.70,Beef filet,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+379,479,3.20,IP-SUISSEVeal mince steak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+380,480,3.45,Emincé de poulet,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+381,481,3.40,Escalopes de poulet,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+382,482,1.05,Poulet épicé en sachet cuisson,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+383,483,3.65,Chicken Mini-FiletsQualité Suisse,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+384,487,6.95,  Meat & PlantsMinced beefWith vegetables,The Mix,400.0,Fish and Meat,Migros,2023-05-19
+385,490,1.60,IP-SUISSEPork ragout,unknown,100.0,Fish and Meat,Migros,2023-05-19
+386,491,8.90,Grilled chicken snailPaprika,GrillMi,400.0,Fish and Meat,Migros,2023-05-19
+387,499,5.90,IP-SUISSEHamburger de boeuf,unknown,200.0,Fish and Meat,Migros,2023-05-19
+388,502,7.90,  Wild / GibierVenison Entrecôte,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+389,506,5.65,  Wild / GibierEscalope of venison,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+390,510,4.90,Rustico SteakMarinées,GrillMi,230.0,Fish and Meat,Migros,2023-05-19
+391,511,3.50,Marinated chicken escalopeMarinated,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+392,514,4.60,  Wild / GibierDeer escalope,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+393,516,2.45,"Mixed grill with baconBeef, pork, cipollata, bacon",GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+394,517,14.75,Smoked salmon,Migros Bio,300.0,Fish and Meat,Migros,2023-05-19
+395,518,5.50,Chicken Meatballs,Optigal,240.0,Fish and Meat,Migros,2023-05-19
+396,521,3.50,Cheese hamSmoked,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+397,522,3.90,Chicken breast stripsCurry,Don Pollo,100.0,Fish and Meat,Migros,2023-05-19
+398,523,3.70,Chicken breastSmoked,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+399,525,4.50,  de GruyèresApero salami pearlsChorizo - mini,Spécialité Suisse,80.0,Fish and Meat,Migros,2023-05-19
+400,527,8.95,Dried meat,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+401,528,6.90,Hamburger,Migros Bio,230.0,Fish and Meat,Migros,2023-05-19
+402,531,1.60,Minced beef,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+403,532,9.50,  Le Bâton de Berger à croquerSaucisson sec pur porc,Justin Bridou,160.0,Fish and Meat,Migros,2023-05-19
+404,536,2.65,Marinated pork Spare-RibsMarinés,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+405,539,4.80,Chicken burger,Optigal,200.0,Fish and Meat,Migros,2023-05-19
+406,544,14.90,Easter pâtéWith morel,Rapelli,500.0,Fish and Meat,Migros,2023-05-19
+407,545,9.50,Marinated cuttlefishCooked,Fruits de mer,200.0,Fish and Meat,Migros,2023-05-19
+408,550,1.65,Meatloaf raw,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+409,551,2.25,Fricandeaux of beef,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+410,553,2.–,Beef ragout,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+411,557,3.90,Vegetable alternative to cold cuts spicyVegan,V-Love,100.0,Fish and Meat,Migros,2023-05-19
+412,558,2.95,Chicken Sticks,M-Classic,90.0,Fish and Meat,Migros,2023-05-19
+413,559,5.30,  MSCSuprême de cabillaud SkreiMSC - de pêche durable,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+414,561,2.30,  IP-SUISSESteak de porc marinéMexicaine,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+415,562,4.20,Mini skewersSafran - Paprika,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+416,568,8.90,Pork snails,GrillMi,440.0,Fish and Meat,Migros,2023-05-19
+417,570,3.10,  IP-SUISSEPork skewerMarinated,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+418,571,2.10,Ailerons de poulet paprika,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+419,573,11.50,IP-SUISSEVeal sausages for roasting,unknown,840.0,Fish and Meat,Migros,2023-05-19
+420,576,4.–,BernSaucisse du Seeland,unknown,120.0,Fish and Meat,Migros,2023-05-19
+421,577,3.95,MortadellaWith summer truffle,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+422,580,2.–,Ham from shoulder,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+423,582,2.95,Poitrine de poulet roulée,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+424,583,4.90,  CornaturPlant based Merguez,GrillMi,200.0,Fish and Meat,Migros,2023-05-19
+425,584,3.30,Lard paysanFumé,M-Budget,100.0,Fish and Meat,Migros,2023-05-19
+426,585,5.95,  CornaturVegetarian skewer,GrillMi,175.0,Fish and Meat,Migros,2023-05-19
+427,587,6.90,"  ASCShrimps Tail-onPeeled, cooked",Sélection,100.0,Fish and Meat,Migros,2023-05-19
+428,588,5.95,SalamettiAl Peperoncino Ticinese,Rapelli,140.0,Fish and Meat,Migros,2023-05-19
+429,589,3.20,Brochette de pangasiusRustico,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+430,590,3.10,  Gusto del SolSalsicha Ibérica,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+431,592,10.20,  Wild / GibierDried venison,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+432,593,8.40,"  Wild / GibierGame plateDeer jerky, smoked deer jerky, deer sausage",M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+433,594,5.20,  Wild / GibierDeer Salsiz,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+434,595,2.80,"IP-SUISSEHam walnutSmoked, mildly salted",unknown,100.0,Fish and Meat,Migros,2023-05-19
+435,596,14.90,Festive pâtéVeal,Rapelli,500.0,Fish and Meat,Migros,2023-05-19
+436,599,5.90,Beef ChipsPlain,unknown,85.0,Fish and Meat,Migros,2023-05-19
+437,600,1.85,Poulet JauneMarensin,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+438,602,5.50,Chicken chipsPlain,Optigal,80.0,Fish and Meat,Migros,2023-05-19
+439,603,6.60,  IP-SUISSEParisienne de boeufSalsa,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+440,604,2.95,  OptigalSteak de poulet Cowboy,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+441,605,12.–,Smoked Salmon,Migros Bio,260.0,Fish and Meat,Migros,2023-05-19
+442,607,4.80,Bündner RohschinkenWafer-thin,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+443,608,2.50,Vegetable Burger,Alnatura,210.0,Fish and Meat,Migros,2023-05-19
+444,612,5.95,IP-SUISSEToast topping,unknown,300.0,Fish and Meat,Migros,2023-05-19
+445,613,3.60,  ASCTrout filletsSmoked,M-Classic,125.0,Fish and Meat,Migros,2023-05-19
+446,616,8.95,Prosciutto cottoGran riserva,Specialità Italiana,100.0,Fish and Meat,Migros,2023-05-19
+447,620,7.55,  ASCTrout filletsSmoked,M-Classic,375.0,Fish and Meat,Migros,2023-05-19
+448,623,2.95,Chinese FondueChicken-Turkey,unknown,100.0,Fish and Meat,Migros,2023-05-19
+449,628,3.75,  OptigalBrochette de poulet fleurs d`étéMiel-lavande et fleurs de sureau,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+450,632,7.70,  IP-SUISSEBeef Burger XXL,GrillMi,300.0,Fish and Meat,Migros,2023-05-19
+451,635,4.70,Pork Saltimbocca,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+452,637,8.95,Appenzeller MostbröckliCoupé extra fin,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+453,638,2.60,"Fromage d'Italie cuit au fourAvec gelée, cuite",Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+454,644,3.30,"Grillades de volaillePoulet, dinde et cipollata de volaille",Grillmi,100.0,Fish and Meat,Migros,2023-05-19
+455,645,5.15,SalamiMilan,Citterio,100.0,Fish and Meat,Migros,2023-05-19
+456,646,5.15,SalamiRustico,Citterio,100.0,Fish and Meat,Migros,2023-05-19
+457,647,6.95,Salametti à l'ail des oursÀ l'ail des ours,Rapelli,180.0,Fish and Meat,Migros,2023-05-19
+458,648,3.30,Mini Chämi SchüfeliSmoked and cooked,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+459,653,4.70,Surimi Focks,Coraya,180.0,Fish and Meat,Migros,2023-05-19
+460,655,3.60,Chicken breast,M-Budget,200.0,Fish and Meat,Migros,2023-05-19
+461,656,4.10,Chorizo Chips,M-Classic,80.0,Fish and Meat,Migros,2023-05-19
+462,657,7.20,Minced meatVegan,Migros Bio,400.0,Fish and Meat,Migros,2023-05-19
+463,661,6.70,Crevettes «Yin & Yang»,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+464,664,4.95,BioChicken escalopeImport,unknown,100.0,Fish and Meat,Migros,2023-05-19
+465,665,3.50,  St. GallerSchüblig (farm sausage),M-Classic,185.0,Fish and Meat,Migros,2023-05-19
+466,666,7.90,Crispy TofuWith sweet chilli sauce,Migros Bio,440.0,Fish and Meat,Migros,2023-05-19
+467,667,7.90,Cordon vertVegetarian,Cornatur,520.0,Fish and Meat,Migros,2023-05-19
+468,674,7.20,Sushi Wrap Duo Pull.Chicken Peanuts,Sushi Mania,240.0,Fish and Meat,Migros,2023-05-19
+469,675,9.95,Sushi Veggie Rolls Mix,Sushi Mania,197.0,Fish and Meat,Migros,2023-05-19
+470,676,17.50,Sushi Maki Mix Family,Sushi Mania,373.0,Fish and Meat,Migros,2023-05-19
+471,677,9.95,Sushi Tuna Mediterran,Sushi Mania,189.0,Fish and Meat,Migros,2023-05-19
+472,678,7.30,Rice Sandwich Tuna,Sushi Mania,240.0,Fish and Meat,Migros,2023-05-19
+473,680,16.50,Sushi Yayoi,Sushi Mania,287.0,Fish and Meat,Migros,2023-05-19
+474,683,7.70,Rindhackfleisch IP-SUISSE,unknown,300.0,Fish and Meat,Migros,2023-05-19
+475,684,2.50,Rindshackfleisch,unknown,100.0,Fish and Meat,Migros,2023-05-19
+476,686,3.95,Qualivo Rind Voressen IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+477,690,8.95,Dry Aged Hohrücken IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+478,697,4.50,Entrecôte Angus,unknown,100.0,Fish and Meat,Migros,2023-05-19
+479,701,4.85,Kalbs Brustschnitte IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+480,717,2.30,Schweinskotelett IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+481,719,2.75,Schweinshuft,unknown,100.0,Fish and Meat,Migros,2023-05-19
+482,721,2.70,Schweinssteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+483,722,3.40,Schweinsplätzli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+484,723,6.95,Sommerrollen mit Lachs,Sushi Mania,150.0,Fish and Meat,Migros,2023-05-19
+485,731,4.70,Lammgigot IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+486,733,5.25,Lamm-Kräutersteak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+487,734,6.50,Hors Line Pferdefilet,Horse Line,100.0,Fish and Meat,Migros,2023-05-19
+488,735,3.60,Megaspiess Fortaleza,unknown,100.0,Fish and Meat,Migros,2023-05-19
+489,739,5.80,Rindshacksteak,unknown,200.0,Fish and Meat,Migros,2023-05-19
+490,740,2.95,Zitronenschnitzel IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+491,742,6.15,Festival Nr.,unknown,2100.0,Fish and Meat,Migros,2023-05-19
+492,744,6.95,Tradition Grillschnecken Bärlauch, Tradition – Charci,240.0,Fish and Meat,Migros,2023-05-19
+493,745,6.95, Grillschnecken Bärlauch,Tradition,240.0,Fish and Meat,Migros,2023-05-19
+494,746,2.–,Schweinsbratwurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+495,747,6.80,Bauernbratwurst ,unknown,280.0,Fish and Meat,Migros,2023-05-19
+496,748,4.95,Spezial Kalbsbratwurst IP-SUISSE,unknown,280.0,Fish and Meat,Migros,2023-05-19
+497,749,4.95,Broccoli-Käse Bratwurst,unknown,240.0,Fish and Meat,Migros,2023-05-19
+498,751,1.85,Luganighe,unknown,100.0,Fish and Meat,Migros,2023-05-19
+499,754,3.30,Cervelas IP-SUISSE,unknown,200.0,Fish and Meat,Migros,2023-05-19
+500,757,4.90,Frankfurterli ,unknown,240.0,Fish and Meat,Migros,2023-05-19
+501,758,4.70,Schweinswürstli ,unknown,240.0,Fish and Meat,Migros,2023-05-19
+502,759,7.95,Seeländerli,unknown,360.0,Fish and Meat,Migros,2023-05-19
+503,761,8.95,Schüblig,unknown,500.0,Fish and Meat,Migros,2023-05-19
+504,763,5.20,St. Galler Stumpen,Spécialité Suisse,260.0,Fish and Meat,Migros,2023-05-19
+505,764,5.50,Toggenburger Landwurst,Spécialité Suisse,220.0,Fish and Meat,Migros,2023-05-19
+506,766,6.60,Bauernwurst ,unknown,270.0,Fish and Meat,Migros,2023-05-19
+507,767,5.40,Oriental Special Rindfleischwurst,unknown,240.0,Fish and Meat,Migros,2023-05-19
+508,769,7.50,Saucisse avec Tête de Moine,unknown,200.0,Fish and Meat,Migros,2023-05-19
+509,771,2.40,Delikatess-Aufschnitt,unknown,100.0,Fish and Meat,Migros,2023-05-19
+510,773,3.70,Rheintaler Bauernwurst,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+511,775,3.10,Hinterschinken Schale klein IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+512,776,9.50,Kochschinken,unknown,110.0,Fish and Meat,Migros,2023-05-19
+513,777,4.20,Schinken paysanne,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+514,780,4.25,Beinschinken geschnitten,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+515,781,4.85,Gourmet Pantli,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+516,783,10.90,Salami Milano,Spécialité Suisse,300.0,Fish and Meat,Migros,2023-05-19
+517,784,5.45,Salami milano hauchdünn geschn.,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+518,786,5.95,Mini Hirtenstab,unknown,80.0,Fish and Meat,Migros,2023-05-19
+519,788,10.90,Trockenfleisch hauchdünn,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+520,789,10.70,Walliser Trockenfleisch geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+521,790,10.70,Walliser Trockenfleisch geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+522,791,7.05,Rohschinken Culatello,unknown,100.0,Fish and Meat,Migros,2023-05-19
+523,792,2.75,Rohschinken Anschnitte,unknown,100.0,Fish and Meat,Migros,2023-05-19
+524,794,6.70,Rohschinken Wallis geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+525,795,4.65,Pancetta geräucht Schale,unknown,100.0,Fish and Meat,Migros,2023-05-19
+526,798,8.15,Greyezerteller geschnitten,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+527,799,2.95,Kings Wagyu Jerky,unknown,25.0,Fish and Meat,Migros,2023-05-19
+528,801,6.55,Basler Bauernspeck IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+529,802,5.35,Filetto Schweinsnierstück geräucht,unknown,100.0,Fish and Meat,Migros,2023-05-19
+530,803,7.20,Tösstaler Goldschinken,unknown,100.0,Fish and Meat,Migros,2023-05-19
+531,806,3.35,Speckwürfeli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+532,808,2.55,Bohnenfleisch geräucht,unknown,100.0,Fish and Meat,Migros,2023-05-19
+533,809,2.25,Bohnenfleisch geräucht,unknown,100.0,Fish and Meat,Migros,2023-05-19
+534,810,3.20,Quick Rollschinken Tranchen IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+535,812,1.–,Blutwurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+536,813,1.20,Leberwurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+537,815,1.55,Rindskutteln,unknown,100.0,Fish and Meat,Migros,2023-05-19
+538,818,3.50,Rheintaler Speck hauchdünn,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+539,819,3.50,Rheintaler Speck,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+540,820,2.–,Bio Rindshackfleisch,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+541,821,2.50,Borsotto nostrano,unknown,100.0,Fish and Meat,Migros,2023-05-19
+542,825,3.85,Qualivo Rind Siedfleisch mager,unknown,100.0,Fish and Meat,Migros,2023-05-19
+543,828,4.95,Mini Basler Pastetli,unknown,120.0,Fish and Meat,Migros,2023-05-19
+544,831,6.85,Qualivo Rind Plätzli minute,unknown,100.0,Fish and Meat,Migros,2023-05-19
+545,832,5.75,Qualivo Rind Schultersteak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+546,833,8.95,Sélection Mini Terrine Safran,Migros Sélection,150.0,Fish and Meat,Migros,2023-05-19
+547,834,8.95, Mini Terrine Safran,Sélection,150.0,Fish and Meat,Migros,2023-05-19
+548,839,5.80,Bio Poulet Minifilets,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+549,842,8.90,Weiderind Entrecôte knochengereift,unknown,100.0,Fish and Meat,Migros,2023-05-19
+550,843,9.65,Qualivo Rind Entrecôte IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+551,844,2.85,Poulet Brustschnitzel,unknown,100.0,Fish and Meat,Migros,2023-05-19
+552,851,4.40,Kalbsbraten Schulter IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+553,854,9.–,Kalbsplätzli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+554,855,2.25,Pouletsteak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+555,856,8.25,Kalbskoteletten Dry Aged IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+556,859,3.60,Pouletbrust zack zack,unknown,100.0,Fish and Meat,Migros,2023-05-19
+557,864,2.50,Schweinshals-Braten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+558,865,1.10,IP-SUISSEPork neck,unknown,100.0,Fish and Meat,Migros,2023-05-19
+559,868,4.60,Entenfilet,unknown,100.0,Fish and Meat,Migros,2023-05-19
+560,871,4.20,Onigiri Chicken Teriyaki,Sushi Mania,110.0,Fish and Meat,Migros,2023-05-19
+561,872,7.50,Sushi Wrap Rauchlachs,Sushi Mania,240.0,Fish and Meat,Migros,2023-05-19
+562,874,3.50,Pork escalopesThin,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+563,876,12.95,Bio Sushi,Sushi Mania,204.0,Fish and Meat,Migros,2023-05-19
+564,880,6.95,Sommerrollen Krevett Sauce Sweet & Chili,Sushi Mania,150.0,Fish and Meat,Migros,2023-05-19
+565,885,2.–,Schweinssteak Hals IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+566,887,5.40,Schweinsfilet IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+567,888,6.10,Schweins Filetspiessli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+568,891,3.75,Alplammschulter IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+569,900,3.40,Fleischvogel IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+570,907,3.95,Schweinsbratwurst,unknown,220.0,Fish and Meat,Migros,2023-05-19
+571,909,2.45,Waadtländer Bratwurst,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+572,911,6.40,Bratwurst,unknown,500.0,Fish and Meat,Migros,2023-05-19
+573,912,2.30,Brätkügeli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+574,913,3.30,Siedwurst,unknown,200.0,Fish and Meat,Migros,2023-05-19
+575,915,3.30,Cervelas,unknown,200.0,Fish and Meat,Migros,2023-05-19
+576,916,4.20,Knacker,unknown,160.0,Fish and Meat,Migros,2023-05-19
+577,917,3.60,Glaner Rauchcervelas,unknown,230.0,Fish and Meat,Migros,2023-05-19
+578,919,4.90,Rinds-Bratwurst IP-SUISSE,unknown,180.0,Fish and Meat,Migros,2023-05-19
+579,920,4.95,Bernerli mit Käse ,unknown,200.0,Fish and Meat,Migros,2023-05-19
+580,921,6.80,St. Galler Schüblig,Spécialité Suisse,280.0,Fish and Meat,Migros,2023-05-19
+581,922,5.60,Toggenburger Landwurst,Spécialité Suisse,220.0,Fish and Meat,Migros,2023-05-19
+582,923,5.60,Entlebucherli,unknown,180.0,Fish and Meat,Migros,2023-05-19
+583,925,6.20,Bernerwurst,Spécialité Suisse,230.0,Fish and Meat,Migros,2023-05-19
+584,928,6.90,Bio Crevetten gekocht geschält,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+585,930,2.60,Fleischkäse mit Peperoni,unknown,100.0,Fish and Meat,Migros,2023-05-19
+586,932,4.80,Ofenfleischkäsli,unknown,180.0,Fish and Meat,Migros,2023-05-19
+587,933,4.55,Bauernschinken,unknown,100.0,Fish and Meat,Migros,2023-05-19
+588,935,6.90,Wander Knebeli ,Spécialité Suisse,180.0,Fish and Meat,Migros,2023-05-19
+589,936,5.70,Bio Apéro Salami mit Kräutern,Migros Bio,60.0,Fish and Meat,Migros,2023-05-19
+590,937,4.70,Salami du terroir,unknown,100.0,Fish and Meat,Migros,2023-05-19
+591,938,5.60,Walnuss Salami,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+592,939,3.95,Dauerwurst Jura,unknown,100.0,Fish and Meat,Migros,2023-05-19
+593,940,10.90,Greyerzer Rohwurst,Spécialité Suisse,250.0,Fish and Meat,Migros,2023-05-19
+594,942,9.95,Sushi Salmon & Cream Cheese,Sushi Mania,205.0,Fish and Meat,Migros,2023-05-19
+595,944,10.70,Walliser Trockenfleisch geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+596,947,6.15,Greyezer Platte geschnitten,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+597,948,4.95,Wild West Beef Jerky,unknown,70.0,Fish and Meat,Migros,2023-05-19
+598,949,4.95,Wild West Beef Jerky BBQ Honey,unknown,70.0,Fish and Meat,Migros,2023-05-19
+599,950,4.60,Bauernspeck,unknown,100.0,Fish and Meat,Migros,2023-05-19
+600,951,5.55,Heublumenspeck Luftgetrocknet,unknown,100.0,Fish and Meat,Migros,2023-05-19
+601,953,1.95,Speckwürfeli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+602,955,3.–,RollschinkliSmoked,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+603,956,1.20,Rahm-Blutwurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+604,958,6.70,Waadtländer Pastete,unknown,220.0,Fish and Meat,Migros,2023-05-19
+605,960,13.–,Trutengeschnetzeltes,unknown,500.0,Fish and Meat,Migros,2023-05-19
+606,961,7.20,Poulet Cordon-Bleu,unknown,260.0,Fish and Meat,Migros,2023-05-19
+607,962,15.90,MSC Wildlachsfilet Zitrone - Dill,unknown,255.0,Fish and Meat,Migros,2023-05-19
+608,963,4.10,ASC Graved Lachs,unknown,100.0,Fish and Meat,Migros,2023-05-19
+609,964,6.20,Sélection ASC Chili-Vanilli Shrimp,Migros Sélection,100.0,Fish and Meat,Migros,2023-05-19
+610,965,6.20, ASC Chili-Vanilli Shrimp,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+611,966,21.–,Austern mit Messer ,unknown,1500.0,Fish and Meat,Migros,2023-05-19
+612,967,5.50,Kalmar-Ringe,unknown,200.0,Fish and Meat,Migros,2023-05-19
+613,974,5.45,Qualivo Rind Geschnetzeltes,unknown,100.0,Fish and Meat,Migros,2023-05-19
+614,978,4.95,Qualivo Rind Schulterbraten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+615,982,7.90,Rinds Clubsteak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+616,987,5.75,Qualivo Rind Saftplätzli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+617,989,9.20,Rinds Entrecôte,unknown,100.0,Fish and Meat,Migros,2023-05-19
+618,990,7.80,Rinds Entrecôte,unknown,100.0,Fish and Meat,Migros,2023-05-19
+619,991,8.45,Argentino Steak marin. IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+620,995,7.20,Côte de boeuf Dry Aged IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+621,1000,9.45,Kalbsnierstück IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+622,1010,3.25,Schweins Cordon-Bleu IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+623,1026,4.20,Migros Spiess Schwein,unknown,100.0,Fish and Meat,Migros,2023-05-19
+624,1027,2.35,Bio Rinds-Burger,unknown,100.0,Fish and Meat,Migros,2023-05-19
+625,1028,3.50,Beefburger Dry Aged,unknown,100.0,Fish and Meat,Migros,2023-05-19
+626,1029,3.20,Fleischkugeln IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+627,1030,2.95,Bio Rindfleisch Balls,unknown,100.0,Fish and Meat,Migros,2023-05-19
+628,1033,3.10,Rinds-Hacksteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+629,1034,2.50,Schweins-Cipollata,unknown,100.0,Fish and Meat,Migros,2023-05-19
+630,1035,3.90,St. Galler Kalbsbratwurst,Spécialité Suisse,200.0,Fish and Meat,Migros,2023-05-19
+631,1037,5.95,Bratwurst,unknown,200.0,Fish and Meat,Migros,2023-05-19
+632,1038,5.80,Kräuter-Bratwurst,unknown,260.0,Fish and Meat,Migros,2023-05-19
+633,1039,4.80,Glarner-Schüblig,unknown,240.0,Fish and Meat,Migros,2023-05-19
+634,1040,1.90,Cotechini,unknown,100.0,Fish and Meat,Migros,2023-05-19
+635,1041,2.80,Salsiccia Schale,unknown,100.0,Fish and Meat,Migros,2023-05-19
+636,1043,8.90,Schweinsw rstli,unknown,510.0,Fish and Meat,Migros,2023-05-19
+637,1044,6.20,Emmentalerli,unknown,220.0,Fish and Meat,Migros,2023-05-19
+638,1045,5.30,Ratsherrenschüblig,unknown,240.0,Fish and Meat,Migros,2023-05-19
+639,1047,3.30,Basler Klöpfer,unknown,200.0,Fish and Meat,Migros,2023-05-19
+640,1048,5.50,Hong-Kong Würstli,unknown,240.0,Fish and Meat,Migros,2023-05-19
+641,1050,2.55,Saucisse d'Ajoie,unknown,100.0,Fish and Meat,Migros,2023-05-19
+642,1051,2.70,Jurawurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+643,1052,3.25,Saucisse Croquantes Ajoie,unknown,100.0,Fish and Meat,Migros,2023-05-19
+644,1054,5.80, Chümiwürstli ,Tradition,200.0,Fish and Meat,Migros,2023-05-19
+645,1055,2.60,Saucisson,unknown,100.0,Fish and Meat,Migros,2023-05-19
+646,1056,2.60,Ofenfleischkäse,unknown,100.0,Fish and Meat,Migros,2023-05-19
+647,1057,5.–,Sélection Prosciutto Kräuter IP-SUISSE,Migros Sélection,100.0,Fish and Meat,Migros,2023-05-19
+648,1058,5.–, Prosciutto Kräuter IP-SUISSE,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+649,1061,4.65,Saftschinken geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+650,1063,4.35,Krustenschinken geschnitten,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+651,1064,4.90,Wetterschmöckerli ,unknown,160.0,Fish and Meat,Migros,2023-05-19
+652,1065,9.90,Basler Bauernschüblig,unknown,300.0,Fish and Meat,Migros,2023-05-19
+653,1067,6.50,Rauchknebeli,Spécialité Suisse,150.0,Fish and Meat,Migros,2023-05-19
+654,1068,4.75,Bündnersalsiz geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+655,1069,9.10,Eringerwurst,unknown,200.0,Fish and Meat,Migros,2023-05-19
+656,1070,5.10,Engelbergerwurst geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+657,1071,9.90,Saucisse geante Valais cherm,unknown,250.0,Fish and Meat,Migros,2023-05-19
+658,1072,4.40,Salami Triangoli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+659,1075,8.90,Trockenfleisch Eckstück Schale,unknown,100.0,Fish and Meat,Migros,2023-05-19
+660,1077,6.90,Rohschinken geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+661,1078,6.70,Walliser Rohschinken geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+662,1079,6.70,Rohschinken Greyerzer Schale,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+663,1080,6.75,Rohschinken hauchdünn,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+664,1081,6.70,Rohschinken Wallis geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+665,1082,5.55,Trockenspeck geschnitten,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+666,1083,9.20,Walliser Platte geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+667,1084,6.95, Beef Jerky Sweet & Hot,Jack Link's,70.0,Fish and Meat,Migros,2023-05-19
+668,1085,5.–,Bauernspeck Schale,unknown,100.0,Fish and Meat,Migros,2023-05-19
+669,1086,4.30,Chämispeck,unknown,100.0,Fish and Meat,Migros,2023-05-19
+670,1087,7.25,Landrauchschinken IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+671,1088,6.20,Wyl Landrauchschinken,unknown,100.0,Fish and Meat,Migros,2023-05-19
+672,1089,3.20,Bratspeck IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+673,1092,2.50,Kochspeck geräuchert,unknown,100.0,Fish and Meat,Migros,2023-05-19
+674,1093,2.–,Kochspeck geräuchert,unknown,100.0,Fish and Meat,Migros,2023-05-19
+675,1095,2.20,Speck geräucht und gesalzen,unknown,100.0,Fish and Meat,Migros,2023-05-19
+676,1096,1.20,Rahmblutwurst & Leberwurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+677,1098,1.65,Schweins-Wädli gekocht ohne Bein,unknown,100.0,Fish and Meat,Migros,2023-05-19
+678,1101,1.10,Opitgal Poulet,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+679,1106,3.45,Qualivo Rind Siedfleisch durchz.,unknown,100.0,Fish and Meat,Migros,2023-05-19
+680,1111,8.50,Qualivo Rind Hohrückensteak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+681,1112,6.–,Rindsplätzli a la Minute,unknown,100.0,Fish and Meat,Migros,2023-05-19
+682,1114,6.65,Qualivo Rind Platzli minute mar.,unknown,100.0,Fish and Meat,Migros,2023-05-19
+683,1115,5.30,Rindsplätzli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+684,1116,6.90,Rindstatar,unknown,100.0,Fish and Meat,Migros,2023-05-19
+685,1117,7.60,Rinds Clubsteak knochengereift,unknown,100.0,Fish and Meat,Migros,2023-05-19
+686,1118,5.50,Fondue Bourguignonne,unknown,100.0,Fish and Meat,Migros,2023-05-19
+687,1124,3.70,Poulet Schnitzel,unknown,100.0,Fish and Meat,Migros,2023-05-19
+688,1125,2.60,Wachteln ,St. Sever,100.0,Fish and Meat,Migros,2023-05-19
+689,1126,1.95,Perlhuhn,St. Sever,100.0,Fish and Meat,Migros,2023-05-19
+690,1127,5.50,Entenflügel,unknown,100.0,Fish and Meat,Migros,2023-05-19
+691,1131,5.80,Chicken Nuggets,unknown,250.0,Fish and Meat,Migros,2023-05-19
+692,1132,9.90,Rindsfilet IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+693,1133,5.40,Kalbsgeschnetzeltes IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+694,1136,8.85,Kalbs-Zitronen-Steak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+695,1149,9.50,Octopus Carpaccio,unknown,100.0,Fish and Meat,Migros,2023-05-19
+696,1151,4.40,MSC Heringsfilets Bismark,unknown,400.0,Fish and Meat,Migros,2023-05-19
+697,1160,5.50,Lammkoteletten IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+698,1163,4.60,Wapiti Steak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+699,1168,2.65,Hamburger,unknown,100.0,Fish and Meat,Migros,2023-05-19
+700,1169,3.20,Bio Rindshacksteak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+701,1170,4.50,Aareburger,unknown,200.0,Fish and Meat,Migros,2023-05-19
+702,1171,6.35,AdR R-Chili Burger ,unknown,240.0,Fish and Meat,Migros,2023-05-19
+703,1172,6.35,Rindshamburger,unknown,240.0,Fish and Meat,Migros,2023-05-19
+704,1173,1.85,Kalbsbrät IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+705,1175,1.85,Pizza Fleischkäse roh,unknown,100.0,Fish and Meat,Migros,2023-05-19
+706,1176,1.75,Fleischkäse IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+707,1179,3.50,Barbecue Steak mariniert IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+708,1181,6.95,Bauernbratwurst,unknown,220.0,Fish and Meat,Migros,2023-05-19
+709,1183,1.80, Schweinsbratwurst,Tradition,100.0,Fish and Meat,Migros,2023-05-19
+710,1184,2.85,Grillschnecken Mix,unknown,100.0,Fish and Meat,Migros,2023-05-19
+711,1185,4.95,Kalbsbratwurst Spezial IP-SUISSE,unknown,280.0,Fish and Meat,Migros,2023-05-19
+712,1187,5.80,Pizza Bratwurst,unknown,180.0,Fish and Meat,Migros,2023-05-19
+713,1189,3.–,Glarner Chäswürstli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+714,1190,8.95,Glarner-Kalberwurst,unknown,400.0,Fish and Meat,Migros,2023-05-19
+715,1191,8.95,Kalberwurst past ,unknown,400.0,Fish and Meat,Migros,2023-05-19
+716,1193,3.90,Wienerli,unknown,200.0,Fish and Meat,Migros,2023-05-19
+717,1194,3.95,Wienerli,unknown,200.0,Fish and Meat,Migros,2023-05-19
+718,1195,3.95,Fürstländer Schweinswürstli,unknown,160.0,Fish and Meat,Migros,2023-05-19
+719,1196,6.90,Augustiner Schüblig,unknown,310.0,Fish and Meat,Migros,2023-05-19
+720,1197,6.40,Spezial Stumpen ,Spécialité Suisse,320.0,Fish and Meat,Migros,2023-05-19
+721,1198,5.90,Schwyzer Chäswürstli,unknown,240.0,Fish and Meat,Migros,2023-05-19
+722,1199,5.75,Engadiner Hauswurst ,Spécialité Suisse,260.0,Fish and Meat,Migros,2023-05-19
+723,1201,4.50,Saucisson gekocht,unknown,100.0,Fish and Meat,Migros,2023-05-19
+724,1202,6.80,Schwartenwurst,unknown,320.0,Fish and Meat,Migros,2023-05-19
+725,1203,2.70,Neuenburger Saucisson,unknown,100.0,Fish and Meat,Migros,2023-05-19
+726,1204,6.70,Neuenburger Wurst,unknown,230.0,Fish and Meat,Migros,2023-05-19
+727,1205,1.60,Fleischkäse,unknown,100.0,Fish and Meat,Migros,2023-05-19
+728,1208,4.85,Wyländer Bauernschinken,unknown,100.0,Fish and Meat,Migros,2023-05-19
+729,1211,5.60,Appenzeller Pantli,Spécialité Suisse,140.0,Fish and Meat,Migros,2023-05-19
+730,1214,4.90,Apéro Pfefferwurst mini,unknown,80.0,Fish and Meat,Migros,2023-05-19
+731,1216,7.85,Salsiz ,unknown,285.0,Fish and Meat,Migros,2023-05-19
+732,1219,4.25,Pferdetrockenwurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+733,1221,11.20,Trockenfleisch hauchdünn geschn.,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+734,1222,7.50,Sélection Schweinsfilet Surchoix,Migros Sélection,100.0,Fish and Meat,Migros,2023-05-19
+735,1223,7.50, Schweinsfilet Surchoix,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+736,1224,7.60,Hobelfleisch Schale,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+737,1225,6.10,Heublumenrohschinken,unknown,100.0,Fish and Meat,Migros,2023-05-19
+738,1227,5.90,Presunto Portugues,unknown,100.0,Fish and Meat,Migros,2023-05-19
+739,1228,2.90, Beef Jerky Original,Jack Link's,25.0,Fish and Meat,Migros,2023-05-19
+740,1229,2.90,Jack LInk's Beef Jerky Teriyaki,unknown,25.0,Fish and Meat,Migros,2023-05-19
+741,1230,8.30,Mostbröckli Schale,unknown,100.0,Fish and Meat,Migros,2023-05-19
+742,1232,6.30,Wyl Zvieriplättli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+743,1233,5.95,Wyländer Rauchmöckli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+744,1234,5.95,Wyl Rauchmöckli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+745,1235,2.65,Schüfeli geräuchert,unknown,100.0,Fish and Meat,Migros,2023-05-19
+746,1236,1.55,Wädli gesalzen und geräucht,unknown,100.0,Fish and Meat,Migros,2023-05-19
+747,1237,1.60,Blutwurst ,unknown,100.0,Fish and Meat,Migros,2023-05-19
+748,1238,1.80,Rahmblutwurst mit Lauch,unknown,100.0,Fish and Meat,Migros,2023-05-19
+749,1241,3.40,Siedfleisch in Sulz gekocht,unknown,100.0,Fish and Meat,Migros,2023-05-19
+750,1242,3.–,Rheintaler Speck,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+751,1248,1.50,Poulet-Flügel,Optigal,100.0,Fish and Meat,Migros,2023-05-19
+752,1249,4.55,Truthahnplätzli fein,unknown,100.0,Fish and Meat,Migros,2023-05-19
+753,1250,3.95,Sélection Wachtel Brust & Schenkel,Migros Sélection,100.0,Fish and Meat,Migros,2023-05-19
+754,1251,3.95, Wachtel Brust & Schenkel,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+755,1253,5.80,Pouletschnitzel paniert,unknown,200.0,Fish and Meat,Migros,2023-05-19
+756,1255,10.95,MSC Wildlachs Coho,unknown,100.0,Fish and Meat,Migros,2023-05-19
+757,1256,6.20,Miesmuschelsalat,unknown,150.0,Fish and Meat,Migros,2023-05-19
+758,1257,4.10,Apéro Rohessspeck,unknown,50.0,Fish and Meat,Migros,2023-05-19
+759,1258,2.65,Fleischkäse,unknown,100.0,Fish and Meat,Migros,2023-05-19
+760,1259,4.95,BaconVegan,La Vie,150.0,Fish and Meat,Migros,2023-05-19
+761,1260,1.80,Schweinsnierstück IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+762,1261,7.45,MSC Dorschfilet,unknown,390.0,Fish and Meat,Migros,2023-05-19
+763,1262,3.10,Sulzbecher mit Aufschnitt,unknown,180.0,Fish and Meat,Migros,2023-05-19
+764,1263,4.95,Mediterranean piecesVegan,Heura,160.0,Fish and Meat,Migros,2023-05-19
+765,1264,4.95,NuggetsVegan,Heura,180.0,Fish and Meat,Migros,2023-05-19
+766,1265,4.95,Plant-based spicy sausage,Heura,216.0,Fish and Meat,Migros,2023-05-19
+767,1266,4.50,Plant-based sausageVegan,V-Love,200.0,Fish and Meat,Migros,2023-05-19
+768,1268,4.90,Bio Grill mi Plant-Based Cipollata,Migros Bio,200.0,Fish and Meat,Migros,2023-05-19
+769,1269,14.85,SwissShrimps,unknown,100.0,Fish and Meat,Migros,2023-05-19
+770,1272,4.95,  IP-SUISSECountry ham,Traditon,100.0,Fish and Meat,Migros,2023-05-19
+771,1275,6.15,Entrecôte IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+772,1276,2.40,Schweinsplätzli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+773,1277,3.90,Duo Pack Cervelas,M-Classic,400.0,Fish and Meat,Migros,2023-05-19
+774,1279,9.85,SwissShrimps,unknown,100.0,Fish and Meat,Migros,2023-05-19
+775,1280,2.10,Schweinshohrücken IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+776,1289,4.20,Onigiri Tuna,Sushi Mania,110.0,Fish and Meat,Migros,2023-05-19
+777,1290,5.60,Kalbsgeschnetzeltes IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+778,1292,1.80,Kalbshackfleisch IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+779,1294,9.40,Sashimi Lachs am Stück,unknown,140.0,Fish and Meat,Migros,2023-05-19
+780,1295,4.40,Kalbsbraten IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+781,1296,2.10,Pilatussteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+782,1299,2.–,Schweinsbraten IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+783,1303,11.50,Kalbs-Bratwurst IP-SUISSE,unknown,840.0,Fish and Meat,Migros,2023-05-19
+784,1304,4.10,Forellenfilets ohne Haut,unknown,100.0,Fish and Meat,Migros,2023-05-19
+785,1308,2.65,Merguez roh,unknown,100.0,Fish and Meat,Migros,2023-05-19
+786,1310,7.50,Bio Lachs-Crevetten Spiess,unknown,100.0,Fish and Meat,Migros,2023-05-19
+787,1312,1.85,Kalbsbrät IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+788,1313,5.50,Hamburger IP-SUISSE,unknown,220.0,Fish and Meat,Migros,2023-05-19
+789,1314,2.75,Fackelspiess IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+790,1315,5.90,Nidwaldner Chämimeckli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+791,1316,4.10,Siedfleisch Sulz Schale,unknown,100.0,Fish and Meat,Migros,2023-05-19
+792,1318,7.90,Kalbsbratwurst ,unknown,400.0,Fish and Meat,Migros,2023-05-19
+793,1319,3.20,"Rippli geräuchert, gekocht",unknown,100.0,Fish and Meat,Migros,2023-05-19
+794,1322,5.10,Kalbssteak Hals IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+795,1323,1.40,Rollschinken geräucht,unknown,100.0,Fish and Meat,Migros,2023-05-19
+796,1326,4.70,Pfeffersteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+797,1330,2.75,Schweinsplätzli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+798,1332,2.10,Pilatussteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+799,1336,11.–,Salatwurst,unknown,600.0,Fish and Meat,Migros,2023-05-19
+800,1338,2.80,Kalbs Spare Ribs,unknown,100.0,Fish and Meat,Migros,2023-05-19
+801,1339,4.50,Seeländer Krustenschinken,unknown,100.0,Fish and Meat,Migros,2023-05-19
+802,1340,2.40,Siedfleisch IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+803,1341,1.60,Fleischkäse Delikatesse IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+804,1344,11.–,Planted.SkewersVegan,unknown,400.0,Fish and Meat,Migros,2023-05-19
+805,1347,9.50,Planted.Pea protein chickenVegan,unknown,350.0,Fish and Meat,Migros,2023-05-19
+806,1349,2.65,Fleischkäse Cordon-Bleu IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+807,1351,6.–,Rindshuftsteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+808,1352,4.45,Qualivo Kalbs Meatballs,unknown,100.0,Fish and Meat,Migros,2023-05-19
+809,1354,6.50,Bacon cubesSmoked,Migros Bio,240.0,Fish and Meat,Migros,2023-05-19
+810,1356,7.80,ASC MSC Meeresfrüchte Mix,unknown,200.0,Fish and Meat,Migros,2023-05-19
+811,1357,7.90,Poulet Nuggets,unknown,250.0,Fish and Meat,Migros,2023-05-19
+812,1359,8.90,Kalbssteak Terrasuisse,unknown,100.0,Fish and Meat,Migros,2023-05-19
+813,1362,1.90,Schweinshackfleisch IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+814,1363,20.95,Rehschnitzel,unknown,350.0,Fish and Meat,Migros,2023-05-19
+815,1364,16.50,Hirsch-Medaillons,unknown,400.0,Fish and Meat,Migros,2023-05-19
+816,1366,16.50,Wildschweinsteak,unknown,400.0,Fish and Meat,Migros,2023-05-19
+817,1367,7.50,Trio vom Wild Hirsch/Reh/Wildschw.,unknown,180.0,Fish and Meat,Migros,2023-05-19
+818,1368,4.30,Rehrücken,unknown,100.0,Fish and Meat,Migros,2023-05-19
+819,1369,3.50,Rindsbraten IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+820,1373,5.50,Tofu with truffles,Sélection,230.0,Fish and Meat,Migros,2023-05-19
+821,1374,1.95,Plätzli paniert IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+822,1375,3.05,ASC Fisch Cordon-Bleu,unknown,100.0,Fish and Meat,Migros,2023-05-19
+823,1380,7.90,Schweinsbratwurst,unknown,560.0,Fish and Meat,Migros,2023-05-19
+824,1383,5.20,Riesenklöpfer ,unknown,300.0,Fish and Meat,Migros,2023-05-19
+825,1386,2.50,Schinken Fleischkäse,unknown,100.0,Fish and Meat,Migros,2023-05-19
+826,1389,6.90,Bockwürstli past Terrasuisse,unknown,260.0,Fish and Meat,Migros,2023-05-19
+827,1392,6.55,Landrauchschinken IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+828,1393,6.45,Landrauchschinken IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+829,1394,5.25,Berg-Kräuterspeck,unknown,100.0,Fish and Meat,Migros,2023-05-19
+830,1395,5.85,Hobelfleisch Anschnitte Schale,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+831,1396,6.80,Bio Salami,unknown,100.0,Fish and Meat,Migros,2023-05-19
+832,1397,9.50,Rindsfilet IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+833,1403,4.50,Jägerplätzli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+834,1404,2.80,Ländersteak,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+835,1408,7.70,Kalbs-Cipollatta,unknown,250.0,Fish and Meat,Migros,2023-05-19
+836,1410,3.60,Ofenbraten geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+837,1412,4.40,Bureschinken geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+838,1413,3.–,Bergsteigerwurst geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+839,1415,3.90,Emmentaler Rauchsalami geschnitten,Spécialité Suisse,100.0,Fish and Meat,Migros,2023-05-19
+840,1417,2.50,Fleischkäse geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+841,1419,5.–,Schweinsbraten geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+842,1421,2.60,Fleischkäse Paprika geschnitten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+843,1425,3.90,Mixed Grill IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+844,1426,1.95,Fackelrolle IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+845,1430,4.40,Alplamm Schulter IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+846,1431,4.70,Alplammgigot IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+847,1432,2.90,Kalbsbrust gerollt IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+848,1435,5.95,Forellenfilets geräuchert,unknown,100.0,Fish and Meat,Migros,2023-05-19
+849,1440,10.80,Wienerli,unknown,2000.0,Fish and Meat,Migros,2023-05-19
+850,1441,6.95,Salami Milano,unknown,300.0,Fish and Meat,Migros,2023-05-19
+851,1442,4.10,Bauernwurst,unknown,100.0,Fish and Meat,Migros,2023-05-19
+852,1446,2.85,Schweins Huftsteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+853,1447,1.90,Schweinshackfleisch IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+854,1448,2.50,Schweinsstotzenbraten IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+855,1450,4.30,Rindsjägerschnitzel IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+856,1451,8.30,Rinds Porterhous Steak,unknown,100.0,Fish and Meat,Migros,2023-05-19
+857,1454,7.85,Kalbs Cordon-Bleu IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+858,1460,5.50,Party Lammfilet mit Speck,unknown,100.0,Fish and Meat,Migros,2023-05-19
+859,1464,2.50,Schweinskoteletten mit Käse,unknown,100.0,Fish and Meat,Migros,2023-05-19
+860,1467,3.20,Bärlauchsteak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+861,1473,3.40,Schweins Cordon Bleu Innerschwyz,unknown,100.0,Fish and Meat,Migros,2023-05-19
+862,1474,3.40,Schwinger Schweins Cordon Bleu,unknown,100.0,Fish and Meat,Migros,2023-05-19
+863,1475,3.40,Älpler Schweins Cordon Bleu,unknown,100.0,Fish and Meat,Migros,2023-05-19
+864,1476,3.40,Cordon Bleu IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+865,1477,5.40,Kalbfleisch Spiess IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+866,1478,2.–,Schweins Grillrippe mariniert IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+867,1479,1.90,Schweins Grillrippe IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+868,1481,6.75,ASC Lachsrücken gefüllt,unknown,100.0,Fish and Meat,Migros,2023-05-19
+869,1482,2.80,Kaiserbraten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+870,1483,3.70,Poulet Thai Curry,unknown,100.0,Fish and Meat,Migros,2023-05-19
+871,1485,3.45,Pouletspiessli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+872,1487,5.40,Felchenfilets,unknown,100.0,Fish and Meat,Migros,2023-05-19
+873,1488,2.90,ASC Fischstroganoff,unknown,100.0,Fish and Meat,Migros,2023-05-19
+874,1489,5.40,Schweinsbratwurst IP-SUISSE,unknown,300.0,Fish and Meat,Migros,2023-05-19
+875,1490,2.25,Speckwürfeli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+876,1493,3.40,Rindsbraten IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+877,1494,6.80,Mini Poulet Cordon-Bleu,unknown,180.0,Fish and Meat,Migros,2023-05-19
+878,1495,19.50,Premium Sushi Lachs,unknown,180.0,Fish and Meat,Migros,2023-05-19
+879,1496,18.50,Premium Sushi Tuna,unknown,180.0,Fish and Meat,Migros,2023-05-19
+880,1497,13.80,Sushi Sapporo,unknown,922.0,Fish and Meat,Migros,2023-05-19
+881,1498,6.20,Cipollata,unknown,250.0,Fish and Meat,Migros,2023-05-19
+882,1499,5.90,Solothurnerli mit Tête de Moine,unknown,320.0,Fish and Meat,Migros,2023-05-19
+883,1500,2.95,Saucisson Aufschnitt,unknown,100.0,Fish and Meat,Migros,2023-05-19
+884,1502,12.95,Jamón Pata Negra,unknown,70.0,Fish and Meat,Migros,2023-05-19
+885,1503,8.95,Tapas Ibericas,unknown,100.0,Fish and Meat,Migros,2023-05-19
+886,1507,6.95,Lamb fillet,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+887,1508,7.40,Lamb rack,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+888,1509,9.90,  IP-SUISSEEntrecôte of beefMarinated with black garlic,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+889,1512,6.50,Schweinsbratwurst IP-SUISSE,unknown,360.0,Fish and Meat,Migros,2023-05-19
+890,1513,2.70,Spezial Kalbsbratwurst IP-SUISSE,unknown,140.0,Fish and Meat,Migros,2023-05-19
+891,1514,2.30,Fleischkäse Delikatesse IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+892,1516,7.95,Bio Poulet Hacksteak,Migros Bio,180.0,Fish and Meat,Migros,2023-05-19
+893,1517,3.50,Vegi Aufschnitt,unknown,120.0,Fish and Meat,Migros,2023-05-19
+894,1519,2.95,Chicken breast,Don Pollo,200.0,Fish and Meat,Migros,2023-05-19
+895,1524,4.95,Sélection Tofu Rosa Pfeffer,Migros Sélection,230.0,Fish and Meat,Migros,2023-05-19
+896,1525,4.95, Tofu Rosa Pfeffer,Sélection,230.0,Fish and Meat,Migros,2023-05-19
+897,1526,6.50, Bio Chunks Teriyaki - Vegan,Luya,175.0,Fish and Meat,Migros,2023-05-19
+898,1527,4.50,  IP-SUISSECooked hamWith bear garlic,Tradition,120.0,Fish and Meat,Migros,2023-05-19
+899,1532,2.–,Tradition Presskopf, Tradition – Charci,100.0,Fish and Meat,Migros,2023-05-19
+900,1533,2.–, Presskopf,Tradition,100.0,Fish and Meat,Migros,2023-05-19
+901,1534,4.50,Tradition Saftschinken Pfeffer, Tradition – Charci,120.0,Fish and Meat,Migros,2023-05-19
+902,1535,4.50, Saftschinken Pfeffer,Tradition,120.0,Fish and Meat,Migros,2023-05-19
+903,1536,4.50,Tradition Saftschin. Tomaten Basilikum, Tradition – Charci,120.0,Fish and Meat,Migros,2023-05-19
+904,1537,4.50, Saftschin. Tomaten Basilikum,Tradition,120.0,Fish and Meat,Migros,2023-05-19
+905,1538,5.95,BioJambon ramoneurSmoked,unknown,120.0,Fish and Meat,Migros,2023-05-19
+906,1539,3.95,Tradition Saftschinken IP-SUISSE, Tradition – Charci,120.0,Fish and Meat,Migros,2023-05-19
+907,1540,3.95, Saftschinken IP-SUISSE,Tradition,120.0,Fish and Meat,Migros,2023-05-19
+908,1541,4.50,Tradition Saftschinken Chili, Tradition – Charci,120.0,Fish and Meat,Migros,2023-05-19
+909,1542,4.50, Saftschinken Chili,Tradition,120.0,Fish and Meat,Migros,2023-05-19
+910,1546,4.20,Winzerschinken IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+911,1547,4.95,Ofenfleischkäse IP-SUISSE,unknown,150.0,Fish and Meat,Migros,2023-05-19
+912,1548,1.75,Fleischkäse IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+913,1549,4.25,Schweins Chinoise IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+914,1551,2.60,Tradition Ofenfleischkäse, Tradition – Charci,100.0,Fish and Meat,Migros,2023-05-19
+915,1552,2.60, Ofenfleischkäse,Tradition,100.0,Fish and Meat,Migros,2023-05-19
+916,1560,5.20,Bio Rügenwalder Teewurst fein,unknown,125.0,Fish and Meat,Migros,2023-05-19
+917,1561,2.95,Tradition Mini Landjäger, Tradition – Charci,100.0,Fish and Meat,Migros,2023-05-19
+918,1562,2.95, Mini Landjäger,Tradition,100.0,Fish and Meat,Migros,2023-05-19
+919,1563,2.40,Regenbogenforelle,unknown,100.0,Fish and Meat,Migros,2023-05-19
+920,1565,5.20,Bio Rügenwalder Teewurst grob,unknown,125.0,Fish and Meat,Migros,2023-05-19
+921,1566,6.25,Schweinsfilet-Würfel pikant,unknown,100.0,Fish and Meat,Migros,2023-05-19
+922,1568,2.85,Kochspeck mager,unknown,100.0,Fish and Meat,Migros,2023-05-19
+923,1570,5.50,Rusticospiessli IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+924,1572,3.80,Fleischspiess,unknown,100.0,Fish and Meat,Migros,2023-05-19
+925,1573,5.95,Rauchknebeli,Spécialité Suisse,150.0,Fish and Meat,Migros,2023-05-19
+926,1574,17.50,Sennenbraten mit Käse,unknown,550.0,Fish and Meat,Migros,2023-05-19
+927,1575,6.35,Bresaola,unknown,100.0,Fish and Meat,Migros,2023-05-19
+928,1576,5.50,Kaiser Steak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+929,1578,8.50,Rindsfilet,unknown,100.0,Fish and Meat,Migros,2023-05-19
+930,1579,4.05,Rindsbraten,unknown,100.0,Fish and Meat,Migros,2023-05-19
+931,1580,4.50,Kräuterspeck IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+932,1582,6.10,Rindsgeschnetzeltes IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+933,1584,2.60,Lachsforelle ganz,unknown,100.0,Fish and Meat,Migros,2023-05-19
+934,1585,9.60,Hirsch Bresaola,unknown,100.0,Fish and Meat,Migros,2023-05-19
+935,1586,3.90,Hackfleisch im Teig,unknown,100.0,Fish and Meat,Migros,2023-05-19
+936,1587,4.30,Bauernspeck IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+937,1588,5.60,Appenzeller Pantli,Spécialité Suisse,140.0,Fish and Meat,Migros,2023-05-19
+938,1589,6.–,Bio Salametti ,Migros Bio,140.0,Fish and Meat,Migros,2023-05-19
+939,1590,11.–,Mostbröckli Black Angus,unknown,100.0,Fish and Meat,Migros,2023-05-19
+940,1591,4.95,Vegi Balls,unknown,200.0,Fish and Meat,Migros,2023-05-19
+941,1593,11.–,Bio Crevetten gekocht geschält,unknown,110.0,Fish and Meat,Migros,2023-05-19
+942,1594,2.50,  IP-SUISSEPork ribeye steakBlack garlic,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+943,1596,2.50,  IP-SUISSEPork ribeye steakWith pepper,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+944,1598,6.90,Sélection ASC Riesencrevetten,Migros Sélection,100.0,Fish and Meat,Migros,2023-05-19
+945,1599,6.90, ASC Riesencrevetten,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+946,1600,5.95,Bio Salsiccia,unknown,180.0,Fish and Meat,Migros,2023-05-19
+947,1602,3.55,Rinds Flat Iron Steak IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+948,1604,2.50,Kalbsfleischwurst, Tradition – Charci,90.0,Fish and Meat,Migros,2023-05-19
+949,1605,14.95,Juicy Marbles Thick-Cut Filet,unknown,226.0,Fish and Meat,Migros,2023-05-19
+950,1609,5.90,Rindsspiess mariniert IP-SUISSE,unknown,100.0,Fish and Meat,Migros,2023-05-19
+951,1610,5.90,Cervelas IP-SUISSE,unknown,400.0,Fish and Meat,Migros,2023-05-19
+952,1611,8.50,Andutgel Bündnersalsiz,unknown,200.0,Fish and Meat,Migros,2023-05-19
+953,1612,9.25,Mostbröckli,unknown,100.0,Fish and Meat,Migros,2023-05-19
+954,1614,3.20,IP-SUISSEPork Plaetzli leanBreaded - ,unknown,100.0,Fish and Meat,Migros,2023-05-19
+955,1615,2.90,Mini Pork cordon bleuRaclette,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+956,1617,9.20,"Sushi - Maki MixWith ginger, wasabi and soy sauce",Sushi Mania,197.0,Fish and Meat,Migros,2023-05-19
+957,1618,2.95,"IP-SUISSEMini SchüfeliSmoked, cooked",unknown,100.0,Fish and Meat,Migros,2023-05-19
+958,1619,10.95,Poke BowlSalmon & Zukedon sauce,Sushi Mania,325.0,Fish and Meat,Migros,2023-05-19
+959,1620,12.50,"Sushi - Nigiri ClassicWith ginger, wasabi and soy sauce",Sushi Mania,181.0,Fish and Meat,Migros,2023-05-19
+960,1621,10.95,  MSCMussels cookedWith garlic,M-Classic,760.0,Fish and Meat,Migros,2023-05-19
+961,1622,3.90,Dry bacon with herbs,Migros Bio,50.0,Fish and Meat,Migros,2023-05-19
+962,1623,11.95,Poke BowlTuna & Yamakake sauce,Sushi Mania,330.0,Fish and Meat,Migros,2023-05-19
+963,1624,9.90,Irish Entrecôte of beef,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+964,1626,4.50,  GrillMi ASCGarlic prawnsÀ l'ail,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+965,1628,3.50,Pork cordon bleu,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+966,1629,3.50,Pre-cooked beef asadoPrécuit,Anna's Best,100.0,Fish and Meat,Migros,2023-05-19
+967,1630,6.–,Lamb filet,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+968,1633,1.50,Veggie Salami,Alnatura,50.0,Fish and Meat,Migros,2023-05-19
+969,1634,5.50,Ticino Plate,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+970,1635,2.95,SticksChili,Pure Nature,50.0,Fish and Meat,Migros,2023-05-19
+971,1637,4.50,  de GruyèresApero salami pearlsPlain - mini,Spécialité Suisse,80.0,Fish and Meat,Migros,2023-05-19
+972,1638,6.30,  ASCToast salmon,Norway,100.0,Fish and Meat,Migros,2023-05-19
+973,1641,4.50,Plant-based sausagePizza Style,V-Love,200.0,Fish and Meat,Migros,2023-05-19
+974,1644,5.40,  BioShrimp skewerBBQ,GrillMi,100.0,Fish and Meat,Migros,2023-05-19
+975,1645,3.50,Salami Campagna,Fratelli Beretta,100.0,Fish and Meat,Migros,2023-05-19
+976,1646,4.50,  de GruyèresSalami sticksChorizo - mini,Spécialité Suisse,80.0,Fish and Meat,Migros,2023-05-19
+977,1647,8.50,Seafood salad,Antipasti,180.0,Fish and Meat,Migros,2023-05-19
+978,1648,8.90,Rib eye steak,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+979,1649,3.90,Rabbit legX,M-Classic,2100.0,Fish and Meat,Migros,2023-05-19
+980,1650,13.95,Grisons meatArven,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+981,1651,8.80,Octopus salad,Antipasti,150.0,Fish and Meat,Migros,2023-05-19
+982,1652,2.70,"RollschinkliSmoked, cooked",M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+983,1653,5.95,Burger Chorizo-StyleVegan,Heura,220.0,Fish and Meat,Migros,2023-05-19
+984,1654,4.50,  GrillMi ASCShrimpsButterfly,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+985,1655,11.–,  ASCShrimps Tail-on cookedPeeled,Sélection,160.0,Fish and Meat,Migros,2023-05-19
+986,1657,4.05,  GrillMi - ASCSalmon filletAmerican Barbecue,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+987,1658,7.95,Carpaccio de boeuf,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+988,1659,9.95,"Sushi - Salmon Rolls MixWith ginger, wasabi and soy sauce",Sushi Mania,205.0,Fish and Meat,Migros,2023-05-19
+989,1660,22.50,"Sushi - BoatWith ginger, wasabi and soy sauce",Sushi Mania,416.0,Fish and Meat,Migros,2023-05-19
+990,1662,8.20,Raw ham Piora,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+991,1663,3.50,SalamiRiassunto,Citterio,60.0,Fish and Meat,Migros,2023-05-19
+992,1664,8.15,  BioRaw ham,Fratelli Beretta,70.0,Fish and Meat,Migros,2023-05-19
+993,1665,10.95,  MSCMussels cookedWith fresh vegetables,M-Classic,750.0,Fish and Meat,Migros,2023-05-19
+994,1666,21.95,"Sushi - HimatsuriWith ginger, wasabi and soy sauce",Sushi Mania,387.0,Fish and Meat,Migros,2023-05-19
+995,1667,6.50,  BioChunksCurry - Vegan,Luya,175.0,Fish and Meat,Migros,2023-05-19
+996,1669,8.50,  IP-SUISSEDried shoulder meat,Tradition,100.0,Fish and Meat,Migros,2023-05-19
+997,1670,6.–,Shrimp tailsRaw - Tail-on,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+998,1671,2.80,RollschinkliSmoked,M-Classic,100.0,Fish and Meat,Migros,2023-05-19
+999,1672,6.35,Raw hamDel Grotto,Rapelli,100.0,Fish and Meat,Migros,2023-05-19
+1000,1673,7.95,Salami ToscanoThe Fratelli Beretta,Sélection,100.0,Fish and Meat,Migros,2023-05-19
+1001,1674,10.90,Dried meat,Migros Bio,100.0,Fish and Meat,Migros,2023-05-19
+1002,1675,6.50,  BioChunksNature - Vegan,Luya,175.0,Fish and Meat,Migros,2023-05-19

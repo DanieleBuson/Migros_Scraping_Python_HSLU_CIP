@@ -1,0 +1,376 @@
+,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,0,3.60,  IP-SUISSECream spinachSeasoned,Farmer's Best,800.0,Frozen Food,Migros,2023-05-18
+1,1,3.30,  IP-SUISSEBeans fine,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+2,2,2.–,"  MSCFish fingersBreaded, prefried",M-Budget,450.0,Frozen Food,Migros,2023-05-18
+3,3,1.65,Creamed spinach,M-Budget,800.0,Frozen Food,Migros,2023-05-18
+4,4,5.–,RaspberriesUnsweetened,M-Budget,500.0,Frozen Food,Migros,2023-05-18
+5,10,8.–,Breaded Chicken Nuggets,M-Budget,750.0,Frozen Food,Migros,2023-05-18
+6,11,8.20,French fries,M-Budget,2500.0,Frozen Food,Migros,2023-05-18
+7,12,4.60,  DeliciousPommes duchesse,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+8,13,4.60,  DeliciousFrench fries Hazelnuts,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+9,14,5.95,Cheese cookies,M-Classic,480.0,Frozen Food,Migros,2023-05-18
+10,15,3.30,  DeliciousFrench fries rissolées,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+11,16,3.40,Broccoli,M-Budget,750.0,Frozen Food,Migros,2023-05-18
+12,17,2.60,Oven Fries,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+13,18,3.50,Mini PizzasMargherita,M-Budget,360.0,Frozen Food,Migros,2023-05-18
+14,19,4.95,  DeliciousRösti croquettes,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+15,20,4.60,  IP-SUISSEBroccoli,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+16,21,3.50,  MSCFish fingers Alaska pollackBreaded - ,Pelican,450.0,Frozen Food,Migros,2023-05-18
+17,22,2.50,  IP-SUISSECauliflower florets,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+18,23,6.95,Oven Fries,M-Classic,1500.0,Frozen Food,Migros,2023-05-18
+19,24,4.90,Croquettes,M-Budget,1000.0,Frozen Food,Migros,2023-05-18
+20,25,9.80,"Crispy chickenBreaded, prefried",M-Budget,1000.0,Frozen Food,Migros,2023-05-18
+21,26,3.80,  IP-SUISSELeaf spinachUnseasoned,Farmer's Best,800.0,Frozen Food,Migros,2023-05-18
+22,27,5.95,Raspberries,Migros Bio,300.0,Frozen Food,Migros,2023-05-18
+23,28,3.40,Swiss leaf spinach,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+24,29,3.10,Swiss beans,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+25,30,3.20,Vegetables mix,M-Budget,800.0,Frozen Food,Migros,2023-05-18
+26,31,5.95,Atlantic salmon,M-Budget,250.0,Frozen Food,Migros,2023-05-18
+27,32,4.50,Swiss vegetable mix,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+28,33,2.55,Peas,M-Budget,800.0,Frozen Food,Migros,2023-05-18
+29,35,3.85,Chäs-Chüechli,M-Budget,560.0,Frozen Food,Migros,2023-05-18
+30,36,3.95,  ClassicsGarden peas,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+31,37,5.95,Mixed berries,Migros Bio,300.0,Frozen Food,Migros,2023-05-18
+32,38,4.95,"PinsaWith buffalo milk mozzarella, tomatoes and rocket",La Trattoria,395.0,Frozen Food,Migros,2023-05-18
+33,39,9.20,Beef Burger,M-Budget,900.0,Frozen Food,Migros,2023-05-18
+34,41,3.30,Swiss green peas,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+35,42,5.95,Spinach Cookies,M-Classic,480.0,Frozen Food,Migros,2023-05-18
+36,43,3.50,Fun fries,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+37,44,7.30,  ASCPangasius crunchies,M-Budget,750.0,Frozen Food,Migros,2023-05-18
+38,45,8.50,  ASCAtlantic salmon fillets,Pelican,250.0,Frozen Food,Migros,2023-05-18
+39,46,2.95,  IP-SUISSEBeans extra fineUnseasoned,Farmer's Best,360.0,Frozen Food,Migros,2023-05-18
+40,47,3.95,  DeliciousOven croquettes,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+41,48,5.95,Mushroom cookie,M-Classic,480.0,Frozen Food,Migros,2023-05-18
+42,49,3.50,Mini PizzasHam,M-Budget,360.0,Frozen Food,Migros,2023-05-18
+43,50,2.50,LasagneÀ la Bolognese,M-Budget,500.0,Frozen Food,Migros,2023-05-18
+44,51,3.50,StrawberriesUnsweetened,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+45,53,3.75,BioBroccoli,unknown,500.0,Frozen Food,Migros,2023-05-18
+46,54,5.20,Mix of berriesUnsweetened,M-Budget,750.0,Frozen Food,Migros,2023-05-18
+47,55,5.–,Potato slicesWedges,M-Budget,1000.0,Frozen Food,Migros,2023-05-18
+48,56,6.40,French fries,M-Classic,1500.0,Frozen Food,Migros,2023-05-18
+49,57,3.50,French friesWith potatoes from German organic cultivation,Alnatura,600.0,Frozen Food,Migros,2023-05-18
+50,58,3.20,  AsiaVegetables mixSeasoned,M-Budget,800.0,Frozen Food,Migros,2023-05-18
+51,59,7.50,Chäschüechli,M-Classic,840.0,Frozen Food,Migros,2023-05-18
+52,60,7.50,  MSCFish fingers Atlantic codBreaded - ,Pelican,720.0,Frozen Food,Migros,2023-05-18
+53,61,2.50,French beansFrom German organic cultivation,Alnatura,450.0,Frozen Food,Migros,2023-05-18
+54,62,12.95,M-Classic Köttbullar ,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+55,63,13.95,  ASCShrimpsPeeled and raw,Pelican,500.0,Frozen Food,Migros,2023-05-18
+56,64,11.20,  BioSalmon fillets,Pelican,250.0,Frozen Food,Migros,2023-05-18
+57,65,2.–,CannelloniWith cream cheese and spinach,M-Budget,400.0,Frozen Food,Migros,2023-05-18
+58,66,4.50,Fish sticksFrom pollack fillet - ,Alnatura,250.0,Frozen Food,Migros,2023-05-18
+59,68,2.80,Ice stracciatellaWith biscuits,M-Classic,324.0,Frozen Food,Migros,2023-05-18
+60,69,4.95,Edamame,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+61,70,4.80,Ham croissant,M-Budget,420.0,Frozen Food,Migros,2023-05-18
+62,72,3.30,Swiss creamed spinach,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+63,73,2.50,Buttered vegetablesWith fine parsley,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+64,74,4.50,French fries allumettesExtra fine,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+65,75,3.50,  IP-SUISSEPumpkin,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+66,77,4.95,RaspberriesUnsweetened,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+67,78,3.25,  Happy HourLight wheat breadFilled with garlic and herb butter,M-Classic,240.0,Frozen Food,Migros,2023-05-18
+68,79,10.45,Chicken Délice breaded,Don Pollo,750.0,Frozen Food,Migros,2023-05-18
+69,80,5.20,  IP-SUISSESwiss vegetable mixUnseasoned,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+70,81,5.65,  MSCPrawns CocktailCooked & peeled,M-Budget,400.0,Frozen Food,Migros,2023-05-18
+71,82,12.50,Beef burger,M-Classic,720.0,Frozen Food,Migros,2023-05-18
+72,83,3.60,Brussel sprouts,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+73,84,4.95,  PiccolinisMini PizzasHam-Cheese,Buitoni,270.0,Frozen Food,Migros,2023-05-18
+74,85,4.80,  RöstiFrench fries,Denny's,500.0,Frozen Food,Migros,2023-05-18
+75,86,3.40,French fries,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+76,87,5.20,Wild blueberriesUnsweetened,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+77,89,9.95,"  ASCShrimpsRaw, with notched shell",M-Budget,450.0,Frozen Food,Migros,2023-05-18
+78,92,3.95,MangoUnsweetened,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+79,93,2.70,PizzaMargherita,M-Classic,275.0,Frozen Food,Migros,2023-05-18
+80,94,10.95,Chicken cordon bleuBreaded,Don Pollo,750.0,Frozen Food,Migros,2023-05-18
+81,97,3.95,?Creamed leeksSeasoned,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+82,98,4.50,PizzaWith ham and cheese,La Trattoria,660.0,Frozen Food,Migros,2023-05-18
+83,99,2.95,Cheese ramekins,M-Classic,280.0,Frozen Food,Migros,2023-05-18
+84,100,7.95,Butter croissants,M-Classic,660.0,Frozen Food,Migros,2023-05-18
+85,101,5.95,Tomato and mozzarella biscuits,M-Classic,460.0,Frozen Food,Migros,2023-05-18
+86,103,5.95,Bolognese pastry,M-Classic,480.0,Frozen Food,Migros,2023-05-18
+87,104,4.80,"Chicken Curry Bols breaded, prefried",Don Pollo,250.0,Frozen Food,Migros,2023-05-18
+88,105,3.30,Half plumsUnsweetened,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+89,106,3.75,Swiss chopped spinach,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+90,107,9.70,Chicken Crispy breaded,Don Pollo,700.0,Frozen Food,Migros,2023-05-18
+91,108,11.20,Chicken délicePrefried,M-Budget,1000.0,Frozen Food,Migros,2023-05-18
+92,109,4.95,Baguette Margherita,M-Budget,750.0,Frozen Food,Migros,2023-05-18
+93,110,6.60,  Happy HourHam croissant,M-Classic,504.0,Frozen Food,Migros,2023-05-18
+94,111,6.95,Cape hake back fillets,Pelican,400.0,Frozen Food,Migros,2023-05-18
+95,112,5.40,Half apricotsUnsweetened,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+96,113,9.95,  Mini ZooChicken nuggetsBreaded,Lilibiggs,750.0,Frozen Food,Migros,2023-05-18
+97,114,3.70,Blueberries wild,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+98,115,13.95,Chicken thigh,M-Budget,2000.0,Frozen Food,Migros,2023-05-18
+99,116,4.30,  MSCFish fingers CodfishBreaded - ,Pelican,300.0,Frozen Food,Migros,2023-05-18
+100,117,4.50,"Cherries, pittedUnsweetened",M-Classic,450.0,Frozen Food,Migros,2023-05-18
+101,118,3.95,Asian rice dishWith roasted chicken &vegetables,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+102,119,12.95,Momos with beef,Tenz,280.0,Frozen Food,Migros,2023-05-18
+103,120,3.40,  IP-SUISSESpinach choppedSeasoned,Farmer's Best,800.0,Frozen Food,Migros,2023-05-18
+104,121,4.50,StrawberriesUnsweetened,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+105,122,11.95,Chicken nuggetsPasty,Don Pollo,750.0,Frozen Food,Migros,2023-05-18
+106,123,2.40,Garden peas and carrots,Farmer's Best,600.0,Frozen Food,Migros,2023-05-18
+107,124,3.30,"Flambé Alsatian styleWith crème fraîche, bacon and onions",M-Classic,260.0,Frozen Food,Migros,2023-05-18
+108,125,3.95,Vegetable sticks,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+109,126,6.50,Spring rolls:With vegetables and sweet &sour sauce - ,J.Bank's,370.0,Frozen Food,Migros,2023-05-18
+110,127,4.95,NuggetsVeggie - approx. ,V-Love,320.0,Frozen Food,Migros,2023-05-18
+111,129,4.40,PizzaWith tomatoes and mozzarella,La Trattoria,660.0,Frozen Food,Migros,2023-05-18
+112,130,12.40,Breaded Chicken Nuggets,Don Pollo,750.0,Frozen Food,Migros,2023-05-18
+113,131,4.80,  ClassicPotato slices seasonedWith shell in crisp breading,Denny's,600.0,Frozen Food,Migros,2023-05-18
+114,132,5.50,Berry mixture unsweetenedBlackberries wild - Raspberries - Strawberries wild - Blueberries wild - Red currants - Black currants,M-Classic,450.0,Frozen Food,Migros,2023-05-18
+115,133,4.95,  PiccolinisMini PizzasTomato-Mozzarella,Buitoni,270.0,Frozen Food,Migros,2023-05-18
+116,134,9.50,  ASCPangasius fillets,M-Budget,900.0,Frozen Food,Migros,2023-05-18
+117,135,3.50,BioCauliflower,unknown,500.0,Frozen Food,Migros,2023-05-18
+118,137,7.–,Spring rollsWith chicken and vegetables with sweet &sour sauce - ,J.Bank's,370.0,Frozen Food,Migros,2023-05-18
+119,138,6.50,  MiniMini spring rollsWith vegetables and sweet &sour sauce - ,J.Bank's,310.0,Frozen Food,Migros,2023-05-18
+120,139,4.95,"  Happy HourPuff pastryWith spinach/, bacon, ham/, cheese, cheese,/onion filling and pork product to eat cooked",M-Classic,420.0,Frozen Food,Migros,2023-05-18
+121,140,3.95,  Favorit?Mixed vegetables,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+122,141,4.95,  CountryOven fries with crisp breadingExtra thick,Denny's,600.0,Frozen Food,Migros,2023-05-18
+123,142,1.95,Summer vegetablesFrom German organic cultivation,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+124,143,9.95,Diced chickenWith spice brine,M-Budget,750.0,Frozen Food,Migros,2023-05-18
+125,144,5.95,  ClassicFrench friesWith crisp breading,Denny's,750.0,Frozen Food,Migros,2023-05-18
+126,145,6.25,  Romanesco?Mixed vegetablesSeasoned,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+127,147,10.35,Chicken wings,M-Budget,1500.0,Frozen Food,Migros,2023-05-18
+128,148,4.95,  MSCPizzaWith tuna and onions,La Trattoria,700.0,Frozen Food,Migros,2023-05-18
+129,150,3.70,Spinach ramekins,M-Classic,280.0,Frozen Food,Migros,2023-05-18
+130,151,5.60,  IP-SUISSE?Mixed vegetablesBrunoise,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+131,152,4.50,Mixed berriesUnsweetened,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+132,154,4.95,Hamburger,Migros Bio,200.0,Frozen Food,Migros,2023-05-18
+133,155,4.50,PizzaDiavola,La Trattoria,640.0,Frozen Food,Migros,2023-05-18
+134,158,4.15,  MSCCrispy fried fishBreaded - ,Pelican,400.0,Frozen Food,Migros,2023-05-18
+135,159,4.95,Potato Puffer,Alnatura,600.0,Frozen Food,Migros,2023-05-18
+136,161,3.70,PizzaVegetale,Alnatura,340.0,Frozen Food,Migros,2023-05-18
+137,162,4.80,  MexicanPotato slices with breadingFor final baking,Denny's,600.0,Frozen Food,Migros,2023-05-18
+138,163,7.95,Seafood mixCooked,Pelican,500.0,Frozen Food,Migros,2023-05-18
+139,164,4.50,PizzaWith cooked ham and mushrooms,La Trattoria,660.0,Frozen Food,Migros,2023-05-18
+140,165,4.50,Chäs-Chüechli,Migros Bio,280.0,Frozen Food,Migros,2023-05-18
+141,166,3.40,"Calamari Roman gutters TypeMade in Spain with calamar from Argentina (Southwest Atlantic, wild caught)",Pelican,250.0,Frozen Food,Migros,2023-05-18
+142,167,8.95,Breaded Chicken Nuggets,Migros Bio,300.0,Frozen Food,Migros,2023-05-18
+143,169,4.40,IP-SUISSERhubarb,unknown,600.0,Frozen Food,Migros,2023-05-18
+144,170,3.75,Mushroom ramekins,M-Classic,280.0,Frozen Food,Migros,2023-05-18
+145,171,3.95,Jalapeno Crispy breaded peppers with cream cheese fillingWith chili sauce - ,J.Bank's,250.0,Frozen Food,Migros,2023-05-18
+146,172,5.50,  Bretagne?Mixed vegetablesSeasoned,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+147,173,3.80,PizzaSalami,Alnatura,320.0,Frozen Food,Migros,2023-05-18
+148,174,8.20,RaspberriesUnsweetened,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+149,175,4.50,Trio of Swiss florets,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+150,176,3.50,Pomegranate seed,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+151,177,6.50,Gruyere Delights,Migros Bio,360.0,Frozen Food,Migros,2023-05-18
+152,178,11.50,ShrimpsPeeled & cooked,Migros Bio,400.0,Frozen Food,Migros,2023-05-18
+153,179,4.95,  MSCWild salmon fillets Pacific,Pelican,250.0,Frozen Food,Migros,2023-05-18
+154,181,5.95,  ASCPangasius in light lemon breadingBreaded - ,Pelican,300.0,Frozen Food,Migros,2023-05-18
+155,182,4.95,Elder MagronsWith cheese,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+156,184,12.95,Vegetarian Momos,Tenz,280.0,Frozen Food,Migros,2023-05-18
+157,185,3.95,  SmoothieFruit mixtureRed,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+158,187,4.20,  Happy HourBruschetta pomodoriWith tomatoes and mozzarella,M-Classic,228.0,Frozen Food,Migros,2023-05-18
+159,188,7.20,  DeliciousPotato gratin,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+160,189,3.10,BaguetteWith ham and cheese,La Trattoria,220.0,Frozen Food,Migros,2023-05-18
+161,190,4.30,PineappleUnsweetened,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+162,191,3.80,Quiches lorraines,M-Classic,280.0,Frozen Food,Migros,2023-05-18
+163,195,6.35,Frittelle di gamberi croccantiTempura King Prawns,J.Bank's,250.0,Frozen Food,Migros,2023-05-18
+164,196,4.20,  Mini Windy'sOven pancakes with cream fillingClassic,M-Classic,250.0,Frozen Food,Migros,2023-05-18
+165,197,6.50,Spinach Cookies,Migros Bio,360.0,Frozen Food,Migros,2023-05-18
+166,198,8.70,Breaded Chicken Nuggets,Don Pollo,300.0,Frozen Food,Migros,2023-05-18
+167,200,3.60,Aha! MSCFish sticks,unknown,300.0,Frozen Food,Migros,2023-05-18
+168,201,4.20,Plums,Migros Bio,600.0,Frozen Food,Migros,2023-05-18
+169,202,4.50,Mixed vegetables for pan frying,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+170,204,18.90,  Happy HourHam croissant,M-Classic,1512.0,Frozen Food,Migros,2023-05-18
+171,205,4.95,  IP-SUISSECauliflower rice,You,750.0,Frozen Food,Migros,2023-05-18
+172,206,5.95,Prawns Cocktail,Pelican,300.0,Frozen Food,Migros,2023-05-18
+173,207,4.80,PiadinaWith mozzarella and cooked ham,La Trattoria,280.0,Frozen Food,Migros,2023-05-18
+174,209,5.95,Iced mochisPassion fruit and mango - Tropical paradise,Little moons,192.0,Frozen Food,Migros,2023-05-18
+175,210,10.50,Chicken escalope,Don Pollo,720.0,Frozen Food,Migros,2023-05-18
+176,211,7.40,  Filets Gourmet - MSCAtlantic Cod FilletProvençale,Pelican,400.0,Frozen Food,Migros,2023-05-18
+177,212,6.30,Paella Fruits de mer,Costa,600.0,Frozen Food,Migros,2023-05-18
+178,213,8.95,Cod fillet,Pelican,400.0,Frozen Food,Migros,2023-05-18
+179,214,3.20,Sugar peasUnseasoned,Farmer's Best,360.0,Frozen Food,Migros,2023-05-18
+180,215,4.60,CutletVegan - ,V-Love,340.0,Frozen Food,Migros,2023-05-18
+181,216,7.95,  Ratatouille?Mixed vegetablesSeasoned,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+182,217,3.70,Spinach TartletsVegan,V-Love,280.0,Frozen Food,Migros,2023-05-18
+183,218,6.40,Plant-based alternative to ham croissantsVegan,V-Love,528.0,Frozen Food,Migros,2023-05-18
+184,219,5.50,Potato slicesWedges,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+185,221,5.50,  Forno di PietraPizzaCaprese,Buitoni,350.0,Frozen Food,Migros,2023-05-18
+186,222,9.95,Cheese rollPao de queijo,Boule d'or Le Gruyère,340.0,Frozen Food,Migros,2023-05-18
+187,223,3.90,Tarte flambéeCheese leek,Alnatura,295.0,Frozen Food,Migros,2023-05-18
+188,224,9.20,Diced chicken,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+189,225,5.95,Beyond burgerVegan,Beyond Meat,226.0,Frozen Food,Migros,2023-05-18
+190,226,9.95,Chicken wingsSeasoned,M-Classic,750.0,Frozen Food,Migros,2023-05-18
+191,227,15.95,Shrimps Tail-OnCooked,Pelican,500.0,Frozen Food,Migros,2023-05-18
+192,228,6.95,Buttered vegetablesSeasoned,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+193,229,7.95,Crunchy Chicken Nuggets,Don Pollo,400.0,Frozen Food,Migros,2023-05-18
+194,230,4.35,Swiss vegetable mixMinestrone,Migros Bio,500.0,Frozen Food,Migros,2023-05-18
+195,231,5.50,  Forno di PietraPizzaDiavola,Buitoni,340.0,Frozen Food,Migros,2023-05-18
+196,232,2.50,LasagneVerdure,La Trattoria,400.0,Frozen Food,Migros,2023-05-18
+197,233,3.30,PizzaMargherita,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+198,234,9.45,Chicken Burger,M-Budget,900.0,Frozen Food,Migros,2023-05-18
+199,235,5.50,Chocolate croissant,Le Fournil de Pierre,420.0,Frozen Food,Migros,2023-05-18
+200,236,4.95,LasagneBolognese,La Trattoria,600.0,Frozen Food,Migros,2023-05-18
+201,237,6.20,Mini Samosa,J.Bank's,276.0,Frozen Food,Migros,2023-05-18
+202,241,2.95,Chicken liverNature,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+203,242,5.50,  Happy HourMini ChüechliWith cheese and bacon /filling with spinach /filling with cheese filling,M-Classic,260.0,Frozen Food,Migros,2023-05-18
+204,243,5.60,  Forno di PietraPizzaHam and mushrooms,Buitoni,340.0,Frozen Food,Migros,2023-05-18
+205,244,3.95,  SmoothieFruit mixtureYellow,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+206,245,3.95,Bulgur &quinoaWith vegetables,You,600.0,Frozen Food,Migros,2023-05-18
+207,249,5.20,Veal sausage,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+208,250,7.80,Asia MixSeasoned,Farmer's Best,750.0,Frozen Food,Migros,2023-05-18
+209,253,3.95,LentilsWith vegetables,You,600.0,Frozen Food,Migros,2023-05-18
+210,254,4.50,Spinach Italian-StyleSeasoned,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+211,255,3.10,BaguetteWith cheese and tomatoes,La Trattoria,220.0,Frozen Food,Migros,2023-05-18
+212,257,6.30,  MSCFilets Gourmet Alaska pollack Bordelaise,Pelican,400.0,Frozen Food,Migros,2023-05-18
+213,258,7.90,Prawns with garlic sauce,Costa,200.0,Frozen Food,Migros,2023-05-18
+214,259,2.50,Beef marrow bone cut,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+215,260,4.50,GyozaWith soy sauce,J.Bank's,265.0,Frozen Food,Migros,2023-05-18
+216,261,4.95,  MixesVegetable and mushroom mixture,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+217,263,8.95,Chicken stripesIn crust,Don Pollo,400.0,Frozen Food,Migros,2023-05-18
+218,264,6.20,  MSCDab fillets,Pelican,400.0,Frozen Food,Migros,2023-05-18
+219,266,5.95,Mochi ice creamHoney roasted pistachio,Little moons,192.0,Frozen Food,Migros,2023-05-18
+220,269,5.80,Carrots Potato SticksWith sesame,Alnatura,400.0,Frozen Food,Migros,2023-05-18
+221,270,5.50,  Forno di PietraPizzaHam and pesto,Buitoni,350.0,Frozen Food,Migros,2023-05-18
+222,271,7.95,  Premium QualitySwiss Angus Burger,The Frozen Butcher,250.0,Frozen Food,Migros,2023-05-18
+223,272,5.95,Gourmet filletBordelaise,Alnatura,320.0,Frozen Food,Migros,2023-05-18
+224,274,7.95,  BioAcai puree,You,400.0,Frozen Food,Migros,2023-05-18
+225,275,4.95,SticksVegan - ,V-Love,300.0,Frozen Food,Migros,2023-05-18
+226,276,11.20,"Crispy porkBreaded, prefried",M-Budget,900.0,Frozen Food,Migros,2023-05-18
+227,278,7.50,  MiniMini spring rollsWith chicken and vegetables with sweet &sour sauce - ,J.Bank's,310.0,Frozen Food,Migros,2023-05-18
+228,279,5.50,LasagnePasture Beef,Migros Bio,360.0,Frozen Food,Migros,2023-05-18
+229,282,6.60,  ASCPangasius fillets,Pelican,500.0,Frozen Food,Migros,2023-05-18
+230,284,5.50,Spring rolls with vegetablesWith sweet-sour sauce - ,Migros Bio,240.0,Frozen Food,Migros,2023-05-18
+231,286,8.95,  MSCPerch fritters,Pelican,250.0,Frozen Food,Migros,2023-05-18
+232,287,4.20,Gruyère ramekins,M-Classic,280.0,Frozen Food,Migros,2023-05-18
+233,289,8.95,  MSCPlaice fillets,Pelican,400.0,Frozen Food,Migros,2023-05-18
+234,290,4.95,  Filets Gourmet - MSCAlaska Pollock FilletWith potato gratin,Pelican,380.0,Frozen Food,Migros,2023-05-18
+235,293,13.95,Chicken leg nature,M-Classic,1800.0,Frozen Food,Migros,2023-05-18
+236,294,13.95,  MSCScallopsRaw,Pelican,200.0,Frozen Food,Migros,2023-05-18
+237,295,11.–,  MSCAtlantic cod filletsBreaded - ,Pelican,500.0,Frozen Food,Migros,2023-05-18
+238,298,6.40,  BioPangasius fillets,Pelican,300.0,Frozen Food,Migros,2023-05-18
+239,301,3.95,Vegetable alternative to pizzaMargherita,V-Love,350.0,Frozen Food,Migros,2023-05-18
+240,302,5.20,Cordon VertVegan - ,V-Love,260.0,Frozen Food,Migros,2023-05-18
+241,305,9.50,ShrimpsRaw and peeled,Migros Bio,200.0,Frozen Food,Migros,2023-05-18
+242,306,7.80,BioApricots,unknown,600.0,Frozen Food,Migros,2023-05-18
+243,308,3.80,Chicken heartsNature,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+244,310,4.95,BurgerVegi,V-Love,220.0,Frozen Food,Migros,2023-05-18
+245,313,6.50,Cuttlefish ringsCooked,Pelican,300.0,Frozen Food,Migros,2023-05-18
+246,314,2.70,Marroni purée,Migros Bio,250.0,Frozen Food,Migros,2023-05-18
+247,315,5.50,  MSCPlaice filletsLightly breaded,Pelican,300.0,Frozen Food,Migros,2023-05-18
+248,316,3.95,Vegetable alternative lasagne bologneseVegan,V-Love,360.0,Frozen Food,Migros,2023-05-18
+249,319,5.60,  Forno di PietraPizzaHawaï,Buitoni,380.0,Frozen Food,Migros,2023-05-18
+250,320,5.95,  PizzettaPizzettaVerdure,Buitoni,370.0,Frozen Food,Migros,2023-05-18
+251,321,2.40,Small peas extra fineUnseasoned,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+252,322,1.95,Oven fries,M-Classic,240.0,Frozen Food,Migros,2023-05-18
+253,323,30.40,Pork fillet in batterWith sausage meat,Finest,800.0,Frozen Food,Migros,2023-05-18
+254,324,33.50,  IP-SUISSEChinese FondueBeef & Pork,Finest,600.0,Frozen Food,Migros,2023-05-18
+255,330,23.95,Chinese FondueBeef - hand cut,Finest,300.0,Frozen Food,Migros,2023-05-18
+256,331,3.95,RaspberriesUnsweetened,M-Classic,250.0,Frozen Food,Migros,2023-05-18
+257,332,6.–,Soup chicken,M-Classic,1000.0,Frozen Food,Migros,2023-05-18
+258,333,3.70,Poêlée de légumes AsiaDélicatement épicé,Alnatura,450.0,Frozen Food,Migros,2023-05-18
+259,334,2.95,  IP-SUISSESpinach chopped,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+260,335,2.10,  IP-SUISSECreamed spinachSeasoned,Farmer's Best,240.0,Frozen Food,Migros,2023-05-18
+261,336,3.10,  IP-SUISSELeaf spinach,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+262,340,3.95,  IP-SUISSEBroccoli floret,Farmer's Best,500.0,Frozen Food,Migros,2023-05-18
+263,341,15.95,Chinese FondueChicken - hand cut,Finest,300.0,Frozen Food,Migros,2023-05-18
+264,342,3.70,Pizza aux épinardsAux épinards et mozzarella,Alnatura,350.0,Frozen Food,Migros,2023-05-18
+265,344,14.90,Zuger Kirschtorte,unknown,320.0,Frozen Food,Migros,2023-05-18
+266,345,5.95,Gustavo Gusto Tonno e cipolla,Gustavo Gusto,475.0,Frozen Food,Migros,2023-05-18
+267,346,3.20,Alnatura Blattspinat,Alnatura,450.0,Frozen Food,Migros,2023-05-18
+268,347,2.40,Alnatura Rahmspinat,Alnatura,450.0,Frozen Food,Migros,2023-05-18
+269,351,3.90,Ice frocks Cocktail-Ice,unknown,2000.0,Frozen Food,Migros,2023-05-18
+270,358,5.50,Farmer's Best Artischocken,Farmer's Best,400.0,Frozen Food,Migros,2023-05-18
+271,359,6.50,MSC Grönländische Garnelen,unknown,450.0,Frozen Food,Migros,2023-05-18
+272,360,5.80,Gustavo Gusto Margherita,Gustavo Gusto,410.0,Frozen Food,Migros,2023-05-18
+273,361,3.95,Alnatura Mini Falafel,Alnatura,220.0,Frozen Food,Migros,2023-05-18
+274,362,5.95,Gustavo Gusto Prosciutto e funghi,Gustavo Gusto,460.0,Frozen Food,Migros,2023-05-18
+275,363,3.95,M-Classic Pizza Toscana,M-Classic,360.0,Frozen Food,Migros,2023-05-18
+276,364,6.95,Buitoni Margherita Glutenfrei,Buitoni,360.0,Frozen Food,Migros,2023-05-18
+277,365,3.95,Alnatura Sauerkirschen,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+278,368,3.90,Ice frocks Solid frocks,unknown,2000.0,Frozen Food,Migros,2023-05-18
+279,372,5.95,M-Classic Fondue-Plätzli,M-Classic,480.0,Frozen Food,Migros,2023-05-18
+280,376,1.95,M-Budget Pizza Margherita,M-Budget,600.0,Frozen Food,Migros,2023-05-18
+281,380,2.90,Alnatura Brokkoli,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+282,384,3.75,Farmer's Best IP-SUISSE Edamame,Farmer's Best,240.0,Frozen Food,Migros,2023-05-18
+283,387,3.60,Alnatura Brombeeren,Alnatura,300.0,Frozen Food,Migros,2023-05-18
+284,392,2.95,Farmer's Best Gemüse Bretagne,Farmer's Best,240.0,Frozen Food,Migros,2023-05-18
+285,393,3.60,M-Classic Léger Ofen Frites,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+286,394,5.50,M-Classic Delicious Röstitasche Käse,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+287,395,5.95,Pelican MSC Filets Gourmet Catalonia,Pelican,400.0,Frozen Food,Migros,2023-05-18
+288,397,3.80,M-Classic Schlangenbrot,M-Classic,240.0,Frozen Food,Migros,2023-05-18
+289,402,19.95,ASC PAC.PRAWN TAIL-ON ROH,Pelican,800.0,Frozen Food,Migros,2023-05-18
+290,403,4.95,Pure butter croissants,Le Fournil de Pierre,360.0,Frozen Food,Migros,2023-05-18
+291,404,9.90,PatacletteLe Gruyère,unknown,235.0,Frozen Food,Migros,2023-05-18
+292,405,9.90,PatacletteVacherin Fribourgeois,unknown,235.0,Frozen Food,Migros,2023-05-18
+293,406,4.95,IP-SUISSE Zwetschgen,unknown,600.0,Frozen Food,Migros,2023-05-18
+294,407,8.95,M-Classic Happy Hour Mini cheeseburgers,M-Classic,198.0,Frozen Food,Migros,2023-05-18
+295,408,3.95,M-Budget Frühlingsrollen mit Gemüse,M-Budget,400.0,Frozen Food,Migros,2023-05-18
+296,409,6.95,Migros Bio Marroni,Migros Bio,400.0,Frozen Food,Migros,2023-05-18
+297,413,18.50,Capuns,unknown,400.0,Frozen Food,Migros,2023-05-18
+298,414,7.50,FRANUI HIMBEEREN DUNKEL,unknown,150.0,Frozen Food,Migros,2023-05-18
+299,416,8.40,Sélection MSC Rocklobster gekocht,Migros Sélection,100.0,Frozen Food,Migros,2023-05-18
+300,417,8.40, MSC Rocklobster gekocht,Sélection,100.0,Frozen Food,Migros,2023-05-18
+301,418,1.95,Oreo Donut,Oreo,73.0,Frozen Food,Migros,2023-05-18
+302,422,7.50,FRANUI HIMBEEREN MILCHSCH,unknown,150.0,Frozen Food,Migros,2023-05-18
+303,423,5.95,LITTLE MOONS KOKOSNUSS,unknown,192.0,Frozen Food,Migros,2023-05-18
+304,425,1.–,Natürliche Farbe Pink,RUF,8.0,Frozen Food,Migros,2023-05-18
+305,428,4.50,Rice BowlVegan,V-Love,400.0,Frozen Food,Migros,2023-05-18
+306,429,6.50,  ASCSea bass,Pelican,350.0,Frozen Food,Migros,2023-05-18
+307,437,3.40,LasagneBolognese,La Trattoria,360.0,Frozen Food,Migros,2023-05-18
+308,439,6.50,Seafood mixCooked,Costa,300.0,Frozen Food,Migros,2023-05-18
+309,440,9.75,Chicken meat,M-Classic,720.0,Frozen Food,Migros,2023-05-18
+310,441,4.95,Aha!Pâte feuilletée,unknown,280.0,Frozen Food,Migros,2023-05-18
+311,442,4.95,  DeliciousMashed potatoes,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+312,443,9.90,PatacletteRaclette du Valais,unknown,235.0,Frozen Food,Migros,2023-05-18
+313,444,7.95,  ASCTilapia filetsIn light salt and pepper-Panande - ,Pelican,450.0,Frozen Food,Migros,2023-05-18
+314,445,8.50,  BioPangasius sticks,Pelican,300.0,Frozen Food,Migros,2023-05-18
+315,446,5.60,Apple tart,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+316,448,7.50,Crispy duck,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+317,449,6.70,Chestnuts peeled,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+318,450,5.35,BallsVegan - approx. ,V-Love,300.0,Frozen Food,Migros,2023-05-18
+319,451,5.95,Mini Apero MixVegan,V-Love,400.0,Frozen Food,Migros,2023-05-18
+320,453,5.30,  Happy HourMini ham croissant,M-Classic,240.0,Frozen Food,Migros,2023-05-18
+321,456,5.95,  PizzettaPizzettaMargherita,Buitoni,370.0,Frozen Food,Migros,2023-05-18
+322,457,9.70,Filets de saumon,Alnatura,160.0,Frozen Food,Migros,2023-05-18
+323,459,14.50,Beef tatareSeasoned,Finest,280.0,Frozen Food,Migros,2023-05-18
+324,464,5.20,LasagneVerdi Bolognese,La Trattoria,600.0,Frozen Food,Migros,2023-05-18
+325,465,7.95,  Filets Gourmet - MSCAtlantic Cod FilletJulienne,Pelican,400.0,Frozen Food,Migros,2023-05-18
+326,467,4.50,IP-SUISSEMixed berries,unknown,250.0,Frozen Food,Migros,2023-05-18
+327,468,5.20,LasagneFiorentina,La Trattoria,600.0,Frozen Food,Migros,2023-05-18
+328,469,2.60,ShrimpsPeeled and cooked,Pelican,100.0,Frozen Food,Migros,2023-05-18
+329,470,3.95,HamburgerBeef,M-Classic,180.0,Frozen Food,Migros,2023-05-18
+330,471,3.80,Asparagus ramekins,M-Classic,280.0,Frozen Food,Migros,2023-05-18
+331,472,6.80,  MSCScallops Breton styleIn shells,Pelican,220.0,Frozen Food,Migros,2023-05-18
+332,474,14.95,"  BioBlack Tiger PrawnsWhole, raw",Pelican,500.0,Frozen Food,Migros,2023-05-18
+333,476,14.80,"Shrimps Tail-OnPeeled, cooked",Migros Bio,300.0,Frozen Food,Migros,2023-05-18
+334,480,6.50,  MSCThai style pan-fried wild salmonWith noodles and vegetables,Costa,600.0,Frozen Food,Migros,2023-05-18
+335,481,6.95,  Bella NapoliPizzaMargherita,Buitoni,425.0,Frozen Food,Migros,2023-05-18
+336,486,29.95,  IP-SUISSEChinese fondue:Beef - thick,Finest,450.0,Frozen Food,Migros,2023-05-18
+337,487,5.30,"  Happy HourMini carrésWith spinach and ricotta, with mediterranean filling, with Mexican filling and with mushrooms and vegetables",M-Classic,384.0,Frozen Food,Migros,2023-05-18
+338,489,11.50,  Premium QualityWagyu Burger,The Frozen Butcher,250.0,Frozen Food,Migros,2023-05-18
+339,490,2.40,Chicken necksNature,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+340,493,12.15,Swiss chicken whole,M-Budget,2000.0,Frozen Food,Migros,2023-05-18
+341,498,13.95,Octopus pieces cooked,Pelican,270.0,Frozen Food,Migros,2023-05-18
+342,500,12.50,  XL - BurgerBeefDeep-frozen,M-Classic,560.0,Frozen Food,Migros,2023-05-18
+343,501,10.95,Trout CrunchyIn the batter,Pelican,250.0,Frozen Food,Migros,2023-05-18
+344,502,2.60,Calf's feet cut,M-Classic,300.0,Frozen Food,Migros,2023-05-18
+345,505,6.40,  MSC & ASCReady to pan seafood mixIn tomato sauce,Condipresto,450.0,Frozen Food,Migros,2023-05-18
+346,507,6.10,Burgundy style snailsWith herb butter - ,Pelican,89.0,Frozen Food,Migros,2023-05-18
+347,509,4.30,  Filets Gourmet - MSCAtlantic Cod FilletProvençale,Pelican,200.0,Frozen Food,Migros,2023-05-18
+348,510,6.50,Green musselsHalf shells - white,Pelican,500.0,Frozen Food,Migros,2023-05-18
+349,512,7.50,Shrimp,Alnatura,225.0,Frozen Food,Migros,2023-05-18
+350,515,6.95,  Bella NapoliPizzaHam & Mushrooms,Buitoni,415.0,Frozen Food,Migros,2023-05-18
+351,517,14.95,  ASCPacific PrawnsPeeled and cooked,Costa,400.0,Frozen Food,Migros,2023-05-18
+352,520,12.95,Beef tatareWith sauce,Finest,285.0,Frozen Food,Migros,2023-05-18
+353,521,4.60,Chicken stomachsNature,M-Classic,500.0,Frozen Food,Migros,2023-05-18
+354,525,5.95,  MSCCape hake without head,Pelican,600.0,Frozen Food,Migros,2023-05-18
+355,526,10.50,Breaded turkey meatMinimum ,Don Pollo,700.0,Frozen Food,Migros,2023-05-18
+356,527,4.40,Melanzane alla Parmigiana,La Trattoria,400.0,Frozen Food,Migros,2023-05-18
+357,532,9.80,Chicken ballsCordon Bleu Style,Don Pollo,400.0,Frozen Food,Migros,2023-05-18
+358,535,3.50,Chicken back with skinNature,M-Classic,600.0,Frozen Food,Migros,2023-05-18
+359,537,2.80,  MSCFish fingers CodfishBreaded - ,Pelican,150.0,Frozen Food,Migros,2023-05-18
+360,538,6.40,  ASCPan-fried mouldsIn white wine sauce,Condipresto,450.0,Frozen Food,Migros,2023-05-18
+361,539,6.95,  MSCSardines wholeRaw,Pelican,1000.0,Frozen Food,Migros,2023-05-18
+362,540,19.10,Cuttlefish excludedRaw,Pelican,850.0,Frozen Food,Migros,2023-05-18
+363,544,9.95,  Premium QualityAngus Burger,The Frozen Butcher,250.0,Frozen Food,Migros,2023-05-18
+364,546,7.95,Roasted chestnutsUnhulled,Migros Bio,450.0,Frozen Food,Migros,2023-05-18
+365,547,9.60,Sliced porcini mushrooms,Valtaro,300.0,Frozen Food,Migros,2023-05-18
+366,548,17.95,Chinese fondue:Chicken,M-Classic,400.0,Frozen Food,Migros,2023-05-18
+367,549,23.95,  ASCPacific Prawns Tail-OnCooked,Pelican,800.0,Frozen Food,Migros,2023-05-18
+368,550,7.95,  Grill HouseBlack Angus Burger,Finest,160.0,Frozen Food,Migros,2023-05-18
+369,552,1.30,Rabbit whole,M-Classic,100.0,Frozen Food,Migros,2023-05-18
+370,553,16.50,  MSCDesalted cod,Riberalves,1000.0,Frozen Food,Migros,2023-05-18
+371,555,10.95,  BioRainbow trout fillets,Pelican,240.0,Frozen Food,Migros,2023-05-18
+372,556,11.95,Prawns ButterflyAlso for the oven,Costa,250.0,Frozen Food,Migros,2023-05-18
+373,557,23.50,  MSCRaw lobster tails,Sélection,240.0,Frozen Food,Migros,2023-05-18
+374,558,3.75,  Sweet PotatoFrench fries,Denny's,500.0,Frozen Food,Migros,2023-05-18

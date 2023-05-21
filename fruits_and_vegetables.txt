@@ -1,0 +1,662 @@
+,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,Regional Price,Cucumbers,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+1,2.95,Bio FairtradeBananasBio,unknown,1 kg,Fruits and Vegetables,Migros,2023-05-18
+2,Regional Price,Cucumbers,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+3,2.70,PeppersMix,Fresca,500g,Fruits and Vegetables,Migros,2023-05-18
+4,1.60,Carrots,Fresca,1kg,Fruits and Vegetables,Migros,2023-05-18
+5,Regional Price,Cherry tomatoes,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+6,Regional Price,Carrots,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+7,Regional Price,Poivrons,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+8,Regional Price,ApplesGala,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+9,Regional Price,Blueberries,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+10,1.90,Zucchini,M-Budget,1kg,Fruits and Vegetables,Migros,2023-05-18
+11,Regional Price,OnionsSpring,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+12,5.60,Blueberries,Migros Bio,250g,Fruits and Vegetables,Migros,2023-05-18
+13,0.50,Lemon,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+14,Regional Price,PotatoesWaxy,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+15,Regional Price,"  Max HavelaarGrapesCoreless, white",Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+16,2.40,MushroomsBrown,Fresca,250g,Fruits and Vegetables,Migros,2023-05-18
+17,0.50,Garlic,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+18,2.50,TomatoesDates,Fresca,250g,Fruits and Vegetables,Migros,2023-05-18
+19,Regional Price,ApplesBraeburn,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+20,Regional Price,Mango,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+21,Regional Price,PotatoesWaxy,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+22,Regional Price,OrangesBlonde,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+23,Regional Price,Onions,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+24,Regional Price,Vine tomatoes,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+25,Regional Price,PotatoesSolid cooking,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+26,0.80,Lemon,Demeter,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+27,Regional Price,Cherry TomatoesMix,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+28,5.70,WatermelonMini,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+29,Regional Price,PotatoesSolid cooking,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+30,Regional Price,ApplesSeason,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+31,2.–,Kohlrabi,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+32,1.90,LettuceGreen,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+33,Regional Price,GrapefruitRed,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+34,3.30,KiwiGreen,Migros Bio,500g,Fruits and Vegetables,Migros,2023-05-18
+35,3.95,Apples,M-Budget,2.5kg,Fruits and Vegetables,Migros,2023-05-18
+36,2.20,Butterhead lettuceRed,Anna's Best,160g,Fruits and Vegetables,Migros,2023-05-18
+37,2.40,MushroomsWhite,Fresca,250g,Fruits and Vegetables,Migros,2023-05-18
+38,Regional Price,Carrots,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+39,1.70,CarrotsRaffled,Migros Bio,200g,Fruits and Vegetables,Migros,2023-05-18
+40,Regional Price,KiwiGreen,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+41,3.10,Carrots,M-Budget,2.5kg,Fruits and Vegetables,Migros,2023-05-18
+42,9.50,AsparagusGreen,Fresca,1kg,Fruits and Vegetables,Migros,2023-05-18
+43,2.55,Pineapple,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+44,2.–,Mushroom,M-Budget,500g,Fruits and Vegetables,Migros,2023-05-18
+45,3.95,Lamb's lettuce,Fresca,150g,Fruits and Vegetables,Migros,2023-05-18
+46,8.90,GingerOrganic,Migros Bio,1 kg,Fruits and Vegetables,Migros,2023-05-18
+47,1.90,PepperoniKapija,M-Budget,500g,Fruits and Vegetables,Migros,2023-05-18
+48,5.50,Salad dressingFrench,Mini Salatsossä,500ml,Fruits and Vegetables,Migros,2023-05-18
+49,3.70,PotatoesFloury Cooking,Fresca,2.5kg,Fruits and Vegetables,Migros,2023-05-18
+50,Regional Price,Apples,Jazz,NA,Fruits and Vegetables,Migros,2023-05-18
+51,Regional Price,Tomatoes,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+52,Regional Price,Arugula,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+53,3.10,MelonGalia,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+54,4.70,Endives,Migros Bio,500g,Fruits and Vegetables,Migros,2023-05-18
+55,3.60,Lamb's lettuce,Anna's Best,130g,Fruits and Vegetables,Migros,2023-05-18
+56,Regional Price,PotatoesFloury cooking,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+57,Regional Price,Butterhead lettuceGreen,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+58,Regional Price,Haricots vertsVerts,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+59,1.80,RadiesliBundle,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+60,Regional Price,Early potatoesFirm,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+61,2.40,Lemon,M-Budget,1kg,Fruits and Vegetables,Migros,2023-05-18
+62,Regional Price,Apricots,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+63,Regional Price,Champignon mushroomsBrown,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+64,2.50,Onions,Migros Bio,500g,Fruits and Vegetables,Migros,2023-05-18
+65,Regional Price,Iceberg lettuce,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+66,Regional Price,PotatoesFloury Cooking,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+67,2.70,Lime,Fresca,500g,Fruits and Vegetables,Migros,2023-05-18
+68,Regional Price,OrangesBlondes,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+69,Regional Price,AsparagusThin,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+70,5.95,Mango,Sélection,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+71,1.–,Chives,Fresca,10g,Fruits and Vegetables,Migros,2023-05-18
+72,1.80,Avocados,M-Budget,500g,Fruits and Vegetables,Migros,2023-05-18
+73,Regional Price,Mango,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+74,3.40,Mixed salad,M-Budget,500g,Fruits and Vegetables,Migros,2023-05-18
+75,3.60,Pomegranate seeds,Anna's Best,125g,Fruits and Vegetables,Migros,2023-05-18
+76,Regional Price,Batavia salad,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+77,Regional Price,Onions,M-Budget,NA,Fruits and Vegetables,Migros,2023-05-18
+78,Regional Price,RadishWithout leaves,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+79,2.20,Mixed salad,Anna's Best,260g,Fruits and Vegetables,Migros,2023-05-18
+80,Regional Price,Pears,M-Budget,NA,Fruits and Vegetables,Migros,2023-05-18
+81,Regional Price,Cherry TomatoesMix,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+82,Regional Price,Papaya,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+83,2.30,Iceberg lettuceOrganic,Migros Bio,150g,Fruits and Vegetables,Migros,2023-05-18
+84,2.95,SpinachBaby,Demeter,125g,Fruits and Vegetables,Migros,2023-05-18
+85,2.95,KiwiGreen,M-Budget,1kg,Fruits and Vegetables,Migros,2023-05-18
+86,1.50,Pomegranate,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+87,3.10,KiwiGreen,Fresca,500g,Fruits and Vegetables,Migros,2023-05-18
+88,Regional Price,AvocadoHass,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+89,3.50,TomatoesMarsanino,Sélection,250g,Fruits and Vegetables,Migros,2023-05-18
+90,5.65,MelonCharentais,Migros Bio,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+91,Regional Price,WatermelonMini,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+92,4.90,BeetrootPasteurized,Migros Bio,1 kg,Fruits and Vegetables,Migros,2023-05-18
+93,1.50,ParsleyCurly,Migros Bio,30g,Fruits and Vegetables,Migros,2023-05-18
+94,Regional Price,PoivronsMini,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+95,9.95,AsparagusWhite,Fresca,1kg,Fruits and Vegetables,Migros,2023-05-18
+96,2.20,Oak leaf lettuceGreen,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+97,4.60,PotatoesWaxy,M-Budget,5kg,Fruits and Vegetables,Migros,2023-05-18
+98,3.50,King salad,Anna's Best,150g,Fruits and Vegetables,Migros,2023-05-18
+99,5.95,Apricots,Migros Bio,500g,Fruits and Vegetables,Migros,2023-05-18
+100,3.20,PotatoesEarly,Fresca,1.5kg,Fruits and Vegetables,Migros,2023-05-18
+101,Regional Price,PearsAbate Fetel,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+102,2.95,Oak leaf saladRed,Migros Bio,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+103,Regional Price,Mango,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+104,4.45,Spinach,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+105,Regional Price,MushroomsWhite,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+106,1.10,Garlic,Fresca,250g,Fruits and Vegetables,Migros,2023-05-18
+107,2.50,Lime,Migros Bio,250g,Fruits and Vegetables,Migros,2023-05-18
+108,2.90,Alice Salad,Anna's Best,250g,Fruits and Vegetables,Migros,2023-05-18
+109,3.60,Mixed saladOrganic,Migros Bio,250g,Fruits and Vegetables,Migros,2023-05-18
+110,Regional Price,Blueberries,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+111,Regional Price,Sweet cornFresh,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+112,Regional Price,ParsleyFlat,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+113,Regional Price,FigsFreshness,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+114,Regional Price,Radish,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+115,Regional Price,Rhubarb,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+116,Regional Price,DatesOrganic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+117,Regional Price,Asparagus tipsGreen,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+118,Regional Price,MelonNetzmelonen,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+119,3.20,NectarinesYellow,Fresca,1kg,Fruits and Vegetables,Migros,2023-05-18
+120,Regional Price,GarlicFresh,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+121,2.20,Beetroot saladOrganic,Migros Bio,350g,Fruits and Vegetables,Migros,2023-05-18
+122,0.90,ChiliTricolor,unknown,100g,Fruits and Vegetables,Migros,2023-05-18
+123,Regional Price,PepperoniRamiro,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+124,Regional Price,Physicalis,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+125,2.20,LettuceRed,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+126,1.90,Garlic,M-Budget,500g,Fruits and Vegetables,Migros,2023-05-18
+127,2.95,Young leaf salad,Anna's Best,100g,Fruits and Vegetables,Migros,2023-05-18
+128,2.60,Beetroot cubesOrganic,Migros Bio,300g,Fruits and Vegetables,Migros,2023-05-18
+129,Regional Price,Mung bean sproutsOrganic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+130,5.50,Salad dressingFrench,Frifrench,500ml,Fruits and Vegetables,Migros,2023-05-18
+131,2.80,Spring seasonal salad,Migros Bio,120g,Fruits and Vegetables,Migros,2023-05-18
+132,4.55,Fresh Shiitake mushrooms,Migros Bio,150g,Fruits and Vegetables,Migros,2023-05-18
+133,Regional Price,AsparagusGreen,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+134,3.80,OrangesBlond,M-Budget,3kg,Fruits and Vegetables,Migros,2023-05-18
+135,3.45,  BioSpinach saladOrganic,Anna's Best,100g,Fruits and Vegetables,Migros,2023-05-18
+136,Regional Price,Pineapple,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+137,4.60,PotatoesFloury Cooking,M-Budget,5kg,Fruits and Vegetables,Migros,2023-05-18
+138,2.20,ChiliRed,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+139,2.95,Melon,Anna's Best,150g,Fruits and Vegetables,Migros,2023-05-18
+140,Regional Price,MelonPiel de Sapo,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+141,Regional Price,Rhubarb,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+142,2.85,Back to the Roots salad,California,250g,Fruits and Vegetables,Migros,2023-05-18
+143,4.50,Salad bouquet,Anna's Best,250g,Fruits and Vegetables,Migros,2023-05-18
+144,2.30,  BioBeetroot saladOrganic,Anna's Best,500g,Fruits and Vegetables,Migros,2023-05-18
+145,8.90,AsparagusWhite,Migros Bio,500g,Fruits and Vegetables,Migros,2023-05-18
+146,1.90,PepperoniCecei,M-Budget,500g,Fruits and Vegetables,Migros,2023-05-18
+147,2.60,Betteraves,Anna's Best,400g,Fruits and Vegetables,Migros,2023-05-18
+148,Regional Price,AsparagusGreen,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+149,Regional Price,Dates,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+150,9.95,Salad dressingFrench,Frifrench,1l,Fruits and Vegetables,Migros,2023-05-18
+151,2.60,Soup vegetables,Anna's Best,250g,Fruits and Vegetables,Migros,2023-05-18
+152,2.90,Vegetable stalks,Anna's Best,250g,Fruits and Vegetables,Migros,2023-05-18
+153,2.20,Coconut,Anna's Best,80g,Fruits and Vegetables,Migros,2023-05-18
+154,1.60,Mixed salad,Anna's Best,100g,Fruits and Vegetables,Migros,2023-05-18
+155,3.95,Watermelon,Anna's Best,250g,Fruits and Vegetables,Migros,2023-05-18
+156,Regional Price,Lemongrass,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+157,2.50,Young leaf saladRed - organic,Migros Bio,100g,Fruits and Vegetables,Migros,2023-05-18
+158,6.50,Salad dressingItalian,Mini Salatsossä,500ml,Fruits and Vegetables,Migros,2023-05-18
+159,4.50,Artichoke hearts,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+160,2.95,Onion seedlingsOrganic,Migros Bio,35g,Fruits and Vegetables,Migros,2023-05-18
+161,4.95,Pineapple,Anna's Best,500g,Fruits and Vegetables,Migros,2023-05-18
+162,Regional Price,Asparagus tipsWhite,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+163,3.20,Mixed Flower salad,Migros Bio,100g,Fruits and Vegetables,Migros,2023-05-18
+164,3.95,Cima di Rapa,Fresca,400g,Fruits and Vegetables,Migros,2023-05-18
+165,3.60,Melon FilletsReady for consumption,Anna's Best,180g,Fruits and Vegetables,Migros,2023-05-18
+166,Regional Price,Turmeric,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+167,2.40,Sauerkraut rawOrganic,Migros Bio,500g,Fruits and Vegetables,Migros,2023-05-18
+168,Regional Price,GrapesMix seedless,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+169,Regional Price,Salad dressingSpanish,Mini Salatsossä,NA,Fruits and Vegetables,Migros,2023-05-18
+170,5.95,PineapplePineapple cubes,Anna's Best,380g,Fruits and Vegetables,Migros,2023-05-18
+171,Regional Price,Apples)Gold Kiss,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+172,5.95,Dates,Sélection,200g,Fruits and Vegetables,Migros,2023-05-18
+173,3.40,AOCTree nutsGrenoble,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+174,Regional Price,Mixed sproutsOrganic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+175,Regional Price,Seedlings MixOrganic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+176,Regional Price,Oak leaf saladRed,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+177,3.20,Sauerkraut cookedCuite,Migros Bio,500g,Fruits and Vegetables,Migros,2023-05-18
+178,5.50,Salad dressingFrench Dressing,Migros Bio,500ml,Fruits and Vegetables,Migros,2023-05-18
+179,3.95,"  aha!  - VitafrenchSalad dressingLactose free, gluten free",Frifrench,270ml,Fruits and Vegetables,Migros,2023-05-18
+180,Regional Price,"Sweet cornSweet, cooked",unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+181,Regional Price,Coconut,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+182,2.80,Minestrone,Anna's Best,350g,Fruits and Vegetables,Migros,2023-05-18
+183,Regional Price,Plantains,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+184,1.90,  BioRed cabbage,Masshard,250g,Fruits and Vegetables,Migros,2023-05-18
+185,4.95,  VinaigretteSalad dressingMustard-honey,Anna's Best,500ml,Fruits and Vegetables,Migros,2023-05-18
+186,2.95,Sauerkraut cookedCooked,Anna's Best,500g,Fruits and Vegetables,Migros,2023-05-18
+187,4.80,"PotatoesWaxy, garden herbs marinade",So PotatOh!,480g,Fruits and Vegetables,Migros,2023-05-18
+188,Regional Price,Fruit salad,Anna's Best,NA,Fruits and Vegetables,Migros,2023-05-18
+189,4.95,  DressingSalad dressingThousand Island,Anna's Best,500ml,Fruits and Vegetables,Migros,2023-05-18
+190,2.20,Red cabbage,Masshard,500g,Fruits and Vegetables,Migros,2023-05-18
+191,7.95,  DressingSalad dressingFrench,Anna's Best,1000ml,Fruits and Vegetables,Migros,2023-05-18
+192,4.80,"PotatoesWaxy, garden Paprika Romsmarin",So PotatOh!,480g,Fruits and Vegetables,Migros,2023-05-18
+193,3.40,China Mix,Anna's Best,200g,Fruits and Vegetables,Migros,2023-05-18
+194,2.95,PotatoesRaclette,Sélection,1kg,Fruits and Vegetables,Migros,2023-05-18
+195,Regional Price,KiwiGold,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+196,Regional Price,GrapesMuscat - ,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+197,Regional Price,Blood oranges,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+198,1.10,OnionsRed,Fresca,500g,Fruits and Vegetables,Migros,2023-05-18
+199,Regional Price,Shallots,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+200,2.95,BioGarlicOrganic,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+201,Regional Price,Raspberries,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+202,Regional Price,Prunes,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+203,2.20,Endives,Fresca,500g,Fruits and Vegetables,Migros,2023-05-18
+204,Regional Price,Clementines,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+205,2.50,EndiveScaroles Lavata,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+206,Regional Price,BioLamb's lettuceOrganic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+207,Regional Price,ApplesGolden,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+208,Regional Price,Early potatoes,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+209,Regional Price,BioBlackberriesOrganic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+210,Regional Price,PeanutsOrganic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+211,Regional Price,Flat peaches,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+212,Regional Price,BioGrapesMix seedless - organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+213,Regional Price,BioChiliOrganic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+214,Regional Price,Peaches,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+215,3.95,BioFigsFreshness - organic,unknown,250g,Fruits and Vegetables,Migros,2023-05-18
+216,Regional Price,BioPlums,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+217,Regional Price,BioEarly potatoes,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+218,4.95,PotatoesWaxy,Amandine,1.5kg,Fruits and Vegetables,Migros,2023-05-18
+219,Regional Price,BioMandarins,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+220,3.90,  BioMarket vegetablesOrganic,Anna's Best,350g,Fruits and Vegetables,Migros,2023-05-18
+221,3.40,  BioOak leaf saladOrganic,Anna's Best,120g,Fruits and Vegetables,Migros,2023-05-18
+222,2.90,  BioVegetable mixAsia Mix - Organic,Anna's Best,250g,Fruits and Vegetables,Migros,2023-05-18
+223,5.50,OrangesTarocco - Organic,Migros Bio,1.5kg,Fruits and Vegetables,Migros,2023-05-18
+224,5.50,Bood oranges,Migros Bio,1.5kg,Fruits and Vegetables,Migros,2023-05-18
+225,3.90,BioLettuceMini,unknown,250g,Fruits and Vegetables,Migros,2023-05-18
+226,4.20,Butterhead lettuceDuo grün,Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+227,Regional Price,RadishWhite,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+228,Regional Price,ClementinesMini,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+229,Regional Price,ApplesGala,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+230,Regional Price,Brussels sprouts,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+231,Regional Price,Brussels sprouts,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+232,Regional Price,Chanterelle,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+233,Regional Price,Chanterelle,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+234,Regional Price,OrangesBlond,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+235,Regional Price,Cranberries,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+236,Regional Price,Iceberg lettuce,M-Budget,NA,Fruits and Vegetables,Migros,2023-05-18
+237,2.85,BioTomatoesOrganic - Dates,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+238,Regional Price,BioOriental persimmon,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+239,Regional Price,Endive,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+240,Regional Price,ChardOrganic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+241,Regional Price,PineappleBaby,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+242,Regional Price,Flower koli and broccoliMini,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+243,Regional Price,ApplesTopaz,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+244,Regional Price,BioApplesGala - Organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+245,6.30,BioApplesBraeburn - Organic,unknown,1 kg,Fruits and Vegetables,Migros,2023-05-18
+246,Regional Price,BioPearsWilliams - Organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+247,Regional Price,Flat peaches,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+248,1.90,Peppers,M-Budget,2-3 colors500g,Fruits and Vegetables,Migros,2023-05-18
+249,Regional Price,BioFenouilOrganic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+250,Regional Price,Broccoli,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+251,Regional Price,Chou-Fleur,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+252,3.70,Concombre,Demeter,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+253,4.50,Grapes,Demeter,500g,Fruits and Vegetables,Migros,2023-05-18
+254,Regional Price,OrangesTarocco,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+255,4.95,Endives,Extra,300g,Fruits and Vegetables,Migros,2023-05-18
+256,Regional Price,BioBasilIn a pot - organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+257,Regional Price,BioParsleyIn a pot - organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+258,Regional Price,BioChivesIn a pot - organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+259,Regional Price,BasilIn pot,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+260,Regional Price,BioApplesGravensteiner - Organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+261,Regional Price,Zucchini,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+262,Regional Price,Watermelon,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+263,Regional Price,Broccoli,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+264,Regional Price,Choux fleur,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+265,5.60,BioEggplantOrganic,unknown,1 kg,Fruits and Vegetables,Migros,2023-05-18
+266,3.70,PotatoesRösti-Frites Baked,Fresca,2.5kg,Fruits and Vegetables,Migros,2023-05-18
+267,Regional Price,Mandarins,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+268,5.50,Salad dressingBalsamico Dressing,Migros Bio,500ml,Fruits and Vegetables,Migros,2023-05-18
+269,4.50,Flat peaches,Demeter,500g,Fruits and Vegetables,Migros,2023-05-18
+270,Regional Price,KiwiGold,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+271,Regional Price,BioParsnipsOrganic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+272,Regional Price,Tomato,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+273,Regional Price,Fioretto,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+274,4.20,Garlic,Demeter,150g,Fruits and Vegetables,Migros,2023-05-18
+275,Regional Price,PotatoesRaclette,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+276,Regional Price,Endives,M-Budget,NA,Fruits and Vegetables,Migros,2023-05-18
+277,Regional Price,ChiliPadron,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+278,3.95,TomatoesCherry vine,Sélection,200g,Fruits and Vegetables,Migros,2023-05-18
+279,Regional Price,Prickly pears,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+280,Regional Price,PearsSeason,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+281,3.90,Spring cabbage,Anna's Best,200g,Fruits and Vegetables,Migros,2023-05-18
+282,Regional Price,AsparagusEuropean White,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+283,Regional Price,PotatoesRaclette,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+284,Regional Price,Rocket,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+285,Regional Price,BioEndiveScaroles Lavata - Organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+286,3.75,Butterhead lettuceVerte,Anna's Best,230g,Fruits and Vegetables,Migros,2023-05-18
+287,Regional Price,CucumberSnack,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+288,Regional Price,TomatoesCherry,M-Budget,NA,Fruits and Vegetables,Migros,2023-05-18
+289,Regional Price,MandarinsMandalate,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+290,Regional Price,Strawberries,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+291,Regional Price,BioPearsGood Louise - Organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+292,Regional Price,Floret quartetMini,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+293,Regional Price,Floret TrioMini,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+294,Regional Price,Fennel,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+295,Regional Price,Oriental persimmonPersimmon,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+296,2.20,  BioWine- Sauerkraut organic,Masshard,250g,Fruits and Vegetables,Migros,2023-05-18
+297,4.95,ApplesMini,Fresca,1.5kg,Fruits and Vegetables,Migros,2023-05-18
+298,Regional Price,EggplantThin,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+299,2.90,KiwiRed,Sélection,280g,Fruits and Vegetables,Migros,2023-05-18
+300,Regional Price,BioApplesPinova - Bio,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+301,Regional Price,BioButterhead lettuceRed - Organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+302,6.65,Blueberries,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+303,Regional Price,ApplesSüss-säuerlich,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+304,Regional Price,BioChiliOrganic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+305,Regional Price,CALETS,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+306,8.90,AsparagusGreen of Europe,unknown,750g,Fruits and Vegetables,Migros,2023-05-18
+307,2.20,ColeslawRaffled,Migros Bio,200g,Fruits and Vegetables,Migros,2023-05-18
+308,5.40,,Anna's Best,1.August salad450g,Fruits and Vegetables,Migros,2023-05-18
+309,Regional Price,LemonOrganic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+310,3.10,FigsFresh,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+311,Regional Price,Clementines,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+312,2.25,Carrots and celeryGrated - Organic,Migros Bio,200g,Fruits and Vegetables,Migros,2023-05-18
+313,2.25,CeleryGrated - Organic,Migros Bio,200g,Fruits and Vegetables,Migros,2023-05-18
+314,Regional Price,CherimoyaAntonna Cherimola,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+315,Regional Price,White cabbageGrated,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+316,Regional Price,PotatoesFloury Cooking,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+317,Regional Price,LettuceMini - Green,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+318,2.90,Gardener's salad,Anna's Best,350g,Fruits and Vegetables,Migros,2023-05-18
+319,6.95,MangoCubes,Anna's Best,320g,Fruits and Vegetables,Migros,2023-05-18
+320,5.95,Fruit salad,Anna's Best,340g,Fruits and Vegetables,Migros,2023-05-18
+321,Regional Price,"GrapesCoreless, white",unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+322,Regional Price,GrapesCoreless - Organic,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+323,Regional Price,PotatoesRaclette,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+324,2.95,  BioLamb's lettuceOrganic,Anna's Best,60g,Fruits and Vegetables,Migros,2023-05-18
+325,Regional Price,Dragon fruitRed,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+326,Regional Price,Peanuts,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+327,Regional Price,Pineapple,Sélection,NA,Fruits and Vegetables,Migros,2023-05-18
+328,Regional Price,Apricots,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+329,Regional Price,PlumsMix,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+330,Regional Price,Tomatoes,M-Budget,NA,Fruits and Vegetables,Migros,2023-05-18
+331,2.55,"  Max HavelaarGrapesMixed, coreless",Fresca,500g,Fruits and Vegetables,Migros,2023-05-18
+332,Regional Price,PepperoniMini Mix,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+333,Regional Price,ParsleyCurled,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+334,3.45,Turnip cabbage,Demeter,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+335,Regional Price,BioStrawberriesBio,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+336,Regional Price,ParsleyFlat,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+337,Regional Price,Bio FairtradeMango,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+338,5.65,BioBeansOrganic,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+339,Regional Price,TomatoesDates,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+340,5.60,BioRaspberriesOrganic,unknown,250g,Fruits and Vegetables,Migros,2023-05-18
+341,Regional Price,TomatoesDates,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+342,4.10,Melon,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+343,Regional Price,MelonCharentais,Sélection,NA,Fruits and Vegetables,Migros,2023-05-18
+344,3.20,Pomelo,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+345,Regional Price,Peaches,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+346,4.10,SauerkrautRaw,M-Classic,1kg,Fruits and Vegetables,Migros,2023-05-18
+347,2.40,Red cabbageCuit,M-Classic,500g,Fruits and Vegetables,Migros,2023-05-18
+348,5.90,Aus der Region Bio Aroniabeeren,unknown,100g,Fruits and Vegetables,Migros,2023-05-18
+349,5.80,Aus der Region Birnen,unknown,100g,Fruits and Vegetables,Migros,2023-05-18
+350,7.30,Aus der Region Aroniabeeren,unknown,100g,Fruits and Vegetables,Migros,2023-05-18
+351,5.90,Aus der Region Bio Aroniabeeren,unknown,100g,Fruits and Vegetables,Migros,2023-05-18
+352,Regional Price,,Anna's Best,NA,Fruits and Vegetables,Migros,2023-05-18
+353,3.60,Sommermischung,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+354,3.90,Aromatico,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+355,3.60,Frühlingsmischung,unknown,170g,Fruits and Vegetables,Migros,2023-05-18
+356,2.40,HIT Herbstsalat,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+357,2.60,Randen gewürfelt,unknown,300g,Fruits and Vegetables,Migros,2023-05-18
+358,3.20,Sauerkraut gekocht,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+359,2.70,Mélange vaud,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+360,Regional Price,Randen gedämpft,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+361,Regional Price,Panonija Kiseli Kupus lakër për sarma,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+362,Regional Price,AdR Suurchabis roh,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+363,4.50,Gemüse Dip,unknown,180g,Fruits and Vegetables,Migros,2023-05-18
+364,2.20,Sellerie roh geraffelt,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+365,Regional Price,Salade pain sucre,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+366,2.–,Mélange été,unknown,150g,Fruits and Vegetables,Migros,2023-05-18
+367,2.50,HIT Frühlingssalat,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+368,3.70,Frische Handmischung,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+369,8.80,Zuckermaisrugeli pasteurisiert,unknown,1 kg,Fruits and Vegetables,Migros,2023-05-18
+370,Regional Price,,M-Classic,NA,Fruits and Vegetables,Migros,2023-05-18
+371,3.95,Edamame geschält,Sushi Mania,100g,Fruits and Vegetables,Migros,2023-05-18
+372,Regional Price,Äpfel Gravensteiner säuerlich,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+373,Regional Price,Äpfel Golden süsslich,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+374,Regional Price,Äpfel ,Jazz,NA,Fruits and Vegetables,Migros,2023-05-18
+375,Regional Price,Äpfel Gold Kiss süsslich,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+376,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+377,Regional Price,Birnen Abate Fetel,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+378,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+379,Regional Price,Pfirsiche weissfleischig,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+380,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+381,3.30,Nektarinen gelbfleischig,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+382,Regional Price,BioGrapefruit,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+383,2.50,Bananen,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+384,Regional Price,,M-Budget,NA,Fruits and Vegetables,Migros,2023-05-18
+385,3.20,Fairtrade Bananen Mini,Migros Fresca,300g,Fruits and Vegetables,Migros,2023-05-18
+386,Regional Price,Ingwer,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+387,0.55,Fairtrade Limetten,Migros Fresca,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+388,Regional Price,Litschis,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+389,Regional Price,Passionsfrucht,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+390,5.90,Bio Persimon Kaki,Migros Bio,1 kg,Fruits and Vegetables,Migros,2023-05-18
+391,Regional Price,Trauben Red Globe,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+392,Regional Price,Currants,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+393,5.95,Cicorino rosso,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+394,Regional Price,Batavia salad,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+395,7.90,Lettuce,Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+396,Regional Price,Lattich mini grün,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+397,Regional Price,Cherrytomaten gemischt,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+398,Regional Price,Sélection Cherrytomate Zweig,Migros Sélection,NA,Fruits and Vegetables,Migros,2023-05-18
+399,Regional Price,Gurken Nostrani,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+400,Regional Price,Peperoni gelb,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+401,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+402,1.–,Champignons braun,Migros Fresca,100 g,Fruits and Vegetables,Migros,2023-05-18
+403,Regional Price,Champignons braun,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+404,Regional Price,Äpfel Boskoop säuerlich,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+405,Regional Price,Äpfel Golden Victor süsslich,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+406,Regional Price,Birnen Gute Luise,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+407,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+408,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+409,Regional Price,Cherries,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+410,Regional Price,Bio Zwetschgen,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+411,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+412,Regional Price,Bolets,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+413,Regional Price,Morels,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+414,Regional Price,Bio Clementinen,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+415,Regional Price,BioLemon,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+416,Regional Price,Zucchetti,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+417,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+418,Regional Price,Bio Zucchetti,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+419,Regional Price,Süsskartoffeln,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+420,1.95,Süsskartoffeln,Migros Fresca,1kg,Fruits and Vegetables,Migros,2023-05-18
+421,Regional Price,Suesskartoffeln 750g,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+422,Regional Price,Zuckermais,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+423,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+424,Regional Price,Kartoffeln mehligkochend IP-SUISSE,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+425,1.60,Kartoffeln festkochend,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+426,2.70,Kartoffeln festkochend IP-SUISSE,unknown,2kg,Fruits and Vegetables,Migros,2023-05-18
+427,Regional Price,Kartoffeln festkochend IP-SUISSE,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+428,Regional Price,Frühkartoffeln,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+429,4.20,Carrots,Demeter,1kg,Fruits and Vegetables,Migros,2023-05-18
+430,Regional Price,Bio Karottenmix,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+431,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+432,Regional Price,Knollensellerie,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+433,Regional Price,Stangensellerie,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+434,Regional Price,Bio Knollensellerie,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+435,15.50,AsparagusWhite,Extra,1kg,Fruits and Vegetables,Migros,2023-05-18
+436,Regional Price,Lauch geschnitten,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+437,Regional Price,Blumenkohl/Romanesco,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+438,Regional Price,Feigen blau,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+439,Regional Price,Erdbeeren,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+440,Regional Price,Trauben Lavallée,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+441,3.20,Trauben Vittoria,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+442,5.95,Beeren gemischt,Migros Fresca,2 x 250g,Fruits and Vegetables,Migros,2023-05-18
+443,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+444,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+445,Regional Price,Triosalat,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+446,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+447,Regional Price,Pak-Choi,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+448,Regional Price,Bio Kresse,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+449,Regional Price,Tomaten Peretti,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+450,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+451,2.70,Champ. weiss/braun,Migros Fresca,250g,Fruits and Vegetables,Migros,2023-05-18
+452,Regional Price,Steinpilze getrocknet,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+453,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+454,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+455,Regional Price,Frühkartoffeln,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+456,1.90,Peterli gekraust,Migros Fresca,100 g,Fruits and Vegetables,Migros,2023-05-18
+457,3.60,PotatoesSpring,Fresca,1kg,Fruits and Vegetables,Migros,2023-05-18
+458,2.–,Snack Karotten,Migros Fresca,200g,Fruits and Vegetables,Migros,2023-05-18
+459,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+460,Regional Price,,Demeter,NA,Fruits and Vegetables,Migros,2023-05-18
+461,Regional Price,Fenchel,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+462,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+463,Regional Price,Bio Broccoli,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+464,1.20,BioChives,unknown,10g,Fruits and Vegetables,Migros,2023-05-18
+465,Regional Price,Chinese cabbage,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+466,Regional Price,Basilikum,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+467,Regional Price,Koriander,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+468,Regional Price,Bio Pfefferminze Topf,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+469,Regional Price,Estragon,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+470,2.10,Pfefferminze,Migros Fresca,20g,Fruits and Vegetables,Migros,2023-05-18
+471,Regional Price,Rosmarin,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+472,2.10,Thymian,Migros Fresca,20g,Fruits and Vegetables,Migros,2023-05-18
+473,6.95,Bio Suppengemüse,Migros Bio,1 kg,Fruits and Vegetables,Migros,2023-05-18
+474,Regional Price,Äpfel Cox Orange süss-säuerlich,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+475,Regional Price,Äpfel Gala süsslich,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+476,Regional Price,Äpfel Kanzi süss-säuerlich,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+477,Regional Price,Äpfel ,SweeTango,NA,Fruits and Vegetables,Migros,2023-05-18
+478,3.50,Birnen Kaiser Alexander,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+479,Regional Price,Birnen Conférence,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+480,Regional Price,PearsForelle,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+481,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+482,4.95,Zwetschgen,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+483,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+484,4.50,Sélection Mandared,Migros Sélection,1 kg,Fruits and Vegetables,Migros,2023-05-18
+485,4.50, Mandared,Sélection,1 kg,Fruits and Vegetables,Migros,2023-05-18
+486,5.–,Papaya formosa,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+487,Regional Price,Physalis,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+488,Regional Price,Kaki,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+489,Regional Price,Trauben Uva Italia,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+490,3.70,Currants,unknown,250g,Fruits and Vegetables,Migros,2023-05-18
+491,Regional Price,Beeren gemischt,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+492,Regional Price,Bio Cicorino rosso,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+493,Regional Price,Bio Portulak,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+494,7.50,Krautstiele,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+495,4.90,Bio Zuckerhut,unknown,1 kg,Fruits and Vegetables,Migros,2023-05-18
+496,Regional Price,Peperoni grün,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+497,4.95,PeppersRed,unknown,1 kg,Fruits and Vegetables,Migros,2023-05-18
+498,Regional Price,Peperoncini rot,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+499,Regional Price,Poivrons,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+500,Regional Price,Champignons weiss,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+501,Regional Price,Steinpilze,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+502,Regional Price,Kürbis geschnitten,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+503,Regional Price,Zucchetti gemischt,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+504,Regional Price,Bio Kürbis Butternuss,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+505,Regional Price,Dörrbohnen,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+506,2.95,Fairtrade Kartoffeln Patatli,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+507,Regional Price,Karotten,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+508,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+509,Regional Price,Meerrettich,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+510,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+511,3.95,LeeksGreen,unknown,1 kg,Fruits and Vegetables,Migros,2023-05-18
+512,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+513,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+514,Regional Price,Flower koli and broccoli,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+515,Regional Price,Rotkabis,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+516,Regional Price,Weisskabis,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+517,Regional Price,Bio Weisskabis,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+518,Regional Price,Bio Wirz,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+519,Regional Price,Peterli glatt,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+520,Regional Price,Suppengemüse,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+521,Regional Price,Birnen Williams,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+522,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+523,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+524,7.50,Kirschen,Migros Fresca,500g,Fruits and Vegetables,Migros,2023-05-18
+525,Regional Price,Blondorangen,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+526,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+527,Regional Price,Blutorangen,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+528,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+529,Regional Price,Clementinen,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+530,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+531,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+532,Regional Price,Melone Snowball,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+533,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+534,Regional Price,Sélection Erdbeeren Mara de bois 250g,Migros Sélection,NA,Fruits and Vegetables,Migros,2023-05-18
+535,4.95,Trauben Aledo,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+536,Regional Price,Sélection Trauben Uva Italia,Migros Sélection,NA,Fruits and Vegetables,Migros,2023-05-18
+537,Regional Price,Bio Trauben Vittoria,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+538,Regional Price,Blackberries,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+539,Regional Price,Snack Marroni,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+540,Regional Price,Wassermelone,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+541,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+542,Regional Price,Zuckerhut,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+543,Regional Price,Tomaten Coeur de boeuf gezahnt,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+544,1.10,Sélection Tomaten Merinda,Migros Sélection,100 g,Fruits and Vegetables,Migros,2023-05-18
+545,1.10, Tomaten Merinda,Sélection,100 g,Fruits and Vegetables,Migros,2023-05-18
+546,9.90,Bio Gurken mini,Migros Bio,1 kg,Fruits and Vegetables,Migros,2023-05-18
+547,Regional Price,Aubergine,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+548,Regional Price,Peperoni Ramiro rot,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+549,Regional Price,Champignons weiss,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+550,Regional Price,Chanterelles,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+551,Regional Price,Steinpilze,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+552,Regional Price,,Demeter,NA,Fruits and Vegetables,Migros,2023-05-18
+553,Regional Price,Sugar peas,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+554,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+555,Regional Price,Kartoffeln festk. neue Ernte,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+556,Regional Price,Kartoffeln Patatli,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+557,Regional Price,BioPotatoesSolid cooking - organic,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+558,Regional Price,Artischocken grün,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+559,Regional Price,Federkohl,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+560,Regional Price,Wirz,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+561,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+562,3.90,Onions,Demeter,750g,Fruits and Vegetables,Migros,2023-05-18
+563,2.10,Dill,Migros Fresca,20g,Fruits and Vegetables,Migros,2023-05-18
+564,Regional Price,Oregano,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+565,Regional Price,Salbei,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+566,2.10,Bio Koriander,Migros Bio,20g,Fruits and Vegetables,Migros,2023-05-18
+567,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+568,3.50,Äpfel Braeburn süss-säuerlich,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+569,Regional Price,Baby Spinat,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+570,4.95,Blueberries,Extra,250g,Fruits and Vegetables,Migros,2023-05-18
+571,Regional Price,Bio Heidelbeeren lose,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+572,9.90,Bio Zuckermais past.,Migros Bio,1 kg,Fruits and Vegetables,Migros,2023-05-18
+573,Regional Price,Kartoffeln festk. neue Ernte,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+574,Regional Price,Bio Baby-Leaves,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+575,Regional Price,Pfirsiche gelbfleischig,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+576,Regional Price,,Anna's Best,NA,Fruits and Vegetables,Migros,2023-05-18
+577,Regional Price,Zucchini,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+578,Regional Price,Bio Fairtrade Ingwer,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+579,Regional Price,BioLettuceMini,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+580,Regional Price,Bio Fenchel,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+581,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+582,Regional Price,Bio Rispentomaten,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+583,Regional Price,Bio Zwiebeln rot,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+584,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+585,Regional Price,Bio Lauch geschnitten,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+586,Regional Price,CoconutTo drink,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+587,Regional Price,Romanesco cauliflowerMini,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+588,Regional Price,,Migros Daily,NA,Fruits and Vegetables,Migros,2023-05-18
+589,3.90,HIT Kopfsalat XL,unknown,350g,Fruits and Vegetables,Migros,2023-05-18
+590,6.95,Frühlingspfanne,unknown,405g,Fruits and Vegetables,Migros,2023-05-18
+591,Regional Price,Ratatouille,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+592,7.95,Frühlingsgemüse,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+593,6.95,Wokgemüse,unknown,415g,Fruits and Vegetables,Migros,2023-05-18
+594,Regional Price,Bio Zuckermais pasteurisiert,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+595,4.95,MelonCantaloup,Demeter,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+596,7.50,Vitamin-Bag Kernobst,Migros Fresca,2.9kg,Fruits and Vegetables,Migros,2023-05-18
+597,6.90,VitaminBag Ratatouille,Migros Fresca,2.4kg,Fruits and Vegetables,Migros,2023-05-18
+598,7.95,Mix of wild mushrooms,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+599,Regional Price,Eierschwämme,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+600,2.50,PepperoniMini Mix,Fresca,250g,Fruits and Vegetables,Migros,2023-05-18
+601,Regional Price,PlumsRed,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+602,Regional Price,Mirabellen,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+603,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+604,2.50,Mini Lattich,unknown,150g,Fruits and Vegetables,Migros,2023-05-18
+605,2.60,Kopfsalat mit Essblume,unknown,100g,Fruits and Vegetables,Migros,2023-05-18
+606,2.80,SaladAutumn salad,Migros Bio,120g,Fruits and Vegetables,Migros,2023-05-18
+607,Regional Price,Datteln,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+608,Regional Price,,Anna's Best,NA,Fruits and Vegetables,Migros,2023-05-18
+609,4.60,Edamame ungeschält,Sushi Mania,150g,Fruits and Vegetables,Migros,2023-05-18
+610,2.60,Bio Chicago Salat,unknown,180g,Fruits and Vegetables,Migros,2023-05-18
+611,Regional Price,PumpkinHalloween - to be sculpted,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+612,Regional Price,Butternusskürbis,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+613,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+614,2.80,Sauerrüben roh,unknown,400g,Fruits and Vegetables,Migros,2023-05-18
+615,Regional Price,Passionsfrucht,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+616,Regional Price,ApplesBraeburn,Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+617,Regional Price,Randen gold,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+618,Regional Price,Kastanien,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+619,2.80,Season salad winter,Migros Bio,120g,Fruits and Vegetables,Migros,2023-05-18
+620,2.–,Mélange printemps,unknown,150g,Fruits and Vegetables,Migros,2023-05-18
+621,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+622,3.90,Black garlic,Sélection,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+623,Regional Price,Faritrade Litschis,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+624,3.20,Fermentierts Gemüse,unknown,475g,Fruits and Vegetables,Migros,2023-05-18
+625,Regional Price,Bio Rotkraut gekocht,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+626,2.50,HIT Wintersalat,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+627,Regional Price,PearsRocha,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+628,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+629,Regional Price,Romanesco orange,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+630,Regional Price,Zwiebeln gross,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+631,0.90,Kiwi,Migros Bio,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+632,2.90,Bio lattughino,unknown,120g,Fruits and Vegetables,Migros,2023-05-18
+633,4.15,Spinatsalat,unknown,140g,Fruits and Vegetables,Migros,2023-05-18
+634,2.50,HIT Herbstsalat,unknown,200g,Fruits and Vegetables,Migros,2023-05-18
+635,4.90,Peperone grigliato,unknown,250g,Fruits and Vegetables,Migros,2023-05-18
+636,Regional Price,Tomatoes,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+637,Regional Price,Bärlauch,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+638,Regional Price,Bio Saisonäpfel,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+639,3.30,Äpfel Elstar süss-säuerlich,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+640,Regional Price,Kartoffeln Baked Potatoes,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+641,Regional Price,Peperoni gemischt,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+642,Regional Price,Birnen Guyot,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+643,Regional Price,Spitzkabis,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+644,5.30,Maniok,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+645,2.30,Bio Batavia grün,Migros Bio,120g,Fruits and Vegetables,Migros,2023-05-18
+646,3.75,Papaya Formosa,Migros Fresca,1 kg,Fruits and Vegetables,Migros,2023-05-18
+647,Regional Price,Fairtrade Litschis,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+648,Regional Price,Mispeln,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+649,Regional Price,Löwenzahn,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+650,4.95,Sélection Nüsslisalat,Migros Sélection,100g,Fruits and Vegetables,Migros,2023-05-18
+651,4.95, Nüsslisalat,Sélection,100g,Fruits and Vegetables,Migros,2023-05-18
+652,Regional Price,Randen roh,Migros Fresca,NA,Fruits and Vegetables,Migros,2023-05-18
+653,Regional Price,,Extra,NA,Fruits and Vegetables,Migros,2023-05-18
+654,Regional Price,,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+655,12.95,Thai mixCurry gelb,unknown,1 Stück,Fruits and Vegetables,Migros,2023-05-18
+656,Regional Price,Thai mixMix,unknown,NA,Fruits and Vegetables,Migros,2023-05-18
+657,4.95,  DressingSalad dressingCaesar,Anna's Best,500ml,Fruits and Vegetables,Migros,2023-05-18
+658,6.50,AsparagusViolet,unknown,500g,Fruits and Vegetables,Migros,2023-05-18
+659,Regional Price,Noix,Migros Bio,NA,Fruits and Vegetables,Migros,2023-05-18
+660,2.50,Wine sauerkraut,Masshard,500g,Fruits and Vegetables,Migros,2023-05-18

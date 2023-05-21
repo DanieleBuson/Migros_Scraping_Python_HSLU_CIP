@@ -1,0 +1,1314 @@
+,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,2.50,  IP-SUISSELight wheat breadToast & Sandwich,M-Classic,620g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1,3.30,  IP-SUISSEXL Toast,American Favorites,730g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+2,0.35,Fresh baker's yeast ,unknown,42g42g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+3,1.10,Light wheat breadPart baked,M-Budget,2 x 150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+4,1.40,  CristalFine crystal sugar,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+5,3.80,  IP-SUISSEXL ToastWith wholewheat flour,American Favorites,730g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+6,1.45,Puff pastryRolled out and round ,M-Classic,33cm270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+7,5.25,Hazelnut nougat cream,Nutella,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+8,1.20,  IP-SUISSEToast bread light in slicesToast & Sandwich,M-Classic,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+9,2.80,Toast breadDark,Migros Bio,365g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+10,1.55,Cake doughLowered and round,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+11,1.70,Corn wafers,Lilibiggs,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+12,2.10,  IP-SUISSEWhite flour,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+13,2.10,IP-SUISSEOriginal spelt toast,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+14,1.30,Wholegrain oat flakesFine,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+15,3.80,Butter croissantsPre-baked,M-Classic,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+16,2.30,Puff pastryFlattened and rectangular,M-Budget,2 x 320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+17,1.–,Household flour White flour,M-Budget,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+18,4.20,Pizza doughRolled out and square ,Anna's Best,40x25cm580g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+19,2.90,Pizza dough XLRolled out und square,M-Budget,800g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+20,2.20,Buns for hamburgers and sandwichesWith sesame,American Favorites,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+21,0.55,Fresh baker's yeast ,Migros Bio,42g42g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+22,2.95,  IP-SUISSECrunchy bread rollsPre-baked,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+23,1.45,Toast dark wheat bread,M-Budget,560g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+24,2.70,  IP-SUISSEDark breadSliced,Happy Bread,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+25,2.80,Flambkuchen dough,Anna's Best,2 x 200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+26,3.30,  IP-SUISSELight wheat breadPart baked,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+27,1.95,Milk Bread,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+28,6.95,  TresorCrunchy cereal pillow with delicious Choco fillingChoco nut,Kellogg's,620g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+29,2.10,IP-SUISSEWholemeal bread toast,unknown,280g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+30,3.50,Rusk,M-Classic,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+31,1.50,Garlic baguettePre-baked,Farmland,175g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+32,2.95,"Buns for hamburgers and sandwiches, pre-cutXXL",American Favorites,310g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+33,1.45,Toast light wheat bread,M-Budget,560g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+34,0.85,Dried yeast,Patissier,6 x 7g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+35,4.95,  Crunchy CreamSpread,Ovomaltine,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+36,0.95,Corn wafers with salt,Alnatura,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+37,2.50,Pita breadPart baked,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+38,1.20,Wholemeal rice wafers with milk chocolate,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+39,2.50,Spelt pizza doughSquare ,Anna's Best,36x23cm400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+40,5.20,Chocolate rolls,M-Classic,720g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+41,2.10,  IP-SUISSEZopf flour,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+42,3.50,  IP-SUISSEButter zopfPart baked,M-Classic,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+43,2.55,Pâte à tartiner au chocolat et aux noisettes,Nutella,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+44,1.20,Wholemeal rice wafersYogurt-flavored,M-Classic,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+45,5.60,  IP-SUISSEButter braidPre-baked,M-Classic,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+46,1.50,Wholemeal oat flakesSubtle.,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+47,3.10,  IP-SUISSEBread rolls with butterPre-baked,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+48,2.20,American toastWith wholemeal,M-Classic,730g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+49,1.95,  IP-SUISSEXL Toast,American Favorites,365g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+50,2.60,Spelt cake doughRound ,Anna's Best,33cm300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+51,2.80,Baking chocolate cubes,Patissier,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+52,3.95,Vanilla sugar made from Bourbon vanilla,Patissier,4 x 10g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+53,8.40,"  IP-SUISSEWhite flourIdeal for fine baked goods, light and airy breads and sauces",M-Classic,4 x 1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+54,5.20,  ChocosCrunchy cereal foodChoco,Kellogg's,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+55,3.30,  IP-SUISSEDark wheat breadPart baked,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+56,6.50,Maple syrup,Migros Bio,250ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+57,3.20,Sils croissants with butterPre-baked,M-Classic,180g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+58,1.75,Swiss wholegrain oat flakesFine,Migros Bio,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+59,2.60,Pizza flour,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+60,0.50,Baking Powder,Patissier,10 x 15g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+61,1.40,  IP-SUISSEToast bread with wholemeal flour in slicesToast Rustico,M-Classic,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+62,5.60,  CristalFine crystal sugar,M-Classic,4 x 1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+63,2.30,  FairtradeRaw sugar from sugar cane,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+64,2.40,  IP-SUISSESandwiches breadEat the same day,M-Classic,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+65,1.70,Puff pastryFlattened and square ,M-Classic,42x26cm320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+66,3.45,  aha!Wholemeal rice wafers coated with milk chocolateGluten free,Migros Bio,3 x 45g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+67,2.50,  IP-SUISSEBalloonsPre-baked,M-Classic,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+68,3.80,  IP-SUISSEButter braidPre-baked,M-Classic,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+69,3.95,  CrocMuesli NibblesWith wild berries,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+70,3.75,Spelt flourType ,Alnatura,6301kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+71,2.60,Pasty,M-Classic,198g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+72,2.40,Cake dough rolled outRound ,Migros Bio,33cm270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+73,2.20,PastyPuff pastries,M-Classic,132g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+74,3.30,  Vital+ FitMultigrain breadSliced,Harry,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+75,1.50,  MicrocWheat crispbread,M-Classic,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+76,4.45,  IP-SUISSEPretzel from silsPre-baked,M-Classic,310g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+77,Regional Price,Carac,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+78,1.50,  MicrocRye crisp slice,M-Classic,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+79,3.95,  CrocMuesli NibblesChocolate flakes,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+80,1.65,Cooking chocolate,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+81,2.70,Milk BreadWith chocolate,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+82,1.75,Rice cakesApple,Lilibiggs,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+83,3.25,Brioche Summit,M-Budget,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+84,1.80,  Corn FlakesCorn flakes with ,M-Budget,8 vitamins600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+85,1.60,Pure powdered sugar,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+86,3.70,Peanut butterCrunchy,M-Classic,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+87,2.50,Cake doughSquare,M-Budget,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+88,4.90,Blossom honeySqueeze,Squeeze,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+89,3.–,AlmondsGround,M-Budget,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+90,0.50,Vanillin sugar,Patissier,10 x 8g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+91,2.–,  CristalSugar cubes,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+92,2.80,  IP-SUISSEMini sandwichesEat the same day,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+93,Regional Price,Bread roll with wholemeal flourPre-baked,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+94,1.85,Honey rice cake,Alnatura,96g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+95,1.95,JamRaspberries,M-Budget,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+96,2.80,Sugar sticksX,M-Classic,4500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+97,4.40,Butter braidPart-baked,Migros Bio,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+98,3.40,Aha!Farmhouse breadGluten- and lactose-free,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+99,3.55,Pizza doughRolled out and extra thin,Anna's Best,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+100,3.90,BürliPre-baked,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+101,1.–,Lentil wafersSea-salt,Alnatura,44g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+102,2.20,  IP-SUISSEXL ToastVitality,American Favorites,365g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+103,2.–,High Protein sliced toast,Oh!,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+104,1.90,Rice cakesWith strawberry yogurt,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+105,2.–,Rusk,M-Budget,510g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+106,3.70,Peanut butterCreamy,M-Classic,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+107,1.20,Wholemeal rice wafers coated with dark chocolate,M-Classic,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+108,2.10,  IP-SUISSEWheat half-white flour,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+109,3.70,Brioche St-Germain,unknown,330g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+110,3.10,Protein bread,You,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+111,2.20,Buns for hamburgers and sandwiches,American Favorites,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+112,1.65,Rice cakesWith yogurt,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+113,4.20,BerlinRaspberry-redcurrant,unknown,280g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+114,2.75,  ExtraJamStrawberries,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+115,4.30,Wholemeal breakfast,Weetabix,430g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+116,2.95,Agave syrupDispenser bottle,Alnatura,250ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+117,2.20,  IP-SUISSERuch flour,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+118,3.75,Pizza doughSPHERE,M-Classic,800g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+119,Regional Price,Crustless toast,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+120,2.45,Crunchy bread rolls,M-Classic,225g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+121,3.–,Puff pastryRolled and angular,Migros Bio,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+122,3.40,  CubanaRaw sugar from sugar cane in cubes,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+123,0.90,Rice wafersGluten free,M-Classic,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+124,2.90,Cream Cuts,unknown,157g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+125,3.80,HazelnutsGround,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+126,0.60,Baking soda,Patissier,50g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+127,1.40,Chocolate rice wafers dark,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+128,5.30,  SmacksCrunchy wheat with vitamins and iron.,Kellogg's,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+129,2.50,"  aha!Corn flakesGluten free, without wheat",Migros Bio,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+130,1.95,  ExtraJamStrawberry & rhubarb,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+131,3.50,Bourbon vanilla,Alnatura,3 x 8g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+132,3.95,Muesli NibblesChocolate,M-Budget,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+133,3.10,  IP-SUISSEBread rolls with butterEat on the same day,M-Classic,325g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+134,3.30,AlmondsGround,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+135,2.95,Cocoa powder,Patissier,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+136,5.95,Fine creamy honey,unknown,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+137,5.30,  FrostiesPower Flakes made from corn,Kellogg's,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+138,3.20,Oats Crunchy forest berry,Alnatura,375g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+139,1.20,Grated coconutGrated,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+140,4.50,  CrocMuesli NibblesApple and cinnamon,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+141,2.70,  IP-SUISSELight breadSliced,Happy Bread,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+142,4.20,Blossom honey Dispenser bottle,Alnatura,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+143,4.20,RuskNo added sugar,M-Classic,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+144,3.30,  FITNatural FlakesFlakes de riz et de froment avec ,M-Classic,8 vitamines et du fer500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+145,3.30,Low carb bread,You,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+146,1.–,Wholemeal rice wafersWithout added salt,M-Classic,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+147,4.70,FlatbreadPre-baked,Piadina,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+148,2.65,Cake dough baseIn baking pan,Anna's Best,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+149,5.50,  Special KFlakes from rice and wheatDark chocolate,Kellogg's,375g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+150,1.50,Wholemeal oatmeal,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+151,2.30,Crispbread SESAMESesame,Wasa,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+152,2.30,Fine wholemeal rye crispbreadOriginal,Wasa,205g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+153,2.10,Rye wholemeal bread,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+154,2.90,  IP-SUISSENut breadSliced,Happy Bread,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+155,6.65,Crisp muesliWith Ovaltine,Ovomaltine,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+156,4.50,Crispbread classicLactose and gluten free,Wasa,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+157,2.65,Pizza doughRolled out and round ,Anna's Best,23cm260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+158,5.80,Spelt Crunchy,Alnatura,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+159,4.95,Mini cream cutsPink with cream,unknown,288g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+160,4.20,  Corn FlakesCrunchy Corn Flakes,Kellogg's,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+161,3.50,  IP-SUISSEFlûtesPre-baked,M-Classic,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+162,2.65,Puff pastriesWith apricot filling,M-Classic,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+163,2.15,Cake doughRolled out &round ,You,33cm270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+164,5.75,Cereal mixtureGranola,Sélection,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+165,2.30,Fine crystal sugarOrganic,Migros Bio,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+166,2.95,Crispbread SESAMEThin Rosemary - Extra Thin,Wasa,190g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+167,1.25,Corn Amaranth WafersWith rice and linseed,Alnatura,115g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+168,1.35,Pure Tartaric AcidReinweinstein,Alnatura,4 x 18g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+169,Regional Price,Pumpernickel,Bio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+170,2.70,Pizza dough,Migros Bio,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+171,2.50,  IP-SUISSEWholemeal flour,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+172,3.80,  IP-SUISSEOriginal spelt flour,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+173,3.50,Blossom honey liquid,M-Budget,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+174,3.50,Blossom honey Crystalline,M-Budget,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+175,3.95,Almonds donated,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+176,2.75,  ExtraJamApricots,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+177,4.20,"  VarietyCornFlakes, Crunchy Nut, Rice Crispies, Frosties, Smacks, Cornpops, Choco krispies, Chocos",Kellogg's,8 bags205g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+178,3.80,  IP-SUISSEOriginal spelt flourWhite,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+179,2.80,  MicrocWheat slice Extra RusticaExtra rustica,M-Classic,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+180,4.60,Ground almonds,Migros Bio,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+181,2.20,Spelt flakes,Alnatura,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+182,Regional Price,Chocolate rollMaxi-Coco,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+183,3.35,  IP-SUISSEButter cake doughRolled out and round ,Anna's Best,33cm300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+184,2.90,Buckwheat flour organic,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+185,3.90,Fruit bread,M-Classic,480g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+186,3.95,Quince Jelly,Sélection,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+187,5.60,  Choco KrispiesCrispy roasted rice with chocolate,Kellogg's,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+188,6.65,Bourbon vanilla,unknown,1 piece,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+189,3.95,  aha!Crispy puffed riceGluten free,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+190,2.50,Organic puffed spelt,Alnatura,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+191,1.95,JamBlack cherry,M-Budget,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+192,2.90,Psyllium husks,Migros Bio,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+193,1.85,Light cake glaze,Patissier,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+194,2.10,Poudre pour poudingArôme Vanille,unknown,216g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+195,1.20,Wholemeal crispbreadSesame,M-Classic,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+196,1.95,  Fit & WellJamStrawberries,Belle Journée,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+197,2.30,  FairtradeRaw sugar from sugar caneGround,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+198,1.40,Rice cakesWith milk chocolate,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+199,4.30,Aperitif bread rollsPre-baked,M-Classic,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+200,3.95,Sliced almondsFlaked,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+201,2.85,Spelt Oat Crunchy sweetened with rice syrup,Alnatura,375g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+202,3.70,Butter croissantsPre-baked,Migros Bio,180g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+203,3.25,JamBlueberry,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+204,2.10,JamPeach,You,210g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+205,4.20,Wholemeal rusk,Migros Bio,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+206,5.30,Berries Muesli,Alnatura,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+207,3.95,AlmondsPeeled,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+208,1.15,"  IP-SUISSEWhite flourIdeal for fine baked goods, light and airy breads and sauces",M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+209,1.50,Organic chickpea wafers,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+210,4.95,Millet flakes,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+211,4.50,  CrocMuesli NibblesChocolate,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+212,3.95,  BioJamStrawberry,Alnatura,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+213,2.10,JamSour cherry,You,210g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+214,1.25,Spelt wafers,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+215,3.95,  La PerrucheUnprocessed cane sugar,Béghin Say,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+216,2.30,Wholemeal crispbread,Wasa,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+217,1.95,  Fit & WellJamApricots,Belle Journée,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+218,2.20,Oatmeal,Migros Bio,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+219,Regional Price,Lemon tarts,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+220,3.50,"CrispbreadBuckwheat, organic",Alnavit,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+221,2.20,Sweet shortcrust pastryRolled out and round ,Anna's Best,33cm320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+222,1.–,  aha!Rice and corn waffles,Migros Bio,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+223,4.60,Ground hazelnuts,M-Budget,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+224,6.50,"  aha!Crunchy muesliWith berries, gluten-free",Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+225,1.65,Gelatin leaves,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+226,2.10,JamStrawberries,You,210g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+227,5.95,  Special KCrunchy cereal flakesClassic,Kellogg's,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+228,6.95,Crisp muesliWith Ovaltine,Ovomaltine,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+229,6.50,"  Honey Bsss PopsCrunchy cereal food with sugar and honey.With honey, vitamins, calcium and iron",Kellogg's,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+230,3.95,  BioJamRaspberry,Alnatura,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+231,2.80,Muesli,M-Budget,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+232,2.40,  FairtradeCane sugar sticks,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+233,7.50,Blossom honeyCrystalline,Migros Bio,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+234,2.50,  FairtradeCane sugar,Migros Bio,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+235,3.85,  FrelittaSpreadBicolor,M-Classic,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+236,1.80,Pizza dough,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+237,3.40,Whole spelt flour,Alnatura,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+238,2.25,  ExtraJamFourfruit,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+239,4.70,Seed & grain bread,You,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+240,Regional Price,Focaccia with herbsPre-baked,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+241,3.–,Cake doughRolled out XL,M-Classic,520g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+242,2.80,,Migros Bio,5-grain flakes500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+243,3.60,Aha!Country bread with corn,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+244,3.90,  ExtraJamRaspberries,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+245,3.60,"Aha!Chia toastGluten-free, Lactose-free, Without wheat",unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+246,2.50,Chocolate cereals,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+247,1.20,Wholemeal crispbreadRye,M-Classic,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+248,0.75,Baker’s yeast,Alnatura,9g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+249,4.50,  CrocMuesli NibblesNatural,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+250,4.40,Ground hazelnuts,Migros Bio,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+251,4.95,Aha!Rustic bread,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+252,1.85,Cake glaze dark,Patissier,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+253,2.95,Oat bran,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+254,4.20,Biscuit cake base,M-Classic,390g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+255,3.75,Spelt flourType ,Alnatura,10501kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+256,1.90,Grated lemon peel,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+257,1.50,Impact cream hardener,Patissier,4 x 9g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+258,5.70,Oats Crunchy Chocolate,Alnatura,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+259,4.70,Spread,Caotina,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+260,3.95,JamBitter oranges,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+261,3.95,AlmondsGround,M-Classic,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+262,2.65,Puff pastriesWith chocolate cream filling,M-Classic,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+263,5.50,  Special KFlakes from rice and wheatRed fruit,Kellogg's,375g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+264,16.50,Swiss honey,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+265,1.50,Corn Amaranth waferRosemary,Alnatura,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+266,6.20,"Baking mix for browniesWith baking tin, with pecan nuts",Homemade,490g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+267,4.10,Spelt popsRoasted and sweetened,Migros Bio,275g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+268,2.10,JamRaspberry,You,210g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+269,2.70,"Rice flour, ",M-Classic,500g gluten-free500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+270,4.–,Cupcake shopX,unknown,16216g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+271,2.95,Assorted baking chocolate cubes,Patissier,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+272,3.50,Spelt puff pastrySquare ,Anna's Best,42x26cm320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+273,2.95,Baking mix ready to useButter zopf,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+274,4.90,Aha!Flour mixture gluten-free,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+275,4.95,  TresorCrunchy cereal pillowCookies & Cream,Kellogg's,410g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+276,6.30,Fine blossom,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+277,2.95,  ExtraJamRosehips,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+278,5.90,Foret Noire,unknown,244g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+279,Regional Price,Stone oven wholemeal rye bread,Migros Bio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+280,3.25,Table Molasses,unknown,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+281,4.60,RuskUrdinkel,M-Classic,290g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+282,4.95,"  TresorCrunchy cereal pillow with delicious Choco fillingWhite, milk and hazelnut chocolate",Kellogg's,410g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+283,4.45,Cereal flakesWith ,M-Classic,19% chocolate600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+284,7.50,French honey,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+285,2.30,Chocolate shavings,Patissier,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+286,1.20,  aha!Cereal waffles,Migros Bio,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+287,4.15,Blossom honeyCrystalline,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+288,8.95,Maple syrupGrade C,Alnatura,375ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+289,4.30,Baking mix for Tiroler CakeWith baking pan,Homemade,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+290,2.70,Sweetener tabletsCyclamate and saccharin,Sucorine,1300 Tabl.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+291,4.20,  BiscoffSpread,Lotus,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+292,3.25,Baked cereal mixtureNatural,M-Budget,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+293,4.10,Fruits Muesli,Alnatura,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+294,6.30,  PlusCereal mix with fruits and vitaminsCrunchy fibre,Farmer,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+295,7.95,  ToppasCrunchy whole wheat,Kellogg's,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+296,5.50,  CrocNibbles MuesliBurnt almonds,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+297,4.95,  CrocMuesli NibblesWith pecan nuts,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+298,5.60,Birchermüesli without sultanas,Migros Bio,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+299,3.95,Crispbread,Sélection,5-grain200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+300,3.10,Millet,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+301,4.–,Breakfast porridgeFruits,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+302,5.60,Blanched almondsUnsalted,Migros Bio,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+303,1.70,Chocolate rice wafers whole milk coconut,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+304,2.25,Wholemeal crispbreadRye,Migros Bio,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+305,2.95,Whole cane sugar,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+306,3.25,Pearl barleySubtle,M-Classic,850g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+307,2.25,  ExtraQuince jelly,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+308,4.10,  Original DutchChocolate crumbs,De Ruijter,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+309,2.60,Chocolate dessert sauce,Patissier,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+310,1.70,Powdered sugar,M-Classic,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+311,2.60,Caramel dessert sauce,Patissier,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+312,4.70,Coconut blossom sugarFor sweetness,Alnatura,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+313,3.60,Flakes &PopSpelt and buckwheat,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+314,5.85,Bread openingMilk ,Lindt,25% hazelnuts220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+315,3.95,JamFigs,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+316,3.90,Japonais,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+317,2.25,  ExtraJamBitter oranges,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+318,2.70,Poudre pour crème à l'arôme vanille,unknown,225g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+319,2.70,Grated coconutGrated,Migros Bio,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+320,6.95,Rose cake,Sélection,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+321,2.10,  Fit & WellJamRaspberry,Belle Journée,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+322,3.95,Baking mix for pancake,Homemade,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+323,3.80,Blossom honeyLiquid,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+324,2.70,Organic bread flour,Stadtmühle Schenk,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+325,6.95,  High ProteinHazelnut nougat cream,Oh!,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+326,4.95,Crunchy muesli,Migros Bio,7-grain500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+327,3.55,  ExtraJamBlack cherries,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+328,5.95,"  aha!Fruit muesliWith oats, gluten-free",Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+329,4.95,GranolaCinnamon - Pecan,Spoon,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+330,1.95,Puffed amaranth,Alnatura,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+331,1.70,Baking mix for chocolate cake,M-Budget,475g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+332,5.90,Bourbon vanillaGround,Alnatura,5g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+333,5.50,"Sweeteners from birch, beech and other hardwoodsXylit",Sucorine,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+334,2.10,  Fit & WellJamBlueberries,Belle Journée,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+335,5.95,  PlusCereal mix with fruitsCrunchy Mix,Farmer,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+336,2.70,  ExtraJamBlackberries,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+337,1.70,Lemon cake mix,M-Budget,485g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+338,2.40,"Poudre pour crème pâtisserièreArôme vanille, ",unknown,2 sachets de 100g200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+339,2.70,Aha!Grain rollsPart baked,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+340,7.95,HoneyNectar and acacia,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+341,5.20,Forest honey dispenser bottle,Alnatura,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+342,5.50,  Protein NutsWheat and multigrain cereal flakes with cereal crunchy piecesWith seeds and nuts,Kellogg's,330g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+343,2.40,Food colors,Patissier,3 x 10g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+344,3.20,Nut crunchy,Alnatura,375g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+345,2.55,Seeds Crisps,Alnatura,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+346,5.60,Rosemary honey,Sélection,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+347,4.95,Spelt mixture with ,Migros Bio,60% flakes375g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+348,4.50,Protein muesli,Alnatura,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+349,2.50,Oat rings,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+350,1.95,Mini marshmallows,Patissier,45g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+351,10.50,Swiss HoneyLiquid,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+352,5.95,  aha!Crunchy muesliChocolate,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+353,5.50,Porridge,You,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+354,Regional Price,Aha!Oatmeal rollPart baked,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+355,1.85,Cake white glaze,Patissier,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+356,4.–,Breakfast porridgeBasis,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+357,4.50,Liquid sweetenerCyclamat,Sucorine,200ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+358,2.80,Aha!BaguettiniPart baked,unknown,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+359,2.–,Marzipan,Patissier,50g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+360,4.50,"Chocolate powderIdeal for mousse, tiramisù, frappés, creams",Patissier,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+361,1.90,Vanilla flavor,Patissier,5 x 2ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+362,4.10,Soya flakes,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+363,2.95,Cherry jam,Migros Bio,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+364,3.15,JamWild berries,Belle Journée,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+365,3.90,Butterbraid,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+366,2.40,Ticino bread,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+367,4.95,Forest honey,unknown,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+368,2.90,Marzipan,Patissier,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+369,4.20,  BiscoffSandwich spreadCrunchy,Lotus,380g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+370,8.20,  Crunchy NutCornflakes with nuts,Kellogg's,720g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+371,3.40,  Product of FranceMatzoWith wheat flour,Paul Heumann,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+372,2.95,  Bio,Stadtmühle Schenk,5-grain wholemeal breadBrotfertigmischung500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+373,2.–,Cake doughAs a block,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+374,2.40,Agar Agar - vegetable gelling agent,Patissier,4 x 8g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+375,2.80,Bread of the Alps,unknown,380g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+376,3.95,Baking mix for lemon cakeWith lemon glaze and a baking tin,Homemade,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+377,4.50,Spelt Muesli,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+378,3.60,Party bread - OreganoFresh baked,GrillMi,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+379,1.80,Pâte à tartiner aux noisettes,Nutella,6 x 15g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+380,2.20,Mélange pour Brownies,unknown,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+381,7.45,Sweetener powderErythrit + Steviolglykosiden,Sucorine,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+382,2.90,  IP-SUISSEPetites tresses au beurrePrécuites,M-Classic,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+383,6.70,Marzipan,Patissier,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+384,6.95,Fairtrade La Semeuse Bio Kaffee-Granola,La Semeuse,375g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+385,Regional Price,  La Colomba ClassicaGâteau brioché sucré à la farine de froment,San Antonio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+386,1.40,IP-SUISSESemi white bread,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+387,3.30,IP-SUISSENut bread,unknown,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+388,2.40,Vermicelles,unknown,95g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+389,3.–,Amandines,unknown,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+390,1.40,IP-SUISSEBread,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+391,2.90,IP-SUISSEButter plait,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+392,3.30,Cornets à la crème,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+393,Regional Price,Epiphany cake,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+394,4.80,Mille-feuilles,unknown,390g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+395,2.95,IP-SUISSEUrDinkel toast bread slices,unknown,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+396,3.50,IP-SUISSEWholemeal country bread,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+397,2.50,IP-SUISSEPain bis de St-Gall,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+398,Regional Price,Pain Rustique à la farine d'épeautreAvec graines de tournesol et pommes de terre,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+399,Regional Price,IP-SUISSEPain bis,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+400,2.30,IP-SUISSEPain Bis,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+401,5.50,Lemon Tart,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+402,3.90,  IP-SUISSELight wheat breadToast & Sandwich,M-Classic,1240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+403,Regional Price,Wholemeal bread Le Rustique,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+404,3.95,  IP-SUISSESils sandwichesEat the same day,M-Classic,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+405,Regional Price,IP-SUISSESils bretzel,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+406,2.–,Schoggi-Grittibänz,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+407,1.75,Pain à l'ail,Ros qui sol,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+408,5.60,  Special KClusters de céréales avec du mielDes vitamines et du fer,Kellogg's,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+409,Regional Price,  La ColombaGâteau brioché sucré à la farine de fromentSans fruits confits,San Antonio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+410,2.95,Purée de cacahuète,Alnatura,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+411,3.25,Tarte aux abricots,unknown,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+412,3.25,Tarte aux pruneaux,unknown,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+413,3.25,Tarte aux pommes,unknown,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+414,6.80,Tarte au Kirsch ,unknown,2 pièces248g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+415,3.30,Protein Bread,You,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+416,5.70,Aha!Cake doughAs a block,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+417,5.80,Spread,Nocciolata,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+418,8.60,Vanilla Paste,Taylor & Colledge,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+419,3.55,Tarte à la crème,Anna's Best,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+420,2.90,Light wheat breadNature,Jacquet,255g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+421,4.95,  IP-SUISSESnake breadsPre-baked,GrillMi,315g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+422,7.70,  Special KFlakes from rice and wheatRed fruit,Kellogg's,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+423,Regional Price,Baguette with olives 380 g,Pain Création,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+424,3.35,Fond de pâte feuilletéeDans un moule,Anna's Best,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+425,4.–,Flocons de millet Bio,Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+426,2.50,Fruit spreadRosehips,Alnatura,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+427,2.20,IP-SUISSEMilan bread,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+428,Regional Price,Quiche Lorraine,Anna's Best,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+429,3.10,  ,Harry,1688Multigrain breadSliced500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+430,3.60,  IP-SUISSEFondue breadPart baked,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+431,2.95, aha!Wholegrain oat flakesGluten free,Bio,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+432,7.25,  ChocosCrunchy cereal foodChocolate,Kellogg's,1200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+433,Regional Price,  La Colomba ClassicaSweet wheat sourdough pastry,San Antonio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+434,Regional Price,Migros Bio Dreikönigskuchen,Migros Bio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+435,5.95,Spread,Nocciolata,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+436,2.10,JamApricot,You,210g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+437,Regional Price,IP-SUISSEHoliday Butter zopfWith Swiss butter,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+438,4.90,IP-SUISSETresse,unknown,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+439,Regional Price,IP-SUISSETresse,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+440,1.–,Migros Bio Buttergipfel,Migros Bio,45g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+441,Regional Price,  IP-SUISSEWholemeal breadWith wholemeal flour,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+442,Regional Price,  IP-SUISSEDélices de Sils,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+443,Regional Price,IP-SUISSEPetit pain,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+444,4.80,Pizza doughRolled out - Ø ,Anna's Best,23cm - 3 pieces780g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+445,2.95,Migros Bio Puderzucker,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+446,1.70,Aarberg Feinster Backzucker,Aarberg,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+447,1.30,Sucorine Cyclamat + Saccharin,Sucorine,220 Tabl.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+448,3.50,Galettes de sarrasin,La Crêpière,180g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+449,3.50,Patissier Rahm-Caramel-Würfel,Patissier,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+450,4.95,Caramel au beurre salé,La Crêpière,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+451,1.10,Alnatura Veganer Ei-Ersatz,Alnatura,15g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+452,2.60,Zedrat gehackt kandiert,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+453,3.40,Alnatura Dattelsirup,Alnatura,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+454,6.70,Aus der Region Birnweggenfüllung,unknown,800g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+455,3.50,Patissier Buchstaben Zahlen Schokolade,Patissier,47g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+456,0.80,Alnatura Sauerteig Extrakt,Alnatura,15g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+457,2.30,Alnatura Cornflakes ungesüsst,Alnatura,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+458,2.90,Aus der Region Maiswaffeln,unknown,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+459,9.95,Bio YOU Lower Carb Crunchy,YOU,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+460,2.45,Mymuesli ,My Müesli,2go Blaubeer-Müesli85g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+461,3.10,Patissier Lebensmittelkleber,Patissier,25g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+462,5.60,Bio ,Migros Bio,5 Flocken Mix lose,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+463,3.50,Aus der Region Birnendicksaft,unknown,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+464,0.95,Alnatura Reiswaffel Rote Bete/Apfel,Alnatura,23.5g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+465,2.20,Alnatura Puderzucker,Alnatura,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+466,2.45,Mymuesli ,My Müesli,2go Berry-White-Choc85g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+467,2.45,Mymuesli ,My Müesli,2go Schokomüesli85g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+468,11.80,Mymuesli Beeren-Müesli,My Müesli,575g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+469,11.80,Mymuesli Honig-Nuss-Müesli,My Müesli,575g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+470,3.50,Crêpe froment,La Crêpière,225g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+471,2.95,Homemade Varietà,Homemade,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+472,1.25,Patissier Citronat gehackt,Patissier,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+473,2.40,Alnatura Sojamehl,Alnatura,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+474,2.70,Alnatura Kokosmehl,Alnatura,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+475,3.60,Aus der Region Birnweggenfüllung,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+476,3.95,Bio Regina Hanfmehl,Regina,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+477,17.–,Bio Regina Mandelmehl,Regina,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+478,3.70,Farina per polenta fraina integrale,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+479,4.80,Bio Regina Tapiokamehl,Regina,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+480,5.80,Aus der Region Pancakes Waldbeeren,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+481,2.10,Farina bianca nostrana,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+482,3.95,Alnatura Reissirup,Alnatura,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+483,1.80,Farina di Segale,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+484,3.50,Alnatura Kichererbsenmehl,Alnatura,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+485,2.80,Aus der Region Bauernmehl,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+486,2.60,Aus der Region Halbweissmehl,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+487,1.40,Pizzamehl,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+488,2.50,Bio Waffeln Dinkel-Mais,Poggio del Farro,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+489,3.35,Migros Bio Kollath-Frühstück,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+490,5.95,Sélection Blueberry Granola,Migros Sélection,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+491,5.95, Blueberry Granola,Sélection,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+492,2.40,RICE WAFFLES SNACK PACK,unknown,6 x 14g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+493,4.95,Alnatura Kakaonibs,Alnatura,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+494,10.80,Mymuesli Super-Choc-Müesli,My Müesli,575g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+495,11.80,Mymuesli Blaubeer-Müesli,My Müesli,575g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+496,11.80,Mymuesli Berry-White-Choc,My Müesli,575g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+497,10.80,Mymuesli Schoko-Müesli,My Müesli,575g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+498,4.95,Farina per polenta integrale,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+499,5.95,Bio Regina Hafermehl,Regina,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+500,3.80,Bio Regina Reismehl Vollkorn,Regina,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+501,2.50,Aus der Region Zopfmehl,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+502,4.60,Alnavit Brotfertigm. Landbrot,Alnavit,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+503,1.85,Aus der Region Zopfmehl,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+504,2.60,Il Molino ChiavazzaIl Molino Chiavazza Farina Manitoba,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+505,2.80,Aus der Region Zopfmehl,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+506,4.90,Aus der Region Pancakes Nature,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+507,5.–,Farina Bona Nostrana,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+508,1.90,Patissier Aroma Rum,Patissier,5 x 2ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+509,2.55, Crustini Rosmarino,Monviso,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+510,4.10,Sì con Riso Cornetto alla pesca,Riso Scotti,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+511,3.60,Pane Passione classic,In-store bakery,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+512,4.20,Pane Passione IP-SUISSE,unknown,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+513,2.90,YOU Seeds & Grains,YOU,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+514,2.90,Landbrot IP-SUISSE,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+515,3.–,Drei Seenbrot IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+516,2.85,Aus der Region Basler Laibli ruch,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+517,3.90,Aus der Region Butterzopf,Frisch & Handgemacht,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+518,3.20,Aus der Region Fladenbrot,Frisch & Handgemacht,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+519,4.40,Walliser Naturroggen Brot IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+520,7.90,Buurezopf,In-store bakery,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+521,3.35,Holzfällerbrot,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+522,Regional Price,Hercules classico IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+523,2.75,Bio Aus der Region Ficelle,Frisch & Handgemacht,280g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+524,3.95,Knusperbrot,Stone-baked,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+525,Regional Price,Aus der Region Silserkranz,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+526,Regional Price,St. Gallerbrot dunkel 500g,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+527,3.60,Migros Bio Sonnenkranz,Migros Bio,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+528,3.–,Aus der Region Tessinerbrot,Frisch & Handgemacht,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+529,3.30,Aus der Region Urchiges Ruchbrot,unknown,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+530,3.50,Vollkorn-Landbrot IP-SUISSE,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+531,1.–, Buttergipfel,Migros Bio,45g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+532,1.–,Aus der Region Pave Saaten,Frisch & Handgemacht,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+533,1.95,Aus der Region Laugenbrezel,unknown,135g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+534,3.90,Aus der Region Laugenbrezel,unknown,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+535,5.15,Aus der Region Fonds tartelettes beurre,unknown,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+536,0.90,Rustico Brötli IP-SUISSE,In-store bakery,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+537,1.–,Urdinkelbrötli IP-SUISSE,In-store bakery,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+538,0.75,Aus der Region Butterweggli,Frisch & Handgemacht,50g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+539,3.50,M-Classic Buttergipfel,M-Classic,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+540,3.50,M-Classic Brötchen-Mix Frischback,M-Classic,270g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+541,2.60,Coquerli im Teig,unknown,105g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+542,1.80,Wurstweggen,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+543,Regional Price,Blätterteigblumen,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+544,1.60,Blätterteig Nussgipfel,unknown,95g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+545,2.85,Osterchüechli,unknown,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+546,4.95,Amstutz Luzerner Lebkuchengewürz,Amstutz,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+547,0.60,Patissier Birnbrotgewürz,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+548,Regional Price,Fruchttorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+549,14.60,Erdbeertorte klein,unknown,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+550,11.95,Brotkuchen,unknown,520g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+551,10.50,Rüebli-Torte,unknown,520g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+552,Regional Price,Schwarzwäldertorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+553,3.60,M-Classic Biscuittortenboden classic,M-Classic,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+554,9.20,Gesalzene Sahne,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+555,3.25,Anna's Best Rhabarberwähe,Anna's Best,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+556,2.–,Aus der Region Baguette parisienne,Frisch & Handgemacht,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+557,5.60,Aus der Region Toastbrot,Frisch & Handgemacht,730g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+558,Regional Price,Anna's Best Zwiebel-Chäswähe,Anna's Best,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+559,3.10,Harry Steinofenbrot,Harry,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+560,3.10, Himbeer-Becher,M-Classic,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+561,5.50,Schokotörtchen,unknown,156g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+562,3.10,Bär Choco Becher,Seehund-Family,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+563,Regional Price,Dessert Kugel,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+564,Regional Price,Vermicellestörtli 2er,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+565,2.75,Schwedenbecher ,unknown,100g100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+566,2.85,Aus der Region Basler Laibli hell,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+567,6.90,Erdbeertörtli,Freshly prepared for,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+568,3.60,Aus der Region Urdinkelbrot,Frisch & Handgemacht,380g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+569,2.95,Eclairs Mokka,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+570,3.50,Aus der Region Buurebrot dunkel,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+571,3.10,Zigerkrapfen ,unknown,2 Stück2 x 75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+572,3.40,Aus der Region Hirtenbrot,Frisch & Handgemacht,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+573,0.60,Flüssighefe,unknown,38ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+574,2.–,Krustenkranz IP-SUISSE,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+575,4.50,Pâte sabl moulée,unknown,155g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+576,Regional Price,Migros Bio Blätterteig,Migros Bio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+577,2.90,Walliser Naturroggen Brot IP-SUISSE,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+578,1.15,Aus der Region Buurezopf am Meter,Frisch & Handgemacht,100 g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+579,4.80,Bio Aus der Region Fougasse,Frisch & Handgemacht,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+580,3.90,Bio Aus der Region Flute,Frisch & Handgemacht,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+581,Regional Price,Krustenkranz IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+582,3.30,Pâte moulée feuillete,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+583,Regional Price,Laugentessinerbrot IP-SUISSE,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+584,7.90,Aus der Region Sunntigszopf,unknown,1000g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+585,1.95,St. Gallerbrot dunkel ,unknown,250g250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+586,1.95,St. Gallerbrot dunkel ,In-store bakery,250g250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+587,Regional Price,Bio Sonnenhofbrot,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+588,3.60,Bio Sonnenkranz,In-store bakery,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+589,4.30,Taillaule IP-SUISSE,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+590,3.25,Krustenkranz,In-store bakery,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+591,7.30,Kuchenteigschale Käse,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+592,4.05,Urdinkelbrot IP-SUISSE,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+593,3.20,Kuchenteigschale,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+594,4.30,Urdinkelbrot IP-SUISSE,unknown,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+595,3.20,Tessiner Rustico IP-SUISSE,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+596,4.80,Migros Bio Fougasse,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+597,1.90,Aus der Region Basler Ruchbrot,Frisch & Handgemacht,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+598,3.10,Aus der Region Basler Ruchbrot,Frisch & Handgemacht,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+599,0.65,Semmeli IP-SUISSE,unknown,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+600,1.55,Keimkraft Gipfel ,unknown,90g90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+601,1.25,Bio Kartoffelbrötchen,Migros Bio,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+602,1.10,Croissant pur Beurre,unknown,70g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+603,2.–,Aus der Region Butterzöpfli,Frisch & Handgemacht,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+604,Regional Price,Jowa Bürli 4er,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+605,1.20,Aus der Region Laugenbrezel,Frisch & Handgemacht,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+606,Regional Price,M-Classic mini Butterweggli,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+607,1.50,Gourmetbrötli,unknown,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+608,1.20,Big Laugenbuttergipfel,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+609,5.10,Aus der Region Laugenbrötli,Frisch & Handgemacht,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+610,Regional Price,Big Pariser Gipfel,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+611,1.–,Aus der Region Pariserbrötli,Frisch & Handgemacht,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+612,1.40,Rusticobrötchen,unknown,85g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+613,1.40,Bio Quadrati mit Sonnenblumenkernen,Migros Bio,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+614,0.75,Butterweggli IP-SUISSE,unknown,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+615,2.–,Migros Bio Teigosterhase,Migros Bio,105g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+616,2.95,Spinatstrudel,unknown,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+617,1.70,Schinkengipfel,unknown,70g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+618,2.30,Ragusa Gipfel,unknown,93g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+619,2.40,Hefenussgipfel,unknown,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+620,Regional Price,Ragusa Gipfel noir,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+621,1.80,Russenzöpfli,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+622,2.30,Spitzbube,unknown,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+623,14.90,Zuger Kirschtorte,unknown,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+624,Regional Price,Erdbeertorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+625,2.70,Mini Generoso Cake,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+626,Regional Price,Rüebli Torte 10cm,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+627,4.90,Quarktorte,unknown,370g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+628,Regional Price,Schwarzwäldertorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+629,Regional Price,Schwarzwälder Torte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+630,9.95,Erdbeertorte,unknown,670g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+631,Regional Price,Himbeertorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+632,8.90,Zitronenkuchen,unknown,380g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+633,5.20,Generoso-Cake,unknown,380g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+634,8.70,Oster Nougatcake,unknown,317g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+635,Regional Price,M-Classic Tortenboden Früchte,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+636,2.90,Cremeschnitten ,unknown,2 Stück157g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+637,4.95,Mini Crèmeschnitten,unknown,288g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+638,7.20,Erdbeertorte,unknown,282g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+639,6.80,Erdbeer-Törtli,unknown,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+640,Regional Price,Fürstentorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+641,6.50,Schwarzwälder Torte,Freshly prepared for,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+642,Regional Price,Vermicelles Becher,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+643,3.20,Zitronentörtli,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+644,4.50,Schoko Mousse Becher,unknown,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+645,5.55,Herz Macarons,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+646,3.40,Rüeblischnitte,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+647,3.20,Tiramisu Schnitte,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+648,4.50,Tiramisu Becher,unknown,115g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+649,1.50,Berlinerbrezel,unknown,70g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+650,3.80,Pâte moulée brisée,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+651,5.50,Galettes Multi cereal,unknown,280g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+652,2.55,Anna's Best Strudelteig ausgewallt,Anna's Best,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+653,3.50,Aus der Region Pane Passione,Frisch & Handgemacht,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+654,3.30,Pane Passione rustico,In-store bakery,380g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+655,3.30,Twister Süsskartoffel,Stone-baked,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+656,3.30,Kürbiskern-Twister,Stone-baked,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+657,2.90,Spitzbaguette,Stone-baked,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+658,1.30,M-Budget Baguette hell,M-Budget,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+659,3.75,Säntisbrot,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+660,Regional Price,Butterzopf IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+661,5.80,Walliser Roggenbrot IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+662,3.20,Bernerbrot ruch IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+663,4.70,Urdinkelbrot IP-SUISSE,unknown,410g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+664,3.95,Bio urchiges Steinofenbrot,Stone-baked,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+665,6.50,Aus der Region Buurezopf,Frisch & Handgemacht,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+666,3.90,Urchiges Emmerbrot IP-SUISSE,unknown,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+667,2.90,Genfer Holzerbrot,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+668,1.90,Aus der Region Holzfällerbrot,Frisch & Handgemacht,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+669,3.20,Aus der Region Fonduebrot,Frisch & Handgemacht,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+670,5.20,Nussroggenbrot IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+671,9.40,Aus der Region Buurezopf,Frisch & Handgemacht,800g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+672,3.60,Aus der Region Zwirbelbrot,Frisch & Handgemacht,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+673,2.85,Tessinerbrot,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+674,3.10,Holzfällerbrot IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+675,3.–,Fette Biscottate di farro,Poggio del Farro,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+676,2.25,Biscottes,Clement,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+677,4.60,Bio Aus der Region Fougasse,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+678,3.90,Hercules classico IP-SUISSE,In-store bakery,410g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+679,2.90,St. Gallerbrot dunkel ,unknown,500g500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+680,1.80,Holzfällerbrot IP-SUISSE,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+681,4.90,Aus der Region Drache-Ruugeli,Frisch & Handgemacht,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+682,1.65,Bio Aus der Region Knopf,Frisch & Handgemacht,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+683,3.10,Pan Nostran IP-SUISSE,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+684,Regional Price,Tessinerbrot IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+685,4.20,Urdinkelbrot IP-SUISSE,In-store bakery,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+686,3.10,Butterzopf,In-store bakery,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+687,Regional Price,Baumnussbrot IP-SUISSE,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+688,4.05,Butterweggen,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+689,3.35,Holzfällerbrot,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+690,1.–,Bio Vitalbrötchen,Stone-baked,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+691,1.50,Bio Mini Twister hell,Migros Bio,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+692,Regional Price,Laugenbrötli mit Sesam,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+693,0.90,Rustica Gipfel,unknown,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+694,3.10,La Clémence,In-store bakery,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+695,2.95,Weissbrot IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+696,1.40,Sauerteigbrötli IP-SUISSE,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+697,3.60,Bio Flûte,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+698,0.90,Aus der Region Bürli,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+699,2.–,Aus der Region Pave hell,Frisch & Handgemacht,330g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+700,1.–,Bio Spitzbrötchen,Stone-baked,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+701,1.–,Aus der Region Fladenbrötli,Frisch & Handgemacht,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+702,3.20,Aus der Region Faschtewaie,Frisch & Handgemacht,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+703,Regional Price,M-Classic Dinkelbrötli,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+704,3.10,Ciabatta,unknown,560g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+705,3.50,Latwerge Holunder,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+706,4.10,Aus der Region Konfitüre Cassis,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+707,4.10,Aus der Region Gelée Apfel/Quitte,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+708,4.10,Aus der Region Konfitüre Erdb-Rhab.,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+709,4.10,Aus der Region Johannisbeergelée,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+710,4.10,Aus der Region Brombeeren Gelée,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+711,4.95,AdR Konfitüre ,unknown,2x350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+712,9.95,AdR Konfitüre ,unknown,3x230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+713,3.95,Aus der Region Johannisbeer Gelée,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+714,7.90,Vin Cuit,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+715,2.10,M-Classic Frelitta ohne Palmöl,M-Classic,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+716,9.90,Crema miele e nocciole Meröla,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+717,4.70,M-Classic Semmeli,M-Classic,1000g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+718,14.50,Aus der Region Miel Genève crémeux,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+719,16.50,Aus der Region Schweizer Honig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+720,17.95,Aus der Region Blütenhonig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+721,11.80,Aus der Region Cremiger Honig,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+722,11.80,Aus der Region Waldhonig,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+723,11.85,Aus der Region Blütenhonig,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+724,11.50,Akazienhonig,VIS,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+725,1.80,M-Classic Roggenvollkornbrot,M-Classic,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+726,2.30,Ovo Crunchy Muffin,Ovomaltine,86g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+727,0.80,M-Budget Donut,M-Budget,53g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+728,2.20,Pizzetta Margherita,unknown,55g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+729,Regional Price,Chäschüechli,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+730,Regional Price,Feinste Leckerli Stängel,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+731,16.20,Aus der Region Walliser Honig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+732,Regional Price,Butterzopf IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+733,7.50,Speckzopf IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+734,3.60,Buurebrot dunkel,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+735,2.20,Aus der Region Buurebrot,Frisch & Handgemacht,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+736,5.90,Aus der Region Buurebrot,Frisch & Handgemacht,1000g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+737,2.85,Osterchüechli,unknown,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+738,Regional Price,Osterchüchli,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+739,4.95,Aus der Region Butterzopf,Frisch & Handgemacht,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+740,2.90,Aus der Region Butterzopf,Frisch & Handgemacht,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+741,3.40,Aus der Region Kandertaler Kastenbrot,Frisch & Handgemacht,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+742,Regional Price,Hercules classico IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+743,3.70,Seeländer Brot IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+744,Regional Price,Laugenkäseknopf IP-SUISSE,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+745,1.–,Jowa Bürli ,unknown,1er100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+746,1.80,Aus der Region Doppelbürli,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+747,Regional Price,Sélection Truffes Torte,Migros Sélection,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+748,Regional Price,Erdbeer Herz,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+749,1.–,Brötchen IP Suisse,Stone-baked,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+750,Regional Price,Fruchttorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+751,Regional Price,Himbeertorte 16cm,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+752,0.90,Säntisbrötli,In-store bakery,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+753,Regional Price,Schwarzwäldertorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+754,32.–,Schwarzwälder Torte,Freshly prepared for,1220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+755,7.95, Schwarzwäldertorte,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+756,14.–,Schwedentorte,unknown,525g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+757,Regional Price,Dinkelbrötli mit Früchten,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+758,Regional Price,Fussballbrötchen,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+759,Regional Price,Kartoffelbrötli mit Nüssen,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+760,1.10,Laugenbrezel,unknown,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+761,4.–,Aus der Region Fladenbrötli ,Frisch & Handgemacht,4 Stück320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+762,1.25,Aus der Region Sauerteigbrötli,Frisch & Handgemacht,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+763,1.–,Urdinkelbrötli IP-SUISSE,unknown,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+764,3.–,Butterschwöbli IP-SUISSE,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+765,3.40,Aus der Region Faschtewaie mit Käse,Frisch & Handgemacht,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+766,3.50,Anna's Best Blattspinatwähe,Anna's Best,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+767,3.10,American Favorites Bagel mit Sesam,American Favorites,340g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+768,4.50,Erdbeer Vanille Becher,unknown,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+769,5.30,Sélection Macarons,Migros Sélection,144g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+770,5.30, Macarons,Sélection,144g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+771,3.95,Sélection Sacher Torte,Migros Sélection,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+772,3.95, Sacher Torte,Sélection,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+773,Regional Price,American Favorites Cheesecake nature,American Favorites,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+774,5.60,Dessertkugel Muttertag,unknown,156g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+775,3.60,V-Love Cremeschnitte ,V-Love,2 Stück157g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+776,2.40,Pizzetta capriccioca,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+777,3.50,Cremeberliner,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+778,1.70,Mandelgipfel,unknown,95g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+779,Regional Price,M-Classic Pastetli,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+780,Regional Price,Erdbeer-Torte 16cm,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+781,Regional Price,Royaltorte,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+782,Regional Price,Schwarzwälder Torte,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+783,Regional Price,Schwarzwäldertorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+784,Regional Price,Vermicelles,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+785,Regional Price,Schwarzwälderroulade,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+786,Regional Price,3-Königskuchen Schokolade,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+787,4.25,Studentenschnitte,unknown,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+788,3.25,Anna's Best Kirschenwähe,Anna's Best,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+789,Regional Price,Schwarzwäldertorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+790,Regional Price,Schwedentorte,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+791,Regional Price,Schwedentorte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+792,Regional Price,Vermicelles-Becher,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+793,8.40,Erdbeer-Schnitte,unknown,380g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+794,4.90,Pink Ribbon Raspberry Blueberry,unknown,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+795,Regional Price,Nougat Torte,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+796,4.50,Bananen Schoko Becher,unknown,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+797,2.20,Berliner,unknown,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+798,Regional Price,Berliner Himbeer gezuckert,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+799,4.20,Latwerge Wacholder,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+800,6.95,Aus der Region Erdbeerenkonfitüre,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+801,4.10,Aus der Region Konfitüre Aprikose,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+802,4.10,Aus der Region Aprikosen Gelée,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+803,4.10,Aus der Region Himbeeren Gelée,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+804,3.95,Aus der Region Konf. Erdbeer-Rhabarber,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+805,3.90,Feigenkonfitüre,VIS,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+806,7.50,Migros Bio Fairtrade Honig flüssig,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+807,2.–,Migros Bio Kuchenteig Block,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+808,14.95,Aus der Region Miel de fleurs vaud,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+809,2.90,Anna's Best Pastateig ausgewallt,Anna's Best,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+810,7.20,Kuchenteig Apfel,unknown,480g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+811,4.60,Frühlingsrollenteig,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+812,2.95,Migros Bio Waldfrucht,Migros Bio,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+813,4.40,Sélection Konfitüre Pfirsich-Maracuja,Migros Sélection,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+814,4.40, Konfitüre Pfirsich-Maracuja,Sélection,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+815,4.10,Aus der Region Quitten Gelée,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+816,4.95,Aus der Region Konfitüre Cassis,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+817,4.10,Aus der Region Konfitüre Zwetschgen,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+818,4.10,Aus der Region Erdbeergelée,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+819,4.10,Aus der Region Zwetschgenkonfitüre,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+820,3.90,Marroni Brotaufstrich,VIS,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+821,10.50,Aus der Region Birnendicksaft ,unknown,1 kg1000g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+822,7.40,Alnatura Gebrannte Mandel,Alnatura,225g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+823,11.80,Aus der Region Miel Genève crémeux,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+824,17.95,Aus der Region Schweizer Honig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+825,17.95,Aus der Region Waldhonig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+826,9.90,Migros Bio ADR Blütenhonig,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+827,18.95,Aus der Region Schweizer Honig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+828,17.–,Tessiner Honig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+829,7.95,Französischer Jurahonig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+830,3.90,Marroni Crème vanilliert,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+831,4.10,Aus der Region Kirschen Konfitüre,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+832,3.60,Sélection Portionen Fruchtaufstrich,Migros Sélection,4 x 27g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+833,3.60, Portionen Fruchtaufstrich,Sélection,4 x 27g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+834,6.30,Aus der Region Pfirsichkonfitüre,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+835,4.10,Aus der Region Reine Claude Konf.,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+836,4.10,Aus der Region Erdbeer Konfitüre,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+837,4.10,Aus der Region Konfitüre Himbeeren,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+838,7.20,Aus der Region Mini Konfitüren,unknown,6 x 33g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+839,4.10,Aus der Region Konf. Williamsbirne,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+840,3.95,Aus der Region Quittengelée,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+841,4.75,Birnendicksaft,unknown,390g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+842,7.–,Aus der Region Birnendicksaft,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+843,10.70,AdR Konfitüre ,unknown,3x230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+844,4.20,Marronicrème,VIS,340g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+845,4.50,Caramel au Beurre Salé,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+846,15.95, aus der Region Blütenhonig,Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+847,16.50,Aus der Region Ostschweizer Honig,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+848,8.–,Aus der Region Baselbieter Honig,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+849,9.90,Migros Bio ADR Waldhonig,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+850,9.60,Aus der Region Miel du Valais,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+851,6.95,Cucina & Tavola Gel-Lebensmittelfarbe,Cucina & Tavola,2 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+852,6.95,Cucina & Tavola Glitzerpulver Gold,Cucina & Tavola,5g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+853,6.95,Cucina & Tavola Gel-Lebensmittelfarbe,Cucina & Tavola,2 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+854,4.70,Oster Aprikose Himbeer,unknown,135g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+855,4.10,Aus der Region Butterweggen,Frisch & Handgemacht,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+856,3.40,Aus der Region Silserkranz mit Sesam,Frisch & Handgemacht,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+857,3.40,Aus der Region Silserkranz,Frisch & Handgemacht,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+858,3.50,Aus der Region Buurebrot dunkel,Frisch & Handgemacht,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+859,1.90,Aus der Region Basler Brot,In-store bakery,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+860,Regional Price,Aus der Region Kartoffelbrot mit Nüssen,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+861,4.20,Aus der Region Buurezopf,Frisch & Handgemacht,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+862,1.60,Aus der Region Laugenkäse Knoten,Frisch & Handgemacht,85g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+863,2.50,Aus der Region Laugenbrezel,Frisch & Handgemacht,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+864,0.75,Aus der Region Schlumbergerli,Frisch & Handgemacht,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+865,3.30,Aus der Region Laugenbrezel,Frisch & Handgemacht,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+866,2.10,Aus der Region Buurezopf,Frisch & Handgemacht,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+867,1.–,Aus der Region Kartoffelbrötli mit Nüssen,Frisch & Handgemacht,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+868,1.40,Aus der Region Panini Passione,Frisch & Handgemacht,115g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+869,3.80,Aus der Region Herakles,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+870,3.40,Silserkranz Mohn,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+871,4.60,M-Classic Krustenbrötchen,M-Classic,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+872,1.60,M-Budget Konfitüre Erdbeer,M-Budget,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+873,Regional Price,Creme-Cornets,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+874,6.10,Schwarzwäldertorte,Freshly prepared for,244g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+875,Regional Price,Nougat Torte,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+876,3.20,Burebrot,unknown,370g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+877,3.95,Bio urchiges Steinofenbrot,Stone-baked,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+878,4.95,Zitronenschnitte ,unknown,5 Stück250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+879,6.60,Castegna Flakes,unknown,170g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+880,Regional Price,Baslerbrot IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+881,3.70,Erdbeer Tiramisu Becher,Freshly prepared for,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+882,3.30,Gemüse Twister,Stone-baked,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+883,4.–,Anna's Best Dinkel Spargelwähe,Anna's Best,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+884,4.–,Anna's Best Dinkel Quark Brombeerwähe,Anna's Best,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+885,3.80,Anna's Best Dinkel Kürbiswähe,Anna's Best,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+886,2.90,Brioche Buns,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+887,15.60,Erdbeer-Torte,Freshly prepared for,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+888,3.20,Silserkranz IP-SUISSE,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+889,5.95,Tartelettes Himbeer,Freshly prepared for,102g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+890,4.80,Ur-Ackerkorn Brot IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+891,0.85,Aus der Region Laugenbrötli,Frisch & Handgemacht,50g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+892,3.80,Aus der Region Herakles,Frisch & Handgemacht,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+893,1.20,Donut Kakao,unknown,68g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+894,3.20,Bio Twister hell,Stone-baked,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+895,1.20,Kakao Donut,unknown,68g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+896,7.50,Fruchtschnitte Erdbeer,Freshly prepared for,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+897,3.20,Bio Twister rustico,Stone-baked,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+898,1.20,Donut mit Vanille-Aroma,unknown,68g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+899,5.50,M-Classic Apéro Brötli,M-Classic,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+900,4.50,Schoko Mousse Becher weiss,unknown,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+901,Regional Price,Alpenbrot IP-SUISSE,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+902,Regional Price,Vermicelles,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+903,2.50,Himbeer-Krapfen ,unknown,80g80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+904,5.–,V-Love Bio dates cocoa cake,V-Love,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+905,1.60,Buttergipfel Branche,unknown,85g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+906,5.95,Städter Streudekor Einhorn,Städter,45g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+907,5.95,Städter Streudekor Flamingo,Städter,45g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+908,4.95,Städter Essbarer Streudekor perlmutt,Städter,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+909,4.95,Städter Essbarer Streudekor türkis,Städter,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+910,4.95,Städter Essbarer Streudekor blau,Städter,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+911,4.95,Städter Essbarer Streudekor pink,Städter,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+912,4.95,Städter Essbarer Streudekor bunt,Städter,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+913,4.95,Städter Essbarer Streudekor gold,Städter,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+914,4.95,Städter Essbarer Streudekor silber,Städter,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+915,4.95,Städter Essbarer Streudekor bunt,Städter,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+916,4.50,Tiramisuschnitte,unknown,275g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+917,4.95,M-Classic Butterweggli,M-Classic,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+918,5.60,Crème Cornets,unknown,280g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+919,3.95,Alnatura Fruchtaufstrich Marillen,Alnatura,420g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+920,4.95,Huusbeck Sauerteig-Brot IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+921,3.10,Aus der Region St. Gallerbrot,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+922,3.20,M-Classic IP-SUISSE Dinkel Flakes,M-Classic,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+923,2.90,Generoso Würfel,unknown,108g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+924,2.95,Pide Sucuk,unknown,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+925,2.40,Pizzetta Capricciosa,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+926,2.60,Blätterteig-Coquerli,unknown,105g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+927,2.95,Pide Sucuk,unknown,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+928,1.70,Schinkengipfel,unknown,70g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+929,2.95,Spinatstrudel,unknown,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+930,1.95,Chäschüechli,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+931,Regional Price,Migros Daily Älpler Rösti,Migros Daily,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+932,2.90,Butterzopf,In-store bakery,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+933,1.20,Bio Fougassli ,In-store bakery,80g80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+934,5.80,Butterweggen IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+935,3.90,Butterzopf,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+936,4.–,Butterweggen IP-SUISSE,In-store bakery,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+937,3.30,Dinkelbrot IP-SUISSE,In-store bakery,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+938,2.40,Tessinerbrot,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+939,6.90,Butterzopf,In-store bakery,930g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+940,3.20,Rustico Schlumbi,unknown,370g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+941,3.20,Burgunderbrot ,In-store bakery,320g320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+942,4.90,Butterzopf,In-store bakery,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+943,3.95,Aus der Region Zopfmehl,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+944,4.95,Rohner Magenbrot ,Rohner's,220g220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+945,21.–,Royaltorte,unknown,570g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+946,6.50,Quitten Krapfen,unknown,230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+947,4.50,Caramel Mousse,unknown,124g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+948,18.60,Schwarzwäldertorte,unknown,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+949,6.50,Rohners Nussmix ,Rohner's,140g140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+950,5.50,Rohner gebrannte Kokosmandeln,Rohner's,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+951,5.50,Rohner gebrannte Sonnenblumenkerne,Rohner's,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+952,5.90,Rohner Gebrannte Mandeln,Rohner's,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+953,8.95,Klaussack Jute ,unknown,230g230g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+954,2.90,Schokoladen Bananen Strudel ,unknown,80g80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+955,2.95,Mississippi Muffin ,unknown,150g150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+956,2.60,Summer Muffin Strudel ,unknown,105g105g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+957,2.80,Zigerkrapfen ,unknown,80g80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+958,3.50,Himbeer Streu. Kuch. ,unknown,150g150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+959,4.90,Rohner Rahmcaramel ,Rohner's,150g150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+960,2.50,V-Love Würstli im Teig,V-Love,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+961,1.60,V-Love Schinkengipfel vegan,V-Love,70g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+962,1.60,V-Love Schinkengipfel vegan,V-Love,70g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+963,1.60,V-Love Spinatchüechli,V-Love,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+964,1.60,V-Love Spinatchüechli,V-Love,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+965,2.50,V-Love Würstli im Teig,V-Love,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+966,5.50,Migros Daily Fondue Baguette,Migros Daily,190g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+967,5.90,Aus der Region Pancakes Zwetschgen,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+968,4.95,Aus der Region Lebkuchen Backmischung,unknown,255g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+969,3.–,Migros Bio Mango-Passionsfrucht,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+970,3.55,Aus der Region Birnen-Thymian,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+971,3.95,Aus der Region Aprikose-Rhabarber,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+972,3.25,Migros Bio Konfitüre Quitte-Hagebutten,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+973,4.–,Dinkelbrot,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+974,Regional Price,M-Classic Brötchen-Mix,M-Classic,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+975,3.95,Migros Daily Quiche Broccoli vegan,Migros Daily,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+976,2.90,Migros Daily Strudel plant. chick.,Migros Daily,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+977,3.90,Anna's Best Dinkel Birnen/Schoko Wähe,Anna's Best,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+978,5.–, Raw Cake Raspberry Passion,Bio,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+979,7.95,Party Torte,unknown,610g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+980,4.30,Huusbrot IP-SUISSE,unknown,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+981,3.20,Crusta Baguette IP-SUISSE,unknown,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+982,3.70,Oberaargauer Brot IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+983,3.90,Butterzopf IP-SUISSE,In-store bakery,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+984,3.50,Landbrot IP-SUISSE,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+985,2.60,Huusbrot IP-SUISSE,In-store bakery,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+986,4.30,Huusbrot IP-SUISSE,In-store bakery,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+987,3.20,Berner Brot ruch IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+988,6.50,Butterzopf IP-SUISSE,In-store bakery,650g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+989,3.80,Centerbrot IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+990,3.50,Landbrot IP-SUISSE,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+991,1.90,Schwingerknopf IP-SUISSE,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+992,1.90,Schwingerknopf IP-SUISSE,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+993,36.20,Royaltorte,unknown,1300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+994,1.20,Butterweggli,In-store bakery,95g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+995,0.80,Butterweggli,In-store bakery,50g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+996,Regional Price,Steinofen Buerli,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+997,1.10,Steinofen Buerli,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+998,3.30,St. Gallerbrot ruch,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+999,3.10,Basler Brot,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1000,1.90,Basler Brot,In-store bakery,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1001,4.95,Silserbroetli ,unknown,6/300g300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1002,5.95,Robertsons Golden Shred Marmalade,unknown,454g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1003,7.95, Raw Cakes assortiert,Bio,192g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1004,1.85,HB Berliner,unknown,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1005,6.20,Cremeberliner,Freshly prepared for,160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1006,12.50,Schwarzwälder Torte,unknown,520g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1007,32.–,Schwarzwälder Torte,unknown,1220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1008,8.10,Royaltorte,Freshly prepared for,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1009,5.90,Diplomat,Freshly prepared for,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1010,1.95,V-Love Creamy Pretzel,V-Love,62g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1011,3.80,V-Love Apfelwähe,V-Love,215g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1012,1.40,Donut Fussball,unknown,58g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1013,25.50,Schwedentorte,unknown,860g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1014,8.10,Rosinentorte,unknown,2 x 65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1015,2.40,Ovo Crunchy Roll,Ovomaltine,82g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1016,1.40,Gsellenbrötli IP-SUISSE,unknown,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1017,2.95,Gesellenbrot,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1018,6.90,Berliner,unknown,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1019,3.–, Kuchenteig duo,Bio,540g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1020,1.40,Donut Nut Nougat,unknown,71g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1021,4.10,Rustico-Zopf,unknown,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1022,Regional Price,Flammkuchen,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1023,2.95,Käse-Schinken Strudel Bake off,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1024,3.90,Börekschnecke mit Spinat,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1025,1.30,Mini Twister Rustico,unknown,105g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1026,1.95,Laugen-Eck,unknown,85g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1027,Regional Price,Hefeschnecke,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1028,3.90,Börekschnecke mit Käse,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1029,1.95,DOTS Nutty Donut,DOTS,64g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1030,1.95,DOTS Fancy Donut,DOTS,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1031,1.95,DOTS Red Cookie Donut,DOTS,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1032,1.95,DOTS Lemon Donut,DOTS,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1033,1.95,DOTS Donut Marshmallow Pink Donut,DOTS,59g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1034,2.60,Zitronen Cake Stück,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1035,2.60,Schoggi Cake Stück,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1036,2.60,Rüebli Cake Stück,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1037,2.30,Einback,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1038,1.65,Butterzöpfli IP-SUISSE,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1039,8.90,Crema di pistacchio,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1040,3.80,Aus der Region Hasen Haferflocken,unknown,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1041,5.90,Farina Corvina Nostrana,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1042,4.50,Farina per polenta integrale,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1043,3.40,Patissier Backfüllung Birnen,Patissier,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1044,7.90,Marmelade mit Weintrauben,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1045,2.40,  ExtraJamApricots,Belle Journée,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1046,2.30,Migros Bio Grittibänz,Migros Bio,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1047,2.80,Grittibänz Schokolade,unknown,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1048,4.90,Bio Butterzopf,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1049,Regional Price,Vanillestange,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1050,Regional Price,Muffin Schokolade,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1051,Regional Price,Butterzopf IP-SUISSE,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1052,3.85,Grittibänz ungesüsst,unknown,180g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1053,Regional Price,Calzone Tomaten und Mozzarella,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1054,4.–,Steinofen Bürli Schild IP-SUISSE,Stone-baked,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1055,1.40,Silser Sandwich IP-SUISSE,unknown,105g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1056,Regional Price,Torsadée au chocolat,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1057,1.–,Faschtewaie IP-SUISSE,unknown,46g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1058,1.90,Big Faschtewaie IP-SUISSE,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1059,3.45,Grittibänz ,unknown,250g IP-SUISSE250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1060,2.90,Tomatenstrudel,unknown,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1061,Regional Price,Poulet Curry Strudel,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1062,2.80,Wurstweggen,unknown,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1063,2.95,Belle Journée Extra Himbeeren,Belle Journée,450g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1064,4.60,Patissier Backfüllung Mandel,Patissier,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1065,2.60,Grittibänz,unknown,155g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1066,Regional Price,1. Augustweggli,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1067,2.–,Teigosterhase Schoggi,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1068,1.70,Himbeer-Vanille Plunder,unknown,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1069,Regional Price,Apfel Jalousie,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1070,Regional Price,Rosinen Butterschnecke,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1071,Regional Price,Pizza Toscana,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1072,1.20,Berliner,unknown,79g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1073,3.–,Mini Dreikönigskuchen,unknown,180g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1074,3.80,M-Classic Duo-Pastetli,M-Classic,264g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1075,3.50,Crastan bicarbonato barattolo,unknown,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1076,Regional Price,Mandelbrezel,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1077,4.90,Aus der Region Pancakes Nature,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1078,1.70,Schoko Berliner,unknown,82g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1079,6.15, Dinkel Ruchbrot,Demeter,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1080,7.20,Himbeertorte ,Freshly prepared for,2er343g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1081,Regional Price,Laugenkäseknopf IP-SUISSE,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1082,12.50,Schwarzwäldertorte,unknown,440g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1083,5.50,Carac Fussball,unknown,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1084,Regional Price,Eclairs Schokolade,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1085,Regional Price,Fussballbrötchen,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1086,0.95,Steinofenbrötchen IP-SUISSE,unknown,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1087,Regional Price,Semmeli IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1088,1.40,Donut Nut Nougat,unknown,71g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1089,Regional Price,Mini Eclairs assortiert,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1090,1.–,Migros Bio Buttergipfel,Migros Bio,45g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1091,1.65,Butterzöpfli IP-SUISSE,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1092,5.80,Dessertkugel Weihnachten,unknown,179g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1093,15.10,Milles Feuilles Torte,unknown,750g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1094,Regional Price,Mailänderbrot IP-SUISSE,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1095,0.75,Butterweggli IP-SUISSE,unknown,65g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1096,4.20,Marronibrot,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1097,23.20,Exotiktorte eckig,unknown,800g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1098,2.–,Teigosterhase Schoggi,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1099,3.40,Roggenvollkornbrot mit Nüssen IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1100,2.60,Cake Stück Marmor,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1101,13.50,Sélection petit four ,Migros Sélection,10er128g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1102,13.50, petit four ,Sélection,10er128g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1103,4.80,Bio Fougasse,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1104,4.90,Migros Bio Butterzopf,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1105,Regional Price,Fruchttorte,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1106,1.50,Migros Bio Mini Twister hell,Migros Bio,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1107,1.60,Schoggibrötli,unknown,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1108,1.95,Baguette,Stone-baked,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1109,4.–,Dinkelbrot,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1110,2.40,Ovo Crunchy Roll,Ovomaltine,82g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1111,Regional Price,Puderzuckerschnee,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1112,2.95,Weissbrot IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1113,3.10,Grittibänz mit Branchli,In-store bakery,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1114,4.70,Tanne Brownie Caramel,unknown,130g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1115,0.90,Rustica Gipfel,unknown,60g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1116,7.40,Zitronentorte Weihnachten,unknown,220g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1117,1.–,Bio Vitalbrötchen,Stone-baked,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1118,Regional Price,Sterntorte Mousse,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1119,2.–,Migros Bio Teigosterhase,Migros Bio,105g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1120,2.30,Kartoffelbrot mit Nüssen,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1121,Regional Price,Gebäcksglasur,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1122,1.40,Donut Fussball,unknown,58g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1123,2.20,Schokoladen Mini Cake,unknown,95g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1124,12.–,Kirsch-Torte klein,unknown,430g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1125,Regional Price,Grittibänz,In-store bakery,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1126,22.40,Erdbeertorte,Freshly prepared for,990g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1127,Regional Price,Schwarzwälder Torte,Freshly prepared for,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1128,7.60,Vermicelle Cake,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1129,1.30,Laugenbrötli mit Sesam,unknown,70g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1130,5.65,Haselnuss Diplomat Weihnachten,unknown,180g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1131,3.10,Grittibänz mit Branchli,In-store bakery,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1132,1.–,BrötchenIP Suisse,Stone-baked,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1133,1.30,M-Budget Baguette hell,M-Budget,240g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1134,5.20,,unknown,1. August Wappen 2er160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1135,4.70,Diplomat Vanille,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1136,1.60,Schoggibrötli,unknown,75g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1137,1.55,Keimkraft Gipfel,unknown,90g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1138,Regional Price,Mini Bûche Ostern Schwarzwälder,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1139,3.50,Bio Ciabatta,Stone-baked,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1140,4.30,Zwiebel-Käsewähe,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1141,2.30,Ovo Crunchy Muffin,Ovomaltine,86g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1142,3.50,Crèmeschnitte ,unknown,1. August200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1143,4.80,Ur-Ackerkorn Brot IP-SUISSE,In-store bakery,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1144,4.90,Baumnussbrot IP-SUISSE,In-store bakery,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1145,3.85,Grittibänz,In-store bakery,180g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1146,Regional Price,Änissterne,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1147,4.20,Mini Bûche chocolat,unknown,134g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1148,Regional Price,Berliner Bretzel ungefüllt,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1149,Regional Price,Big Laugenbuttergipfel,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1150,1.40,Sauerteigbrötli IP-SUISSE,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1151,15.80,Erdbeer Vanille Buche,unknown,330g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1152,1.25,Migros Bio Kartoffelbrötchen,Migros Bio,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1153,0.80,M-Budget Donut,M-Budget,53g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1154,4.20,Mini Bûche Weihnach. Schwarzwälder,unknown,134g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1155,2.40,Grittibänz,In-store bakery,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1156,2.30,Migros Bio Grittibänz,Migros Bio,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1157,2.30,Ragusa Gipfel,unknown,93g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1158,3.30,Twister Süsskartoffel,Stone-baked,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1159,2.10,Muffin Unicorn,unknown,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1160,5.10,Urdinkel Farmerbrot IP-SUISSE,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1161,1.–,Natürliche Farbe Grün,RUF,8g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1162,1.–,Natürliche Farbe Blau,RUF,8g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1163,1.40,Donut Green Apple,unknown,1 piece,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1164,Regional Price, Dinkelbrot,Bio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1165,1.30,Fine crystal sugar,M-Budget,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1166,1.95,Migros Bio Schweizer Weizenkleie,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1167,2.50,Bio Schoko-Tropfen,RUF,1 piece,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1168,1.90,Natürliches Topping Pist. Haseln. Kakao,RUF,30g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1169,1.70,Natürliches Topping Himbeer Kirsch Reis.,RUF,15g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1170,4.50,Bio Dekor Mix,RUF,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1171,Regional Price,Pinsa doughWith olive oil,Anna's Best,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1172,5.60,Nestlé Nesquik Cereal,Nestlé,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1173,4.95,Pastetli Herzform,unknown,1 piece,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1174,7.95,Sugar decoration dinosaur,unknown,6 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1175,14.95,Sugar sneaker white,unknown,2 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1176,6.95,Sugar pearl glitter blue,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1177,7.95,Sugar decoration baby shower,unknown,6 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1178,6.95,Sprinkle unicorn,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1179,7.95,Sugar decoration calcio,unknown,6 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1180,4.95,Sugar pearl blue,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1181,4.95,Sugar pearl multicolor,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1182,4.95,Sugar pearl green,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1183,6.95,Decorative powder blue,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1184,4.95,Sugar pearl brwon,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1185,4.95,Sugar pearl silver,unknown,1 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1186,5.35,Spread,Nocciolata,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1187,2.10,Muffin Key Lime Pie,unknown,116g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1188,3.50,Creme-Cornet,Freshly prepared for,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1189,4.50,Donuts Hearts ,DOTS,2 Stück142g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1190,1.25,Dry mix for crêpes,Homemade,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1191,6.40,Trio Cocos Makronen,unknown,612g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1192,5.35,Bio Nocciolata ohne Milch,Nocciolata,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1193,1.30,Migros Bio Vollkorn haferflöckli fein,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1194,5.50,"  Special KMulti-grain petal mixRed berries, cluster and seed",Kellogg's,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1195,3.40,Marzipan,Patissier,165g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1196,3.10,Scattered decor Mix,Patissier,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1197,0.60,Gingerbread spice,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1198,3.70,  IP-SUISSEButter puff pastrySquare ,Anna's Best,36x24cm280g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1199,4.65,"Flakes from rice and wheatWith fruits, ",M-Classic,8 vitamins and iron500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1200,4.95,  CrocMuesli NibblesSeeds & Nuts,Farmer,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1201,3.40,MarzipanVegetables,Patissier,165g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1202,4.80,Yeast flakes,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1203,5.10,Orange blossom honey,Sélection,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1204,2.55,"  CrustiniBruschettaRoasted, salted, with olive oil",Monviso,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1205,5.95,  BioMuesliApple & pecan,You,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1206,4.20,CrispbreadChia & oats,Sélection,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1207,3.95,Baking mix for muffinsWith ,Homemade,"8 baking pans, chocolate cubes290g","Bread, Pastries, & Breakfast",Migros,2023-05-18
+1208,3.20,Crown of Sils,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1209,4.30,Sweetener powderCyclamate and saccharin,Sucorine,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1210,4.95,"  Bircher MüesliOat, barley and spelt flakes with sunflower seeds, apple pieces and hazelnutsOriginal",Farmer,800g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1211,4.10,PistachiosChopped,Patissier,35g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1212,6.50,  aha!Crunchy muesliNuts,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1213,2.95,  ExtraRedcurrant jelly,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1214,3.20,Pudding powderChocolate Flavor,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1215,4.95,"  Bircher MüesliOat, barley and soya flakes with sultanas and hazelnutsFit",Farmer,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1216,6.95,Birchermüesli with berriesReddy Berries,Migros Bio,700g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1217,3.45,Dark chocolate muesli,Alnatura,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1218,1.60,Sunflower seed bread,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1219,3.70,Wafer cones,M-Classic,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1220,5.60,Lavender flower honey,Sélection,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1221,4.95,Dessert creamVanilla,Stalden,470g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1222,3.10,Chocolate with flavor,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1223,3.20,Party Pasteli,M-Classic,72g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1224,5.95,Blossom honey,unknown,550g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1225,2.40,Sugar decoration with candlesColored,Patissier,25g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1226,1.35,Marzipan,Patissier,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1227,2.95,Crispy breadGarlic & sea salt,Wasa,190g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1228,2.40,Gelling sugar,M-Classic,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1229,1.75,Cup LoversBaking mix for muffin cake,unknown,"1 serving, 1 minute microwave80g","Bread, Pastries, & Breakfast",Migros,2023-05-18
+1230,2.50,Gelling sugar ,Aarberg,2:1500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1231,2.–,Puff pastryAs a block,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1232,4.95,GranolaDark chocolate - zing,Spoon,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1233,6.20,Baking mix for ,Homemade,24 browniesWhite with almonds. 1 bag = 24 pieces490g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1234,4.95,Dessert creamMilk chocolate,Stalden,470g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1235,5.50,Organic wholemeal oat flakesWith dried fruits and spices,You,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1236,6.95,"Baking mix for carrot cakeWith baking tin, with marzipan carrots,with icing sugar",Homemade,480g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1237,4.40,Wafer cuts,M-Classic,78g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1238,3.95,  ExtraRaspberry jelly,Belle Journée,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1239,5.90,Aha!Flour mixtFor dark bread,unknown,1kg,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1240,1.30,Granulated sugar,M-Classic,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1241,2.60,NappageÀ la fraise,unknown,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1242,2.20,Pâtisserie crumble,Patissier,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1243,1.80,Strawberry icingFor cakes,Patissier,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1244,4.95,GranolaWith maple syrup,Spoon,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1245,5.95,  BioLentil crunchy muesliCocoa,You,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1246,5.95,  aha!Crunchy muesliSeeds,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1247,2.40,Krustenkranz,unknown,320g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1248,12.50,Le carac géant,unknown,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1249,5.60,Pine honey,Sélection,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1250,2.40,Sign happy birthday,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1251,3.80,Organic spelt braid,Stadtmühle Schenk,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1252,2.90,Butter braid,unknown,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1253,2.90,Potato breadWith walnuts,unknown,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1254,1.90,Bitter almond flavor,Patissier,5 x 2ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1255,4.–,Chocolate decorations,Patissier,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1256,5.70,Baked organic müesli mixWith hazelnuts and hemp seeds,You,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1257,2.30,Rock candy,M-Classic,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1258,5.70,  BioChocolate cake mixWith baking pan,Homemade,480g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1259,2.40,Sign happy birthday,Patissier,10g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1260,3.20,Pudding powder for Caramel KöpfliFor cooking,unknown,204g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1261,5.80,Crunchy muesliAmaranth with chia and apple,Migros Bio,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1262,4.95,GranolaApple - almond butter,Spoon,400g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1263,4.95,Scatter decor colourful,Patissier,120g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1264,2.40,Sugar Emoticon,Patissier,12g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1265,2.60,Powder for panna cotta base cream,Homemade,195g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1266,1.95,BaguetteSteinofen,unknown,260g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1267,1.90,Grated orange peel,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1268,2.60,Gelling agent for jams and jellies ,Patissier,3:13 x 30g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1269,2.65,Brawn,M-Classic,6 x 12.5g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1270,1.95,  Cup LoversBaking mix for brownie cake,Homemade,"1 serving, 1 minute microwave80g","Bread, Pastries, & Breakfast",Migros,2023-05-18
+1271,5.50,Cereal mixture ,You,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1272,4.95,Dessert creamChocolate,Stalden,470g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1273,3.20,Cream powder with chocolate aroma,Homemade,2 bags: 1 bag = 4 portions160g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1274,5.80,Bread flour mix,Bauckhof,7 seeds500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1275,2.55,Sugar writingWhite,Patissier,25g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1276,3.60,Cocoa butter,Alnatura,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1277,4.60,White fondant blanket,Patissier,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1278,4.60,Mix for sliced shellfish,unknown,410g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1279,6.95,Baking mix for ,Homemade,12 cupcakesVanilla aroma and chocolate hearts425g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1280,3.50,Vermicelles - Chestnut puree,unknown,200g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1281,6.20,Baking mix for ,Homemade,"6 Vulcano1 bag baking mix, 1 bag of chocolate, 6 baking tins240g","Bread, Pastries, & Breakfast",Migros,2023-05-18
+1282,2.60,Chocolate butterflies,Patissier,27g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1283,1.95,Dessert sauceChocolate,Patissier,125g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1284,2.40,Sugar eyes,Patissier,8g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1285,4.30,Baking mix for apple pie,Homemade,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1286,5.50,Baking mix for Naked CakeWith baking pan,Homemade,340g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1287,1.35,Marzipan,Patissier,80g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1288,5.95,Canihua flakes,Migros Bio,150g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1289,2.40,Sugar beetle,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1290,6.20,Bread flour mix,Bauckhof,600g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1291,3.20,TwisterSteinofen,Migros Bio,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1292,2.70,SteinofenrauteFour à pierre,Migros Bio,250g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1293,2.40,Gelling agent for jams and jelliesVegetable,Patissier,3 x 30g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1294,1.35,"Candied fruit, chopped",Patissier,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1295,3.20,Twister RusticoSteinofen,Migros Bio,360g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1296,5.95,Baking release spray,Patissier,200ml,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1297,5.60,Baking mix for Marble CakeWith baking pan,Homemade,490g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1298,Regional Price,Holzfällerbrot,unknown,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1299,9.95,  BakingColor paste for food,Cucina & Tavola,3 Stk.,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1300,5.60,Roll fondantPastel,Patissier,500g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1301,2.–,Decoration confectionery,Patissier,140g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1302,2.20,Bigarreaux confits,Patissier,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1303,1.25,"Candied orange peel, chopped",Patissier,100g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1304,4.75,Perles croquantes au chocolat,Patissier,110g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1305,2.65,Sugar writingRed,Patissier,25g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1306,4.20,Vermicelles,Patissier,300g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1307,2.40,Sign unicorn,Patissier,20g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1308,Regional Price,Rustic bread rollsPart baked,Bio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1309,4.80,JamSwiss raspberries,Favorit,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1310,Regional Price,Pointed rollPart baked,Bio,NA,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1311,4.50,Vanilla paste,Patissier,50g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+1312,3.50,CiabattaSteinofen,Migros Bio,350g,"Bread, Pastries, & Breakfast",Migros,2023-05-18
