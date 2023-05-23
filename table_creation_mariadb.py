@@ -6,7 +6,7 @@ try: con = mariadb.connect(
 
     user="root", 
 
-    password="072199", 
+    password="072199", # this is the local password
 
     host="localhost", 
 
@@ -72,9 +72,9 @@ print(res)
 
 # con.commit()
 
-# cur.execute("SELECT * FROM Bread_and_Pastries;")
+cur.execute("SELECT * FROM Bread_and_Pastries;")
 
-# print(cur.fetchall())
+print(cur.fetchall())
 
 ################################################
 ############# COFFE DRINKS AND TEA #############

@@ -90,7 +90,7 @@ for element in vegetables:
         if element.split(" ")[1] != "Regional":
             price = element.split(" ")[1]
             tempString = element.split(" ",2)[2].split("\n")[0]
-            print(tempString)
+            # print(tempString)
             ind = 0
             for brand in brands:
                 if tempString.startswith(brand):

@@ -1,10 +1,10 @@
 ,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
-0,56,6.50,Maple syrup,Migros Bio,0.25,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-1,116,2.95,Agave syrupDispenser bottle,Alnatura,0.25,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-2,288,8.95,Maple syrupGrade C,Alnatura,0.375,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-3,357,4.50,Liquid sweetenerCyclamat,Sucorine,0.2,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-4,361,1.90,Vanilla flavor,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-5,508,1.90,Patissier Aroma Rum,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-6,573,0.60,Flüssighefe,unknown,0.038,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-7,1254,1.90,Bitter almond flavor,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-18
-8,1296,5.95,Baking release spray,Patissier,0.2,"Bread, Pastries, & Breakfast",Migros,2023-05-18
+0,54,6.50,Maple syrup,Migros Bio,0.25,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+1,114,2.95,Agave syrupDispenser bottle,Alnatura,0.25,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+2,290,8.95,Maple syrupGrade C,Alnatura,0.375,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+3,364,4.50,Liquid sweetenerCyclamat,Sucorine,0.2,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+4,368,1.90,Vanilla flavor,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+5,515,1.90,Patissier Aroma Rum,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+6,581,0.70,Flüssighefe,unknown,0.038,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+7,1269,1.90,Bitter almond flavor,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-23
+8,1310,5.95,Baking release spray,Patissier,0.2,"Bread, Pastries, & Breakfast",Migros,2023-05-23

@@ -7,7 +7,7 @@ breadDf = pd.read_csv("bread_and_pastries.txt")
 ## It is important to extract the quantities in order to gain information regarding the price per g or kg.
 
 for i in range(len(breadDf)):
-    print(breadDf.loc[i, "Quantity"], "  ", type(breadDf.loc[i, "Quantity"]))
+    # print(breadDf.loc[i, "Quantity"], "  ", type(breadDf.loc[i, "Quantity"]))
 
     ## First of all we check the end of the strings. We handle these strings only if they end with "g" or "kg"
     if str(breadDf.loc[i, "Quantity"]).endswith("kg"):
@@ -21,13 +21,8 @@ for i in range(len(breadDf)):
             ## it means that the character/s of the separator is not inside the string. Therefore, if the list created has more than 2
             ## elements it is the case to cut.
 
-            if len(breadDf.loc[i, "Quantity"].split(" x ")) > 1:
-                single_value = float(breadDf.loc[i, "Quantity"].split(" x ", 1)[1].split("kg")[0].replace(" ", ""))*1000
-                number_of_values = float(breadDf.loc[i, "Quantity"].split(" x ")[0])
-                breadDf.loc[i, "Quantity"] =  single_value*number_of_values
 
-
-            elif len(breadDf.loc[i, "Quantity"].split("x")) > 1:
+            if len(breadDf.loc[i, "Quantity"].split("x")) > 1:
                 single_value = float(breadDf.loc[i, "Quantity"].split("x", 1)[1].split("kg")[0].replace(" ", ""))*1000
                 number_of_values = float(breadDf.loc[i, "Quantity"].split("x")[0])
                 breadDf.loc[i, "Quantity"] =  single_value*number_of_values
@@ -54,12 +49,7 @@ for i in range(len(breadDf)):
     ## We did the same consideration for grams. 
     elif str(breadDf.loc[i, "Quantity"])[-1] == "g" and str(breadDf.loc[i, "Quantity"])[-2] != "k":
         try:
-            if len(breadDf.loc[i, "Quantity"].split(" x ")) > 1:
-                single_value = float(breadDf.loc[i, "Quantity"].split(" x ", 1)[1].split("g")[0].replace(" ", ""))
-                number_of_values = float(breadDf.loc[i, "Quantity"].split(" x ")[0])
-                breadDf.loc[i, "Quantity"] =  single_value*number_of_values
-
-            elif len(breadDf.loc[i, "Quantity"].split("x")) > 1:
+            if len(breadDf.loc[i, "Quantity"].split("x")) > 1:
                 single_value = float(breadDf.loc[i, "Quantity"].split("x", 1)[1].split("g")[0].replace(" ", ""))
                 number_of_values = float(breadDf.loc[i, "Quantity"].split("x")[0])
                 breadDf.loc[i, "Quantity"] =  single_value*number_of_values
