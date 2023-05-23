@@ -22,17 +22,35 @@ driver.quit()
 soup = BeautifulSoup(page, 'html.parser')
 
 brands=[]
+## We extract the brands that can be used in the next step
+## In order to do that, we search for the HTML component ("label")
 for element in soup.select("label"):
+    ## We initialised the index to 0 
     ind = 0
     for char in element.get_text():
+        ## We found out that the charcater "(". 
         if char == "(":
             ind +=1
+    ## If there is only one character, it means we can extract the brand using the method split
     if ind == 1:
-        brands.append(element.get_text().split("(")[0][0:len(element.get_text().split("(")[0])-1])
+        brands.append(element.get_text().split("(")[0].replace(" ", ""))
+
+## We just add the space between the words (in case they are two) in the brand's names to create a smoother process later.
+for j in range(len(brands)):
+    element = brands[j]
+    count = 0
+    i = 0
+    for c in element:
+        if c.isupper():
+            count += 1
+            if count == 2: 
+                temp1 = element[:i]
+                temp2 = element[i:]
+                brands[j] = temp1 + " " + temp2
+                print(brands[i])
+        i += 1
 
 print(str(brands))
-
-
 
 url = 'https://www.migros.ch/en/category/fruits-vegetables'
 
@@ -40,7 +58,7 @@ url = 'https://www.migros.ch/en/category/fruits-vegetables'
 driver = webdriver.Chrome()
 driver.get(url)
 driver.maximize_window()
-time.sleep(70)
+time.sleep(30)
 page = driver.page_source
 driver.quit()
 ## We pass the page extracted using selenium to BeutifulSoup in order to extract data through the html. 
@@ -75,12 +93,13 @@ for element in vegetables:
             for brand in brands:
                 if tempString.startswith(brand):
                     ind += 1
-                    tempString = tempString.split(sep=brand)[1]
+                    tempString = tempString.split(brand,1)[1]
                     print(tempString)
                     i = 0
                     count_digit = 0
                     for char in tempString:
                         if char.isdigit() and count_digit==0:
+                            print("fatto")
                             prices.append(price)
                             producer.append(brand)
                             product.append(tempString[0:i])
@@ -112,7 +131,7 @@ for element in vegetables:
                     ind += 1
                     prices.append("Regional Price")
                     producer.append(brand)
-                    product.append(tempString.split(brand)[1])
+                    product.append(tempString.split(brand,1)[1])
                     quantity.append("NA")
                     ToF.append("Fruits and Vegetables")
                     supermarket.append("Migros")
