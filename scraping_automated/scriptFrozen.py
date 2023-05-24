@@ -33,40 +33,7 @@ for element in soup.select("label"):
             ind +=1
     ## If there is only one character, it means we can extract the brand using the method split
     if ind == 1:
-        brands.append(element.get_text().split("(")[0].replace(" ", ""))
-
-## We just add the space between the words (in case they are two) in the brand's names to create a smoother process later.
-for j in range(len(brands)):
-    element = brands[j]
-    count = 0
-    i = 0
-    for c in element:
-        if c.isupper():
-            count += 1
-            if count == 2: 
-                temp1 = element[:i]
-                temp2 = element[i:]
-                brands[j] = temp1 + " " + temp2
-                print(brands[i])
-        i += 1
-
-## We just add the space between the words (in case they are two) in the brand's names to create a smoother process later.
-for j in range(len(brands)):
-    element = brands[j]
-    count = 0
-    i = 0
-    for c in element:
-        if c.isupper():
-            count += 1
-            if count == 2: 
-                temp1 = element[:i]
-                temp2 = element[i:]
-                brands[j] = temp1 + " " + temp2
-                print(brands[i])
-        i += 1
-
-print(str(brands))
-
+        brands.append(element.get_text().split("(")[0][:-1])
 
 
 url = 'https://www.migros.ch/en/category/frozen-food'

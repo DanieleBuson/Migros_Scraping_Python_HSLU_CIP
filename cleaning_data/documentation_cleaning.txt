@@ -1,0 +1,407 @@
+Purpose: extract two different dataset, one with the quantity as a float 
+    representing the grams, one with the quantity as a float representing liters. 
+
+Reason: it would be interesting for the analysis to have this columns ready for being used.
+    In addition it would be possible to extract the price per gram (or liter).
+
+1. Bread and pastries Cleaning
+    
+    Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check that the string contains the letters "er". In that case we 
+                        simply cut the string into two pieces, the er part is add to the product string
+                        using concatenation, the second part is extracted and transformed into a float
+                    2.3 we applied the same procedure for the word "Stück" that usually appears in the 
+                        raw data. However, in this case we only extract the second element generated from
+                        teh split and extract the number as a float.
+                    2.4 we check the presence of a %. This usually happens due to the fact that, cutting 
+                        the strings on the numbers, some products name has inside a percentage.
+                        In this case the percentage is stored with the quantity. That is why 
+                        it is necessary to extract the right quantity. Therefore, we cut the string on 
+                        the percentage, and cut again on the first number. Then we can fix with 
+                        concatenation of string the product, and using casting we can have float
+                        values for the quantity column.
+                    2.5 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. we check if the quantity string ends with ml or l.
+
+                2. if it ends with "ml" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "ml" but we want "l", we divide 1000 to 
+                    the number of ml.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 if it is not any of these cases we simply try to cut on the initial separator.
+                
+                3. if it ends with "l" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+2. Coffe and Drinks and Tea
+
+    Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check that the string contains the string "fat". It is a common case
+                        when dealing with milk and cheese. We split the string on the word "fat" and we 
+                        update both columns (product and quantity in float), cutting on the first digit.
+                    2.3 we check that the string contains the string "slices" or "slices2 x". Both were selected
+                        since there are more than one record that has this issue. Therefore, we cut the string and 
+                        we extract the quantity as a float
+                    2.4 we check the presence of a %. This usually happens due to the fact that, cutting 
+                        the strings on the numbers, some products name has inside a percentage.
+                        In this case the percentage is stored with the quantity. That is why 
+                        it is necessary to extract the right quantity. Therefore, we cut the string on 
+                        the percentage, and cut again on the first number. Then we can fix with 
+                        concatenation of string the product, and using casting we can have float
+                        values for the quantity column.
+                    2.5 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. we check if the quantity string ends with ml or l.
+
+                2. if it ends with "ml" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "ml" but we want "l", we divide 1000 to 
+                    the number of ml.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check the presence of a %. This usually happens due to the fact that, cutting 
+                        the strings on the numbers, some products name has inside a percentage.
+                        In this case the percentage is stored with the quantity. That is why 
+                        it is necessary to extract the right quantity. Therefore, we cut the string on 
+                        the percentage, and cut again on the first number. Then we can fix with 
+                        concatenation of string the product, and using casting we can have float
+                        values for the quantity column.
+                    2.3 We extract the word "2Sparkling" and we split the string on the first digit. 
+                        Then we update the product column through string concatenation and the quantity
+                        column with a float value. 
+                    2.4 We check for the word "smoothie" and cut the string on that separator. Then, we 
+                        extract just the quantity as a float. 
+                    2.5 if it is not any of these cases we simply try to cut on the initial separator.
+                
+                3. if it ends with "cl", "dl" or "l" => we check for the same possible errors, always using a try except
+                    statement. In each case we carefully divide to have the right amount of liters.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+3. Dairy Products and Eggs
+    Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check that the string contains the string "intensity". It is a common case
+                        when dealing with coffe. We split the string on the value intensity and we 
+                        update both columns (product and quantity in float).
+                    2.3 we check that the string contains the string "strenght". As before it is 
+                        common case when dealing with coffe. 
+                    2.4 we check the presence of a %. This usually happens due to the fact that, cutting 
+                        the strings on the numbers, some products name has inside a percentage.
+                        In this case the percentage is stored with the quantity. That is why 
+                        it is necessary to extract the right quantity. Therefore, we cut the string on 
+                        the percentage, and cut again on the first number. Then we can fix with 
+                        concatenation of string the product, and using casting we can have float
+                        values for the quantity column.
+                    2.6 we can check the presence of three different words "BTL", "KG" and "Pads". In this case
+                        we just split the string on these separators and extract just the quantity as a float.
+                    2.7 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. we check if the quantity string ends with ml or l.
+
+                2. if it ends with "ml" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "ml" but we want "l", we divide 1000 to 
+                    the number of ml.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check the presence of a %. This usually happens due to the fact that, cutting 
+                        the strings on the numbers, some products name has inside a percentage.
+                        In this case the percentage is stored with the quantity. That is why 
+                        it is necessary to extract the right quantity. Therefore, we cut the string on 
+                        the percentage, and cut again on the first number. Then we can fix with 
+                        concatenation of string the product, and using casting we can have float
+                        values for the quantity column.
+                    2.3 if it is not any of these cases we simply try to cut on the initial separator.
+                
+                3. if it ends with "dl" or "l" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+4. Frozen Food
+
+    Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check that the string contains the string "pieces". we split the string and then 
+                        we extract the quantity as a float
+                    2.3 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. we check if the quantity string ends with ml or l.
+
+                2. if it ends with "ml" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "ml" but we want "l", we divide 1000 to 
+                    the number of ml.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 if it is not any of these cases we simply try to cut on the initial separator.
+                
+                3. if it ends with "l" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+5. Fruits and Vegetables
+
+    Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. we check if the quantity string ends with ml or l.
+
+                2. if it ends with "ml" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "ml" but we want "l", we divide 1000 to 
+                    the number of ml.
+
+                    2.1 here we check just that the cutting is correcct and then we split on the separator "ml"
+                
+                3. if it ends with "l" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+6. Meat and Fish
+
+        Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check that the string contains the letters "er". In that case we 
+                        simply cut the string into two pieces, the er part is add to the product string
+                        using concatenation, the second part is extracted and transformed into a float
+                    2.3 we applied the same procedure for the words "Stück", "pieces" or "pièces" that usually appears
+                        in the raw data. However, in this case we only extract the second element generated from
+                        teh split and extract the number as a float.
+                    2.4 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. In this case we do not have records in liters.
+
+7. Pasta and Canned Food
+
+    Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check that the string contains the letters "er". In that case we 
+                        simply cut the string into two pieces, the er part is add to the product string
+                        using concatenation, the second part is extracted and transformed into a float
+                    2.3 we applied the same procedure for the words "pieces", "liters" or "G" that usually appears
+                        in the raw data. However, in this case we only extract the second element generated from
+                        teh split and extract the number as a float.
+                    2.4 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. we check if the quantity string ends with ml or l.
+
+                2. if it ends with "ml" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "ml" but we want "l", we divide 1000 to 
+                    the number of ml.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check the presence of a %. This usually happens due to the fact that, cutting 
+                        the strings on the numbers, some products name has inside a percentage.
+                        In this case the percentage is stored with the quantity. That is why 
+                        it is necessary to extract the right quantity. Therefore, we cut the string on 
+                        the percentage, and cut again on the first number. Then we can fix with 
+                        concatenation of string the product, and using casting we can have float
+                        values for the quantity column.
+                    2.3 if it is not any of these cases we simply try to cut on the initial separator.
+                
+                3. if it ends with "cl" or "l" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+8. Snack and Sweets
+
+    Grams:
+        How:    1. we check if the quantity string ends with kg or g. 
+
+                2. if it ends with "kg" => we check potential errors. We incorporate the
+                    entire code into a try except statement not to crash the program.
+                    Since we are dealing with "kg" but we want "g", we multiply 1000 to 
+                    the number of kg.
+
+                    2.1 we check all the records that have a "x" in the string. This is a 
+                        common case, we extract the string before and after and we perform
+                        a casting into float. Then we multiply the numbers obtained.
+                    2.2 we check the presence of a %. This usually happens due to the fact that, cutting 
+                        the strings on the numbers, some products name has inside a percentage.
+                        In this case the percentage is stored with the quantity. That is why 
+                        it is necessary to extract the right quantity. Therefore, we cut the string on 
+                        the percentage, and cut again on the first number. Then we can fix with 
+                        concatenation of string the product, and using casting we can have float
+                        values for the quantity column.
+                    2.3 if it is not any of these cases we simply try to cut on the initial separator.
+
+                3. if it ends "g" => we check for the same possible errors, always using a try except
+                    statement.
+
+                4. Once we have obtained the data, we use dropna() function to remove every record
+                    containing a nan. Then, we reset the index. 
+
+                5. We create a csv table using the Pandas method to_csv().
+
+    Liters:
+        How:    1. In this case we do not have records in liters.
+
+
+

@@ -1,0 +1,56 @@
+This explanation is valid for all the 8 scripts. I always followed the same step.
+
+1. define the url, create a driver for Chrome and stay in the page for 10 seconds using time.sleep()
+
+2. manually activate the component brands from the page. Now that the component is activate BeutifulSoup can scrape it. 
+
+3. store the value into a list called brands. 
+
+4. define the url, create a driver for Chrome and stay in the page for a number of seconds (using time.sleep()) that depends on 
+    the number of records we need to extract.
+
+5. with BeutifulSoup we extract all the html elements that are "li". In particular we add the text of some of these components into a list. 
+
+6. we append only the "li" components that have a digit in first, second or third position. Alteernatively, we extract the component if
+    the string starts with " Regional". We understood how to implement this part in a empirical way, keep logging the results of BeutifulSoup
+    in the console and trying to find a way to extract exactly what we wanted.
+
+7. we define several empty list that will be useful in a second moment. 
+
+8. we loop on the results of BeutifulSoup extraction (the "li" elements)
+
+    8.1 we understood that the first character of these strings is always a space. Therefore we cut the string on the space.
+
+        8.1.1 we have an issue, with this method we lose the promotions. However we believe that is a minimum loss in the entire dataset. 
+            Of course in a larger project, with more time, we would like to catch every results.
+        
+        8.1.2 there are two possibilities, that the second element of the list created with split is a digit, or it could be 
+            the string "Regional". 
+
+    8.2 we check that the result is not "Regional" 
+
+        8.2.1 we loop trhough the brands to check if the temporary string created splitting on the space starts with the name of the brand. 
+
+        8.2.2 if it is true, we create a record append to the several lists (price, product...) one value each. 
+
+            8.2.2.1 It is important to notice that we extracted the quantity by splitting on the first digit. This procedure is most of the time right.
+                    However, there are many error that are going to be fixed later on in the cleaning section. The rest of the 
+                    splitted string is used as a product name.
+
+        8.2.3 if it is not true, we create a record with producer defined as "unknown". 
+
+            8.2.3.1 The same consideration as before on the quantity and product columns.
+
+    8.3 else (if we are dealing with a string that starts with "Regional")
+
+        8.3.1 we applied the same consideration as before on brands.
+
+            8.3.1.1 In this case the quantity is not defined. Therefore, we append the string "NA".
+
+9. we collect the results in a list of lists called total_list
+
+10. we transform the list of lists into a pandas dataframe and then we use the pandas method transpose to create a proper matricial form
+
+11. we print the result to check if everything went well. 
+
+12. we create a raw dataset as a csv file using the method to_csv.

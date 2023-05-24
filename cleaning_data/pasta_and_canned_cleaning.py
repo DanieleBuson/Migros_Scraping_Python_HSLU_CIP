@@ -130,7 +130,7 @@ for i in range(len(pastaDf)):
             print("There is a problem with '", pastaDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
             pastaDf.loc[i, "Quantity"] = np.nan
 
-    elif str(pastaDf.loc[i, "Quantity"])[-1] == "l" and str(pastaDf.loc[i, "Quantity"])[-2] != "m":
+    elif str(pastaDf.loc[i, "Quantity"])[-1] == "l" and (str(pastaDf.loc[i, "Quantity"])[-2] != "m" or str(pastaDf.loc[i, "Quantity"])[-2] != "c"):
         try: 
             if len(pastaDf.loc[i, "Quantity"].split("x"))>1:
                 single_value =  float(pastaDf.loc[i, "Quantity"].split("x")[1].split("l")[0].replace(" ", ""))

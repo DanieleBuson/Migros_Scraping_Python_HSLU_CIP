@@ -1,13 +1,13 @@
 ,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
 0,44,5.50,Salad dressingFrench,Mini Salatsossä,0.5,Fruits and Vegetables,Migros,2023-05-24
-1,125,5.50,Salad dressingFrench,Frifrench,0.5,Fruits and Vegetables,Migros,2023-05-24
-2,140,9.95,Salad dressingFrench,Frifrench,1.0,Fruits and Vegetables,Migros,2023-05-24
-3,147,6.50,Salad dressingItalian,Mini Salatsossä,0.5,Fruits and Vegetables,Migros,2023-05-24
-4,168,3.95,"  aha!  - VitafrenchSalad dressingLactose free, gluten free",Frifrench,0.27,Fruits and Vegetables,Migros,2023-05-24
-5,169,5.50,Salad dressingFrench Dressing,Migros Bio,0.5,Fruits and Vegetables,Migros,2023-05-24
-6,175,4.95,  VinaigretteSalad dressingMustard-honey,Anna's Best,0.5,Fruits and Vegetables,Migros,2023-05-24
-7,185,4.95,  DressingSalad dressingThousand Island,Anna's Best,0.5,Fruits and Vegetables,Migros,2023-05-24
-8,190,5.50,Salad dressingBalsamico Dressing,Migros Bio,0.5,Fruits and Vegetables,Migros,2023-05-24
-9,191,7.95,  DressingSalad dressingFrench,Anna's Best,1.0,Fruits and Vegetables,Migros,2023-05-24
-10,197,0.60,Anna's Best Dressing Caesar ,Anna's Best,0.05,Fruits and Vegetables,Migros,2023-05-24
-11,362,4.95,  DressingSalad dressingCaesar,Anna's Best,0.5,Fruits and Vegetables,Migros,2023-05-24
+1,123,5.50,Salad dressingFrench,Frifrench,0.5,Fruits and Vegetables,Migros,2023-05-24
+2,138,9.95,Salad dressingFrench,Frifrench,1.0,Fruits and Vegetables,Migros,2023-05-24
+3,145,6.50,Salad dressingItalian,Mini Salatsossä,0.5,Fruits and Vegetables,Migros,2023-05-24
+4,166,3.95,"  aha!  - VitafrenchSalad dressingLactose free, gluten free",Frifrench,0.27,Fruits and Vegetables,Migros,2023-05-24
+5,167,5.50,Salad dressingFrench Dressing,Migros Bio,0.5,Fruits and Vegetables,Migros,2023-05-24
+6,173,4.95,  VinaigretteSalad dressingMustard-honey,Anna's Best,0.5,Fruits and Vegetables,Migros,2023-05-24
+7,183,4.95,  DressingSalad dressingThousand Island,Anna's Best,0.5,Fruits and Vegetables,Migros,2023-05-24
+8,188,5.50,Salad dressingBalsamico Dressing,Migros Bio,0.5,Fruits and Vegetables,Migros,2023-05-24
+9,189,7.95,  DressingSalad dressingFrench,Anna's Best,1.0,Fruits and Vegetables,Migros,2023-05-24
+10,195,0.60,Anna's Best Dressing Caesar,Anna's Best,0.05,Fruits and Vegetables,Migros,2023-05-24
+11,358,4.95,  DressingSalad dressingCaesar,Anna's Best,0.5,Fruits and Vegetables,Migros,2023-05-24
