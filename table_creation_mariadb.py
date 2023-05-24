@@ -4,9 +4,9 @@ import sys
 
 try: con = mariadb.connect( 
 
-    user="root", 
+    user="daniele", 
 
-    password="072199", # this is the local password
+    password="mypass", # this is the local password
 
     host="localhost", 
 
@@ -24,14 +24,14 @@ except mariadb.Error as ex:
 
 cur = con.cursor()
 
-cur.execute("CREATE TABLE IF NOT EXISTS Fruits_and_Vegetables (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
-cur.execute("CREATE TABLE IF NOT EXISTS Meat_and_Fish (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
-cur.execute("CREATE TABLE IF NOT EXISTS Bread_and_Pastries (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
-cur.execute("CREATE TABLE IF NOT EXISTS Coffe_Drinks_Tea (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
-cur.execute("CREATE TABLE IF NOT EXISTS Dairy_and_Eggs (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
-cur.execute("CREATE TABLE IF NOT EXISTS Frozen_Food (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
-cur.execute("CREATE TABLE IF NOT EXISTS Pasta_and_Canned (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
-cur.execute("CREATE TABLE IF NOT EXISTS Snacks (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Fruits_and_Vegetables (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Meat_and_Fish (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Bread_and_Pastries (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Coffe_Drinks_Tea (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Dairy_and_Eggs (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Frozen_Food (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Pasta_and_Canned (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
+# cur.execute("CREATE TABLE IF NOT EXISTS Snacks (ProductId MEDIUMINT NOT NULL AUTO_INCREMENT, Price FLOAT, Product VARCHAR(255), Producer VARCHAR(255), Quantity VARCHAR(255), TypeOfFood VARCHAR(255), Supermarket VARCHAR(255), Date DATE, PRIMARY KEY (ProductId));")
 
 cur.execute("SHOW TABLES;")
 res = cur.fetchall()
@@ -348,3 +348,4 @@ print(cur.fetchall())
 # cur.execute("SELECT * FROM Snacks;")
 
 # print(cur.fetchall())
+
