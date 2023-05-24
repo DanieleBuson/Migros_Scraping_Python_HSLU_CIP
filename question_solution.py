@@ -11,12 +11,14 @@ import numpy as np
 ## The user can check the products by keywords, in particular, it is possible to get information regarding average prices
 ## average quantity in grams and in liters, plus general information on a keyword.
 
+
+## extraction of all the data from CSV 
 migros_total_float_price = pd.read_csv("migros_dataset_fp.txt")
 migros_total = pd.read_csv("migros_dataset.txt")
 migros_total_g = pd.read_csv("migros_dataset_g.txt")
 migros_total_l = pd.read_csv("migros_dataset_l.txt")
 
-
+## We create a interactive program to search a specific keyword from different dataset (dataset with price in float,dataset with grams in float or liters in float)
 cond = True
 while cond:
 
@@ -24,8 +26,10 @@ while cond:
         choice = int(input("Insert 1 for searching through the data with a regular price in CHF\nInsert 2 for searching through the data that have quantity in grams" +
             "\nInsert 3 for searching through the data that have quantity in liters\nInsert 4 for searching though all the data" +
             "\nInsert 0 to exit.\n") )
+        ## if choice is 0 the program is closed.
         if choice == 0:
             cond = False
+        ## if choice is 1 we ask for the keyword and we give back the result for the search
         elif choice == 1:
             keyword = input("Insert Keyword: \n")
             print("\n")
@@ -48,11 +52,13 @@ while cond:
                     if migros_total_float_price.loc[i,"Price"] < minimum_price:
                         minimum_product = str(migros_total_float_price.loc[i,])
                         minimum_price = migros_total_float_price.loc[i, "Price"]
+            ## we display number of records, most expensive and cheapest product, average price and variance of price
             print("\nNumber of records:  ", count)
             print("\nMost expensive product:  ", maximum_product)
             print("\nCheapest product:  ", minimum_product)
             print("\nAverage price:  ", str(sum_val/count))
             print("\nPrice variance:  ", str(sum_val_squared/count - (sum_val/count)**2))
+        ## if choice is 2 we check for the keyword and return the products from the dataset that have quantity in grams
         elif choice == 2:
             keyword = input("Insert Keyword: \n")
             print("\n")
@@ -75,11 +81,13 @@ while cond:
                     if float(migros_total_g.loc[i,"Quantity"]) < minimum_quantity:
                         minimum_product = str(migros_total_g.loc[i,])
                         minimum_quantity = float(migros_total_g.loc[i,"Quantity"])
+            ## we display number of records, heaviest product and lightests product, average quantity and standard deviation
             print("\nNumber of records:  ", count)
             print("\nHeaviest product:  ", maximum_product)
             print("\nLightest product:  ", minimum_product)
             print("\nAverage quantity in grams:  ", str(sum_val/count))
             print("\nQuantity standard deviation in grams:  ", str((sum_val_squared/count - (sum_val/count)**2)**0.5))
+        ## if choice is 3 we check for the keyword and return the products from the dataset that have quantity in liters
         elif choice == 3:
             keyword = input("Insert Keyword: \n")
             print("\n")
@@ -102,11 +110,13 @@ while cond:
                     if float(migros_total_g.loc[i,"Quantity"]) < minimum_quantity:
                         minimum_product = str(migros_total_g.loc[i,])
                         minimum_quantity = float(migros_total_g.loc[i,"Quantity"])
+            ## we display number of records, heaviest product and lightests product, average quantity and standard deviation
             print("\nNumber of records:  ", count)
             print("\Maximum liters product:  ", maximum_product)
             print("\nMinimum liters product:  ", minimum_product)
             print("\nAverage quantity in liters:  ", str(sum_val/count))
             print("\nQuantity standard deviation in liters:  ", str((sum_val_squared/count - (sum_val/count)**2)**0.5))
+        ## if choice is 4 we check in the general dataset
         elif choice == 4:
             keyword = input("Insert Keyword: \n")
             print("\n")
@@ -116,14 +126,13 @@ while cond:
                     count += 1
                     print(migros_total.loc[i,])
                     print("\n")
+            ## We can show only the number of records since the dataset contains just strings.
             print("\nNumber of records:  ", count)
+        ## if there is an error we catch an exception or if the choice is out of range we raise and catch an exception manually
         else: 
             raise Exception("Please, insert a digit between 0 and 4!")
     except Exception as e:
         print(e.args)
             
-
-
-
 
 ############# Third Question #############

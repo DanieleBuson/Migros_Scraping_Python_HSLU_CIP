@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-frozenDf = pd.read_csv("frozen_food.txt")
+frozenDf = pd.read_csv("data/frozen_food.txt")
 
 ## extracting only products that have grams (or kilograms) for the following analysis
 
@@ -52,12 +52,12 @@ frozenDf_grams = frozenDf_grams.reset_index(drop = True)
 ## Decommenting this line you can check the number of records. 
 print(len(frozenDf_grams))
 
-with open("frozen_food_grams.txt", "w") as csv_file:
+with open("data/frozen_food_grams.txt", "w") as csv_file:
     frozenDf_grams.to_csv(csv_file)
 
 ## Extracting liters for following analysis
 
-frozenDf = pd.read_csv("frozen_food.txt")
+frozenDf = pd.read_csv("data/frozen_food.txt")
 
 for i in range(len(frozenDf)):
     print(frozenDf.loc[i, "Quantity"], "  ", type(frozenDf.loc[i, "Quantity"]))
@@ -96,6 +96,6 @@ frozenDf_liter = frozenDf_liter.reset_index(drop=True)
 ## Decommenting this line you can check the number of records. 
 print(len(frozenDf_liter))
 
-with open("frozen_food_liters.txt", "w") as csv_file:
+with open("data/frozen_food_liters.txt", "w") as csv_file:
     frozenDf_liter.to_csv(csv_file)
 

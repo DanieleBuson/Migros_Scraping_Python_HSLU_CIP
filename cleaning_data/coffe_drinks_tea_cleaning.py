@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-coffeDf = pd.read_csv("coffe_drinks_tea.txt")
+coffeDf = pd.read_csv("data/coffe_drinks_tea.txt")
 
 ## extracting only products that have grams (or kilograms) for the following analysis
 
@@ -120,12 +120,12 @@ coffeDf_grams = coffeDf_grams.reset_index(drop = True)
 # print(len(coffeDf_grams))
 
 ## We store the result in a csv file
-with open("coffe_drinks_tea_grams.txt", "w") as csv_file:
+with open("data/coffe_drinks_tea_grams.txt", "w") as csv_file:
     coffeDf_grams.to_csv(path_or_buf=csv_file)
 
 # Extracting liters for following analysis
 
-coffeDf = pd.read_csv("coffe_drinks_tea.txt")
+coffeDf = pd.read_csv("data/coffe_drinks_tea.txt")
 
 for i in range(len(coffeDf)):
     print(coffeDf.loc[i, "Quantity"], "  ", type(coffeDf.loc[i, "Quantity"]))
@@ -317,5 +317,5 @@ coffeDf_liter = coffeDf_liter.reset_index(drop=True)
 ## Decommenting the line below it is possible to check the number of records in the csv that we are going to ccreate.
 # print(len(coffeDf_liter))
 
-with open("coffe_drinks_tea_liters.txt", "w") as csv_file:
+with open("data/coffe_drinks_tea_liters.txt", "w") as csv_file:
     coffeDf_liter.to_csv(path_or_buf=csv_file)

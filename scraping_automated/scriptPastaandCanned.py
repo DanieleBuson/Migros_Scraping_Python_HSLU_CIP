@@ -60,7 +60,7 @@ url = 'https://www.migros.ch/en/category/pasta-condiments-canned-food'
 driver = webdriver.Chrome()
 driver.get(url)
 driver.maximize_window()
-time.sleep(120)
+time.sleep(70)
 page = driver.page_source
 driver.quit()
 ## We pass the page extracted using selenium to BeutifulSoup in order to extract data through the html. 
@@ -163,5 +163,5 @@ pastaDF.columns = ["Price", "Product", "Producer", "Quantity", "Type of food", "
 ## Here it is the result in a tabular form.
 print(pastaDF)
 
-with open('pasta_and_canned.txt', 'w') as csv_file:
+with open('data/pasta_and_canned.txt', 'w') as csv_file:
     pastaDF.to_csv(path_or_buf=csv_file)

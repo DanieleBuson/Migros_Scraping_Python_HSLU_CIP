@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-pastaDf = pd.read_csv("pasta_and_canned.txt")
+pastaDf = pd.read_csv("data/pasta_and_canned.txt")
 
 ## extracting only products that have grams (or kilograms) for the following analysis
 
@@ -63,12 +63,12 @@ pastaDf_grams = pastaDf_grams.reset_index(drop = True)
 ## Decommenting the line below it is possible to understand the quantity of rows stored.
 print(len(pastaDf_grams))
 
-with open("pasta_and_canned_grams.txt", "w") as csv_file:
+with open("data/pasta_and_canned_grams.txt", "w") as csv_file:
     pastaDf_grams.to_csv(csv_file)
 
 ## Extracting liters for following analysis
 
-pastaDf = pd.read_csv("pasta_and_canned.txt")
+pastaDf = pd.read_csv("data/pasta_and_canned.txt")
 
 for i in range(len(pastaDf)):
     # print(pastaDf.loc[i, "Quantity"], "  ", type(pastaDf.loc[i, "Quantity"]))
@@ -166,6 +166,6 @@ pastaDf_liter = pastaDf_liter.reset_index(drop=True)
 ## Decommenting the line below it is possible to understand the quantity of rows stored.
 print(len(pastaDf_liter))
 
-with open("pasta_and_canned_liters.txt", "w") as csv_file:
+with open("data/pasta_and_canned_liters.txt", "w") as csv_file:
     pastaDf_liter.to_csv(csv_file)
 

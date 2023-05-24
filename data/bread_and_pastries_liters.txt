@@ -1,0 +1,8 @@
+,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,41,6.50,Maple syrup,Migros Bio,0.25,"Bread, Pastries, & Breakfast",Migros,2023-05-24
+1,226,8.95,Maple syrupGrade C,Alnatura,0.375,"Bread, Pastries, & Breakfast",Migros,2023-05-24
+2,290,4.50,Liquid sweetenerCyclamat,Sucorine,0.2,"Bread, Pastries, & Breakfast",Migros,2023-05-24
+3,361,1.90,Vanilla flavor,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-24
+4,532,1.90,Patissier Aroma Rum,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-24
+5,870,0.70,Flüssighefe,unknown,0.038,"Bread, Pastries, & Breakfast",Migros,2023-05-24
+6,999,1.90,Bitter almond flavor,Patissier,0.01,"Bread, Pastries, & Breakfast",Migros,2023-05-24

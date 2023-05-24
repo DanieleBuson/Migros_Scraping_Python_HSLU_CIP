@@ -154,5 +154,5 @@ vegetablesDf.columns = ["Price", "Product", "Producer", "Quantity", "Type of foo
 ## Here it is the result in a tabular form.
 print(vegetablesDf)
 
-with open('fruits_and_vegetables.txt', 'w') as csv_file:
+with open('data/fruits_and_vegetables.txt', 'w') as csv_file:
     vegetablesDf.to_csv(path_or_buf=csv_file)

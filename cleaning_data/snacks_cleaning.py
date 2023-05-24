@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-snacksDf = pd.read_csv("snacks_and_sweets.txt")
+snacksDf = pd.read_csv("data/snacks_and_sweets.txt")
 
 # extracting only products that have grams (or kilograms) for the following analysis
 
@@ -73,7 +73,7 @@ snacksDf_grams = snacksDf_grams.reset_index(drop = True)
 ## Decommenting the line below it is possible to understand the quantity of rows stored.
 print(len(snacksDf_grams))
 
-with open("snacks_and_sweets_grams.txt", "w") as csv_file:
+with open("data/snacks_and_sweets_grams.txt", "w") as csv_file:
     snacksDf_grams.to_csv(csv_file)
 
 ## No liters in this case.

@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-vegDf = pd.read_csv("fruits_and_vegetables.txt")
+vegDf = pd.read_csv("data/fruits_and_vegetables.txt")
 
 ## extracting only products that have grams (or kilograms) for the following analysis
 
@@ -43,12 +43,12 @@ vegDf_grams = vegDf_grams.reset_index(drop = True)
 ## Decommenting the line below it is possible to understand the quantity of rows stored.
 # print(len(vegDf_grams))
 
-with open("fruits_and_vegetables_grams.txt", "w") as csv_file:
+with open("data/fruits_and_vegetables_grams.txt", "w") as csv_file:
     vegDf_grams.to_csv(csv_file)
 
 ## Extracting liters for following analysis
 
-vegDf = pd.read_csv("fruits_and_vegetables.txt")
+vegDf = pd.read_csv("data/fruits_and_vegetables.txt")
 
 for i in range(len(vegDf)):
     # print(vegDf.loc[i, "Quantity"], "  ", type(vegDf.loc[i, "Quantity"]))
@@ -76,5 +76,5 @@ vegDf_liter = vegDf_liter.reset_index(drop=True)
 ## Decommenting the line below it is possible to understand the quantity of rows stored.
 # print(len(vegDf_liter))
 
-with open("fruits_and_vegetables_liters.txt", "w") as csv_file:
+with open("data/fruits_and_vegetables_liters.txt", "w") as csv_file:
     vegDf_liter.to_csv(csv_file)

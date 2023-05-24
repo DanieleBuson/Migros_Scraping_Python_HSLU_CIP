@@ -1,0 +1,263 @@
+,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,4,0.70,M-BudgetTable vinegar,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+1,9,5.40,M-ClassicSunflower oil,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+2,13,7.–,M-BudgetOlive oilVirgin,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+3,16,2.60, KitchenCoconut milk,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+4,18,5.20,M-ClassicRapeseed oil,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+5,31,14.95,"  ClassicoOlive oil, extra virgin",Monini,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+6,46,9.50,"Olive oil, extra virginFFA max. 0.5%",Don Pablo,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+7,52,1.20,M-BudgetTomato sauce,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+8,53,8.40,Organic oliveGreek ,Migros Bio,0.013505000000000001,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+9,56,1.50,  all' ItalianaTomato sauceNaples,Salsa,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+10,62,4.30, KitchenCoconut milk,Thai,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+11,71,3.60,IP-SUISSERapeseed oil,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+12,76,2.95,  KressiWine vinegar mildly spicedWith herbs,Chirat,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+13,77,0.95,M-Budget  PassataTomato puree,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+14,83,2.55, KitchenCoconut milkLight,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+15,90,3.95,Served with hollandaise sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+16,98,2.95,  Gute LaunePiri-Piri SauceHot,Dittmann,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+17,99,5.90,Not Just BBQGarlic and chili sauce,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+18,106,3.20,Soy sauceVégétale,Kikkoman,0.15,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+19,118,2.90, KitchenCoconut milk,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+20,127,2.60,Cider vinegar,Migros Bio,0.57,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+21,133,4.80,  ModenaVinegar from grape must,Ponti,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+22,136,3.–,Coconut milk,Alnatura,0.4,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+23,139,4.50,"Aceto balsamico di ModenaSweet-sour taste, 6% acidity",Alnatura,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+24,149,1.30,  all' ItalianaTomato sauceBasil and olive oil,Salsa,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+25,152,3.40,M-ClassicSunflower oilRich in natural vitamin E,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+26,156,5.80,Soy sauceVégétale,Kikkoman,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+27,160,4.50,M-BudgetEdible oil,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+28,171,5.40,M-ClassicSwiss HOLL rapeseed oil,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+29,174,4.50,Condimento Bianco,Alnatura,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+30,180,1.90,  Asian FoodCoconut milk,Chop Stick,0.4,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+31,204,4.40,M-ClassicVegetable oil preparation,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+32,212,2.20,M-BudgetSalad dressing,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+33,216,8.50,Extra virgin olive oilOrganic,Alnatura,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+34,217,5.80,  Asian FoodSesame oil,Chop Stick,0.19,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+35,218,4.80, KitchenSweet chili sauce,Thai,0.435,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+36,222,1.75,"M-ClassicApple vinegar with apple juice concentrate, coloredAcidity: 4.5%",unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+37,242,5.80,Soy sauceWith 43% less salt,Kikkoman,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+38,243,6.90,Curry mango sauce,Callowfit,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+39,245,4.90,Bio garlic and chili sauce,Bandits,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+40,246,4.90, garlic and chili sauce,Bio,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+41,250,6.95,Plant Based SauceOriginal,Chipeño,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+42,251,6.90,Smocky barbecue sauce,Callowfit,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+43,260,2.95,  Gute LauneChimichurri SauceSpicy,Dittmann,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+44,261,3.35,  Simply JapaneseSushi rice marinadeRice vinegar,Saitaku,0.15,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+45,273,1.55,M-ClassicWhite wine vinegar,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+46,275,5.70,M-ClassicMargarine with 10% butter,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+47,280,5.60,Sesame oilNative,Alnatura,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+48,292,9.85,Soy saucePlant-based,Kikkoman,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+49,294,8.60,"  ClassicoOlive oil, extra virgin",Monini,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+50,301,1.95,  all' ItalianaTomato sauceBolognese,Salsa,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+51,303,8.50,"Olive oil, extra virginGreek ",Alexis,0.0135075,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+52,313,3.95,Mushroom sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+53,317,7.95,Mc Ilheny CoTabascoRed,unknown,0.15,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+54,321,3.95,Béchamel sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+55,324,5.60,Aceto balsamico di ModenaIndicazione Geografica Protetta,Ponti,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+56,347,5.30,  TeriyakiSauceWith roasted sesame seeds,Kikkoman,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+57,353,7.30,Coconut oil,Alnatura,0.4,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+58,355,7.30,Coconut oilNeutral,Alnatura,0.4,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+59,358,9.40,Italian olive oil,Migros Bio,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+60,359,6.–,M-ClassicPeanut oil,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+61,360,14.95,"  DelicatoOlive oil, extra virginFFA max. ",Monini,0.51,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+62,373,5.20,Rapeseed oil,Alnatura,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+63,380,9.40,Olive OilExtra vergine,Bio,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+64,387,19.50,"Olive oil, extra virgin",Monini,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+65,389,3.95,Cream sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+66,392,6.95, KitchenCoconut milk,Thai,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+67,394,2.85,  Asian FoodSweet-sour sauce,Chop Stick,0.27,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+68,396,18.95,Aceto balsamicoInvecchiato di Modena,Sélection,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+69,399,5.50,  aha!Soy sauceGluten free,Kikkoman,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+70,402,15.80,M-ClassicVegetable frying oil,unknown,3.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+71,403,3.95,Curry sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+72,421,4.50,Flaxseed oilNative,Alnatura,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+73,433,3.95,Zurich sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+74,438,2.95,Tomato sauceWith herbs,Alnatura,0.35,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+75,440,2.60,Apple vinegarNaturally cloudy,Migros Bio,0.57,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+76,448,5.50,"Olive oil, extra virginFFA max. 0.5%",Don Pablo,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+77,465,2.20,M-BudgetCocktail sauce,unknown,0.35,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+78,468,3.25,Condimento bianco,Ponti,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+79,478,4.20,  OriginCream with balsamic vinegar from Modena,Alnatura,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+80,484,4.70, KitchenCoconut milk,Thai,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+81,493,2.10,Coconut milk,Alnatura,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+82,494,4.95,M-ClassicSalad SauceFrench dressing,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+83,512,10.30,M-ClassicCooking cream,unknown,0.4,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+84,523,14.95,Balsamic vinegar,Giacobazzi,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+85,537,3.70,Organic soy sauceNaturally brewed,Kikkoman,0.15,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+86,547,8.50,"  ClassicoOlive oil, extra virgin",Monini,0.45,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+87,548,4.30,Soy Sauce Shoyu,Alnatura,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+88,550,6.95,  AromatizzatoVirgin olive oil for pizzaWith garlic and chili aroma,Monini,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+89,556,5.50,Condimento BiancoSweet & sour,Fattorie Giacobazzi,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+90,558,1.70,M-BudgetAceto Balsamico di Modena IGP,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+91,568,3.20, KitchenCoconut creamKati,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+92,569,3.10,Thai curry coconut,Alnatura,0.325,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+93,570,3.10, curry coconut,Thai,0.325,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+94,576,4.95,Sriracha chili sauce,Flying Goose,0.455,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+95,582,3.–, KitchenFish sauce (Nuoc Man),Thai,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+96,589,5.95,Sunflower oil,Migros Bio,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+97,595,2.85,Vegetarian vegetables Bolognese,Alnatura,0.35,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+98,596,6.95,  AromatizzatoVirgin olive oilWith lemon flavor,Monini,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+99,599,4.95,M-ClassicSalad SauceWith herbs,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+100,604,6.50,M-ClassicGrapeseed oil,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+101,607,5.50,M-Classic  BalanceVegetable oil preparation,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+102,608,10.80,"  Gran FruttatoOlive oil, extra virgin100% italy",Monini,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+103,613,3.–,Served with hollandaise sauce,Bon Chef,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+104,614,16.95,Italian olive oil100% italy,Sapigni,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+105,617,8.30,Balsamic vinegar from ModenaQuesto aceto è ottenuto esclusivamente da uve di Modena,Fattorie Giacobazzi,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+106,622,4.40, KitchenRed Curry Sauce,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+107,623,2.20,M-BudgetTartare sauce,unknown,0.35,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+108,626,3.20,Organic Ricotta Tomato Sauce,Alnatura,0.35,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+109,634,3.95,Bérnaise sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+110,636,6.95,"  ClassicoOlive oil, extra virgin",Monini,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+111,642,2.50,  Asian FoodSoy sauce,Chop Stick,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+112,648,6.95,  AromatizzatoVirgin olive oilBasilico,Monini,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+113,651,9.95,Pumpkin seed oil,Sélection,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+114,655,2.20,  ClassicoHuile d'olive vierge extra,Monini,0.05,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+115,656,14.50,Monini Olivenöl Il Decantato,Monini,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+116,657,8.90,Olio Extra Vergine Costolata,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+117,664,3.80,Kikkoman Soja Sauce less salt,Kikkoman,0.15,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+118,669,7.60,  AromatizzatoExtra virgin olive oilWhite truffle,Monini,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+119,671,3.95,Sauce gratin,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+120,678,4.40, KitchenPanang Curry Sauce,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+121,686,4.50,  Simply JapaneseMirin,Saitaku,0.15,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+122,687,3.40,  Asian FoodOyster flavoured sauce,Chop Stick,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+123,689,9.30,Avocado oilCold pressed,Migros Bio,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+124,704,16.95,  FrantoioHuile d'olive extra vierge bioNocellara,Monini,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+125,724,7.30,Extra Virgin Olive OilBalanced,Alexis,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+126,737,2.20,Sumol Ananas,Sumol,1.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+127,745,13.20,Sumol Orange,Sumol,9.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+128,759,10.95,Oliveira da SerraOliveira da Serra Clàssico,unknown,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+129,761,2.20,Sumol Orange,Sumol,1.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+130,772,0.95,Sharri Ayran Joghurtgetränk,unknown,0.33,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+131,774,13.20,Sumol Ananas,Sumol,9.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+132,775,1.75,Maçarico Piri-Piri Hot Sauce,unknown,0.1,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+133,777,3.95,Compal Nectar de pêche,Compal,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+134,794,3.10,  BioKetchup,Alnatura,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+135,821,1.90,Brodo Di Verdure,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+136,828,1.75,M-ClassicWhite wine vinegarWith herbs and cooking salt,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+137,829,3.10, KitchenSpring Roll Sauce,Thai,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+138,834,3.10,Nacho cheese sauce,El Sombrero,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+139,847,4.40, KitchenYellow curry sauce,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+140,849,2.20,M-BudgetCurry sauce,unknown,0.35,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+141,863,5.50,  PokeSauceAvec sésame grillé,Kikkoman,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+142,864,5.95,Aceto balsamico di ModenaSpray,Ponti,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+143,874,3.30,SauceCurry,Thomy,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+144,875,1.90,Brodo Di Carne Mista,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+145,934,3.95,Pepper sauce,Thomy,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+146,936,2.95,Aus der Region Basilikum Apfelessig,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+147,937,8.90,Aus der Region Aronia Balsamico,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+148,938,15.80,Aceto Balsamico di Modena,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+149,939,5.40,Giacobazzi Condimento Himbeere,Giacobazzi,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+150,940,4.20,Weinessig Nostrano,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+151,941,12.60,Aus der Region Apfelbalsamessig,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+152,942,6.90,Aus der Region Apfelbalsamico,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+153,943,2.95,Migros Bio Weissweinessig Estragon,Migros Bio,0.57,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+154,944,8.–,Aus der Region Erdbeeressig,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+155,945,5.80,Aus der Region Apfelessig,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+156,946,8.85,Aus der Region Apfelbalsamessig,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+157,947,28.80,Aus der Region Geschenk-Set Essig,unknown,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+158,948,3.25,Migros Bio Condimento Bianco,Migros Bio,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+159,949,4.20,Bio Sélection Condimento Apfelessig Barrique,Migros Sélection,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+160,950,11.–,Aceto Balsamico Giovane,unknown,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+161,951,7.40,Aus der Region Aprikosenessig,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+162,952,7.30,Condimento Bianco,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+163,953,8.30,Condimento aus Apfel,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+164,954,7.30,Aus der Region Apfelessig & Kräuter,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+165,955,2.50,Ponti Aceto Aroma Antico Rosso,Ponti,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+166,956,8.–,Aus der Region Apfel Balsamico-Essig,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+167,957,3.90,Aus der Region Apfelessig,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+168,958,11.40,Aus der Region Himbeercrème Essig,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+169,959,6.15,Aus der Region Quittenessig,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+170,960,3.50,Aus der Region Apfelessig Holunder,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+171,961,9.90,Aus der Region Apfelessig,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+172,978,6.50,Aus der Region Tomatensugo Basili.,unknown,0.36,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+173,979,5.40,SauceTeriyaki,Kikkoman,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+174,981,10.90,Organic olive oil for cooking,Alnatura,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+175,986,4.95,M-Classic  LégerSalad dressingWith herbs,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+176,1018,3.10,Indian curry,Alnatura,0.325,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+177,1022,3.30,SauceCocktail,Thomy,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+178,1027,2.20,M-BudgetGarlic sauce,unknown,0.35,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+179,1029,2.95,Mango fruit sauce,Alnatura,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+180,1055,4.40, KitchenGreen Curry SauceKreung Kang Kaew Wan,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+181,1056,3.20,Tomato soupWith mascarpone,Migros Bio,0.4,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+182,1072,8.90,Aus der Region Thaler Rapsöl,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+183,1073,10.80,Aus der Region Rapsöl,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+184,1074,7.95,Aus der Region Rapsoel,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+185,1077,12.20,Aus der Region Rapsoel,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+186,1078,7.85,Aus der Region Rapsöl,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+187,1079,9.50,Aus der Region Leinöl,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+188,1096,10.30,Aus der Region Pizzaöl pikant,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+189,1101,8.10,Aus der Region HOLL Rapsöl,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+190,1102,13.95,Aus der Region Alpenchili Öl,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+191,1103,10.90,Aus der Region Leinöl,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+192,1120,5.95,Vanini Mostarda Purée Feigen,Sandro Vanini,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+193,1128,3.95,Baergfeuer Chilisauce,unknown,0.05,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+194,1132,2.85,Flying Goose Sriracha Garlic Sauce,Flying Goose,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+195,1137,2.85,Flying Goose Sriracha Mayo Sauce,Flying Goose,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+196,1142,4.90,Not Just BBQNot just BBQ Original BBQ Sauce,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+197,1143,5.90,Not Just BBQNot Just BBQ Lemon Chili Hot Sauce,unknown,0.13,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+198,1157,8.40,Reisöl,Riso Scotti,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+199,1173,4.80,Nectaflor Kürbiscrème,unknown,0.39,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+200,1177,7.50,Wintergemüsesuppe,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+201,1178,7.50,Velouté Karotten Lin,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+202,1179,4.30,Nectaflor Grüne Erbsensuppe,unknown,0.39,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+203,1180,8.50,Aus der Region Bio Soupe de Legumes,unknown,0.74,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+204,1181,8.50,Aus der Region Bio Velouté courges,unknown,0.74,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+205,1182,8.50,Aus der Region Bio Velouté carotte,unknown,0.74,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+206,1183,8.50,Aus der Region Bio Soupe Courgette,unknown,0.74,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+207,1186,6.50, KitchenFlavored sunflower oil for wok,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+208,1230,16.50,Extra virgin olive oilIGP Sicily,Monini,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+209,1232,3.95,  KressiBio wine vinegar mildly spicedWith herbs,Chirat,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+210,1234,3.30,SauceTartare,Thomy,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+211,1256,10.80,Aus der Region Sonnenblumenöl,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+212,1272,4.95,M-ClassicSalad SauceItalian dressing,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+213,1323,3.95,Weisswurstsenf,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+214,1361,3.20,Bon Chef Bio Gemüsesuppe,Bon Chef,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+215,1363,3.20,Bon Chef Bio Kürbissuppe,Bon Chef,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+216,1365,3.20,Bon Chef Bio Tomatensuppe,Bon Chef,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+217,1368,4.90,Not Just BBQNot just BBQ Chilli & Spice Sauce,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+218,1369,4.90,Not Just BBQNot just BBQ Sweet & Spicy Sauce,unknown,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+219,1389,4.75,Ramen brothClassic,Itsu,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+220,1390,3.95, KitchenOrganic sweet chili sauce,Thai,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+221,1392,2.50,White wine vinegarAroma Antico,Ponti,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+222,1434,15.50,Extra virgin olive oilToscano IGP,Monini,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+223,1440,4.95,Sésame sauce,Kikkoman,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+224,1456,6.60,Aceto balsamico di ModenaInvecchiato. Indicazione Geografica Protetta,Ponti,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+225,1494,3.10,Bolognese sauce,Alnatura,0.33,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+226,1500,7.95,Linseed oil,Demeter,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+227,1504,5.95,frenchSauce à saladeBIO,Bio,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+228,1513,5.95,Grosi's Hausdressing French Dressing,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+229,1514,0.75,Bio Dressing French ,Migros Bio,0.05,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+230,1518,5.50,Frifrench Jogufrench Salatsauce,Frifrench,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+231,1519,5.90,Mini Salatsossä Bärlauch,Mini Salatsossä,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+232,1522,5.80,Salatsauce French,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+233,1523,0.95,Frifrench Französische Salatsauce,Frifrench,0.06,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+234,1524,0.95,Mini Salatsossä French,Mini Salatsossä,0.055,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+235,1525,9.50,Salatsauce Classic,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+236,1526,5.95,Ättis Hausdressing Italian Dressing,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+237,1531,5.95,Housi's Hausdressing Curry Dressing,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+238,1532,5.95,Käthi's Hausdressing Senf Dressing,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+239,1534,17.95,Huile d'olive extra viergeNon filtrato,Monini,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+240,1549,7.90,Organic cooking oil,Alnatura,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+241,1553,3.95,Burger sauceWith tomato,Thomy,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+242,1557,11.50,Spanish olive oilExtra virgin,Demeter,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+243,1561,3.10,Red wine vinegarWith raspberry,Migros Bio,0.57,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+244,1594,18.95,"Olive oil, extra virgin",Accademia,0.75,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+245,1618,3.95,Burger sauceGarlic,Thomy,0.3,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+246,1646,4.75,Ramen brothChicken,Itsu,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+247,1659,3.50,Korean dipping sauce for chicken,Sempio,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+248,1668,2.95,Japanese Style MayoWasabi,Saitaku,0.16,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+249,1679,3.40,M-ClassicSafflower oil,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+250,1698,7.95,White VinegarWhite,Terra Tuono,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+251,1703,1.60,M-ClassicSpicy vinegar based on alcohol vinegar,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+252,1718,1.70,M-BudgetCondimento bianco,unknown,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+253,1721,1.50,Balsamic vinegar from Modena,Monini,0.02,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+254,1724,8.95,"Hemp oil, cold pressed",Migros Bio,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+255,1743,2.60,Flavoured waterAloe Vera,Kelly Loves,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+256,1762,5.95,Aceto Balsamico di Modena,Demeter,0.25,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+257,1795,2.10,Green teaYuzu,Kelly Loves,0.5,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+258,1798,2.95,Ramune LemonadeYuzu,Kelly Loves,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+259,1800,2.95,Ramune LemonadeOriginal,Kelly Loves,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+260,1804,2.95,Ramune LemonadeLychee,Kelly Loves,0.2,"Pasta, Condiments & Canned Food",Migros,2023-05-24
+261,1807,2.20,M-BudgetSalad dressing,unknown,1.0,"Pasta, Condiments & Canned Food",Migros,2023-05-24

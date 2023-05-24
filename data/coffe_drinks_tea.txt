@@ -1,0 +1,1269 @@
+,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,8.30,Iced teaLemon,Ice Tea,10 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1,1.95,-BudgetOrange juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+2,6.50,-Budget  Energy DrinkSpecial drink containing caffeine,M,12 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+3,6.50,-Budget  Energy DrinkSpecial drink containing caffeineZero Sugar,M,12 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+4,5.95,Coca-Cola  ZeroLow-calorie soft drink,unknown,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+5,6.20,  ClassicNatural mineral waterSparkling,Aproz,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+6,5.95,Coca-ColaSoft drink,unknown,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+7,3.75,-Classic  AquellaNatural mineral waterStill,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+8,6.30,Natural mineral waterSparkling,San Pellegrino,6 x 1.25l,"Coffe, Drinks and Tea",Migros,2023-05-24
+9,1.20,Lemon juice,Sicilia,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+10,8.70,Coca-Cola  ZeroLow calorie lemonade,unknown,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+11,4.95,SyrupRaspberry syrup ,Sirup,30%1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+12,5.95,  MultivitamineMultivitamin fruit juiceWith ,Capri Sun,12% fruit juice10 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+13,5.30,Orange juicePressed,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+14,3.75,-Classic  AquellaNatural mineral waterLightly sparkling,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+15,2.65,-Budget  Fruit FunMultivitamin fruit juiceWith ,M,12% fruit juices and 9 vitamins10 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+16,19.80,"Coffee CapsulesLungo Crema, Delizio system",Delizio,288g,"Coffe, Drinks and Tea",Migros,2023-05-24
+17,8.70,Coca-ColaLemonade,unknown,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+18,0.60,-BudgetLemon juice,M,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+19,1.95,-Classic  BreakfastFruit juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+20,3.50,igros BioOrange juice,M,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+21,3.95,igros BioElderflower syrup,M,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+22,35.60,Energy drink,Red Bull,24 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+23,1.90,"  MateRefreshing drinkMate, guarana extract, caffeine",El Tony,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+24,10.95,Iced teaPeach,Ice Tea,10 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+25,14.–,-Classic  FairtradeOrange juice,M,10 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+26,2.60,-ClassicApple juice,M,100% pome fruit juice made from concentrates6 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+27,3.95,  ClassicNatural mineral waterSparkling,Aproz,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+28,5.60,Natural mineral waterStill,Evian,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+29,2.50,SyrupGrenadine with flavoring and vanilla extract,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+30,6.20,  MediumNatural mineral waterLightly sparkling,Aproz,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+31,6.20,  CristalNatural mineral waterStill,Aproz,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+32,4.90,orandSyrupGrenadine,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+33,8.30,Iced teaLemon - Light,Ice Tea,10 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+34,5.30,Blood orange juicePressed,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+35,3.70,SyrupRaspberry ,Sirup,30%750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+36,4.95,Natural mineral waterStill,Rocchetta,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+37,5.30,Orange apricot carrot juicePressed,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+38,3.95,  CristalNatural mineral waterStill,Aproz,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+39,1.70,Iced teaLemon,Ice Tea,2l,"Coffe, Drinks and Tea",Migros,2023-05-24
+40,1.60,Fennel TeaOrganic,Klostergarten,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+41,9.20,  SportcapNatural mineral waterStill,Evian,12 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+42,3.45,-BudgetSyrupRaspberry,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+43,3.55,-Budget  ZeroTable waterWith lemon flavor,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+44,19.95,igros BioOrange juice,M,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+45,6.60,  SportcapNatural mineral waterStill,Evian,6 x 750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+46,1.–,Coca-ColaSoft drinkVanilla,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+47,1.80,Lemon juice,Alnatura,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+48,3.95,  MediumNatural mineral waterLightly sparkling,Aproz,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+49,1.10,igros BioTeaPeppermint,M,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+50,1.60,-Classic  FairtradeMild orange juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+51,4.95,  SanbitterCarbonated SanbitterReady-to-drink non-alcoholic bitter,San Pellegrino,6 x 100ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+52,2.80,Iced teaLemon,Ice Tea,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+53,1.10,igros BioTeaChamomile,M,22g,"Coffe, Drinks and Tea",Migros,2023-05-24
+54,19.80,"Coffee CapsulesEspresso, Delizio system",Delizio,288g,"Coffe, Drinks and Tea",Migros,2023-05-24
+55,1.50,-BudgetMultifruit nectarWith ,M,50% fruit juice1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+56,2.50,-Classic  FairtradeOrange juice,M,6 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+57,14.95,Carbonated drinkWith ,Rivella,35% milk serum - red6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+58,3.75,-BudgetInstant cocoa drink,M,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+59,6.50,Natural mineral waterStill,Vittel,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+60,19.80,"Coffee CapsulesLungo Fortissimo, Delizio system",Delizio,288g,"Coffe, Drinks and Tea",Migros,2023-05-24
+61,7.95,  ZeroIced teaLemon,Ice Tea,6x1L,"Coffe, Drinks and Tea",Migros,2023-05-24
+62,6.30,Natural mineral waterStill,Evian,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+63,3.55,-Budget  ZeroTable water with ,M,4% grapefruit juiceWith 4% grapefruit juice6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+64,14.95,Carbonated drinkWith ,Rivella,35% milk serum - low-calorie - blue6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+65,10.95,  ClassicoCoffee beansPowerfully &racy,Boncampo,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+66,35.60,  SugarfreeEnergy drink,Red Bull,24 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+67,13.50, Well  ReloadVitamin waterLemon & lime,Vitamin,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+68,5.30,Exotic multi-fruit juice,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+69,1.85,  BioVerbena tea,Klostergarten,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+70,16.95,  TraditionCoffee beans,Chicco D'Oro,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+71,5.70,Natural mineral waterSparkling,San Pellegrino,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+72,8.95,Energy drink,Red Bull,6 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+73,12.50,  MaxSoft drink,Pepsi,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+74,3.70,SyrupStrawberry ,Sirup,30% with flavoring750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+75,5.70,Natural mineral waterLightly sparkling,Badoit,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+76,12.30,Cocoa powder,Caotina,800g,"Coffe, Drinks and Tea",Migros,2023-05-24
+77,3.55,-Budget  ZeroTable water with ,M,4% orange juiceWith 4% orange juice6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+78,2.50,Syrup,Sirup,30% with flavoring750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+79,2.10,igros Bio  FairtradeBlack tea,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+80,9.30,Carbonated drinkWith ,Rivella,35% milk serum - red6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+81,7.50,Natural mineral waterRich in calcium and magnesium,Contrex,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+82,19.80,"Coffee CapsulesLungo Leggero, Delizio system",Delizio,288g,"Coffe, Drinks and Tea",Migros,2023-05-24
+83,2.–,  ActiveVitamin waterPineapple & mango,Focus Water,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+84,5.45,Black teaEnglish,Tetley,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+85,2.95,"  BitterAlcohol-free beerCarbonated, pasteurized",Apéritiv,6 x 100ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+86,0.60,-Classic  FairtradeMultivitamin juice,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+87,5.30,Clementine juicePressed,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+88,2.45,Flavored fruit tea blend with forest fruit flavorFantastic Berries,Tea Time,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+89,3.55,"-Budget  ZeroSoft drink with Cola flavor, contains caffeine",M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+90,3.70,Black tea extract syrupPeach-flavored,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+91,2.–,  CareVitamin waterMirabelle plum & rhubarb,Focus Water,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+92,7.80,Orange juiceOrange,Anna's Best,2l,"Coffe, Drinks and Tea",Migros,2023-05-24
+93,0.95,  ZeroIced teaPeach,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+94,8.70,igros Bio  FairtradeOrganic ground coffee,M,100% arabica500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+95,5.95,  SafariFruit juice drinkWith ,Capri Sun,12% fruit juice10 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+96,3.70,  ZeroRaspberry syrupWith ,Sirup,30% fruit juice750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+97,3.70,SyrupPeach ,Sirup,30% with flavoring750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+98,0.95,  ZeroIced teaLemon,Ice Tea,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+99,7.50,"-ClassicCoffee CapsulesLungo, compatible with the Nespresso® system",M,156g,"Coffe, Drinks and Tea",Migros,2023-05-24
+100,21.95,Coffee beansMocha Surfin,La Semeuse,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+101,19.80,"  LungoCoffee capsules decaffeinatedDecaffeinato, Delizio system",Delizio,288g,"Coffe, Drinks and Tea",Migros,2023-05-24
+102,3.40,Iced teaPeach,Ice Tea,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+103,13.50, Well  AntioxidantVitamin waterPeach,Vitamin,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+104,3.–,Black teaEarl Grey Extra,Tetley,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+105,7.95,"-BudgetCafé en grainsIn beans, ",M,3/5 intensity.1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+106,0.85,Iced tea powderWatermelon,Ice Tea,70g,"Coffe, Drinks and Tea",Migros,2023-05-24
+107,12.50,-ClassicApple juice,M,10 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+108,5.95,Pineapple juice,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+109,3.55,-BudgetTable waterWith lemon flavor,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+110,5.30,Pink grapefruit juicePressed,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+111,1.30,-BudgetOrange juice,M,100% fruit juice1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+112,12.45,  GoldInstant coffeeIntensity ,Nescafé,6180g,"Coffe, Drinks and Tea",Migros,2023-05-24
+113,14.95,  Gusto ItalianoCoffee beansImperial Crema,Caruso,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+114,7.20,  OriginalRefill bag Fine cocoa drink,Caotina,400g,"Coffe, Drinks and Tea",Migros,2023-05-24
+115,6.70,-BudgetInstant drinkIce Tea Lemon,M,1.2kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+116,8.35,-BudgetApple spritzer,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+117,2.95,SmoothieMango & orange,You,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+118,3.–,Black teaEnglish Breakfast,Tetley,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+119,1.–,Coca-Cola  ZeroLow-calorie caffeinated soft drinkLemon,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+120,8.95,Energy drinkSugar-free,Red Bull,6 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+121,3.70,SyrupBlackcurrant ,Sirup,30%750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+122,5.50,Orange juice without pulpPressed,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+123,1.–,-BudgetSmoothieStrawberry - banana,M,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+124,8.90,"-BudgetCoffee CapsulesEspresso, compatible Delizio system",M,280g,"Coffe, Drinks and Tea",Migros,2023-05-24
+125,7.95,Iced teaLemon,Ice Tea,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+126,10.95,Instant coffeeClassic,Cafino,550g,"Coffe, Drinks and Tea",Migros,2023-05-24
+127,1.70,Iced teaLemon - Light,Ice Tea,2l,"Coffe, Drinks and Tea",Migros,2023-05-24
+128,8.70,igros Bio  FairtradeOrganic bean coffee,M,100% arabica500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+129,1.30,  BioIced teaSwiss Alpine herbs - without sugar,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+130,0.95,  MaxSoft drink,Pepsi,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+131,1.30,Terme di Crodo  LemonSodaSoft drinkLemon,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+132,2.25, Well  HydrateVitamin waterStrawberry & rhubarb,Vitamin,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+133,4.95,-BudgetCoffee CapsulesCompatible with Nespresso® system,M,150g,"Coffe, Drinks and Tea",Migros,2023-05-24
+134,9.30,Carbonated drinkWith ,Rivella,35% milk serum - low-calorie - blue6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+135,8.95,  BioIced teaSwiss Alpine herbs,Ice Tea,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+136,1.30,Terme di Crodo  OranSodaSoft drinkOrange,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+137,1.65,igros BioOrange juice,M,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+138,1.95,-Classic  Omega ,M,3Fruit juice1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+139,7.95,"  La SemeuseCoffee CapsulesEspresso, Delizio System",Delizio,16 Kapseln,"Coffe, Drinks and Tea",Migros,2023-05-24
+140,4.95,igros BioMultifruit juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+141,7.80,  TonicCarbonated soft drink,Fever Tree,4 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+142,1.20,  MaxSoft drinkCherry,Pepsi,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+143,4.95,igros BioRaspberry syrup,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+144,3.45,-BudgetSyrupBerries,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+145,2.50,SyrupBlood orange ,Sirup,30% with flavoring750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+146,2.80,  Bio EnergyEnergy drink,Biotta,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+147,7.50,"-ClassicCoffee CapsulesRoma, compatible with the Nespresso® system",M,156g,"Coffe, Drinks and Tea",Migros,2023-05-24
+148,1.10,Green tea,Ice Tea,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+149,1.95,NectarMango,Sarasay,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+150,1.85,Thyme herb teaOrganic,Klostergarten,32g,"Coffe, Drinks and Tea",Migros,2023-05-24
+151,3.70,SyrupIce Tea Lemon,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+152,2.10,Iced teaPeach,Ice Tea,2l,"Coffe, Drinks and Tea",Migros,2023-05-24
+153,4.95,SyrupBerries,Sirup,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+154,3.70,SyrupExotic,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+155,2.25,NectarTomato juice,Sarasay,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+156,7.80,  Raspberry & Rhubarb TonicCarbonated lemonade,Fever Tree,4x200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+157,7.95,Sparkling mineral water with natural flavorsLemon,Aproz,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+158,1.25,Lime juice,Sicilia,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+159,19.80,"  RistrettoCoffee CapsulesRistretto Forte, Delizio system",Delizio,288g,"Coffe, Drinks and Tea",Migros,2023-05-24
+160,10.20,  Exquisito OroInstant coffee,Noblesse,100% arabica200g,"Coffe, Drinks and Tea",Migros,2023-05-24
+161,18.95,Aluminum coffee capsulesEspresso,La Semeuse,171g,"Coffe, Drinks and Tea",Migros,2023-05-24
+162,3.90,Carbonated soft drinkPassion fruit,Bundaberg,375ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+163,3.55,-BudgetTable water with ,M,4% orange juiceWith 4% orange juice6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+164,1.75,-ClassicRed grape juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+165,2.20,Green Tea Jasmine,Alnatura,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+166,3.15,Green teaClassic,Tetley,37.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+167,11.50,– Ground coffeeMocha Surfin,La Semeuse,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+168,2.60,igros BioGreen teaFlavored with jasmine blossoms,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+169,2.95,Pineapple juice,Anna's Best,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+170,2.45,Flavored fruit tea blend with apple flavorFantastic Apple,Tea Time,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+171,2.35,Natural coconut drink,Alnatura,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+172,2.25,Orange juice,Alnatura,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+173,3.70,SyrupPink grapefruit ,Sirup,30% with flavoring750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+174,4.80,"Herb and spice tea blend, flavored with fruit extractGinger-Lemon Tea",Yogi Tea,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+175,2.95,Fruit juiceFruit mix,Anna's Best,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+176,6.–,-BudgetFruit juiceTropical,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+177,5.95,"  La SemeuseCoffee CapsulesEspresso originale, Delizio System",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+178,16.50,Orange fruit juiceOrange,Sarasay,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+179,3.30,-BudgetBlood orange juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+180,10.90,"  TraditionCoffee, ground",Chicco D'Oro,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+181,1.40,Drink with guarana extract,Guaraná Antarctica,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+182,7.40,LemonadeTropical fruit flavor,Oasis,6 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+183,1.65,-BudgetApple juiceApple juice concentrate,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+184,0.80,Iced teaStar fruit juice and lotus blossom flavor,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+185,2.25,Flavored fruit tea blend with strawberry and raspberry flavorThe Original,Tea Time,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+186,13.80,Refill bag Ovomaltine powder,Ovomaltine,800g,"Coffe, Drinks and Tea",Migros,2023-05-24
+187,14.95,Carbonated drinkRefresh,Rivella,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+188,2.25, Well  ActiveVitamin waterAppel,Vitamin,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+189,2.80,Iced teaLemon - Light,Ice Tea,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+190,1.10,Iced tea Blueberry,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+191,2.90,igros Bio  EngagementAlpine herbal tea blend,M,33.8g,"Coffe, Drinks and Tea",Migros,2023-05-24
+192,13.95,Coffee beansMocca organic - Fair trade,La Semeuse,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+193,2.35,igros BioTeaLinden blossoms,M,24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+194,2.10,igros BioFruit infusionDelicate and balanced,M,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+195,3.95,"  ZeroIced tea powderLemon, sugar-free",Ice Tea,23g,"Coffe, Drinks and Tea",Migros,2023-05-24
+196,2.20,Earl Grey Tea,Alnatura,35g,"Coffe, Drinks and Tea",Migros,2023-05-24
+197,1.10,Iced tea Cynorrhodon & Hibiscus,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+198,1.10,Iced teaWatermelon,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+199,Regional Price,Citrus juicePressed,Andros,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+200,2.95,SmoothieRaspberry & apple,You,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+201,13.95,  Gold De LuxeInstant coffeeIntensity ,Nescafé,7200g,"Coffe, Drinks and Tea",Migros,2023-05-24
+202,0.95,Peppermint,Tea Time,70g,"Coffe, Drinks and Tea",Migros,2023-05-24
+203,1.90,"  Mate & MintRefreshing drinkMate, guarana extract, caffeine",El Tony,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+204,1.45,Carrot juice fresh from the field,Alnatura,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+205,3.90,Carbonated soft drinkPink Grepfruit,Bundaberg,375ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+206,1.95,SyrupMint,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+207,10.95,Ground coffeeIntensity ,Barista,5/5500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+208,1.70,Energy drinkThe Summer Edition,Red Bull,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+209,7.90,orandSyrupAbricot,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+210,3.70,SyrupMojito (alcohol-free),Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+211,1.95,Fennel Aniseed-Cumin TeaIn bag,Alnatura,45g,"Coffe, Drinks and Tea",Migros,2023-05-24
+212,1.95,NectarWilliams pears,Sarasay,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+213,2.25, Well  UpgradeVitamin waterLemon & cactus,Vitamin,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+214,8.50,igros BioAromatic coffee substituteCafino Cereal,M,200g,"Coffe, Drinks and Tea",Migros,2023-05-24
+215,4.80,Herb and seasoning mixEvening tea,Yogi Tea,29g,"Coffe, Drinks and Tea",Migros,2023-05-24
+216,7.80,  Ginger BeerCarbonated soft drink,Fever Tree,4 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+217,2.95,Orange and mango fruit juiceOrange & mango,Sarasay,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+218,3.95,Organic breakfast drink,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+219,3.95,SyrupOranges with ,Sirup,30% fruit juice1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+220,3.70,  ZeroPeach and mango syrupWith ,Sirup,30% fruit juice750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+221,2.10,Lime juice,Alnatura,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+222,2.50,"NOCCODrinks with vitamins, caffeine and amino acidsMiami",unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+223,3.65,InfusionRooibos Vanilla,Tetley,35g,"Coffe, Drinks and Tea",Migros,2023-05-24
+224,1.95,-Classic  VitalFruit juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+225,14.95,Coffee beansClassico all'italiana,Espresso,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+226,18.95,Aluminum coffee capsulesLungo,La Semeuse,184g,"Coffe, Drinks and Tea",Migros,2023-05-24
+227,4.95,igros BioGinger Lemon syrup,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+228,6.35,"  Dolce GustoCoffee CapsulesEspresso, NESCAFÉ Dolce Gusto system",Nescafé,88g,"Coffe, Drinks and Tea",Migros,2023-05-24
+229,2.95,"SmoothieApple, Carrot, Ginger, Orange",You,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+230,5.60,"  BioCoffee CapsulesLungo, système Delizio",Delizio,12 Kapseln,"Coffe, Drinks and Tea",Migros,2023-05-24
+231,2.95,igros DailyMigros Daily Vitaminwater Blue,M,500 ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+232,2.85,Refreshing drinkCucumber juice base,Cucumis,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+233,3.70,"  ZeroLow-calorie lime syrup with fruit juice, mint and elderflowerHugo alcohol-free, with ",Sirup,30% fruit juice750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+234,1.30,Terme di Crodo  MojitoSodaNon-alcoholic drinkMojito,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+235,2.95,Organic vegetable cocktailWith sea salt and aromatic herbs,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+236,2.95,SmoothieGinger & coconut,You,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+237,10.50,"  Café ZAUNSoluble coffee, decaffeinated",Noblesse,100% arabica200g,"Coffe, Drinks and Tea",Migros,2023-05-24
+238,1.55,Tomato juice with sea salt,Alnatura,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+239,10.90,  TraditionCoffee beans,Chicco D'Oro,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+240,9.95," ClassicoRoasted coffeeGround, espresso, ",Espresso,4/5 intensity500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+241,10.95,  BiondoAlcohol free aperitive,Crodino,6 x 175ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+242,2.50,"NOCCODrinks with vitamins, caffeine and amino acidsLimon del Sol",unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+243,7.80,  Mediterranean TonicCarbonated lemonade,Fever Tree,4 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+244,4.95,"Coffee, groundDecaffeinated",Café Zaun,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+245,2.15,-Classic  FairtradePineapple juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+246,5.90,"Coffee CapsulesLungo Vaniglia, Delizio system",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+247,16.50,  FairtradeFruit juice mixMultivitamin,Sarasay,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+248,2.95,Chai TeaIn bag,Alnatura,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+249,2.70,Ginger waterGinger,You,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+250,9.95,  OroCoffeeGround,Caruso,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+251,2.95,Boisson électrolytiqueCool blue Raspberry,Gatorade,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+252,1.80,  MultivitamineMultivitamin fruit juiceWith ,Capri Sun,12% fruit juice330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+253,2.95,Liver and gall teaFor liver and biliary troubles,Klostergarten,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+254,6.40,Alnavit Ingwer Saft,Alnavit,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+255,8.95,Bio Ingwersaft Ingo,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+256,7.95,Refill bag Ovomaltine powder,Ovomaltine,400g,"Coffe, Drinks and Tea",Migros,2023-05-24
+257,1.10,  BioIced teaSwiss Alpine herbs,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+258,4.–,Natural coconut drink,Alnatura,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+259,7.95,  MaxSoft drink,Pepsi,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+260,1.70,Energy DrinkThe Green Edition,Red Bull,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+261,7.95,Organic Sparkling mineral water with natural flavorsElderflower,Aproz,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+262,1.30,  BioIced teaGreen tea mint,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+263,4.95,Organic Pomegranate juiceWith white tea extract,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+264,2.10,VYTEVitamin waterCactus Fruit,unknown,500ML,"Coffe, Drinks and Tea",Migros,2023-05-24
+265,3.40,Fruit juiceBlood orange,Anna's Best,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+266,5.90,Coffee CapsulesLungo chocolate,Delizio,12 Kapseln,"Coffe, Drinks and Tea",Migros,2023-05-24
+267,8.95,"Coffee, groundNoble and balanced",Exquisito,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+268,4.40,CoffeeB  By Café RoyalOrganic coffee ballsEspresso. Intensity: ,unknown,8/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+269,1.50,onsterEnergy drink,M,355ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+270,4.60,igros BioOrange-carrot & agave-lemon juice,M,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+271,0.50,Iced teaPeach,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+272,5.60,"  BioCoffee CapsulesEspresso, système Delizio",Delizio,12 Kapseln,"Coffe, Drinks and Tea",Migros,2023-05-24
+273,7.95,Iced teaPeach,Ice Tea,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+274,5.50,Premium soluble coffeeCaramel latte,Starbucks,5 x 23g,"Coffe, Drinks and Tea",Migros,2023-05-24
+275,1.50,onster  UltraEnergy drinkZero,M,355ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+276,5.95,Aluminum coffee capsulesEspresso,La Semeuse,52g,"Coffe, Drinks and Tea",Migros,2023-05-24
+277,4.95,igros BioRhubarb syrup,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+278,6.50,-QuickFine cocoa drink,M,12 vitamins1000g,"Coffe, Drinks and Tea",Migros,2023-05-24
+279,1.70,Energy drinkThe White Edition,Red Bull,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+280,6.20,"  ClassicoCoffee, groundPowerful & racy",Boncampo,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+281,9.75,  Gusto ItalianoCoffee beansEspresso,Caruso,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+282,2.95,Mild organic apple juice,Alnatura,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+283,2.95,ild organic apple juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+284,3.50,Pink grapefruit juice,Alnatura,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+285,2.95,Organic Carrot juice,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+286,1.85,Organic nettle leaves,Klostergarten,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+287,1.40,Rose hips with hibiscus flowers,Tea Time,125g,"Coffe, Drinks and Tea",Migros,2023-05-24
+288,1.70,Energy drinkThe Red Edition,Red Bull,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+289,12.45,  GoldInstant coffeeIntensity ,Nescafé,8180g,"Coffe, Drinks and Tea",Migros,2023-05-24
+290,6.40,Natural mineral waterStill,Valais,6 x 750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+291,3.60,Aus der Region Gemüsegarten,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+292,13.90,Bio Ingwersaft Ingrid,unknown,100 ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+293,2.20,NectarApricots,Sarasay,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+294,3.95,Cocoa drinkWith chocolate,Califora,10 x 15g,"Coffe, Drinks and Tea",Migros,2023-05-24
+295,2.10,VYTEVitamin waterBerry Mix,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+296,5.90,Coffee CapsulesLungo Caramello,Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+297,1.30,  BioIced teaBlack tea Lemon,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+298,3.20,essmerFlavored teaPomegranate,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+299,1.95,-Classic  DaylightFruit juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+300,0.95,Soft drinkRegular,Pepsi,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+301,6.95,  KombuchaFermented herbal tea drinkClassic,Carpe Diem,4 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+302,14.50,Rast Barista Creme ,unknown,500g500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+303,12.45,  GoldInstant coffeeIntensity ,Nescafé,7180g,"Coffe, Drinks and Tea",Migros,2023-05-24
+304,11.80,La Semeuse Don Marco Bohnen,La Semeuse,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+305,8.70,Fairtrade Sombrero Classico,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+306,12.50,Demeter Fairtrade Espresso Arabica,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+307,9.40,Bio Fairtrade Kaffee Bohnen,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+308,12.50,Demeter Fairtrade Kaffee Arabica,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+309,13.–,Rast Milano ,unknown,500g500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+310,13.50,Rast Eldorado ,unknown,500g500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+311,13.50,ViCAFE Decaf Hausmischung,unknown,350g,"Coffe, Drinks and Tea",Migros,2023-05-24
+312,10.40,Tropical Mountains Mafioso Bio FT,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+313,10.90,Tropical Mountains Brasileña Bio FT,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+314,10.40,Tropical Mountains Columbiano Bio FT,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+315,9.90,Turm Brazil Yellow Bourbon,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+316,9.90,Turm Mount Kenya ,unknown,250g250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+317,9.90,Turm Costa Rica,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+318,9.50,Black&Blaze Finest,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+319,10.50,Black&Blaze Supreme,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+320,10.50,Black&Blaze Tusk,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+321,13.90,Onesto Bio FT Kapitänsmischung,unknown,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+322,6.95,  VoncoréSoluble coffee chicoryCoffee Chicory,Cafino,200g,"Coffe, Drinks and Tea",Migros,2023-05-24
+323,9.20,igros BioGround coffeeEspresso ,M,4/5500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+324,1.55,Grape juice,Alnatura,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+325,11.70,  EssenceFlavored mineral waterMint & cucumber,Volvic,6 x 750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+326,2.35,Apple juice,Alnatura,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+327,8.90,orandSyrupStrawberry,M,495ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+328,2.80,  BioIce teaMate,Charitea,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+329,1.–,-BudgetSmoothiePineapple - coconut,M,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+330,1.70,-BudgetBlack tea,M,200g,"Coffe, Drinks and Tea",Migros,2023-05-24
+331,10.75,Bio Max Havelaar Barista Espresso Bohnen ,unknown,500g500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+332,7.95,Caffè Condor in Bohnen,Caffè Condor,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+333,9.40,Bio Fairtrade Espresso Bohnen,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+334,8.70,Fairtrade Sombrero Latino,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+335,9.95,Starbucks® Blonde® Espresso Roast Bohnen ,Starbucks,450g450g,"Coffe, Drinks and Tea",Migros,2023-05-24
+336,8.70,La Semeuse Nocturne Bohnen,La Semeuse,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+337,13.50,Rast Venezia ,unknown,500g500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+338,6.80,alabar Indien Rast,M,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+339,17.20,ViCAFE Orang-Utan,unknown,350g,"Coffe, Drinks and Tea",Migros,2023-05-24
+340,12.60,ViCAFE Hausmischung,unknown,350g,"Coffe, Drinks and Tea",Migros,2023-05-24
+341,12.60,ViCAFE Créma-Mischung,unknown,350g,"Coffe, Drinks and Tea",Migros,2023-05-24
+342,10.40,Tropical Mountains Paradiso Bio FT,unknown,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+343,9.90,Turm India Monsooned,unknown,1 piece,"Coffe, Drinks and Tea",Migros,2023-05-24
+344,3.20,Flavored green teaOrange &guarana,Tetley,43.75g,"Coffe, Drinks and Tea",Migros,2023-05-24
+345,1.80,  OrangeMultivitamin fruit juiceWith ,Capri Sun,12% fruit juice330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+346,4.80,"Spice tea blend, flavored with spice extractClassic Cinnamon Spice",Yogi Tea,37g,"Coffe, Drinks and Tea",Migros,2023-05-24
+347,3.20,Green teaRefreshing mint,Tetley,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+348,5.30,"  EspressoCoffee CapsulesEspresso, Delizio system",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+349,13.50,  GoldInstant coffeeNescafé Gold Organic,Nescafé,180g,"Coffe, Drinks and Tea",Migros,2023-05-24
+350,8.30,Drink with orange pulp,Orangina,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+351,4.40,  DemeterOrganic fruit & vegetable juiceCarrot-Orange-Ginger,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+352,4.20,CoffeeB  By Café RoyalCoffee ballsLungo. Intensity: ,unknown,5/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+353,4.20,CoffeeB  By Café RoyalCoffee ballsLungo Forte. Intensity: ,unknown,7/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+354,1.20,  ZeroLow calorie lemonadeRapsberry,Fanta,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+355,1.95,NectarPeach,Sarasay,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+356,7.50,"igros Bio  FairtradeSoluble coffee, freeze-driedLungo",M,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+357,11.50,Coffee beansMocha Surfin,La Semeuse,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+358,5.95,Nectar orange et passionOrange Passion,Anna's Best,2l,"Coffe, Drinks and Tea",Migros,2023-05-24
+359,3.95,  Vita ,Biotta,"7Organic cocktail of fruits, vegetables and whey500ml","Coffe, Drinks and Tea",Migros,2023-05-24
+360,1.95,-Classic  Good MorningFruit juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+361,9.75,  Gusto ItalianoCoffee beansOro,Caruso,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+362,8.95," ClassicoCoffee PadsGround, espresso",Espresso,389g,"Coffe, Drinks and Tea",Migros,2023-05-24
+363,2.–,Sage leaves,Klostergarten,24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+364,3.40,Orzo Bimbo,Orzo Bimbo,120g,"Coffe, Drinks and Tea",Migros,2023-05-24
+365,8.10,Bio Fairtrade Instant,Bertschi,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+366,2.95,YOUYOU Smoothie Apfel Zucchini,unknown,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+367,1.95,  ZeroIce teaLemon,Dirtea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+368,5.95,La Semeuse Lungo Forte ,La Semeuse,10Kap55g,"Coffe, Drinks and Tea",Migros,2023-05-24
+369,Regional Price,Smoothie Protein,unknown,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+370,Regional Price,Smoothie Cultures Ginger Pineapple,unknown,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+371,5.50,Starbucks White Mocha,Starbucks,5 x 24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+372,5.85,-BudgetInstant coffeeStrong and spicy,M,300g,"Coffe, Drinks and Tea",Migros,2023-05-24
+373,5.95,"Organic herbal teaWith chamomile, lemon balm and lavender",Cupper,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+374,9.95,Fine cocoa drink with chocolate,Califora,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+375,5.30,"  CremaCoffee CapsulesMild & balanced, Delizio system",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+376,13.50,Rast Barista Espresso,unknown,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+377,2.95,Sudden Rush Guarana Xtra Strong,Sudden Rush,11ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+378,3.30,Sudden Rush Guarana Medium,Sudden Rush,11ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+379,15.95,La Semeuse Mocca ,La Semeuse,40 Pads280g,"Coffe, Drinks and Tea",Migros,2023-05-24
+380,7.95,Caffè Condor Tradition gemahlen,Caffè Condor,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+381,9.80,Bio Fairtrade Espresso gemahlen,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+382,9.80,Bio Fairtrade Kaffee gemahlen,Bertschi,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+383,19.95,Bio La Semeuse Mocca ,La Semeuse,40 Pads280g,"Coffe, Drinks and Tea",Migros,2023-05-24
+384,17.95,La Semeuse Nocturne ,La Semeuse,40 Pads280g,"Coffe, Drinks and Tea",Migros,2023-05-24
+385,3.95,Caffè Condor Cremina gemahlen,Caffè Condor,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+386,1.50,Red Bull Energy Drink,Red Bull,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+387,1.50,Red Bull Sugarfree,Red Bull,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+388,1.90,El Tony Mate & Ginger,El Tony,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+389,0.95,en Eagle Energy Drink,Gold,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+390,0.55,-BudgetM-BUD ENERGY POMEGR. ,M,250250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+391,0.55,-BudgetM-Budget Energy Drink,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+392,13.50,Premium Rast,unknown,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+393,0.55,-BudgetM-BUD ENERGY ZERO ,M,25CL250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+394,3.70,InfusionRooibos Orange,Tetley,35g,"Coffe, Drinks and Tea",Migros,2023-05-24
+395,5.95,Iced tea powderLemon,Ice Tea,700g,"Coffe, Drinks and Tea",Migros,2023-05-24
+396,1.95,-Classic  IronFruit juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+397,3.95,  ZeroIced tea powderPeach,Ice Tea,23g,"Coffe, Drinks and Tea",Migros,2023-05-24
+398,3.60,Organic black teaEarl Grey,Tetley,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+399,1.95,Sencha green teaIn bag,Alnatura,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+400,1.30,  Simply FreshIced teaMint,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+401,11.50,KUSMIBIO KUSMI ANASTASIA ,unknown,20BTL40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+402,18.10,KUSMIBIO KUSMI ANASTASIA ,unknown,100G100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+403,5.95,PG Tips Pyramid Bags,unknown,232g,"Coffe, Drinks and Tea",Migros,2023-05-24
+404,4.50,TETLEY CEYLON ,Tetley,50BTL100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+405,5.10,TETLEY CEYLON LOSE ,Tetley,150G150g,"Coffe, Drinks and Tea",Migros,2023-05-24
+406,6.95,  MoscatoJus de raisin muscat,Sélection,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+407,1.–,Carbonated soft drinkLemon & lime flavors,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+408,1.95,"-Classic  Bun DiFruit juiceOrange, grape and mango",M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+409,0.95,Chamomile,Tea Time,55g,"Coffe, Drinks and Tea",Migros,2023-05-24
+410,4.95,Cranberry juiceWith tea extract and agave concentrate,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+411,8.90,orandSyrupMint,M,495ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+412,5.95,Iced tea powderPeach,Ice Tea,700g,"Coffe, Drinks and Tea",Migros,2023-05-24
+413,3.95,"  Mango MixOrganic fruit cocktailWith grape juice, pear juice and apple juice",Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+414,5.95,"  Dolce GustoCoffee capsulesGrande, NESCAFÉ Dolce Gusto system",Starbucks,102g,"Coffe, Drinks and Tea",Migros,2023-05-24
+415,5.95,Starbucks Nescafé Dolce Gusto Macchiato Vanilla ,Starbucks,12 Kapseln132g,"Coffe, Drinks and Tea",Migros,2023-05-24
+416,3.20,essmerMoroccan teaMint and honey,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+417,3.95,  BioCranberry nectar,Anna's Best,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+418,11.70,  EssenceFlavored mineral waterOrange,Volvic,6 x 750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+419,3.70,Apple kiwi syrupWith ,Sirup,30% fruit juices and natural flavoring750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+420,2.95,Organic Beet juice,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+421,2.95,Herbal Tea for coughs,Klostergarten,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+422,2.20,NectarCocktail,Sarasay,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+423,8.20,  Tonic WaterCarbonated soft drink,Gents,4 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+424,4.85,Black teaEarl Grey,Tetley,150g,"Coffe, Drinks and Tea",Migros,2023-05-24
+425,6.50,Ovomaltine powder,Ovomaltine,10 x 15g,"Coffe, Drinks and Tea",Migros,2023-05-24
+426,2.50,SyrupOranges with ,Sirup,30% fruit juice750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+427,13.50,Coffee beans,Gastronome,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+428,3.95,igros BioAlpine herb syrup,M,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+429,1.50,  O,Aproz,2Sparkling mineral water with natural flavorsLemon50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+430,5.30,"  Lungo FortissimoCoffee CapsulesRich and intense, Delizio system",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+431,9.20,igros BioCoffee beansEspresso ,M,4/5500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+432,4.40,  DemeterOrganic fruit & vegetable juiceBeet-Lemon-Ginger,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+433,13.50,Drink with orange pulp,Orangina,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+434,Regional Price,"Fruit juiceOrange, mango & grape juice",Anna's Best,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+435,1.40,  Calm DownVitamin water,Vitamin,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+436,8.25,  GoldInstant coffeeIntensity ,Nescafé,7100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+437,1.10,Iced teaMango & pineapple,Ice Tea,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+438,5.30,"Roasted coffeeIn capsules, ground, ",Delizio,1/5 intensity72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+439,4.80,Spice tea mixtureMaca Chai,Yogi Tea,35.7g,"Coffe, Drinks and Tea",Migros,2023-05-24
+440,6.95,Pomegranate juicePasteurized,Andros,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+441,8.95,  CremaCoffee beansCreamy & aromatic,Exquisito,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+442,2.40,igros BioJus d'orange-carotte & agave-citron,M,33cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+443,0.95,-Budget  TASTEAIced teaMango,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+444,7.20,BIO HIL VANILLA CHAI TP,Higher Living,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+445,3.20,eßmerMessmer Winterpunsch Ltd,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+446,4.10,Fever Tree Ginger Beer,Fever Tree,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+447,11.50,Lyre's G&T,Lyre's,4 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+448,1.30,  Simply FreshIced teaPeach,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+449,3.20,"Organic herbal tea blendMelissa, Hemp, Goji",You,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+450,5.30,"Roasted coffeeIn capsules, ground, ",Delizio,5/5 intensity72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+451,7.40,  IndiaCoffee capsules,Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+452,5.95,Lemon juicePressed,Andros,1L,"Coffe, Drinks and Tea",Migros,2023-05-24
+453,8.75, Classico  All'italianaCoffee beans,Espresso,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+454,15.95,Coffee beansNoble and balanced,Exquisito,1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+455,1.40,  Wake UpVitamin water,Vitamin,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+456,0.50,Iced teaLemon,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+457,5.95,"-ClassicCoffee, groundBalanced and aromatic - ",M,3/5500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+458,5.60,Natural mineral waterStill,Valais,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+459,4.25,  GoldCafé solubleCappucino,Nescafé,10 x 12.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+460,2.–,  CalmVitamin waterRhubarb-Raspberry,Focus Water,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+461,8.30,Drink with orange pulpZero,Orangina,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+462,4.95,Cranberry juiceOrganic,Alnavit,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+463,5.20," ClassicoRoasted coffeeGround, espresso, ",Espresso,4/5 intensity250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+464,1.50,onster  JuicedEnergy drinkMango loco,M,355ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+465,2.55,igros BioInfusionLemon thyme,M,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+466,3.20,Red berry juice,Anna's Best,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+467,2.20,  BIORefreshing drinkLemongrass,Puerto Mate,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+468,2.95,Boisson électrolytiqueMandarine,Gatorade,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+469,2.95,Rooibos Vanilla Tea,Alnatura,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+470,7.80,Carbonated drinks with orange juiceAranciata,San Pellegrino,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+471,2.95,Bubble Tea,Klostergarten,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+472,1.80,-BudgetDrink powder with soluble coffeeCappuccino,M,300g,"Coffe, Drinks and Tea",Migros,2023-05-24
+473,2.–,  PushVitamin waterOrange-Lemongrass,Focus Water,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+474,5.30,"  LungoCoffee CapsulesLungo Edizione Italiana, Delizio system",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+475,5.70,igros Bio  FairtradeGround coffee,M,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+476,1.80,Natural coconut drink,Coconut Water,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+477,5.95,Organic fruit teaCranberry & Raspberry,Cupper,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+478,2.20,  BIORefreshing drinkGrenade,Puerto Mate,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+479,7.40,LemonadePeach,Oasis,6 x 250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+480,7.95,Sparkling mineral water with natural flavorsOrange,Aproz,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+481,7.20,Organic TeaEnglish Earl Grey,Higher Living,45g,"Coffe, Drinks and Tea",Migros,2023-05-24
+482,9.95,Coffee beansMedium roast,Starbucks,450g,"Coffe, Drinks and Tea",Migros,2023-05-24
+483,7.95,Sparkling mineral water with natural flavorsMint & lime,Aproz,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+484,4.95,Herbal TeaWith peppermint & Alpine herbs,Raselli,24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+485,1.55,Vegetable juice,Alnatura,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+486,3.20,essmerHerbal tea blendRaspberry lemon,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+487,6.80,"Herbal Tea Turmeric, ginger and galanga",Pukka,36g,"Coffe, Drinks and Tea",Migros,2023-05-24
+488,6.80,Herbal Tea Three fennel,Pukka,36g,"Coffe, Drinks and Tea",Migros,2023-05-24
+489,7.80,Carbonated drinks with bitter orange juiceAranciata Amara,San Pellegrino,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+490,3.95,eßmerMessmer Cold Tea Zitrone Minze,M,38.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+491,6.60,L'ElephantL'Elephant Bio Moment Délicieux,unknown,62g,"Coffe, Drinks and Tea",Migros,2023-05-24
+492,1.95,Fever Tree Ginger Beer,Fever Tree,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+493,1.95,Fever Tree Mediterranean Tonic,Fever Tree,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+494,1.30,Tonic Water Zero,Apéritiv,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+495,1.50,Ginger Beer,Apéritiv,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+496,1.80,L'ElephantL'Elephant Ma Verveine,unknown,33g,"Coffe, Drinks and Tea",Migros,2023-05-24
+497,1.30,Bitter Lemon,Apéritiv,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+498,5.50,Aha! Kakaogetränk ,unknown,10x15g10 x 15g,"Coffe, Drinks and Tea",Migros,2023-05-24
+499,2.95,Lyre's G&T,Lyre's,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+500,1.30,Ginger Ale,Apéritiv,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+501,1.60,Ginger Ale,Apéritiv,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+502,2.60,Roots & Goods Shot Yellow Express,unknown,60ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+503,2.20,Roots & Goods Juice Perfect Harmony,unknown,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+504,4.10,Fever Tree Indian Tonic Water,Fever Tree,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+505,3.95,igros DailyMigros Daily Saft Exotic,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+506,1.30,Tonic Water,Apéritiv,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+507,1.95,Fever Tree Indian Tonic Water,Fever Tree,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+508,2.10,Gents Swiss Roots Tonic Water,Gents,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+509,1.60,Tonic Water,Apéritiv,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+510,2.95,Anna's Best India Mango Lassi,Anna's Best,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+511,2.20,Roots & Goods Juice Hot Kiss,unknown,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+512,Regional Price,igros DailyMigros Daily Saft mit Himbeeren,M,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+513,Regional Price,Migros Daily Saft mit Himbeeren,Migros Daily,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+514,3.95,igros DailyMigros Daily Saft mit Kiwi,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+515,2.10,Artisan Fiery Ginger Beer,Artisan,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+516,2.10,Artisan Pink Citrus Tonic,Artisan,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+517,2.10,Artisan Classic London Tonic,Artisan,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+518,2.95,Aus der Region Erdbeerennektar,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+519,1.95,Fever Tree Raspberry & Rhabarb.,Fever Tree,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+520,2.90,Lassi Mango,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+521,2.20,Bio Apfel Ingwer Shot,unknown,1dl,"Coffe, Drinks and Tea",Migros,2023-05-24
+522,4.20,L'ElephantL'Elephant infusion à froid boost,unknown,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+523,4.90,Kneipp Tee Reinheitsgefühl,Kneipp,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+524,6.40,Energy DrinkThe Apricot Edition,Red Bull,4x25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+525,4.95,Herbal TeaEvening tea,Raselli,24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+526,9.95,  noirDark cocoa drinkMore bitter,Caotina,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+527,2.30,LevlUp  GalaxyBoisson hydratanteZéro sucre - sans caféine,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+528,4.90,"Herbal TeaMint, orange peel and sweet cabbage",Kneipp,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+529,2.30,LevlUp  Shiny DragonBoisson hydratanteZéro sucre - sans caféine,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+530,4.20,CoffeeB  By Café RoyalCoffee ballsEspresso Forte. Intensity: ,unknown,8/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+531,4.30,igros BioMigros Bio ADR Salbei Tee,M,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+532,4.30,igros BioMigros Bio ADR Tee Kamille,M,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+533,4.30,igros BioMigros Bio ADR Eisenkrauttee,M,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+534,5.50,Aus der Region Luzerner Chrüter-Tee,unknown,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+535,5.90,Aus der Region Zitronelletee,unknown,14g,"Coffe, Drinks and Tea",Migros,2023-05-24
+536,5.90,igros BioMigros Bio Tisana Olivone,M,20 x 1.2g,"Coffe, Drinks and Tea",Migros,2023-05-24
+537,4.30,igros BioMigros Bio ADR Thymiantee,M,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+538,7.80,Bio Grand St.Bernard Force des Cimes Tee,unknown,22.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+539,2.90,igros BioMigros Bio Tee Alpenkräuter Brenne.,M,31.2g,"Coffe, Drinks and Tea",Migros,2023-05-24
+540,4.30,igros BioMigros Bio ADR Melissen Tee,M,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+541,4.30,igros BioMigros Bio ADR Tee Pfefferminze,M,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+542,7.80,Bio Grand St.Bernard Etoile Glaciers Tee,unknown,22.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+543,4.80,igros BioMigros Bio Tisana Malva & Lime,M,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+544,6.60,L'ElephantL'Elephant Infusions parfumées,unknown,94g,"Coffe, Drinks and Tea",Migros,2023-05-24
+545,2.30,Anna's Best Mandarinensaft,Anna's Best,33cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+546,13.95,KUSMIBIO KUSMI EXPURE ADDICT,unknown,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+547,23.50,KUSMIBIO KUSMI EXP.ADDICT ,unknown,100G100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+548,11.50,KUSMIBIO KUSMI HAPPY MIND,unknown,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+549,19.95,KUSMIBIO KUSMI AQUA ROSE ,unknown,100G100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+550,11.50,KUSMIBIO KUSMI LOVELY NIGHT,unknown,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+551,4.20,L'ElephantL'Elephant infusion à froid relax,unknown,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+552,6.50,"  DecaffeinatoSoluble coffee, decaffeinatedFine, rounded aroma",Noblesse,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+553,4.20,CoffeeB  By Café RoyalCoffee ballsDecaffeinato. Intensity: ,unknown,5/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+554,11.70,  EssenceFlavored mineral waterLime-Cassis,Volvic,6 x 750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+555,1.70,Energy drinkThe Red Edition,Red Bull,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+556,1.20,igros BioTomato Juice,M,1 piece,"Coffe, Drinks and Tea",Migros,2023-05-24
+557,2.25,Flavored fruit tea blend with orange flavorFantastic Orange,Tea Time,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+558,5.90,Coffee CapsulesLungo Hazelnut,Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+559,12.50,-Classic  EspressoCoffee beansEspresso - ,M,3/51kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+560,5.60,-Classic  Max HavelaarJus d'orangeMax Havelaar,M,4 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+561,7.20,BIO HIL SUPERFRUITS TP,Higher Living,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+562,3.95,eßmerMessmer Plus Vit. D Granatapfel,M,55g,"Coffe, Drinks and Tea",Migros,2023-05-24
+563,2.55,igros BioMigros Bio Früchte Tee Himbeere-Rose,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+564,3.60,eßmerMessmer Bio Orange Ingwer,M,55g,"Coffe, Drinks and Tea",Migros,2023-05-24
+565,2.50,L'ElephantL'Elephant Pomme-Cannelle,unknown,36g,"Coffe, Drinks and Tea",Migros,2023-05-24
+566,3.95,eßmerMessmer Cold Tea Himbeere Zitrone,M,38.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+567,2.30,L'ElephantL'Elephant Pêche Miraculeuse,unknown,38g,"Coffe, Drinks and Tea",Migros,2023-05-24
+568,2.30,L'ElephantL'Elephant On n'est pas pressés,unknown,38g,"Coffe, Drinks and Tea",Migros,2023-05-24
+569,2.30,L'ElephantL'Elephant La Rhubarbe à Papa,unknown,38g,"Coffe, Drinks and Tea",Migros,2023-05-24
+570,3.95,eßmerMessmer Plus Vitamin C Zitrone,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+571,3.20,eßmerMessmer Hawaii Kiss,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+572,3.80,L'ElephantL'Elephant Bio Grenade Hibiscus,unknown,38g,"Coffe, Drinks and Tea",Migros,2023-05-24
+573,3.20,eßmerMessmer Zimtpflaume,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+574,3.20,eßmerMessmer Italienische Limone,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+575,0.45,-ClassicM-Classic Fairtrade Orangensaft,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+576,2.95,Sarasay Fairtrade Orangensaft,Sarasay,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+577,1.45,-ClassicM-Classic Fairtrade Orangensaft,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+578,2.65,igros BioMigros Bio Juice Blutorange,M,33cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+579,3.50,igros BioMigros Bio Orangensaft,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+580,3.95,eßmerMessmer Cold Tea Pfirsich,M,38.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+581,3.95,eßmerMessmer Cold Tea Pinke Grapefruit,M,38.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+582,11.50,KUSMIBIO KUSMI AQUA SUMMER,unknown,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+583,11.50,KUSMIBIO KUSMI AQUA ROSE ,unknown,20BTL40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+584,19.95,KUSMIBIO KUSMI AQUA SUMMER,unknown,100G100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+585,3.95,eßmerMessmer Plus Mango Orange,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+586,6.80,"Herbal Tea Oat flower Lavender, lime blossom",Pukka,20g,"Coffe, Drinks and Tea",Migros,2023-05-24
+587,2.95,Relaxation Tea,Klostergarten,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+588,3.20,Organic herbal tea blend,You,20g,"Coffe, Drinks and Tea",Migros,2023-05-24
+589,0.75,  ClassicIced tea powderLemon,Ice Tea,70g,"Coffe, Drinks and Tea",Migros,2023-05-24
+590,1.50,  O,Aproz,2Carbonated soft drinkRaspberry & lime500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+591,3.70,SyrupBerries ,Sirup,30% with flavoring750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+592,5.95,Organic herbal teaLicorice & Mint,Cupper,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+593,5.30,"Roasted coffeeIn capsules, ground, decaffeinated",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+594,0.75,Iced tea powderPeach,Ice Tea,70g,"Coffe, Drinks and Tea",Migros,2023-05-24
+595,13.50,Aus der Region Most ab Presse,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+596,4.80,Aus der Region Moût de Genève,unknown,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+597,6.90,Aus der Region Aroniasaft,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+598,6.90,Aus der Region Bio Aroniasaft,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+599,4.20,Anna's Best Juice Mandarinen,Anna's Best,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+600,14.65,Aus der Region Moût du Valais,unknown,3l,"Coffe, Drinks and Tea",Migros,2023-05-24
+601,5.20,Aus der Region Caline Nektar,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+602,29.70,Aus der Region Caline Nektar,unknown,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+603,2.90,eli Passionsfrucht Nektar,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+604,2.80,Aus der Region Aprikosen Nektar,unknown,33cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+605,Regional Price,Andros Clementinensaft,Andros,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+606,2.10,Aus der Region Hanfschorle,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+607,2.35,Aus der Region Most ab Presse,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+608,18.90,Bio aus der Region Traubensaft,unknown,3l,"Coffe, Drinks and Tea",Migros,2023-05-24
+609,4.95,Aus der Region Moût du Valais,unknown,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+610,16.20,Aus der Region Birnen Nectar,unknown,6 x 33cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+611,24.60,Aus der Region Aprikosen Nectar,unknown,6 x 75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+612,2.70,Aprikosen Nektar,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+613,2.60,,unknown,1+1 Fruchtnektar1.5L,"Coffe, Drinks and Tea",Migros,2023-05-24
+614,2.10,eli Guave Nektar,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+615,16.20,Aus der Region Aprikosen Nectar,unknown,6 x 33cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+616,2.20,Ramseier Sauser AF ,Ramseier,50cl500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+617,2.95,Inner strength teaIn bag,Alnatura,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+618,2.70,TeaOrange blossom,Klostergarten,24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+619,7.95,igros Bio  FairtradeInstant cocoa drink,M,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+620,3.40,Mixed fruit juice,Suc,5 x 120ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+621,12.50,Soft drink,Pepsi,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+622,0.95,-Budget  TASTEAIced teaMelon,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+623,8.70,Soft drinkMango,Fanta,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+624,5.30,Orange and mango juicePressed,Andros,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+625,6.80,"Herbal Tea Lemon, Ginger &Honey Manuka",Pukka,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+626,6.80,Herbal Tea Mint and licorice,Pukka,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+627,7.95,  FreeLemonade with natural lemon and lime flavours,7up,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+628,2.15,Energy drink,Red Bull,355ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+629,5.95,"Coffee, groundExtra Mild",Exquisito,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+630,8.90,"-BudgetCoffee CapsulesLungo, compatible Delizio system",M,280g,"Coffe, Drinks and Tea",Migros,2023-05-24
+631,5.95,Organic fruit teaStrawberry and vanilla,Cupper,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+632,11.70,  EssenceFlavored mineral waterLemon & apple,Volvic,6 x 750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+633,1.55,Sauerkraut juice,Alnatura,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+634,4.80,Spice tea blend,Yogi Tea,30.6g,"Coffe, Drinks and Tea",Migros,2023-05-24
+635,1.95,Volvic Essence Minze-Gurke,Volvic,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+636,1.95,Volvic Essence Orange-Holunderblüte,Volvic,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+637,7.20,Knutwiler Himbeer ,Knutwiler,6x50cl6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+638,7.80,Aus der Region Flauder Yolo,Flauder,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+639,1.40,Aproz Bio Orange,Aproz,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+640,11.95,Aus der Region Appenzeller Flauder,Appenzeller,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+641,11.95,Aus der Region Flauder Holunderb.,Appenzeller,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+642,2.10,Aus der Region Flauder Minz,Appenzeller,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+643,7.20,Aus der Region Holunder-Traube,Knutwiler,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+644,1.95,Adelbodner Holunder & Melisse,Adelbodner,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+645,2.50,Volvic Essence Orange-Holunderblüte,Volvic,1.25l,"Coffe, Drinks and Tea",Migros,2023-05-24
+646,1.30,Aus der Region Knutwiler Apfel,Knutwiler,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+647,1.40,Aproz Bio Lemon,Aproz,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+648,1.40,Aus der Region Appenzeller Flauder,Appenzeller,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+649,7.80,Aus der Region Appenzeller Flauder,Appenzeller,6 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+650,1.30,Flauder,Flauder,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+651,1.85,Aus der Region Himbeer-Melisse,Knutwiler,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+652,1.30,Adelbodner Holunder & Melisse,Adelbodner,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+653,2.95,igros DailyMigros Daily Ingwer-Minze,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+654,1.95,Volvic Essence Zitrone-Apfel,Volvic,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+655,2.50,Volvic Essence Zitrone-Apfel,Volvic,1.25l,"Coffe, Drinks and Tea",Migros,2023-05-24
+656,7.20,Aus der Region Knutwiler Apfel,Knutwiler,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+657,1.40,Aus der Region Flauder Yolo,Flauder,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+658,1.95,Knutwiler Himbeer ,Knutwiler,1.5l1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+659,11.70,Knutwiler Himbeer ,Knutwiler,6x1.5l6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+660,1.40,Aproz Bio Mint-Lime,Aproz,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+661,2.–,Flauder,Flauder,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+662,1.40,Aus der Region Flauder Minz,Appenzeller,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+663,7.50,Adelbodner Holunder & Melisse,Adelbodner,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+664,11.40,Adelbodner Holunder & Melisse,Adelbodner,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+665,1.40,Aproz Bio Holunderblüten,Aproz,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+666,2.10,Aus der Region Appenzeller Flauder,Appenzeller,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+667,2.10,Aus der Region Flauder Holunderb.,Appenzeller,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+668,11.95,Aus der Region Flauder Minz,Appenzeller,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+669,7.80,Aus der Region Flauder Minz,Appenzeller,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+670,1.30,Aus der Region Holunder-Traube,Knutwiler,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+671,1.30,Knutwiler Schnitzwasser,Knutwiler,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+672,1.95,Knutwiler Schnitzwasser,Knutwiler,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+673,5.30,Bio Mono Raw Coconut Water,unknown,470ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+674,Regional Price,Bio Mono Raw Coconut Water,unknown,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+675,7.20,Knutwiler Mandarin ,Knutwiler,6x50cl6 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+676,2.10,Aus der Region Knutwiler Ingwer,Knutwiler,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+677,2.10,Aus der Region Knutwiler Pink Grape,Knutwiler,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+678,12.60,Aus der Region Knutwiler Pink Grape,Knutwiler,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+679,12.60,Aus der Region Knutwiler Ingwer,Knutwiler,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+680,6.60,Knutwiler Himbeer-Melisse,Knutwiler,6000ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+681,1.95,Valais Botanical Aprikose,Valais,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+682,1.95,Valais Botanical Himbeere,Valais,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+683,1.30,Knutwiler Himbeer ,Knutwiler,50Cl500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+684,1.30,Knutwiler Mandarinli ,Knutwiler,50cl50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+685,1.45,Knutwiler Mandarinli ,Knutwiler,1l1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+686,8.40,Knutwiler Mandarinli ,Knutwiler,6x1l6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+687,11.70,Knutwiler Mandarinli,Knutwiler,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+688,1.95,Knutwiler Mandarin ,Knutwiler,1.5l1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+689,2.95,igros DailyMigros Daily Vitaminwater Red,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+690,1.30,AdR Knutwiler Schnitzwasser,Knutwiler,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+691,1.95,Volvic Essence Cassis,Volvic,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+692,1.80,Dash Peach,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+693,1.80,Dash Raspberry,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+694,1.80,Dash Blackcurrent,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+695,1.95,-Classic  FairtradePink grapefruit juice,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+696,4.75,Decaffeinated coffeeFull aroma,Café Zaun,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+697,6.40,Natural mineral waterStill,Valais,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+698,4.95,Fruit berry direct juiceWith black carrot,Biotta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+699,5.80,Coffee beansPowerful & racy,Boncampo,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+700,2.50,"NOCCODrinks with vitamins, caffeine and amino acidsBlood Orange del Sol",unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+701,4.80,Spice tea mixtureSweet chai,Yogi Tea,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+702,18.50,Aus der Region Mout de Genève,unknown,3l,"Coffe, Drinks and Tea",Migros,2023-05-24
+703,6.90,Aus der Region Bio Aroniasaft,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+704,24.60,Aus der Region Birnen Nectar,unknown,6 x 75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+705,14.95,,unknown,1+1 Fruchtnektar6 x 1.5L,"Coffe, Drinks and Tea",Migros,2023-05-24
+706,3.95,igros BioMigros Bio Multifruchtsaft,M,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+707,2.50,Roots & Goods Shot Ginger Bliss,unknown,60ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+708,Regional Price,Andros Orangensaft,Andros,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+709,0.60,Capri-Sun Safari Fruits,Capri Sun,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+710,1.–,-BudgetM-Budget Tropical,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+711,4.30,Aus der Region Birnen Nectar,unknown,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+712,2.50,Sarasay Pink Grapefruit,Sarasay,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+713,2.95,-BudgetM-Budget Pink Grapefruit,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+714,Regional Price,Andros Granatapfelsaft,Andros,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+715,6.90,Bio aus der Region Traubensaft,unknown,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+716,0.60,Capri-Sun Multivitamin,Capri Sun,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+717,4.30,Aus der Region Aprikosen Nectar,unknown,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+718,2.70,Berry Splash Cranberry,unknown,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+719,1.60,-ClassicM-Classic Fairtrade Multivitamin,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+720,2.05,Aus der Region Birnensaft,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+721,2.80,Aus der Region Birnen Nektar,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+722,2.95,Sarasay Fairtrade Multivitamin,Sarasay,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+723,2.55,igros BioMigros Bio Multifruchtsaft,M,33cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+724,3.80,Anna's Best Kalamansi Lassi,Anna's Best,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+725,9.50,Roots & Goods Jumbo Ginger Shot,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+726,2.30,Andros Ananassaft,Andros,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+727,Regional Price,igros DailyMigros Daily Orangensaft frisch 1lt,M,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+728,Regional Price,Migros Daily Orangensaft frisch 1lt,Migros Daily,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+729,4.90,igros DailyMigros Daily Bio Orangensaft frisch,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+730,2.90,igros DailyBio Migros Daily Orangensaft frisch ,M,2.5dl250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+731,2.30,igros DailyMigros Daily Orangensaft frisch,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+732,7.95,igros DailyBio Migros Daily Orangensaft frisch,M,1000ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+733,3.90,igros DailyMigros Daily Orangensaft frisch,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+734,13.20,Ramseier Sauser AF ,Ramseier,6x50cl6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+735,Regional Price,Andros Multifruchtsaft,Andros,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+736,3.20,Flavored green teaPomegranate,Tetley,38g,"Coffe, Drinks and Tea",Migros,2023-05-24
+737,3.70,SyrupCherry & Hibiscus,unknown,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+738,6.80,Herbal Tea Night time berry,Pukka,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+739,5.95,Aluminum coffee capsulesDecaffeinato,La Semeuse,54g,"Coffe, Drinks and Tea",Migros,2023-05-24
+740,4.70,Organic TeaChamomile & vanilla,Higher Living,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+741,6.40,Black teaDecaffeinated,Tetley,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+742,3.20,"Organic herbal tea blendMoringa leaves, ginger, lemongrass",You,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+743,8.50,igros BioSparkling mineral water and fruit juicesSchorle,M,6 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+744,3.60,Organic black tea,Tetley,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+745,5.30,"  RistrettoCoffee CapsulesRistretto, Delizio system",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+746,4.20,CoffeeB  By Café RoyalCoffee ballsEspresso. Intensity: ,unknown,6/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+747,1.40,Beetroot juice fresh from the field,Alnatura,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+748,6.80,Herbal Tea Relax,Pukka,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+749,4.25,  GoldCafé solubleCappuccino chocolate,Nescafé,8 x 18g,"Coffe, Drinks and Tea",Migros,2023-05-24
+750,5.20,Pomegranate juiceOrganic,Alnavit,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+751,6.–,"-BudgetRoasted coffeeIn beans, ",M,4/5 intensity1kg,"Coffe, Drinks and Tea",Migros,2023-05-24
+752,2.40,Protein drinkBerry,Reloadz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+753,2.40,Protein drinkTropic,Reloadz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+754,2.25, Well  RefreshVitamin waterLimonade,Vitamin,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+755,5.95,"Organic herbal teaLemon, cinnamon, ginger &black pepper",Cupper,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+756,1.95,Iced teaWet peach,Dirtea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+757,5.95,Cocoa drinkWith chocolate,Califora,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+758,7.50,"-ClassicCoffee CapsulesEspresso , compatible with the Nespresso® system",M,156g,"Coffe, Drinks and Tea",Migros,2023-05-24
+759,3.20,Organic herbal tea blendLicorice & Ginger,You,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+760,2.20,  Bio by RivellaEnergy teaGuayusa,Enertea,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+761,4.80,"Tea blendGinger, Orange, Vanilla",Yogi Tea,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+762,4.95,Herbal TeaMorning tea,Raselli,24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+763,1.20,Fruit tea blend,Tea Time,125g,"Coffe, Drinks and Tea",Migros,2023-05-24
+764,6.35,"  Dolce GustoCoffee CapsulesLatte Macchiato, NESCAFÉ Dolce Gusto system",Nescafé,183g,"Coffe, Drinks and Tea",Migros,2023-05-24
+765,6.80,Herbal Tea Elderberry &echinacea,Pukka,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+766,5.95,Organic herbal teaLemon and ginger,Cupper,35g,"Coffe, Drinks and Tea",Migros,2023-05-24
+767,5.95,  FreshFruit juiceCarrot Mango Apple,Biotta,1000ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+768,13.50,Drink with orange pulpZero,Orangina,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+769,5.95,"Organic herbal teaWith lemon grass, mate and lemon verbena",Cupper,35g,"Coffe, Drinks and Tea",Migros,2023-05-24
+770,4.95,Natural mineral waterLightly sparkling,Badoit,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+771,6.35,"  Dolce GustoCoffee CapsulesCaffè Lungo, NESCAFÉ Dolce Gusto system",Nescafé,104g,"Coffe, Drinks and Tea",Migros,2023-05-24
+772,2.95,Organic ginger and turmeric teaWith coriander seeds,Alnatura,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+773,4.90,Organic RooibosAfrican tea,Higher Living,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+774,4.40,CoffeeB  By Café RoyalOrganic coffee ballsLungo. Intensity: ,unknown,4/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+775,9.30,Carbonated drinkRefresh,Rivella,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+776,6.95,Cranberry juice,Andros,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+777,2.50,igros BioInfusionFull-bodied and fruity,M,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+778,4.80,Ayurvedic herbal infusionChlorella menthe,Yogi Tea,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+779,5.95,"  Dolce GustoCoffee capsulesCaramel macchiato, NESCAFÉ Dolce Gusto system",Starbucks,127g,"Coffe, Drinks and Tea",Migros,2023-05-24
+780,2.40,Carbonated energy drinkPeach Vibe - sugar free,Celsius,355ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+781,3.20,essmerHerbal tea blendElderflower and lime,M,45g,"Coffe, Drinks and Tea",Migros,2023-05-24
+782,7.80,"Herbal Tea Elderberry & Echinacea - Lemon-, Ginger- &Manuka Honey - Feeling new - Three Mints - Peaceful Night",Pukka,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+783,2.90,  bioInfusionVerbena - mint,L'éléphant,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+784,8.95,Coffee beansNoble & balanced,Exquisito,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+785,1.–,Carbonated soft drinkLime & mint flavor,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+786,7.95,Sparkling table waterPassion,Tuca,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+787,4.80,Spice tea blend,Yogi Tea,32.3g,"Coffe, Drinks and Tea",Migros,2023-05-24
+788,6.80,"Herbal tea Peace - Hemp, Spearmint & Ashwagandha",Pukka,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+789,5.50,  Exquisito OroInstant coffee,Noblesse,100% arabica100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+790,3.95,BioBlood-orange juice,unknown,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+791,4.80,"Ayurvedic spice tea blendTurmeric, Orange, Vanilla",Yogi Tea,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+792,4.20,CoffeeB  By Café RoyalCoffee ballsRistretto. Intensity: ,unknown,9/109 Balls,"Coffe, Drinks and Tea",Migros,2023-05-24
+793,6.50,Aluminum coffee capsulesOrganic espresso,La Semeuse,56g,"Coffe, Drinks and Tea",Migros,2023-05-24
+794,1.55,Apple mango juice,Alnatura,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+795,3.20,  British BlendsBlack teaVanilla,Tetley,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+796,5.30,Coffee CapsulesEspresso classico,Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+797,10.50,  BioIced teaHappiness tea,Ice Tea,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+798,6.80,Herbal Tea Lemon-fennel,Pukka,36g,"Coffe, Drinks and Tea",Migros,2023-05-24
+799,3.90,igros BioAlpine herbal tea with Swiss ginger,M,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+800,5.95,Aus der Region Apfel Minze/Goldmelisse,unknown,14g,"Coffe, Drinks and Tea",Migros,2023-05-24
+801,1.95,aya  MateInfused energy drinkContains caffeine,M,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+802,5.30,"  Espresso IntensoCoffee CapsulesPowerful & intense, Delizio system",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+803,6.80,Herbal Tea Lemon &balm Ginger,Pukka,36g,"Coffe, Drinks and Tea",Migros,2023-05-24
+804,2.50,igros BioInfusionDelicate and elegant,M,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+805,12.90,Bio Tisana alla malva,unknown,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+806,9.50,San Benedetto Zitrone,S. Benedetto,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+807,1.50,Aus der Region Eistee Minze-Aronia,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+808,0.95,Kult Ice Tea Pfirsich,Ice Tea,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+809,12.90,Bio Tisana Nostrana Erbe naturali,unknown,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+810,8.10,Aus der Region Ramseier Huus-Tee,Ramseier,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+811,1.95,Aus der Region Eistee Minze-Aronia,unknown,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+812,3.60,igros DailyMigros Daily Eistee Alpenkräuter,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+813,8.70,Aus der Region Ramseier Huus-Tee,Ramseier,4000ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+814,3.50,Roasted coffee beansPowerful & racy,Boncampo,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+815,3.20,essmerHerbal tea blendNettle and mango taste,M,35g,"Coffe, Drinks and Tea",Migros,2023-05-24
+816,5.95,  FreshFruit juiceCarrot Pineapple Beetroot,Biotta,1000ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+817,4.80,InfusionNatural defence,Yogi Tea,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+818,4.80,Turmeric tea mixtureHerb and seasoning mix,Yogi Tea,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+819,8.70,LemonadeShokata,Fanta,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+820,1.15,Green teaMint,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+821,3.20,Organic herbal tea blendEucalyptus & honey,You,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+822,3.70,"Roasted coffeeGround, ",Boncampo,3/5 intensity250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+823,5.95,"  La SemeuseCoffee CapsulesLungo Crema, Delizio System",Delizio,72g,"Coffe, Drinks and Tea",Migros,2023-05-24
+824,3.50,Thé froidCitron,Ice Tea,4 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+825,0.95,Thé froidCitron - light,Ice Tea,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+826,1.95,ojo  Cranberry AppleBoisson de table avec ,M,10% de jus de fruitsGazéifiée500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+827,5.95,Iced teaPeach,Ice Tea,5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+828,1.20,Thé froidPêche,Ice Tea,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+829,0.60,Thé froidPêche,Ice Tea,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+830,0.50,Thé froidCitron,Ice Tea,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+831,1.95,Bio Phils Früchtetee mit Kräuter,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+832,0.50,Kult Ice Tea Light Zitrone,Ice Tea,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+833,1.40,Kult Ice Tea Zero Zitrone,Ice Tea,1L,"Coffe, Drinks and Tea",Migros,2023-05-24
+834,1.75,Flauder Bio Iisfee,Flauder,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+835,7.50,Aus der Region Ice Tea Kräuter,unknown,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+836,2.30,Bio Tisana alla malva,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+837,1.50,Aus der Region Eistee Minze-Melisse,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+838,1.50,C-ICE Ice Tea Cannabis,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+839,1.95,Aus der Region Eistee Minze-Melisse,unknown,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+840,1.90,Aus der Region Ramseier Huus-Tee,Ramseier,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+841,11.10,Aus der Region Ramseier Huus-Tee,Ramseier,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+842,1.60,Ice Tea Bio Alpenkräuter,Ice Tea,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+843,1.30,Ice Tea Bio Früchtezauber,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+844,9.60,Flauder Bio Iisfee,Flauder,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+845,0.95,Kult Ice Tea Zitrone,Ice Tea,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+846,3.60,igros DailyMigros Daily Eistee Früchte,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+847,2.30,Bio Tisana Nostrana Erbe naturali,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+848,1.40,Kult Ice Tea Peach,Ice Tea,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+849,1.35,Aus der Region Ice Tea Kräuter,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+850,1.45,Aus der Region Ramseier Huus-Tee,Ramseier,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+851,0.95,Kult Ice Tea Zitrone,Ice Tea,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+852,1.40,Kult Ice Tea Lemon,Ice Tea,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+853,1.80,Ice Tea Bio Glückstee,Ice Tea,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+854,0.60,Ice Tea Zitrone,Ice Tea,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+855,1.30,Ice Tea Bio Ingwer-Grüntee,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+856,0.60,Ice Tea Pfirsich,Ice Tea,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+857,3.60,igros DailyMigros Daily Limo Ingwer Zitrus,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+858,3.60,igros DailyMigros Daily Eistee Pfirsich,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+859,2.95,igros DailyMigros Daily Vitamintee Holunder,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+860,2.20,  Bio by RivellaEnergy teaMate,Enertea,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+861,6.80,Herbal Tea Eucalyptus,Pukka,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+862,4.90,"Herbal TeaLime blossom, elderflower taste, Zinc",Kneipp,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+863,2.20,Boisson énergisanteLiquid Ghost,Roon,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+864,3.20,  British BlendsBlack teaEarl grey citrus,Tetley,44g,"Coffe, Drinks and Tea",Migros,2023-05-24
+865,3.20,essmerHerbal tea blendRaspberry-blackcurrant taste,M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+866,2.10,igros BioHerbal infusionDelicate and fresh,M,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+867,3.90,igros BioOrganic alpine herbal teaWith hemp,M,31.2g,"Coffe, Drinks and Tea",Migros,2023-05-24
+868,2.95,Organic TeaTurmeric - Cinnamon,Alnatura,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+869,7.20,  ZeroCarbonated table drinkWith milk serum,Prego,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+870,4.20,"-ClassicRoasted coffeeGround, espresso, ",M,3/5 intensity250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+871,6.30,orandSyrupCherry,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+872,1.20,LemonadeExotic,Fanta,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+873,3.90,-ClassicSiropFramboise avec ,M,10% de jus de fruit et arôme500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+874,4.30,Aus der Region Sirup Holunderblüten,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+875,4.70,Aus der Region Sirup Goldmelissen,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+876,4.60,Aus der Region Sirup Holunderblüten,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+877,6.50,Aus der Region Sirup Quitten,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+878,3.20, Orangenpunsch,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+879,4.95,Aus der Region Lindenblüten Sirup,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+880,4.60,Aus der Region Apfelminzesirup,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+881,6.50,Aus der Region Sirup Aprikose,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+882,4.60,Aus der Region Sirup Alpenkräuter,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+883,5.95,Aus der Region Sirup Goldmelisse,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+884,5.90,Aus der Region Sirup Holunderblüten,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+885,7.40,Aus der Region Sirup Beerenmix,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+886,4.95,Aus der Region Sirup Holunderblüten,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+887,4.95,Aus der Region Sirup Zitronenmelisse,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+888,6.50,Aus der Region Sirup William's,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+889,7.40,Aus der Region Sirup Himbeere,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+890,7.40,Aus der Region Sirup Erdbeere,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+891,7.40,Aus der Region Sirup Kirschen,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+892,9.80,Aus der Region Sirup Erdbeer,unknown,470ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+893,7.40,Aus der Region Sirup Cassis,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+894,4.50,Plum drink,unknown,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+895,4.80,"Herbal and spice tea blend, flavored with fruit and spice extractHappy Tea",Yogi Tea,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+896,4.50,Malt beverage,Eimalzin,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+897,4.50,alt beverage,M,500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+898,4.90,"Herbal TeaMelissa, orange blossom, lavender",Kneipp,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+899,2.40,Carbonated energy drinkMango Passion - sugar free,Celsius,355ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+900,2.50,InfusionLinden-lemon,L'éléphant,28g,"Coffe, Drinks and Tea",Migros,2023-05-24
+901,6.35,"  Dolce GustoCoffee CapsulesCoffee with milk, Dolce Gusto system",Nescafé,160g,"Coffe, Drinks and Tea",Migros,2023-05-24
+902,4.80,"Ayurvedic herbal tea blendWith lemon balm, rooibos, cinnamon",Yogi Tea,30.6g,"Coffe, Drinks and Tea",Migros,2023-05-24
+903,5.50,igros BioSyrupCranberry,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+904,9.90,Soft drink,Vivi Kola,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+905,12.60,Aus der Region Vivi Kola,Vivi Kola,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+906,9.–,Aus der Region Vivi Kola,Vivi Kola,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+907,2.20,Energy drinkDay Dream Fresh Pear,Lohilo,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+908,7.90,orandSyrupStrawberry,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+909,2.20,Energy drinkSun Kissed Cactus Lime,Lohilo,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+910,7.95,  Classic LondonTonic Water,Artisan,4 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+911,1.20,  ZeroLemonade#What The Fanta,Fanta,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+912,11.70,  BotanicalFlavoured mineral waterRaspberry & Verbena - non carbonated,Valais,6X750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+913,5.95,Organic fruit teaOrange &Lemon,Cupper,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+914,2.20,Boisson énergisanteNerf Buster,Roon,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+915,3.20,essmerHerbal tea blendGinger and elderflower,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+916,11.95,Sparkling table waterPassion,Tuca,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+917,7.95,  Pink CitrusTonic Water,Artisan,4 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+918,6.35,"  Dolce GustoCoffee CapsulesCappucino, Nescafé Dolce Gusto system",Nescafé,186g,"Coffe, Drinks and Tea",Migros,2023-05-24
+919,1.85,Organic feel-good tea,Klostergarten,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+920,1.20,Ice teaMate,Ice Tea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+921,7.90,orandSyrupBlackcurrant,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+922,1.10,Green tea,Tea Time,75g,"Coffe, Drinks and Tea",Migros,2023-05-24
+923,3.20,Fennel tea (granules),Klostergarten,200g,"Coffe, Drinks and Tea",Migros,2023-05-24
+924,1.15,Green teaPomegranate,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+925,3.50,"-BudgetRoast coffeeGround, ",M,3/5 strength500g,"Coffe, Drinks and Tea",Migros,2023-05-24
+926,4.80,Ginger and herbal tea blendGinger,Yogi Tea,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+927,7.95,  Ginger BeerCarbonated lemonade,Artisan,4 x 200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+928,5.95,Herbal TeaApple cinnamon,Cupper,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+929,1.60,Carbonated drinkRefresh,Rivella,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+930,1.45,Orangina Rouge,Orangina,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+931,6.40,Sumol Ananas,Sumol,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+932,1.20,Sumol Passionsfrucht,Sumol,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+933,0.60,-BudgetM-Budget Orange,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+934,0.60,-BudgetM-Budget Grapefruit,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+935,2.30,Orangina,Orangina,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+936,2.40,Aus der Region Elmer Citro,Elmer,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+937,13.80,Aus der Region Elmer Citro,Elmer,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+938,11.50,Aus der Region Romanette Grapefruit,Romanette,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+939,1.95,Prego,Prego,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+940,2.10,Aus der Region Ginger Lemonade,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+941,1.45,Orangina,Orangina,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+942,1.45,Orangina Zero,Orangina,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+943,6.40,Sumol Orange,Sumol,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+944,1.60,Rivella Blau,Rivella,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+945,1.30,Aus der Region Romanette Zitrone,Romanette,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+946,1.55,Aus der Region Elmer Citro,Elmer,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+947,8.70,Aus der Region Elmer Citro,Elmer,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+948,2.30,Orangina Zero,Orangina,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+949,2.55,Rivella Refresh,Rivella,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+950,1.95,Aus der Region Romanette Grapefruit,Romanette,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+951,1.20,Prego Zero,Prego,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+952,1.30,Oasis Tropical,Oasis,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+953,1.60,Oasis Tropical,Oasis,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+954,1.60,Oasis Pfirsich,Oasis,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+955,1.20,Uludag Gazoz,Uludag,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+956,1.40,S.Pellegrino Aranciata,S. Pellegrino,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+957,1.40,S.Pellegrino Aranciata Amara,S. Pellegrino,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+958,1.20,Sumol Ananas,Sumol,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+959,6.40,Sumol Passionsfrucht,Sumol,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+960,1.05,Gazosa Mirtillo,unknown,280ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+961,1.20,Sumol Orange,Sumol,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+962,1.05,Gazosa lampone,unknown,280ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+963,1.60,Rivella Rot,Rivella,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+964,7.–,Aus der Region Romanette Zitrone,Romanette,6 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+965,2.85,Cucumis Lavendel,Cucumis,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+966,5.90,Gazosa Mandarino,unknown,6 x 280ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+967,2.50,Almdudler,Almdudler,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+968,2.55,Rivella Blau,Rivella,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+969,0.60,-BudgetM-Budget Citron Zero,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+970,1.95,Aus der Region Romanette Zitrone,Romanette,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+971,11.50,Aus der Region Romanette Zitrone,Romanette,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+972,1.95,Prego Zero,Prego,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+973,0.60,-BudgetM-Budget Citron,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+974,0.60,-BudgetM-Budget Orange Zero,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+975,0.60,-BudgetM-Budget Grapefruit Zero,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+976,13.80,Almdudler,Almdudler,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+977,2.55,Rivella Rot,Rivella,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+978,1.20,Prego,Prego,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+979,1.–,Orangina,Orangina,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+980,1.20,Uludag Orange,Uludag,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+981,1.15,S.Pellegrino Chinò,S. Pellegrino,450ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+982,2.20,Oasis Tropical,Oasis,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+983,1.30,Oasis Pfirsich,Oasis,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+984,1.40,Tuca Grapefruit,Tuca,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+985,2.20,Tuca Grapefruit,Tuca,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+986,2.20,Tuca Himbeere,Tuca,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+987,2.20,Tuca Passion,Tuca,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+988,1.40,Tuca Passion,Tuca,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+989,1.45,Fanta Shokata,Fanta,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+990,2.20,,7-Up,7up1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+991,2.20,,7up,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+992,1.35,igros BioMigros Bio Limonade Ingwer,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+993,3.30,Aus der Region Kanabliss Apple-Hib.,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+994,3.30,Aus der Region Kanabliss Apple-Ver.,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+995,6.95,Tuca Himbo,Tuca,1 Stk.,"Coffe, Drinks and Tea",Migros,2023-05-24
+996,6.95,Tuca Orange,Tuca,1 Stk.,"Coffe, Drinks and Tea",Migros,2023-05-24
+997,6.95,Tuca Citro,Tuca,1 Stk.,"Coffe, Drinks and Tea",Migros,2023-05-24
+998,1.40,Tuca Citro,Tuca,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+999,1.40,Tuca Citro Zero,Tuca,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1000,1.40,Tuca Passion Zero,Tuca,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1001,2.20,Tuca Citro,Tuca,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1002,2.20,Tuca Citro Zero,Tuca,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1003,2.20,Tuca Passion Zero,Tuca,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1004,7.95,Tuca Passion Zero,Tuca,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1005,12.50,Tuca Passion Zero,Tuca,1 piece,"Coffe, Drinks and Tea",Migros,2023-05-24
+1006,2.50,Oasis Tropical,Oasis,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1007,15.–,Oasis Tropical,Oasis,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1008,10.20,  Fresh BlendsIce teaHibiscus & Cherry Blossom,Lipton,6 x 700ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1009,11.70,  BotanicalFlavoured mineral waterApricot Elderflower - non carbonated,Valais,6x750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1010,4.10,igros BioSwiss mallow infusion,M,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1011,2.40,Alcohol free aperitive drinkMojito,Square Root,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1012,5.90,Jus de pommeClair,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1013,5.20,-ClassicJus de pomme,M,100% jus de fruits à pépins à partir de concentré4 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1014,13.50,IP-SUISSECider,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1015,17.50,"IP-SUISSEApple juiceNaturally cloudy, non-carbonated",unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1016,7.50,"-ClassicCoffee CapsulesDecaffeinato, compatible with the Nespresso® system",M,156g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1017,5.80,Aus der Region Apfelringli o.Schale,unknown,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1018,12.–,Aus der Region Apfelsaft,unknown,5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1019,15.60,Aus der Region Apfelsaft,unknown,5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1020,1.55,Ramseier Apfelschorle,Ramseier,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1021,14.50,Aus der Region Apfelsaft,unknown,5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1022,10.90,Aus der Region Apfelsaft artisanal,unknown,3l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1023,4.80,Aus der Region Apfelsaft natuerlich,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1024,15.60,Aus der Region Apfelschorle,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1025,2.70,IP Suisse Apfelsaft trüb,Gold,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1026,2.95,Apfelsaft ab Presse,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1027,9.75,Süssmost ab Presse,unknown,5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1028,2.55,Aus der Region Apfelsaft-Minze,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1029,2.65,Aus der Region Apfel-Cassissaft,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1030,12.80,Aus der Region Apfelsaft Minze,unknown,3l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1031,0.45,-ClassicM-Classic Apfelsaft,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1032,2.70,Ramseier Apfelschorle,Ramseier,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1033,3.10,Aus der Region Schweizer Apfelsaft,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1034,2.05,Aus der Region Apfelsaft,unknown,25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1035,2.15,Aus der Region Ramseier Apfelschor.,Ramseier,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1036,2.20,Apfelschorle,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1037,2.80,Aus der Region Apfelschorle,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1038,3.15,Aus der Region Süssmost trüb,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1039,18.30,Aus der Region Süssmost trüb,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1040,1.50,Gold TerraSuisse Apfelsaft trüb,Gold,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1041,2.50,Apfelsaft trüb,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1042,3.30,igros BioMigros Bio Apfelsaft,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1043,2.25,Aus der Region Apfelschorle,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1044,12.60,Bio Ramseier Apfelschorle,Ramseier,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1045,2.65,Aus der Region Apfel-Himbeersaft,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1046,1.95,Aus der Region Apfelsaft,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1047,9.30,Aus der Region Schweizer Apfelsaft,unknown,6 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1048,9.30,Aus der Region Shorley,unknown,6 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1049,2.70,Aus der Region Shorley,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1050,1.–,Aus der Region Apfelsaft,unknown,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1051,4.90,Aus der Region Apfelsaft,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1052,1.50,Aus der Region Apfelschorle,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1053,1.40,-BudgetM-Budget Apfelschorle,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1054,2.80,igros BioMigros Bio Apfelschorle trüb,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1055,1.55,Aus der Region Apfelschorle,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1056,1.30,-ClassicM-Classic Apfelsaft,M,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1057,16.20,Ramseier Apfelschorle,Ramseier,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1058,1.70,Aus der Region Schweizer Apfelsaft,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1059,17.85,Aus der Region Schweizer Apfelsaft,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1060,1.70,Aus der Region Shorley,unknown,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1061,15.55,Aus der Region Shorley,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1062,2.60,Aus der Region Apfelsaft ab Presse,unknown,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1063,15.–,Aus der Region Apfelsaft ab Presse,unknown,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1064,9.30,Aus der Region Apfelschorle,unknown,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1065,2.95,Aus der Region Apfelsaft ab Presse,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1066,17.50,Aus der Region Apfelsaft ab Presse,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1067,2.95,IP Suisse Apfelwein,Gold,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1068,2.35,Süssmost ab Presse,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1069,9.30,Ramseier Apfelschorle,Ramseier,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1070,14.–,Aus der Region Apfel-Holunder,unknown,3l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1071,1.50,Gold TerraSuisse Apfelsaft,Gold,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1072,1.50,igros BioMigros Bio Apelschorle trüb,M,50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1073,8.70,Gold TerraSuisse Apfelsaft,Gold,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1074,13.25,Aus der Region Apfelschorle,unknown,6 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1075,9.20,Gold TerraSuisse Apfelsaft trüb,Gold,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1076,10.15,Aus der Region Süssmost ab Presse,unknown,5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1077,15.–,Apfelsaft trüb,unknown,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1078,13.20,Aus der Region Ramseier Apfelschor.,Ramseier,8l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1079,2.15,Bio Ramseier Apfelschorle ,Ramseier,1l1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1080,Regional Price,igros Bio Apfelsaft,M,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+1081,Regional Price, Apfelsaft,Migros Bio,NA,"Coffe, Drinks and Tea",Migros,2023-05-24
+1082,3.50,igros BioMigros Bio Apfelsaft,M,75cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1083,4.90,Silhouette tea,Raselli,24g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1084,2.95,Moments of relaxation teaIn bag,Alnatura,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1085,2.95,oments of relaxation teaIn bag,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1086,6.95,Anti-stress tea,Raselli,22.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1087,11.50,  ZeroCarbonated table drinkWith Milk Serum,Prego,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1088,3.30,Herbal tea immediately solubleWith vitamin C,Bonherba,300g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1089,2.95,Organic herbal teaWith oat cabbage and lime blossom,Alnatura,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1090,2.20,Energy drinkUnicorn Dreams Berries,Lohilo,330ML,"Coffe, Drinks and Tea",Migros,2023-05-24
+1091,5.95,Organic herbal teaBlackcurrant and blueberry,Cupper,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1092,10.–,  EssenceFlavored mineral waterOrange,Volvic,4 x 1.25l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1093,5.50,igros BioSyrupRêve de Mélisse,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1094,5.95,"Organic herbal teaApple, ginger and lemon balm",Cupper,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1095,8.30,Drink with blood orange pulpRouge,Orangina,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1096,4.80,"igros BioCoffee capsulesLungo, compatible Nespresso® System",M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1097,6.35,"  Dolce GustoCoffee CapsulesGrande Intenso, NESCAFÉ Dolce Gusto system",Nescafé,144g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1098,12.50,Sparkling table waterGrapefruit,Tuca,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1099,10.–,  EssenceFlavored mineral waterLemon & apple,Volvic,4 x 1.25l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1100,7.95,Sparkling table waterGrapefruit,Tuca,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1101,3.30,  bioInfusionGinger - lemon,L'éléphant,34g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1102,15.95,"  IP-SUISSEApple juiceNaturally cloudy, non-carbonated",Gold,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1103,7.20,Sparkling table waterWith elderflower and lemon balm flavor,Flauder,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1104,5.95,"Organic herbal teaWith lemon grass, eucalyptus and ginkgo",Cupper,35g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1105,7.20,Carbonated table drinkWith milk serum,Prego,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1106,4.70,Organic TeaEchinacea & cherry,Higher Living,30g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1107,10.20,  Fresh BlendsIce teaMint & Lime,Lipton,6 x 700ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1108,11.95,Sparkling table waterRaspberry,Tuca,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1109,1.25,  SchorleSparkling mineral water and ,Aproz,30% fruit juicesOrange & mango50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1110,4.80,"igros BioCoffee capsulesEspresso, Compatible Nespresso® System",M,50g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1111,1.95,Chicory,Brunette,250g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1112,6.95,  BioMountain Herbal TeaWith edelweiss,Raselli,22.5g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1113,1.25,  SchorleSparkling mineral water and ,Aproz,30% fruit juicesPassion fruit500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1114,3.60,essmerSpicy herbal Tea,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1115,4.80,AdR Valais ohne CO,Valais,2 8x,"Coffe, Drinks and Tea",Migros,2023-05-24
+1116,1.20,Vittel,Vittel,2l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1117,5.40,Aus der Region Mineral ohne CO,Knutwiler,26 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1118,8.80,Evian Sport,Evian,900ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1119,0.85,Aus der Region Knutwiler o. Kohlens,Knutwiler,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1120,4.50,Aus der Region Knutwiler o. Kohlens,Knutwiler,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1121,2.60,Flavoured waterAloe Vera,Kelly Loves,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1122,2.80,igros BioPeppermint tea,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1123,6.80,Herbal Tea Wild apple and cinnamon,Pukka,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1124,2.40,Alcohol free aperitive drinkPassionfruit Mojito,Square Root,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1125,1.80,-BudgetEau minérale naturelleNon gazéifiée,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1126,0.90,Aus der Region Knutwiler Kids,Knutwiler,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1127,1.–,Evian,Evian,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1128,1.10,Evian,Evian,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1129,1.10,Valais ohne CO,Valais,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1130,0.95,Aus der Region Mineral ohne CO,Knutwiler,21l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1131,0.85,Evian Mini,Evian,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1132,5.10,Aus der Region Knutwiler Kids,Knutwiler,6 x 330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1133,1.15,Evian,Evian,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1134,6.10,Aus der Region Mineralwasser,unknown,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1135,1.10,Aus der Region Knutwiler ohne CO,Knutwiler,2750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1136,0.70,-ClassicM-Classic Aquella rot,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1137,4.60,San Benedetto Mineral ohne CO,S. Benedetto,26 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1138,1.10,Valais ohne Co,Valais,2750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1139,0.70,-ClassicM-Classic Aquella grün,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1140,1.05,Aus der Region Mineralwasser,unknown,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1141,6.–,Aus der Region Knutwiler ohne CO,Knutwiler,26 x 750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1142,1.30,Contrex,Contrex,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1143,1.–,Valais ohne Co,Valais,2500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1144,0.85,Aus der Region Valais ohne CO,Valais,225cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1145,5.10,Aus der Region Valais ohne CO,Valais,26 x 25cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1146,1.15,Evian Sport,Evian,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1147,0.30,-BudgetM-Budget Mineral mit Co,M,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1148,0.30,-BudgetM-Budget Mineral ohne Co,M,21.5 l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1149,1.15,Vittel,Vittel,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1150,7.50,Malt beverage,Eimalzin,1000g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1151,7.50,alt beverage,M,1000g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1152,3.20,SyrupRum punch,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1153,7.95,  ZeroSparkling table waterCitro,Tuca,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1154,1.60,Green tea,Tea Time,100g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1155,1.80,-BudgetNatural mineral waterSparkling,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1156,1.25,Perrier,Perrier,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1157,0.85,Rocchetta,Rocchetta,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1158,1.05,Aproz Cristal,Aproz,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1159,4.20,Acqua Nostrana senza Co,unknown,26 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1160,4.50,Aus der Region Mineral mit CO,Knutwiler,26 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1161,0.85,Aus der Region Mineral mit CO,Knutwiler,250cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1162,5.60,Aus der Region Valais mit CO,Valais,26 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1163,0.60,Acqua Nostrana con CO,unknown,250cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1164,1.15,Perrier,Perrier,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1165,1.10,S.Pellegrino,S. Pellegrino,1.25l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1166,1.10,Aus der Region Valais mit CO,Valais,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1167,6.20,Aus der Region Valais mit CO,Valais,26 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1168,0.70,Aproz Classic,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1169,0.70,Aproz Medium,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1170,3.30,Acqua Nostrana ohne CO,unknown,26 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1171,0.95,Badoit,Badoit,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1172,0.70,Aproz Cristal,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1173,1.05,Aproz Medium,Aproz,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1174,0.75,Aproz Classic,Aproz,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1175,4.30,Aproz Classic,Aproz,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1176,1.15,Aus der Region Adelbodner Mineral,Adelbodner,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1177,0.90,Aus der Region Eptinger ohne CO,Eptinger,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1178,0.95,Aus der Region Mineral wenig CO,Knutwiler,21l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1179,0.95,Aus der Region Mineral mit CO,Knutwiler,21l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1180,5.40,Aus der Region Mineral mit CO,Knutwiler,26 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1181,1.–,S.Pellegrino,S. Pellegrino,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1182,1.05,Aproz Classic,Aproz,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1183,1.05,Aus der Region Valais mit CO,Valais,21l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1184,6.10,Aus der Region Valais mit CO,Valais,26 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1185,1.–,Badoit,Badoit,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1186,0.75,Acqua Nostrana senza Co,unknown,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1187,0.90,Aus der Region Eptinger mit CO,Eptinger,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1188,4.90,Aus der Region Eptinger ohne CO,Eptinger,26 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1189,0.85,Aus der Region Mineral wenig CO,Knutwiler,250cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1190,4.50,Aus der Region Mineral mit CO,Knutwiler,24000ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1191,1.25,Aus der Region Elmer mit CO,Elmer,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1192,1.15,White teaPeach-aloe vera,Aproz,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1193,12.50,Sparkling table waterCitro,Tuca,6x1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1194,2.20,Flavoured waterStrawberry,Susu Water,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1195,1.50,  O,Aproz,2Sparkling table waterApple flavor50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1196,2.50,InfusionRed fruits,L'éléphant,36g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1197,1.25,  SchorleSparkling mineral water and ,Aproz,"30% fruit juicesApple,raspberry & rhubarb500ml","Coffe, Drinks and Tea",Migros,2023-05-24
+1198,2.20,Flavoured waterPeach-Apricot,Susu Water,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1199,1.–,Coca-ColaCoca-Cola Dose,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1200,2.30,Coca-ColaCoca-Cola Zero,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1201,12.50,Pepsi Max Caffeine free,Pepsi,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1202,1.–,Coca-ColaCoca-Cola Zero,unknown,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1203,1.65,Aus der Region Vivi Kola,Vivi Kola,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1204,1.65,Aus der Region Vivi Kola Zero,Vivi Kola,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1205,0.60,-BudgetM-Budget Cola,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1206,0.60,-BudgetM-Budget Cola Zero,M,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1207,2.30,Coca-ColaCoca-Cola,unknown,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1208,1.40,Pepsi Max,Pepsi,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1209,2.10,Pepsi Max,Pepsi,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1210,2.10,Pepsi Max Caffeine free,Pepsi,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1211,2.10,Pepsi,Pepsi,1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1212,1.85,Coca-ColaCoca-Cola Zero,unknown,900ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1213,1.85,Coca-ColaCoca-Cola,unknown,900ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1214,1.50,Aus der Region Vivi Kola,Vivi Kola,330ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1215,2.10,Aus der Region Vivi Kola Zero,Vivi Kola,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1216,2.10,Aus der Region Vivi Kola,Vivi Kola,1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1217,12.60,Aus der Region Vivi Kola Zero,Vivi Kola,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1218,1.45,Coca-ColaCoca-Cola Zero,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1219,1.45,Coca-ColaCoca-Cola,unknown,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1220,6.95,Tuca Cola,Tuca,1 Stk.,"Coffe, Drinks and Tea",Migros,2023-05-24
+1221,3.20,SyrupApple punch,Sirup,750ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1222,2.40,Alcohol free aperitive drinkNegroni Spritz,Square Root,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1223,1.20,igros BioSparkling table waterElderflower,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1224,3.–,  bioInfusionMint-thyme,L'éléphant,26g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1225,11.40,Sparkling table waterWith elderflower and lemon balm flavor,Flauder,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1226,5.50,igros BioSyrupMagie de Baies,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1227,2.10,Green teaYuzu,Kelly Loves,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1228,1.20,igros BioLemonadeLemon,M,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1229,3.90,Carbonated soft drinkBrewed Lemonade,Bundaberg,375ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1230,11.95,  ZeroSparkling table waterCitro,Tuca,6 x 1.5L,"Coffe, Drinks and Tea",Migros,2023-05-24
+1231,1.50,  O,Aproz,2Carbonated soft drinkPineapple & yuzu500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1232,1.50,  BIOIce teaPeach,Tee Fee,300ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1233,2.30,  KombuchaFermented tea drinkWildberry,Remedy,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1234,3.30,Acqua Nostrana con CO,unknown,26 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1235,4.20,Acqua Nostrana mit CO,unknown,26 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1236,4.90,Brio blau,Brio,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1237,7.20,Aus der Region Elmer mit CO,Elmer,26 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1238,0.60,Acqua Nostrana ohne CO,unknown,2500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1239,0.75,Acqua Nostrana mit CO,unknown,21.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1240,3.90,Aus der Region Knutwiler Gruen ,Knutwiler,8x50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1241,5.40,Aus der Region Mineral wenig CO,Knutwiler,26 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1242,1.–,Aus der Region Valais mit CO,Valais,250cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1243,6.60,Aus der Region Adelbodner Mineral,Adelbodner,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1244,4.90,Aus der Region Eptinger mit CO,Eptinger,26 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1245,4.50,Aus der Region Mineral wenig CO,Knutwiler,26 x 50cl,"Coffe, Drinks and Tea",Migros,2023-05-24
+1246,1.80,InfusionVerbena - mint,L'éléphant,33g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1247,7.95,Sparkling table waterCitro,Tuca,6x500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1248,1.95,Ice teaMango,Dirtea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1249,1.50,  BIOIce teaRaspberry,Tee Fee,300ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1250,4.50,igros BioLime blossom tea,M,40g,"Coffe, Drinks and Tea",Migros,2023-05-24
+1251,1.95,Iced teaBusty blueberry,Dirtea,500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1252,11.50,  OriginalCarbonated table drinkWith Milk Serum,Prego,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1253,18.95,igros BioOrganic apple juice ,M,6x1.5lCarbonated6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1254,2.95,Ramune LemonadeYuzu,Kelly Loves,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1255,2.30,  KombuchaFermented tea drinkGinger-Lemon,Remedy,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1256,1.25,  SchorleSparkling mineral water and ,Aproz,30% fruit juicesGrapefruit500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1257,2.95,Ramune LemonadeOriginal,Kelly Loves,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1258,4.95,Thé froidCitron,Ice Tea,5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1259,2.95,Ramune LemonadeLychee,Kelly Loves,200ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1260,3.55,"-BudgetSoft drink with Cola flavor, contains caffeine",M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1261,3.55,-BudgetTable water with ,M,4% grapefruit juiceWith 4% fruit juice6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1262,3.90,Carbonated soft drinkGuava,Bundaberg,375ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1263,1.95,oloko  LemonadeLemonade,M,250ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1264,16.80,"  IP-SUISSECiderCarbonated, without alcohol",Gold,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1265,6.30,Natural mineral waterNaturally sparkling,Perrier,6 x 500ml,"Coffe, Drinks and Tea",Migros,2023-05-24
+1266,15.90,igros BioSparkling mineral water and fruit juicesSchorle,M,6 x 1.5l,"Coffe, Drinks and Tea",Migros,2023-05-24
+1267,7.20,Natural mineral waterNaturally sparkling,Perrier,6 x 1l,"Coffe, Drinks and Tea",Migros,2023-05-24

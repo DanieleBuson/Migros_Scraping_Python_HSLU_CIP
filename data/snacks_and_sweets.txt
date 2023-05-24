@@ -1,0 +1,1587 @@
+,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,1.50,M-BudgetChocolate cookies,unknown,225g,Snacks & Sweets,Migros,2023-05-24
+1,5.70,  OriginalChipsPeppers - Family Pack,Zweifel,280g,Snacks & Sweets,Migros,2023-05-24
+2,2.70,M-ClassicSpanish black olivesOrigin,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+3,2.25,M-BudgetWave chipsBell pepper,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+4,3.95,Spelt biscuitsGruyère AOC,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+5,3.95,Spelt biscuitsThyme - sea salt,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+6,1.25,M-BudgetPetit-Beurre with milk chocolate,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+7,1.–,M-Classic  FlipsCorn and peanut snack,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+8,3.30,Wafer CutsMilk chocolate with hazelnuts,Knoppers,200g,Snacks & Sweets,Migros,2023-05-24
+9,5.70,  OriginalChipsNature - Family Pack,Zweifel,280g,Snacks & Sweets,Migros,2023-05-24
+10,3.60,Liège waffles,Lotus,250g,Snacks & Sweets,Migros,2023-05-24
+11,3.50,M-BudgetChipsBell pepper,unknown,350g,Snacks & Sweets,Migros,2023-05-24
+12,3.60,CashewsUnsalted,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+13,3.20,Birnweggli,unknown,225g,Snacks & Sweets,Migros,2023-05-24
+14,3.95,  OriginalChipsBell pepper,Zweifel,175g,Snacks & Sweets,Migros,2023-05-24
+15,2.95,  BiscoffCaramel biscuitsSpeculoos,Lotus,250g,Snacks & Sweets,Migros,2023-05-24
+16,2.55,  RiegelChocolate barsMilk chocolate with milk filling,Kinder,210g,Snacks & Sweets,Migros,2023-05-24
+17,3.50,M-BudgetChipsNatural,unknown,350g,Snacks & Sweets,Migros,2023-05-24
+18,3.95,  OriginalChipsSalt &Vinegar,Zweifel,175g,Snacks & Sweets,Migros,2023-05-24
+19,2.70,Petit-Beurre with milk chocolate,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+20,2.95,  MiniApéritifs CrackersBell pepper,Blévita,130g,Snacks & Sweets,Migros,2023-05-24
+21,2.95,M-BudgetWalnut kernels,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+22,2.95,LU  BarquetteGenoa biscuitWith Strawberry filling,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+23,2.70,Pom-BärPotato snackOriginal,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+24,3.50,  FairtradeDried Mango,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+25,5.60,,Blévita,5-grain biscuitsChocolate &sesame267g,Snacks & Sweets,Migros,2023-05-24
+26,2.80,"  FairtradeDatesDried, without stone",Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+27,3.55,Five-grain biscuitsWith sesame,Blévita,295g,Snacks & Sweets,Migros,2023-05-24
+28,3.40,Yeast pastry with nut filling,unknown,220g,Snacks & Sweets,Migros,2023-05-24
+29,0.85,"M-BudgetOlivesGreen, pitted",unknown,170g,Snacks & Sweets,Migros,2023-05-24
+30,0.95,M-ClassicPopcornSalted,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+31,1.40,M-ClassicLinzer-Törtli,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+32,2.95,LU  MikadoBiscuits covered with milk chocolate,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+33,1.95,M-ClassicPastriesRädli,unknown,210g,Snacks & Sweets,Migros,2023-05-24
+34,2.60,Chocolate barsMilk chocolate with Ovaltine,Ovomaltine,100g,Snacks & Sweets,Migros,2023-05-24
+35,3.85,Spelt biscuitsOrganic,Blévita,280g,Snacks & Sweets,Migros,2023-05-24
+36,2.25,M-ClassicPreparation for popcornSalted,unknown,4 x 100g,Snacks & Sweets,Migros,2023-05-24
+37,2.30,  OriginalChipsProvençal,Zweifel,90g,Snacks & Sweets,Migros,2023-05-24
+38,2.95,M-ClassicShortbread with apricot filling,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+39,3.60,,Blévita,5-grain biscuitsSesame228g,Snacks & Sweets,Migros,2023-05-24
+40,0.60,M-BudgetDark chocolate,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+41,2.10,  BuenoMilk chocolateMilk and hazelnuts,Kinder,129g,Snacks & Sweets,Migros,2023-05-24
+42,1.40,M-Budget  Sky MixPotato starch snackBell pepper,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+43,2.–,The hazelnut in caramel with nougat cream and chocolate,Toffifee,125g,Snacks & Sweets,Migros,2023-05-24
+44,2.95,Greek OlivesAmphisis,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+45,3.50,M-ClassicPreussen dessert,unknown,360g,Snacks & Sweets,Migros,2023-05-24
+46,2.65,Corn PuffsUnsalted,Migros Bio,85g,Snacks & Sweets,Migros,2023-05-24
+47,1.50,M-BudgetFlûtesWith sea salt,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+48,2.95,  GraneoMultigrain snacksOriginal,Zweifel,100g,Snacks & Sweets,Migros,2023-05-24
+49,2.20,M-BudgetPuffed rice with milk chocolate coating,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+50,3.30,MadeleinesWith chocolate chips,unknown,240g,Snacks & Sweets,Migros,2023-05-24
+51,0.85,M-BudgetBlack olives,unknown,170g,Snacks & Sweets,Migros,2023-05-24
+52,1.30,Milk chocolate,Kinder,100g,Snacks & Sweets,Migros,2023-05-24
+53,3.30,Walnut kernelsUnsalted,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+54,2.85,Potato-based snackBell pepper,Jumpy's,100g,Snacks & Sweets,Migros,2023-05-24
+55,2.95,  miniSpelt biscuitsWith apple,Blévita,130g,Snacks & Sweets,Migros,2023-05-24
+56,3.50,Dried sultanas,Migros Bio,400g,Snacks & Sweets,Migros,2023-05-24
+57,3.95,  VayaCrisps snacksSalted peas,Zweifel,80g,Snacks & Sweets,Migros,2023-05-24
+58,1.80,Petit-Beurre,unknown,230g,Snacks & Sweets,Migros,2023-05-24
+59,3.20,M-BudgetNut mixtureUnsalted,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+60,1.70,M-BudgetDouble biscuitsWith cocoa cream filling,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+61,3.95,  OriginalChipsNatural,Zweifel,175g,Snacks & Sweets,Migros,2023-05-24
+62,2.50,M-BudgetAlmondsUnsalted,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+63,3.95,Spelt biscuitsTomato and basil,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+64,1.40,M-ClassicApricot tarts,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+65,2.80,Chocolate snacksNutella filled,Nutella,132g,Snacks & Sweets,Migros,2023-05-24
+66,0.50,M-BudgetChocolate barsMilk chocolate,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+67,3.95,  OriginalChipsChicken in basket,Zweifel,175g,Snacks & Sweets,Migros,2023-05-24
+68,4.20,Pretzel,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+69,3.95,  OriginalChipsMustard,Zweifel,175g,Snacks & Sweets,Migros,2023-05-24
+70,2.65,  CountryChocolate barsMilk chocolate with milk filling and cereals,Kinder,211g,Snacks & Sweets,Migros,2023-05-24
+71,3.55,Five-grain biscuitsOriginal,Blévita,285g,Snacks & Sweets,Migros,2023-05-24
+72,1.95,M-BudgetChoco sprits,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+73,3.95,Spelt biscuitsOrganic,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+74,3.80,Nut mixtureUnsalted,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+75,3.20,Cookies with nutella filling,Nutella,193g,Snacks & Sweets,Migros,2023-05-24
+76,1.60,PeanutsRoasted and salted,Party,250g,Snacks & Sweets,Migros,2023-05-24
+77,1.95,  FiluPotato snackOriginal,Zweifel,75g,Snacks & Sweets,Migros,2023-05-24
+78,3.95,Spelt biscuits with raisins,Migros Bio,260g,Snacks & Sweets,Migros,2023-05-24
+79,3.50,ChipsSour Cream &Onion,Pringles,200g,Snacks & Sweets,Migros,2023-05-24
+80,2.75,CrackersClassic,Gran Pavesi,180g,Snacks & Sweets,Migros,2023-05-24
+81,1.95,  SnackettiPotato starch snackWith paprika,Zweifel,75g,Snacks & Sweets,Migros,2023-05-24
+82,3.75,  Premium NutsPeanutsWasabi,Sun Queen,150g,Snacks & Sweets,Migros,2023-05-24
+83,4.80,AlmondsUnsalted,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+84,3.95,  VayaSnackProtein Paprika,Zweifel,80g,Snacks & Sweets,Migros,2023-05-24
+85,2.80,  WaveChipsInferno,Zweifel,120g,Snacks & Sweets,Migros,2023-05-24
+86,3.20,Green olivesFilled with almonds,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+87,2.95,LU  PrinceBiscuit with chocolate filling,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+88,2.95,LU  BarquetteGenoa biscuitWith raspberry filling,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+89,1.40,M-ClassicPopcornWith chocolada,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+90,3.80,Gently dried fruit and vegetable rollsStrawberry,Bear,100g,Snacks & Sweets,Migros,2023-05-24
+91,3.20,CranberriesDried,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+92,3.20, ChipsChipsRosemary,Farm,150g,Snacks & Sweets,Migros,2023-05-24
+93,4.20,Tiroler CakeHazelnuts & chocolate,Grosis,340g,Snacks & Sweets,Migros,2023-05-24
+94,3.80,FinancierWith almonds,Grosis,330g,Snacks & Sweets,Migros,2023-05-24
+95,2.95,Crackers Pretzel,Blévita,130g,Snacks & Sweets,Migros,2023-05-24
+96,2.95,Greek olivesKalamata,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+97,2.85,Madeleines,unknown,220g,Snacks & Sweets,Migros,2023-05-24
+98,1.85,Nibbling owls,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+99,3.80,  DinosaurusBiscuits cereals and chocolate,Lotus,225g,Snacks & Sweets,Migros,2023-05-24
+100,2.40,  Corn ChipsCorn ChipsOriginal,Zweifel,125g,Snacks & Sweets,Migros,2023-05-24
+101,2.90,"M-BudgetChewing GumSpearmint, without sugar",unknown,154g,Snacks & Sweets,Migros,2023-05-24
+102,3.95,Spelt biscuitsChia-Beet,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+103,2.95,Spelt biscuit,Alnatura,330g,Snacks & Sweets,Migros,2023-05-24
+104,1.95,M-ClassicCrackersSalted,unknown,3 x 75g,Snacks & Sweets,Migros,2023-05-24
+105,3.80,Nacho chips,Pancho Villa,200g,Snacks & Sweets,Migros,2023-05-24
+106,4.20,  Crunchy BiscuitBiscuits with Ovomaltine cream filling,Ovomaltine,250g,Snacks & Sweets,Migros,2023-05-24
+107,3.25,Filled chocolate bars with caramel and peanuts,Snickers,6 x 50g,Snacks & Sweets,Migros,2023-05-24
+108,1.85,Corn ChipsPlain,Alnatura,125g,Snacks & Sweets,Migros,2023-05-24
+109,2.50,Milk chocolate sweets,Smarties,130g,Snacks & Sweets,Migros,2023-05-24
+110,2.65,Corn PuffsSalted,Migros Bio,85g,Snacks & Sweets,Migros,2023-05-24
+111,3.50,ChipsOriginal,Pringles,200g,Snacks & Sweets,Migros,2023-05-24
+112,5.70,"Chocolate barsMilk chocolate, extra fin",Frey,3 x 100g,Snacks & Sweets,Migros,2023-05-24
+113,2.25,Grissini Torinesi,Roberto,250g,Snacks & Sweets,Migros,2023-05-24
+114,4.30,Lemon cakeGrosis,Grosis,350g,Snacks & Sweets,Migros,2023-05-24
+115,2.80,Egg WafflesWith icing sugar,Soft,260g,Snacks & Sweets,Migros,2023-05-24
+116,2.95,Spritz bear paws biscuits,unknown,380g,Snacks & Sweets,Migros,2023-05-24
+117,9.95,Almond puree white,Alnatura,250g,Snacks & Sweets,Migros,2023-05-24
+118,1.95,M-ClassicCorn snack with paprika taste,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+119,3.90,Spelt biscuitsGruyère AOC,Blévita,305g,Snacks & Sweets,Migros,2023-05-24
+120,2.80,CrocchiniAl Rosmarino,Roberto,250g,Snacks & Sweets,Migros,2023-05-24
+121,3.60,M-BudgetPeanutsRoasted and salted,unknown,1kg,Snacks & Sweets,Migros,2023-05-24
+122,4.20,Hazelnut pastry Nut sticks,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+123,2.95,M-ClassicChewing gumSpearmint,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+124,1.80,M-BudgetWafer with milk chocolate,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+125,1.90,"M-BudgetTomatoes, dried",unknown,160g,Snacks & Sweets,Migros,2023-05-24
+126,1.95,Fruit jellyGold Bears,Haribo,350g,Snacks & Sweets,Migros,2023-05-24
+127,3.20,"  ExcellenceChocolate barsDark, refined with fleur de sel",Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+128,4.60,M-ClassicChipsBell pepper,unknown,280g,Snacks & Sweets,Migros,2023-05-24
+129,Regional Price,Crepes with chocolate,La Crêpe,NA,Snacks & Sweets,Migros,2023-05-24
+130,2.30,  OriginalChipsBell pepper,Zweifel,90g,Snacks & Sweets,Migros,2023-05-24
+131,1.55,Joujoux ChipsBell pepper,Zweifel,42g,Snacks & Sweets,Migros,2023-05-24
+132,2.70,Petit-Beurre with dark chocolatePetit-Beurre dark,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+133,3.60,"SpreadGarlic, oil and chilli",Da Emilio,95g,Snacks & Sweets,Migros,2023-05-24
+134,4.95,Chocolate Chip Shortbread,Walkers,175g,Snacks & Sweets,Migros,2023-05-24
+135,1.70,M-ClassicPopcorn Corn,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+136,4.30,"PistachiosRoasted, salted",Party,250g,Snacks & Sweets,Migros,2023-05-24
+137,2.70,Crunch cornSalted,Party,150g,Snacks & Sweets,Migros,2023-05-24
+138,3.70,  ApéroCashew nutsRoasted and salted,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+139,3.20,"  ExcellenceChocolate barsDark, ",Lindt,70% cocoa100g,Snacks & Sweets,Migros,2023-05-24
+140,5.10,Conserve Della NonnaDried tomatoes in oil,unknown,340g,Snacks & Sweets,Migros,2023-05-24
+141,2.50,Vegetarian spreadToscana,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+142,1.–,M-Classic  SavoiardiLady fingers,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+143,2.80,M-Budget  MagdalenasSweet pastry,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+144,2.60,M-ClassicGreen Spanish OlivesStuffed with pimento,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+145,1.75,Spelt PretzelsSesame,Alnatura,125g,Snacks & Sweets,Migros,2023-05-24
+146,1.35,M-BudgetPizza cracker,unknown,115g,Snacks & Sweets,Migros,2023-05-24
+147,3.95,Confiseries fourrées de chocolat au lait,Smarties,6 x 34g,Snacks & Sweets,Migros,2023-05-24
+148,0.70,"M-BudgetChocolate barsMilk chocolate, hazelnut chips",unknown,100g,Snacks & Sweets,Migros,2023-05-24
+149,2.30,Frothy sugar sweetsFirefly,Trolli,200g,Snacks & Sweets,Migros,2023-05-24
+150,2.75,Cream filling with cocoa,Oreo,154g,Snacks & Sweets,Migros,2023-05-24
+151,5.95,Malt filling with milk chocolate coatingMaxi pack,Maltesers,300g,Snacks & Sweets,Migros,2023-05-24
+152,1.40,M-BudgetMini chocolate cookies,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+153,4.40,  fretMini WaffleWith milk chocolate,Kägi,152g,Snacks & Sweets,Migros,2023-05-24
+154,4.95,  BranchesFrey BranchesSmall,Frey,270g,Snacks & Sweets,Migros,2023-05-24
+155,2.95,M-Classic  AmigosFine shortbread with aromatic fruit filling,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+156,4.95,Pecan nutUnsalted,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+157,7.10,"Figs, dried",Migros Bio,400g,Snacks & Sweets,Migros,2023-05-24
+158,0.80,M-BudgetChocolate barsButter croissant with a milk chocolate - hazelnut filling,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+159,3.10,Nut mixtureHoney roasted,Party,200g,Snacks & Sweets,Migros,2023-05-24
+160,1.45,M-BudgetDried grapes,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+161,3.95,Spelt biscuitsSalt & vinegar,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+162,1.80,M-ClassicConfectionery wafersChocolate,unknown,235g,Snacks & Sweets,Migros,2023-05-24
+163,3.50,CashewsSalted,Party,200g,Snacks & Sweets,Migros,2023-05-24
+164,8.40,PistachiosRoasted and salted,Party,500g,Snacks & Sweets,Migros,2023-05-24
+165,3.95,Spelt biscuitsPumpkin seeds,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+166,3.15,Hazelnut bird's nestliHazelnut biscuits with multi-fruit preparation,unknown,216g,Snacks & Sweets,Migros,2023-05-24
+167,1.95,  SnackettiBacon-flavored wheat snackBacon Strips,Zweifel,75g,Snacks & Sweets,Migros,2023-05-24
+168,2.35,Beetroot crackers,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+169,2.95,M-BudgetPastry roll,unknown,2 x 220g,Snacks & Sweets,Migros,2023-05-24
+170,4.30,Artichoke hearts cut,Polli,285g,Snacks & Sweets,Migros,2023-05-24
+171,2.95,CookiesChocolate,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+172,2.50,M-ClassicMadeleinesMarble,unknown,225g,Snacks & Sweets,Migros,2023-05-24
+173,1.95,Crackers saltedPacked in ,Gran Pavesi,8 individual portions.250g,Snacks & Sweets,Migros,2023-05-24
+174,3.55,With linseed,Blévita,295g,Snacks & Sweets,Migros,2023-05-24
+175,5.20,Grosis chocolate cake,Grosis,420g,Snacks & Sweets,Migros,2023-05-24
+176,3.60,Cinnamon rolls,Gifflar,260g,Snacks & Sweets,Migros,2023-05-24
+177,3.80,Tradition - BiscuitsShortbread with hazelnut-cocoa cream fillingCremisso,unknown,175g,Snacks & Sweets,Migros,2023-05-24
+178,4.95,Milk chocolate sweets,Smarties,315g,Snacks & Sweets,Migros,2023-05-24
+179,4.20,Raspberry Roulade,unknown,330g,Snacks & Sweets,Migros,2023-05-24
+180,1.95,  Soft CakeBiscuits with fruity fillingOrange,Griesson,300g,Snacks & Sweets,Migros,2023-05-24
+181,3.95,Spelt biscuitsMilk Cinnamon,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+182,3.95,Spelt biscuitsCarrot pumpkin,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+183,3.60,Tradition - BiscuitsShortbread with raspberry-black currant fruit fillingRascals,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+184,5.30,  ApéroNut mixtureSalted,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+185,6.95,Dried plumsPitted,Maison Cotolot,500g,Snacks & Sweets,Migros,2023-05-24
+186,3.25,"Crispy biscuit, soft caramel, milk chocolate.",Twix,5 x 50g,Snacks & Sweets,Migros,2023-05-24
+187,2.70,  ChocolettiChocolate barsMilk,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+188,3.70,  fretWaffleWith milk chocolate,Kägi,3 x 50g,Snacks & Sweets,Migros,2023-05-24
+189,3.95,Spelt biscuitsFlammkuchen style,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+190,2.60,Oat cookies,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+191,4.20,Calamon Olives,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+192,3.20, ChipsFrench Chips NatureWith Swiss herbs,Farm,150g,Snacks & Sweets,Migros,2023-05-24
+193,4.50,Dried apricots,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+194,4.20,  Petit beurrePetit Beurre with finest Ovaltine chocolate,Ovomaltine,145g,Snacks & Sweets,Migros,2023-05-24
+195,3.30,Chips hummusPaprika,You,100g,Snacks & Sweets,Migros,2023-05-24
+196,1.60,Panettoncino,San Antonio,90g,Snacks & Sweets,Migros,2023-05-24
+197,2.40,"Peanuts, roasted and salted",Party,500g,Snacks & Sweets,Migros,2023-05-24
+198,4.45,"M-Classic  LégerChipsPaprika, ",unknown,30% less fat than conventional chips200g,Snacks & Sweets,Migros,2023-05-24
+199,3.95,CookiesChocolate,You,240g,Snacks & Sweets,Migros,2023-05-24
+200,2.–,"Aha!Chocolate MuffinGluten-free, lactose-free and wheat-free",unknown,75g,Snacks & Sweets,Migros,2023-05-24
+201,2.95,  GraneoMultigrain snacksChili,Zweifel,100g,Snacks & Sweets,Migros,2023-05-24
+202,2.20,St-MichelBiscuitsMade from butter,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+203,3.50,M-ClassicLinzertorte,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+204,2.95,  DuploMilk chocolateHazelnut cream filling,Ferrero,182g,Snacks & Sweets,Migros,2023-05-24
+205,2.80,M-ClassicGreek olivesFilled with garlic,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+206,2.90,St. Galler Biberli - Gingerbread with almond fillingBiberli de St.Gall,unknown,270g,Snacks & Sweets,Migros,2023-05-24
+207,1.50,M-ClassicSultanas,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+208,3.20,"  ExcellenceChocolate barsDark, ",Lindt,85% cocoa100g,Snacks & Sweets,Migros,2023-05-24
+209,3.30,  Lofthouse'sLozenges for cough and hoarsenessMint - Extra fresh,Fisherman's Friend,2 x 25g,Snacks & Sweets,Migros,2023-05-24
+210,1.90,M-BudgetTrail mixClassic,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+211,2.95,Nut mixtureSalted,Party,200g,Snacks & Sweets,Migros,2023-05-24
+212,3.20,Sweet short pastry with currant jelly,unknown,207g,Snacks & Sweets,Migros,2023-05-24
+213,1.95,  SnackettiPotato starch snackDancer/ cream,Zweifel,75g,Snacks & Sweets,Migros,2023-05-24
+214,1.80,Sweet foam mushroomsSweet,Red Band,100g,Snacks & Sweets,Migros,2023-05-24
+215,2.50,Vegetarian spreadEggplant,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+216,3.95,  Start upCrackersMüesli,Blévita,170g,Snacks & Sweets,Migros,2023-05-24
+217,0.80,M-BudgetChocolate barsWhite,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+218,2.20,Spelt fresh egg waffles,Alnatura,165g,Snacks & Sweets,Migros,2023-05-24
+219,3.80,Hazelnut macaroonsNo preservatives-no colorants,unknown,207g,Snacks & Sweets,Migros,2023-05-24
+220,1.60,Pandorino,San Antonio,90g,Snacks & Sweets,Migros,2023-05-24
+221,1.10,M-BudgetCrispy savory biscuits,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+222,2.90,"M-BudgetChewing GumMenthol, extra strong, without sugar",unknown,154g,Snacks & Sweets,Migros,2023-05-24
+223,1.30,Corn minis à la Sour Cream &Onion,Alnatura,50g,Snacks & Sweets,Migros,2023-05-24
+224,3.20,Salt FlutesStrange,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+225,4.40,Hazelnut kernelsUnsalted,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+226,5.55,Dark chocolate,Frey,3 x 100g,Snacks & Sweets,Migros,2023-05-24
+227,1.30,Chips DipMild,Zweifel,112g,Snacks & Sweets,Migros,2023-05-24
+228,Regional Price,Melted bread rolls,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+229,3.25,Filled milk chocolate with fine candy cream (,Mars,33%) and caramel (27%)6 x 45g,Snacks & Sweets,Migros,2023-05-24
+230,3.95,M-ClassicAlmondsPeeled,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+231,2.30,  OriginalChipsNatural,Zweifel,90g,Snacks & Sweets,Migros,2023-05-24
+232,2.80,M-BudgetBiscuit assortment,unknown,700g,Snacks & Sweets,Migros,2023-05-24
+233,5.40,Shortbread Highlanders,Walkers,200g,Snacks & Sweets,Migros,2023-05-24
+234,3.95,  CoatiesAlmonds with milk chocolate coating,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+235,3.95,  Start upCrackersChocolate,Blévita,170g,Snacks & Sweets,Migros,2023-05-24
+236,4.40,Petit-Beurre with milk chocolatePortions,unknown,4 x 50g,Snacks & Sweets,Migros,2023-05-24
+237,2.50,Aha!Pretzel sticksGluten free,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+238,6.50,M&M'sPeanuts in milk chocolate,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+239,2.25,Organic soft tomatoesDried and salted,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+240,2.25,Popcorn CornFor the microwave,Léger,3 x 85g,Snacks & Sweets,Migros,2023-05-24
+241,2.50,Gomme à la fraisePrimavera,Haribo,200g,Snacks & Sweets,Migros,2023-05-24
+242,5.50,  DéliceChocolate cake with milk filling,Kinder,390g,Snacks & Sweets,Migros,2023-05-24
+243,3.10,  BioCashewsUnsalted,Alnatura,150g,Snacks & Sweets,Migros,2023-05-24
+244,1.55,Joujoux ChipsNatural,Zweifel,42g,Snacks & Sweets,Migros,2023-05-24
+245,2.80,M-BudgetWafflesWith hazelnut cream filling,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+246,1.85,Oat bar blueberry,Alnatura,60g,Snacks & Sweets,Migros,2023-05-24
+247,6.20,M-ClassicChocolate cake ,unknown,700g700g,Snacks & Sweets,Migros,2023-05-24
+248,3.10,Sandwich biscuits with chocolate filling (,Chocky,29%)250g,Snacks & Sweets,Migros,2023-05-24
+249,6.95,Anneaux de pommes suisses,Migros Bio,120g,Snacks & Sweets,Migros,2023-05-24
+250,4.20,  Risoletto MinisMilk chocolate with cereal crispies and caramel filling,Frey,210g,Snacks & Sweets,Migros,2023-05-24
+251,3.60,,Blévita,5-grain biscuits5-grain biscuits228g,Snacks & Sweets,Migros,2023-05-24
+252,1.40,Wholemeal pretzels,Alnatura,125g,Snacks & Sweets,Migros,2023-05-24
+253,3.95,  VayaCrisps and snacksPeas with herbs,Zweifel,80g,Snacks & Sweets,Migros,2023-05-24
+254,6.40,M-ClassicLemons Cake,unknown,700g,Snacks & Sweets,Migros,2023-05-24
+255,1.60,Banana Chips,Alnatura,150g,Snacks & Sweets,Migros,2023-05-24
+256,3.90,CashewsRoasted and salted,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+257,5.60,  SandwichSpelt pastry with yogurt fillingWild berries,Blévita,216g,Snacks & Sweets,Migros,2023-05-24
+258,5.80,Throat lozengesSugar-free,Cassis,220g,Snacks & Sweets,Migros,2023-05-24
+259,5.60,  SandwichSpelt pastry with fresh cheese fillingChives and parsley,Blévita,216g,Snacks & Sweets,Migros,2023-05-24
+260,2.95,M-ClassicButter hazelnut pastryRollini,unknown,245g,Snacks & Sweets,Migros,2023-05-24
+261,7.95,Cashewmus,Alnatura,250g,Snacks & Sweets,Migros,2023-05-24
+262,2.90,Tomato salsaMild,Pancho Villa,235g,Snacks & Sweets,Migros,2023-05-24
+263,3.20,Choko-KöpfliPlain,Villars,4 x 30g,Snacks & Sweets,Migros,2023-05-24
+264,3.60,  Gummi WorldCandy mixtureJelly World,Trolli,230g,Snacks & Sweets,Migros,2023-05-24
+265,2.50,Fruit jellyStrawberries,Haribo,200g,Snacks & Sweets,Migros,2023-05-24
+266,1.95,Gomme aux fruitsTropifrutti,Haribo,200g,Snacks & Sweets,Migros,2023-05-24
+267,1.85,  PralinorChocolate barsMilk chocolate with hazelnut cream filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+268,4.20,Tortilla chipsFajita,Pancho Villa,200g,Snacks & Sweets,Migros,2023-05-24
+269,3.30,M-ClassicButter wafers,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+270,1.95,M-BudgetJelly candiesPeach & apple flavor,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+271,Regional Price,Marble cake,Grosis,NA,Snacks & Sweets,Migros,2023-05-24
+272,1.65,Oat bar cocoa,Alnatura,60g,Snacks & Sweets,Migros,2023-05-24
+273,1.95,  Soft CakeBiscuits with fruity fillingStrawberry,Griesson,300g,Snacks & Sweets,Migros,2023-05-24
+274,3.95,  Choc OvoOvaltine - Bar with milk chocolate,Ovomaltine,3 x 20g,Snacks & Sweets,Migros,2023-05-24
+275,4.10,  PureSpelt pastry and ryeAlpine herbs,Blévita,190g,Snacks & Sweets,Migros,2023-05-24
+276,1.95,M-ClassicFilled meringueJapanese,unknown,115g,Snacks & Sweets,Migros,2023-05-24
+277,1.80,M-ClassicCorn ChipsSalted,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+278,4.10,"Tomatoes, driedIn olive oil",Polli,285g,Snacks & Sweets,Migros,2023-05-24
+279,2.50,Fruit jellyStarmix,Haribo,200g,Snacks & Sweets,Migros,2023-05-24
+280,2.80,Honey wafers,Alnatura,175g,Snacks & Sweets,Migros,2023-05-24
+281,1.80,M-ClassicConfectionery wafersVanilla,unknown,235g,Snacks & Sweets,Migros,2023-05-24
+282,1.95,Lentil FlipsSea salt &Pepper,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+283,3.20,"  ExcellenceChocolate barsDark, Orange Intense",Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+284,2.30,Frothy sugar sweetsApple rings,Trolli,200g,Snacks & Sweets,Migros,2023-05-24
+285,2.85,  WaveChipsSour cream,Zweifel,120g,Snacks & Sweets,Migros,2023-05-24
+286,4.45,"M-Classic  LégerChipsPlain, ",unknown,30% less fat than conventional chips200g,Snacks & Sweets,Migros,2023-05-24
+287,3.50,hmallows - foamed sugar,Mars,300g,Snacks & Sweets,Migros,2023-05-24
+288,4.30,Bar of tender milk chocolateWith milk strawberry filling,Yogurette,300g,Snacks & Sweets,Migros,2023-05-24
+289,3.95,  BioCrakersHoney - apple,Blévita,305g,Snacks & Sweets,Migros,2023-05-24
+290,4.50,Gruyère meringues,unknown,135g,Snacks & Sweets,Migros,2023-05-24
+291,3.20,  ExcellenceChocolate barsDark - cocoa ,Lindt,90%100g,Snacks & Sweets,Migros,2023-05-24
+292,2.30,Frothy sugar sweetsCushion,Trolli,200g,Snacks & Sweets,Migros,2023-05-24
+293,4.20,  TeufliRed peppers stuffed with cream cheese,Dittmann,290g,Snacks & Sweets,Migros,2023-05-24
+294,1.30,M-BudgetCoke bottle,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+295,4.25,Lucerne Birnweggen Large,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+296,3.60,Tradition - BiscuitsAlmond biscuits with lemonsLemon Heart,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+297,1.95,Gomme aux fruitsQuaxi,Haribo,200g,Snacks & Sweets,Migros,2023-05-24
+298,11.50,Napolitains Selection assortiert,Frey,400g,Snacks & Sweets,Migros,2023-05-24
+299,7.40,Lindt Tour de Suisse Naps ass.,Lindt,91g,Snacks & Sweets,Migros,2023-05-24
+300,6.50,Lindt Tour de Suisse ass.,Lindt,102g,Snacks & Sweets,Migros,2023-05-24
+301,9.95,Lindt Swiss Premium Choc. Naps ass.,Lindt,250g,Snacks & Sweets,Migros,2023-05-24
+302,4.50,M&M'sPeanuts in milk chocolate,unknown,330g,Snacks & Sweets,Migros,2023-05-24
+303,3.95,Spelt biscuitsCorn & Chia,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+304,4.60,M-ClassicChipsPlain,unknown,280g,Snacks & Sweets,Migros,2023-05-24
+305,20.–,Lindt Swiss Premium Choc. Naps Box,Lindt,500g,Snacks & Sweets,Migros,2023-05-24
+306,10.95,Lindt Tour de Suisse Naps ass.,Lindt,142g,Snacks & Sweets,Migros,2023-05-24
+307,23.95,Lindt Swiss Premium Choc. Milchkanne,Lindt,350g,Snacks & Sweets,Migros,2023-05-24
+308,7.95,La Semeuse Minis Lait & Noir Café,La Semeuse,250g,Snacks & Sweets,Migros,2023-05-24
+309,2.–,"  FairtradeChocolate barsDark, Creamy",Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+310,2.50,CrackersSesame & linseed,You,85g,Snacks & Sweets,Migros,2023-05-24
+311,4.20,Rice crackersCoconut,Blévita,210g,Snacks & Sweets,Migros,2023-05-24
+312,1.85,Oat bar Almond &Hazelnut,Alnatura,60g,Snacks & Sweets,Migros,2023-05-24
+313,3.90,Flûtes with butterDeliciously crispy,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+314,2.95,  MiniApéritifs CrackersCheese & pepper,Blévita,130g,Snacks & Sweets,Migros,2023-05-24
+315,2.95,  BiscoffBiscuitsWith vanilla cream filling,Lotus,150g,Snacks & Sweets,Migros,2023-05-24
+316,3.50,  Sizzl'nChipsSour Cream,Pringles,180g,Snacks & Sweets,Migros,2023-05-24
+317,2.50,M-ClassicMadeleinesLemon,unknown,225g,Snacks & Sweets,Migros,2023-05-24
+318,2.50,Choco-Schümli,unknown,175g,Snacks & Sweets,Migros,2023-05-24
+319,3.20, ChipsChipsNatural,Farm,150g,Snacks & Sweets,Migros,2023-05-24
+320,4.70,Butter biscuits with chocolate and milk chocolate pieces,Walkers,150g,Snacks & Sweets,Migros,2023-05-24
+321,6.30,"Chocolate barsExtra dark, ",Frey,72% cocoa3 x 100g,Snacks & Sweets,Migros,2023-05-24
+322,8.90,Chocolate cake,Sélection,420g,Snacks & Sweets,Migros,2023-05-24
+323,6.20,  ClassicChewy candyFruit-flavored,Sugus,400g,Snacks & Sweets,Migros,2023-05-24
+324,2.95,M-ClassicChewing gumMenthol Extra Strong,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+325,3.50,  KezzEnglish ChipsSea-salt,Zweifel,110g,Snacks & Sweets,Migros,2023-05-24
+326,3.95,Organic spelt biscuitsSpinach Basil,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+327,1.95,Jelly candyRainbow edition,Katjes,200g,Snacks & Sweets,Migros,2023-05-24
+328,2.50,Sesame brittle bar,Alnatura,4 x 27g,Snacks & Sweets,Migros,2023-05-24
+329,5.10,Dried fruit and nut mix,Migros Bio,170g,Snacks & Sweets,Migros,2023-05-24
+330,1.25,M-BudgetDark chocolate barWith raspberry flavoured sugar fondant filling,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+331,2.80,Confectionery eggMilk chocolate coating,Kinder,60g,Snacks & Sweets,Migros,2023-05-24
+332,5.30,  Premium NutsNut mixture with pistachiosSalted,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+333,6.90,DemeterArtichoke hearts,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+334,3.50,  KezzEnglish ChipsBell pepper,Zweifel,110g,Snacks & Sweets,Migros,2023-05-24
+335,4.95,GingerbreadHoney,Brossard,350g,Snacks & Sweets,Migros,2023-05-24
+336,2.95,Spanish olivesHojiblanca,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+337,3.50,  Sizzl'nChipsChili & lime,Pringles,180g,Snacks & Sweets,Migros,2023-05-24
+338,2.75,CrackersOlives,Gran Pavesi,150g,Snacks & Sweets,Migros,2023-05-24
+339,4.70,M-BudgetButter and almond florentines,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+340,2.95,"M-ClassicJelly fruitsNaturally colored, with natural aromas",unknown,250g,Snacks & Sweets,Migros,2023-05-24
+341,3.10,M-Classic  RouleauxRolls,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+342,2.95,Acid ribbon mix,Katjes,200g,Snacks & Sweets,Migros,2023-05-24
+343,5.30,Goji berries,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+344,2.70,Pom-BärPotato snackBell pepper,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+345,4.10,  PureSpelt pastry and ryeAlpine chili,Blévita,190g,Snacks & Sweets,Migros,2023-05-24
+346,3.20,Butter FlûtesSalt,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+347,2.95,M-ClassicChewing gumStrawberry,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+348,1.20,M-BudgetMilk chocolate barWith milk cream filling,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+349,2.95,M-ClassicChewing gumBubble gum,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+350,2.95,  miniSpelt biscuitsWith honey,Blévita,130g,Snacks & Sweets,Migros,2023-05-24
+351,34.95,Napolitains,Lindt,1kg,Snacks & Sweets,Migros,2023-05-24
+352,3.95,Protein CookiesAlmond,You,240g,Snacks & Sweets,Migros,2023-05-24
+353,1.95,M-Classic  LégerChipsBell pepper,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+354,1.75,Filled gumdropsStrawberry flavored,Dulci Pica,100g,Snacks & Sweets,Migros,2023-05-24
+355,5.60,Blanched almondsUnsalted,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+356,2.20,M-ClassicDried blond grapes,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+357,1.90,M-BudgetTrail mixExotic,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+358,2.95,Chocolate bananas,Casali,150g,Snacks & Sweets,Migros,2023-05-24
+359,1.30,Wholemeal salt sticks,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+360,3.50,BioTortilla chipsNature,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+361,4.95,  RagusaChocolate stemsWith praline filling and hazelnuts - mini,Camille Bloch,5 x 25g,Snacks & Sweets,Migros,2023-05-24
+362,3.60,V-LovePetit biscuit choco,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+363,3.50,ArtichokesMediterranean herbs,Da Emilio,125g,Snacks & Sweets,Migros,2023-05-24
+364,3.95,Tradition - BiscuitsLemon quiche,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+365,3.80,Cocoa cubes,You,100g,Snacks & Sweets,Migros,2023-05-24
+366,2.–,Chocolate barsExtra milk chocolate,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+367,3.50,  KezzEnglish ChipsBarbecue,Zweifel,110g,Snacks & Sweets,Migros,2023-05-24
+368,2.90,"Jelly sweetsWith strawberry, raspberry, orange and lemon taste",Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+369,2.50,Crackers on the surface unsaltedPacked in ,Gran Pavesi,8 individual portions.250g,Snacks & Sweets,Migros,2023-05-24
+370,2.65,"  SuprêmeChocolate barsDark, with a touch of fruity orange",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+371,3.40,Trail mix,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+372,4.20,"Cashews, Mulberries, Physalis &Cranberries",You,170g,Snacks & Sweets,Migros,2023-05-24
+373,5.60,  SandwichSpelt biscuitsChocolate & hazelnut,Blévita,240g,Snacks & Sweets,Migros,2023-05-24
+374,4.95,Chewing gumSpearmint,Stimorol,7 x 14g,Snacks & Sweets,Migros,2023-05-24
+375,7.95, Gum  WhiteChewing gum with sweetenerGreen mint,Mentos,150g,Snacks & Sweets,Migros,2023-05-24
+376,6.60,Wafer-thin dark chocolate with peppermint cream filling,After Eight,300g,Snacks & Sweets,Migros,2023-05-24
+377,3.60,Petit beurreWholemeal,Migros Bio,230g,Snacks & Sweets,Migros,2023-05-24
+378,2.20,M-ClassicCorn FlipsSalted,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+379,4.90,"DemeterBlack olives, pitted",unknown,130g,Snacks & Sweets,Migros,2023-05-24
+380,2.70,Petit beurreWith white chocolate,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+381,4.50,MarzipanCoated with fine milk chocolate,Frey,200g,Snacks & Sweets,Migros,2023-05-24
+382,2.10,M-BudgetJelly candies,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+383,4.95,Bakin AjvarMild,Dona,300g,Snacks & Sweets,Migros,2023-05-24
+384,4.60,  ClassicMilk chocolate with cereal crispies and caramel filling,Risoletto,210g,Snacks & Sweets,Migros,2023-05-24
+385,3.95, ChipsPommes ChipsPaprika,Farm,175g,Snacks & Sweets,Migros,2023-05-24
+386,2.75,St-MichelBiscuitsWith butter,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+387,6.30,"  ApéroPistachiosPeeled, roasted and salted",Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+388,6.30,Walnut kernelsUnsalted,Sun Queen,260g,Snacks & Sweets,Migros,2023-05-24
+389,4.85,  GuacamoleDip Avocado sauceMedium,Pancho Villa,320g,Snacks & Sweets,Migros,2023-05-24
+390,2.80,M-ClassicGreek olivesOlives stuffed with peppers,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+391,2.95,M-Classic  AmigosBiscuitsChocolate butter,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+392,4.50,Extra fine milk chocolateExtra milk,Frey,6 x 35g,Snacks & Sweets,Migros,2023-05-24
+393,14.95,  ConfiseurAssorted chocolates,Frey,262g,Snacks & Sweets,Migros,2023-05-24
+394,3.50,"Tomatoes, driedMediterranean herbs",Da Emilio,125g,Snacks & Sweets,Migros,2023-05-24
+395,1.60,M-BudgetViennese shortbread,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+396,5.70,"  TouristChocolate barsMilk chocolate with raisins, nuts and almonds",Frey,3 x 100g,Snacks & Sweets,Migros,2023-05-24
+397,3.95,Nougat de Montélimar,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+398,3.40,Tradition - BiscuitsHazelnut shortbread with raspberry fillingLinzer,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+399,7.95,  Cantucci alle mandorlePastry with almonds,Sélection,250g,Snacks & Sweets,Migros,2023-05-24
+400,4.30,Vegetable chipsWith herbal sea salt,Sélection,75g,Snacks & Sweets,Migros,2023-05-24
+401,2.50,Ladyfingers,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+402,2.30,Frothy sugar sweetsPeach rings,Trolli,200g,Snacks & Sweets,Migros,2023-05-24
+403,2.10,M-ClassicGreek olives green,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+404,3.60,Butter biscuit,Walkers,150g,Snacks & Sweets,Migros,2023-05-24
+405,4.95,CashewsBell pepper,Zweifel,115g,Snacks & Sweets,Migros,2023-05-24
+406,1.40,  OriginalPotato ChipsPaprika and Swiss Alpine salt,Zweifel,30g,Snacks & Sweets,Migros,2023-05-24
+407,3.90,Finest treats,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+408,1.95,  BioPopcornWith Alpine salt and sunflower oil,Zweifel,90g,Snacks & Sweets,Migros,2023-05-24
+409,7.40,Macadamia nutsUnsalted,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+410,4.10,  PureSpelt pastry and ryeCheese and herbs,Blévita,180g,Snacks & Sweets,Migros,2023-05-24
+411,4.20,"Walnuts, blueberries, apricots &Pecan",You,170g,Snacks & Sweets,Migros,2023-05-24
+412,3.70,Almond biscuitsAmaretti,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+413,7.95,Truffes blanches,Frey,230g,Snacks & Sweets,Migros,2023-05-24
+414,9.50,Migros Bio Fairtrade Truffes assortiert,Migros Bio,105g,Snacks & Sweets,Migros,2023-05-24
+415,8.50,Truffes Noir ohne Zucker,Frey,230g,Snacks & Sweets,Migros,2023-05-24
+416,3.95,Wiebold Meisterliche Confiserie,Wiebold,200g,Snacks & Sweets,Migros,2023-05-24
+417,5.20,Alnatura Trüffel Pralinen,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+418,6.30,  GiandorChocolate barsMilk chocolate with almond cream filling,Frey,3 x 100g,Snacks & Sweets,Migros,2023-05-24
+419,3.50,ChipsClassic Paprika,Pringles,200g,Snacks & Sweets,Migros,2023-05-24
+420,19.95,  LindorChocolate ballsMilk,Lindt,500g,Snacks & Sweets,Migros,2023-05-24
+421,2.30,Jelly candy,Katjes,175g,Snacks & Sweets,Migros,2023-05-24
+422,4.20,Herb candiesLemon balm - Without sugar,Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+423,4.20,Nut mixtureSalted,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+424,2.65,  SuprêmeChocolate barsDark,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+425,3.25,Soft caramel sweets,Micamu,400g,Snacks & Sweets,Migros,2023-05-24
+426,3.25, caramel sweets,Soft,400g,Snacks & Sweets,Migros,2023-05-24
+427,3.95, Chips  IP-SUISSEFrench Chips NatureLovage,Farm,175g,Snacks & Sweets,Migros,2023-05-24
+428,2.50,Curry Mango Papaya cream spread,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+429,1.95,Jelly candySauer,Katjes,200g,Snacks & Sweets,Migros,2023-05-24
+430,5.70,"  NoxanaChocolate barsMilk chocolate, whole hazelnuts",Frey,3 x 100g,Snacks & Sweets,Migros,2023-05-24
+431,2.10,White chocolate,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+432,4.90,M-ClassicPistachiosUnsalted,unknown,60g,Snacks & Sweets,Migros,2023-05-24
+433,2.95,Italian OlivesCastelvetrano,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+434,2.35,Popcorn corn,Alnatura,500g,Snacks & Sweets,Migros,2023-05-24
+435,2.95,M-BudgetTêtes au choco,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+436,2.–,M-Classic  Kisss PartySugar foam (,unknown,"58%), milk chocolate (40%) and wafer (2%)Milk138g",Snacks & Sweets,Migros,2023-05-24
+437,2.90,Hot Mex sauce,Pancho Villa,235g,Snacks & Sweets,Migros,2023-05-24
+438,1.50,M-ClassicDark chocolateUganda,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+439,7.90,Engadine nut gateau,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+440,3.90,Filled chocolate bars with caramel and peanutsMinis,Snickers,275g,Snacks & Sweets,Migros,2023-05-24
+441,1.95,Mini bear paws biscuits,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+442,4.90,Cereal barBlueberry - nuts,You,156g,Snacks & Sweets,Migros,2023-05-24
+443,3.95, Chips  IP-SUISSEFrench Chips NatureWith horseradish,Farm,1 piece,Snacks & Sweets,Migros,2023-05-24
+444,4.90,  ApéroAlmondsSmoked,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+445,3.70,"  SuprêmeChocolate barsDark, whole hazelnuts and caramelized hazelnut brittle",Frey,180g,Snacks & Sweets,Migros,2023-05-24
+446,1.95,M-ClassicChipsPlain,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+447,1.30,Multi-fruit bars,Alnatura,40g,Snacks & Sweets,Migros,2023-05-24
+448,7.95,  Swiss ChocolateNapolitainsMilk,Frey,300g,Snacks & Sweets,Migros,2023-05-24
+449,3.95,Shortbread with hazelnuts Meilener rolls,unknown,275g,Snacks & Sweets,Migros,2023-05-24
+450,2.40,Lollipop Lollipop,Swizzels,90g,Snacks & Sweets,Migros,2023-05-24
+451,2.30,Spoonful of biscuits,unknown,140g,Snacks & Sweets,Migros,2023-05-24
+452,2.70,Aha!Biscuits with chocolate chipsCookie - Gluten free,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+453,4.60,Michel et Augustin  Les trublions du goûtSuper cookiesTout choco,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+454,2.60,MushroomsÀ la Pizzaiola,Condy,150g,Snacks & Sweets,Migros,2023-05-24
+455,3.50,M-ClassicShortcrust pastryWith hazelnut brittle,unknown,245g,Snacks & Sweets,Migros,2023-05-24
+456,4.90,Cereal barCranberry - almond,You,156g,Snacks & Sweets,Migros,2023-05-24
+457,3.95,  VayaSnack Sweet PotatoRosemary,Zweifel,75g,Snacks & Sweets,Migros,2023-05-24
+458,1.95,M-ClassicGlucoseWith raspberry aroma,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+459,2.60,Tortilla chipsPaprika,Doritos,110g,Snacks & Sweets,Migros,2023-05-24
+460,19.95,Napolitains,Lindt,500g,Snacks & Sweets,Migros,2023-05-24
+461,2.40,  RisolettoChocolate barsMilk chocolate with rice crispies and caramel,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+462,1.60,Filled chocolate bars with caramel,Choco Fun,210g,Snacks & Sweets,Migros,2023-05-24
+463,13.95,  ConnaisseursPralineDark,Lindt,162g,Snacks & Sweets,Migros,2023-05-24
+464,9.90,Chocolate balls Extra fine milk chocolate,Frey,1000g,Snacks & Sweets,Migros,2023-05-24
+465,4.25,Spécialités de chocolatFourrés et non-fourrés,Merci,250g,Snacks & Sweets,Migros,2023-05-24
+466,28.95,Lindt Pralinés Connaisseurs,Lindt,445g,Snacks & Sweets,Migros,2023-05-24
+467,7.50,Lindt Mini Pralinés,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+468,4.50,Lindt Mini Pralinés,Lindt,44g,Snacks & Sweets,Migros,2023-05-24
+469,17.50,Pralinen assortiert Spezialedition,Frey,285g,Snacks & Sweets,Migros,2023-05-24
+470,8.95,M-ClassicM-Classic Pralinés assortis,unknown,302g,Snacks & Sweets,Migros,2023-05-24
+471,4.95,OLIVA TARTUFI NERI ,Oliva,200G200g,Snacks & Sweets,Migros,2023-05-24
+472,9.70,Sélection Pavés Grand Cru Madagascar,Migros Sélection,104g,Snacks & Sweets,Migros,2023-05-24
+473,9.70, Pavés Grand Cru Madagascar,Sélection,104g,Snacks & Sweets,Migros,2023-05-24
+474,15.95,Pralinés assortiment,Migros Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+475,4.50,Pralinés du Confiseur,Frey,45g,Snacks & Sweets,Migros,2023-05-24
+476,9.95,Lindt Bâtons Kirsch,Lindt,125g,Snacks & Sweets,Migros,2023-05-24
+477,8.40,Torino La Piazza Lait,Torino,189g,Snacks & Sweets,Migros,2023-05-24
+478,8.40,Torino La Piazza Noir,Torino,189g,Snacks & Sweets,Migros,2023-05-24
+479,5.50,Alnatura Pralinen Variation,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+480,8.95,Lindt Bâtons Kirsch Mini,Lindt,120g,Snacks & Sweets,Migros,2023-05-24
+481,6.20,Ferrero Collection,Ferrero,172g,Snacks & Sweets,Migros,2023-05-24
+482,9.50,Ferrero Mon Chéri,Mon Chérie,315g,Snacks & Sweets,Migros,2023-05-24
+483,9.95,BIO FT PRAL. ASS,Migros Bio,162g,Snacks & Sweets,Migros,2023-05-24
+484,9.95,Guylian Pralinen Meeresfrüchte,Guylian,250g,Snacks & Sweets,Migros,2023-05-24
+485,5.60,CrackersDark Chocolate & Thyme,Blévita,267g,Snacks & Sweets,Migros,2023-05-24
+486,2.–,  FairtradeChocolate barsMilk chocolate,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+487,4.95,AlmondsThyme-Rosemary,Migros Bio,170g,Snacks & Sweets,Migros,2023-05-24
+488,3.95,St-Michel  CocottesMini BrownieChocolate,unknown,240g,Snacks & Sweets,Migros,2023-05-24
+489,3.30,Chips hummusTomato basil,You,100g,Snacks & Sweets,Migros,2023-05-24
+490,3.95,  TorinoMilk chocolate sticksWith praline filling.,Camille Bloch,3 x 46g,Snacks & Sweets,Migros,2023-05-24
+491,2.55,Noir Special ,Frey,72% dark chocolateWithout sugar added100g,Snacks & Sweets,Migros,2023-05-24
+492,5.80,"Throat lozengesWith sage flavor, sugar-free",Salbisan,220g,Snacks & Sweets,Migros,2023-05-24
+493,3.95,  TorinoVegan dark chocolate sticksWith praline filling,Camille Bloch,5 x 23g,Snacks & Sweets,Migros,2023-05-24
+494,6.20,PistachiosSalted,Migros Bio,220g,Snacks & Sweets,Migros,2023-05-24
+495,3.50,Pineapple slices,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+496,9.95,Lindt Lindor Kugeln Salted Caramel,Lindt,200g,Snacks & Sweets,Migros,2023-05-24
+497,9.95,Lindt Lindor Kugeln Double Chocolate,Lindt,200g,Snacks & Sweets,Migros,2023-05-24
+498,13.95,Lindt Lindor Kugeln Sharing Box ass.,Lindt,298g,Snacks & Sweets,Migros,2023-05-24
+499,19.95,Lindt Lindor Kugeln Dark ass.,Lindt,500g,Snacks & Sweets,Migros,2023-05-24
+500,2.40,"M-BudgetChewy sweetsStrawberry, Orange, Lemons",unknown,400g,Snacks & Sweets,Migros,2023-05-24
+501,2.10,"  FairtradeChocolate barsDark, Oranges",Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+502,4.50,  Les GrandesChocolate barsDark nuts,Lindt,150g,Snacks & Sweets,Migros,2023-05-24
+503,3.20,Nut mixture with raisinsRoasted and salted,Party,200g,Snacks & Sweets,Migros,2023-05-24
+504,4.70,  ApéroMacadamia nutsRoasted and salted,Sun Queen,125g,Snacks & Sweets,Migros,2023-05-24
+505,2.50,Fruit jellyPeaches,Haribo,200g,Snacks & Sweets,Migros,2023-05-24
+506,4.20,Herb candiesNo sugar,Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+507,1.80,Chewing gumMint Eucalyptus,Airwaves,14g,Snacks & Sweets,Migros,2023-05-24
+508,1.95,M-BudgetChocolate barsMilk chocolate,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+509,1.95,Milk chocolateWith hazelnuts,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+510,3.–,Mango pieces,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+511,2.20,M-ClassicBlack olivesWith cores,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+512,4.60,er  Around the worldCereal barsCappuccino,Farm,156g,Snacks & Sweets,Migros,2023-05-24
+513,15.95,Lindt Lindor Kugeln assortiert,Lindt,300g,Snacks & Sweets,Migros,2023-05-24
+514,3.95,Lindt Lindor Kugeln Milch,Lindt,75g,Snacks & Sweets,Migros,2023-05-24
+515,1.65,"  MahonyChocolate barsMilk chocolate, almond honey nougat",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+516,4.20,Herb candiesOrange-Mint - Without sugar,Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+517,4.60,DemeterSemi-dried tomatoes,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+518,2.–,Aha!Nut Muffin,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+519,11.95,  RagusaChocolate barsWith praline filling and whole hazelnuts.,Camille Bloch,400g,Snacks & Sweets,Migros,2023-05-24
+520,4.95,Chewing gumWild cherry,Stimorol,7 x 14g,Snacks & Sweets,Migros,2023-05-24
+521,3.55,CarambarCaramel,Carambar,320g,Snacks & Sweets,Migros,2023-05-24
+522,3.95,Tradition - BiscuitsRüeblichüechli,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+523,5.95,Amarello CakeAlmond cake with sour cherry jam,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+524,2.40,CandyFruit flavor fizzy sweets,Swizzels,200g,Snacks & Sweets,Migros,2023-05-24
+525,4.95,Extra fine milk chocolateExtra milk,Frey,250g,Snacks & Sweets,Migros,2023-05-24
+526,4.20,  RisolettoWhite chocolate with rice crispies and caramel filling,Frey,210g,Snacks & Sweets,Migros,2023-05-24
+527,1.80,M-ClassicButter biscuit,unknown,140g,Snacks & Sweets,Migros,2023-05-24
+528,4.30,"Bubble bearBubble gumSugar-free, with sweeteners",unknown,135g,Snacks & Sweets,Migros,2023-05-24
+529,3.95,Spelt biscuitsHot & smoky paprika,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+530,3.75,  TorinoMilk chocolate sticksWith praline filling.,Camille Bloch,5 x 23g,Snacks & Sweets,Migros,2023-05-24
+531,1.20,Marzipan bar dark chocolate,Alnatura,40g,Snacks & Sweets,Migros,2023-05-24
+532,4.95,  GiandorMilk chocolate with almond cream filling,Frey,250g,Snacks & Sweets,Migros,2023-05-24
+533,2.50,Spreading CreamGarden Herbs,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+534,2.10,M-ClassicBlack olivesPitted,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+535,5.90,Throat lozengesBlackcurrant,Grether's,60g,Snacks & Sweets,Migros,2023-05-24
+536,2.50,Alnatura Schokolade Espresso,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+537,2.50,Alnatura Schokolade Chili Kirsch,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+538,2.90,Tafel- Schokolade Biskuit und Rahm,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+539,2.30,Cioccolato Stella al latte,Chocolat Stella,100g,Snacks & Sweets,Migros,2023-05-24
+540,2.30,Cioccolato Stella amaro,Chocolat Stella,100g,Snacks & Sweets,Migros,2023-05-24
+541,2.50,Bärner Schoggi,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+542,2.50,Ragusa Classique,Ragusa,100g,Snacks & Sweets,Migros,2023-05-24
+543,2.80,Toblerone Crunchy Almonds,Toblerone,100g,Snacks & Sweets,Migros,2023-05-24
+544,4.90,Schokolade-Mix,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+545,5.85,Ragusa Classique,Ragusa,300g,Snacks & Sweets,Migros,2023-05-24
+546,4.70,Frey Crispy Caramel,Frey,300g,Snacks & Sweets,Migros,2023-05-24
+547,4.70,Frey Cookies,Frey,300g,Snacks & Sweets,Migros,2023-05-24
+548,4.70,Frey Flakes,Frey,300g,Snacks & Sweets,Migros,2023-05-24
+549,2.10,"  TouristChocolate barsWhite, raisins, nuts and almonds",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+550,7.20,Dark chocolate,Frey,400g,Snacks & Sweets,Migros,2023-05-24
+551,3.95,Wholemeal nut stick,Migros Bio,270g,Snacks & Sweets,Migros,2023-05-24
+552,1.95,Marshmallow,Trolli,175g,Snacks & Sweets,Migros,2023-05-24
+553,4.95,British ChipsSea salt,Burts,150g,Snacks & Sweets,Migros,2023-05-24
+554,4.60,Mini burger,Trolli,170g,Snacks & Sweets,Migros,2023-05-24
+555,4.40,  RagusaChocolate stemsWith praline filling and hazelnuts,Camille Bloch,3 x 50g,Snacks & Sweets,Migros,2023-05-24
+556,19.95,  LindorChocolate ballsAssorted,Lindt,500g,Snacks & Sweets,Migros,2023-05-24
+557,3.80,  Schoko-BonsFilled milk chocolate eggsWith milk filling and finely chopped hazelnuts,Kinder,125g,Snacks & Sweets,Migros,2023-05-24
+558,1.95,Jelly candy,Katjes,200g,Snacks & Sweets,Migros,2023-05-24
+559,1.20,Cocos plain bar,Alnatura,40g,Snacks & Sweets,Migros,2023-05-24
+560,2.70,M-ClassicButter biscuit,unknown,230g,Snacks & Sweets,Migros,2023-05-24
+561,5.60,"  SandwichSpelt pastry with yogurt fillingCaprese, tomatoes and mozzarella",Blévita,216g,Snacks & Sweets,Migros,2023-05-24
+562,2.60,Liquorice,Haribo,175g,Snacks & Sweets,Migros,2023-05-24
+563,4.95,Milk chocolate and dark chocolateFilled and assorted,Frey,250g,Snacks & Sweets,Migros,2023-05-24
+564,2.65,"  SuprêmeChocolate barsDark, satin",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+565,2.50,Spreading CreamWith paprika and chili,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+566,3.60,  DinosaurusBiscuits Cereals,Lotus,175g,Snacks & Sweets,Migros,2023-05-24
+567,3.40,M-Classic  KisssChoko-KöpfliSugar foam with waffle,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+568,7.40,"Chocolate barsMilk chocolate, extra fin",Frey,400g,Snacks & Sweets,Migros,2023-05-24
+569,4.15,  Ovo RocksChocolate Snacks,Ovomaltine,120g,Snacks & Sweets,Migros,2023-05-24
+570,2.80,Apple Chips,Alnatura,70g,Snacks & Sweets,Migros,2023-05-24
+571,7.95,Chocolate trufflesDark chocolate,Frey,230g,Snacks & Sweets,Migros,2023-05-24
+572,2.50,Aha!Lactose free milk chocolateAlmond coated,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+573,4.20,Apple Rings,Alnatura,125g,Snacks & Sweets,Migros,2023-05-24
+574,1.20,M-BudgetChocolate barsMilk chocolate with whole hazelnuts,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+575,3.50,Throat lozenges,Isländisch Moos,190g,Snacks & Sweets,Migros,2023-05-24
+576,3.40,Hazelnut wafers with gianduja hazelnut milk chocolate (,Chocmidor,77%)Square100g,Snacks & Sweets,Migros,2023-05-24
+577,2.95,Cocoa biscuitsFilled with Oreo vanilla cream,Oreo,110g,Snacks & Sweets,Migros,2023-05-24
+578,7.95, Gum  WhiteChewing gum with sweetenerTutti Frutti,Mentos,150g,Snacks & Sweets,Migros,2023-05-24
+579,2.90,BananasDried,Migros Bio,140g,Snacks & Sweets,Migros,2023-05-24
+580,4.20,Californian plums,Alnatura,200g,Snacks & Sweets,Migros,2023-05-24
+581,3.95,  SugarfreeSugar-free fruit chewy sweetsWith sweeteners and concentrated fruit juices,Sugus,150g,Snacks & Sweets,Migros,2023-05-24
+582,2.35,"  NoxanaNoxana milk chocolateHazelnuts, without sugar added",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+583,8.80,Chocolate barsMilk chocolate,Toblerone,360g,Snacks & Sweets,Migros,2023-05-24
+584,3.10,Hummus chipsSea-salt,Al Fez,75g,Snacks & Sweets,Migros,2023-05-24
+585,1.60,Skai Dental,Skai,20g,Snacks & Sweets,Migros,2023-05-24
+586,8.95,Mixture of filled milk chocolatesBiscuit with milk chocolate,Celebrations,385g,Snacks & Sweets,Migros,2023-05-24
+587,2.95,  BiscoffBiscuitsWith chocolate cream filling,Lotus,150g,Snacks & Sweets,Migros,2023-05-24
+588,2.95,BranchesDark,Frey,135g,Snacks & Sweets,Migros,2023-05-24
+589,2.20,"  GiandorChocolate barsDark, almond cream filling",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+590,3.95,Malt filling with milk chocolate coating,Maltesers,175g,Snacks & Sweets,Migros,2023-05-24
+591,4.–,  Finest Selection,Merci,20 chocolate bar250g,Snacks & Sweets,Migros,2023-05-24
+592,0.85,-QChewing GumStrawberry Sour,Skai,2 x 36g,Snacks & Sweets,Migros,2023-05-24
+593,2.95,M-ClassicM-Classic Exotic Gum,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+594,5.40,Stimorol Wild Cherry,Stimorol,87g,Snacks & Sweets,Migros,2023-05-24
+595,1.95,Chocolate-covered malt cubes,Eimalzin,60g,Snacks & Sweets,Migros,2023-05-24
+596,2.–,M-Classic  KisssChoko-KöpfliSugar foam with waffle,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+597,Regional Price,M-Classic  RouleauxRollsLemon,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+598,3.40,"FlutesButter, mini",unknown,135g,Snacks & Sweets,Migros,2023-05-24
+599,4.20,Marble roulade,unknown,310g,Snacks & Sweets,Migros,2023-05-24
+600,2.70,M-Classic  HaferliOat pastry,unknown,265g,Snacks & Sweets,Migros,2023-05-24
+601,2.20,  Les AdorablesDark chocolate with the finest ristretto fillingCremetta,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+602,8.50,Chocolate trufflesTartufi neri with hazelnuts,Sélection,200g,Snacks & Sweets,Migros,2023-05-24
+603,2.95,SpreadOlives,Da Emilio,130g,Snacks & Sweets,Migros,2023-05-24
+604,3.80,"  CoatiesChocolate lozengesAlmonds, raisins, hazelnuts and candied orange peel",Frey,160g,Snacks & Sweets,Migros,2023-05-24
+605,5.40,Milk Chocolate Heart,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+606,3.95,CookiesCranberry,You,240g,Snacks & Sweets,Migros,2023-05-24
+607,16.95,Kirschstengeli,Lindt,250g,Snacks & Sweets,Migros,2023-05-24
+608,3.70,  SantasapinaCough - sweets,A. Vogel,100g,Snacks & Sweets,Migros,2023-05-24
+609,1.40,  OriginalPotato ChipsNature and Swiss Alpine salt,Zweifel,30g,Snacks & Sweets,Migros,2023-05-24
+610,6.80,"Chewing gumPeppermint, sugar-free",V6,87g,Snacks & Sweets,Migros,2023-05-24
+611,4.95, Gum  WhiteChewing gum with sweetenerSpearmint flavor,Mentos,75g,Snacks & Sweets,Migros,2023-05-24
+612,3.–,Spelt Knusper Taler plain,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+613,3.90,"Crispy biscuit, soft caramel, milk chocolate.Mini",Twix,275g,Snacks & Sweets,Migros,2023-05-24
+614,5.20,ChipsSalt and pepper,Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+615,3.10,N.A!Fruit SticksMade from concentrated fruit puree and fruit juices,unknown,42g,Snacks & Sweets,Migros,2023-05-24
+616,4.95,CashewsProvençal,Zweifel,115g,Snacks & Sweets,Migros,2023-05-24
+617,5.40,Apple cake with spelt,Migros Bio,260g,Snacks & Sweets,Migros,2023-05-24
+618,3.70,Fior di CantucciniPastry with almonds,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+619,24.90,Barre de fruitsBaies-amandes,Alnavit,600g,Snacks & Sweets,Migros,2023-05-24
+620,1.95,Nakd Berry Delight,Nakd,35g,Snacks & Sweets,Migros,2023-05-24
+621,1.20,Alnatura Fruchtriegel Kakao,Alnatura,30g,Snacks & Sweets,Migros,2023-05-24
+622,1.95,Nakd Cocoa Delight,Nakd,35g,Snacks & Sweets,Migros,2023-05-24
+623,1.95,Nakd Peanut Delight,Nakd,35g,Snacks & Sweets,Migros,2023-05-24
+624,1.95,Nakd Blueberry Muffin,Nakd,35g,Snacks & Sweets,Migros,2023-05-24
+625,6.95,Choko-KöpfliPlain,Villars,20 x 10g,Snacks & Sweets,Migros,2023-05-24
+626,4.95,Grissini,Da Emilio,200g,Snacks & Sweets,Migros,2023-05-24
+627,3.95,Chewing gum,Ice Tea,80g,Snacks & Sweets,Migros,2023-05-24
+628,1.95,Dark chocolate,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+629,2.20,Aha!Chocolate barsMilk chocolate without lactose,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+630,4.95,  RagusaDark chocolate barsWith praline filling and whole hazelnuts.,Camille Bloch,5 x 25g,Snacks & Sweets,Migros,2023-05-24
+631,2.70,  LindorChocolate barsDark ,Lindt,60% cocoa100g,Snacks & Sweets,Migros,2023-05-24
+632,4.20,"Almonds, pumpkin seeds, pistachio &mango",You,170g,Snacks & Sweets,Migros,2023-05-24
+633,5.20,Potato ChipsSalt and vinegar flavor,Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+634,1.95,Chips from lentilsPlain,You,80g,Snacks & Sweets,Migros,2023-05-24
+635,4.50,Mousse de sésame Tahin,Alnatura,250g,Snacks & Sweets,Migros,2023-05-24
+636,1.45,Crémant ,Frey,47% Zartbitterschokolade100g,Snacks & Sweets,Migros,2023-05-24
+637,2.20,Les Délices Noir Croquant,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+638,1.40,M-ClassicM-Classic ,unknown,71% Cacao100g,Snacks & Sweets,Migros,2023-05-24
+639,1.40,M-ClassicM-CLAS ,unknown,70% CACAO ORANGE100g,Snacks & Sweets,Migros,2023-05-24
+640,1.75,Alnatura Schokolade Feine Bitter ,Alnatura,70%100g,Snacks & Sweets,Migros,2023-05-24
+641,1.95,Alnatura Edelbitter ,Alnatura,87% Kakao80g,Snacks & Sweets,Migros,2023-05-24
+642,1.75,Alnatura Chocolat ,Alnatura,64% Cacao150g,Snacks & Sweets,Migros,2023-05-24
+643,0.85,M-BudgetM-Budget Chewing Gum Eucamenthol,unknown,2 x 36g,Snacks & Sweets,Migros,2023-05-24
+644,3.20,Lindt Excellence ,Lindt,99% Cacao50g,Snacks & Sweets,Migros,2023-05-24
+645,8.95,Toblerone Dark,Toblerone,360g,Snacks & Sweets,Migros,2023-05-24
+646,2.90,Alnatura Kuvertüre Zartbitter,Alnatura,150g,Snacks & Sweets,Migros,2023-05-24
+647,2.90,Alnatura Paprika Walnuss Aufstrich,Alnatura,135g,Snacks & Sweets,Migros,2023-05-24
+648,2.50,Alnatura Hummus gegrilltes Gemüse,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+649,2.65,"Suprême Cranberry, Orange & Miel",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+650,5.40,Stimorol Max Splash Spearmint,Stimorol,88g,Snacks & Sweets,Migros,2023-05-24
+651,5.90,Aus der Region Tartinade Poivros Oi,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+652,5.90,Aus der Region Tartinade Aubergine,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+653,5.90,Aus der Region Tartinade Courgettes,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+654,5.90,Aus der Region Tartinade Tomate,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+655,2.50,Alnatura Streichcreme Tomate,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+656,2.50,Alnatura Kokos Zartbitter,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+657,1.50,Alnatura Sélection Cacao Noir,Alnatura,50g,Snacks & Sweets,Migros,2023-05-24
+658,4.20,Tradition - BiscuitsShortbread biscuitsRoasted pistachios,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+659,7.20,Chocolate barsMilk chocolate with hazelnuts,Frey,400g,Snacks & Sweets,Migros,2023-05-24
+660,5.80,  SandwichOrganic spelt biscuits with fresh cheese fillingSour cream,Blévita,216g,Snacks & Sweets,Migros,2023-05-24
+661,4.50,Artichoke heartsIn olive oil,Polli,285g,Snacks & Sweets,Migros,2023-05-24
+662,2.20,  GiandorMilk chocolateWith almond cream filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+663,9.95,  LindorChocolate ballsMilk,Lindt,200g,Snacks & Sweets,Migros,2023-05-24
+664,4.50,  FerreroCoconut confectionery with almond and wafer,Raffaello,230g,Snacks & Sweets,Migros,2023-05-24
+665,2.10,  Noxana CrémentDark chocolateWith hazelnuts,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+666,2.60,"Chocolate barsDark, coconut",Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+667,4.95, Gum  Pure FreshChewing gum with sweetenerSpearmint,Mentos,90g,Snacks & Sweets,Migros,2023-05-24
+668,3.50,ChipsHot &spicy,Pringles,200g,Snacks & Sweets,Migros,2023-05-24
+669,4.95,British ChipsSea salt & malt vinegar,Burts,150g,Snacks & Sweets,Migros,2023-05-24
+670,3.95,Sugar-free chewing gumFantastic Berry,Skai,64g,Snacks & Sweets,Migros,2023-05-24
+671,4.20,  Petit beurrePetit Beurre with Ovomaltine dark chocolate,Ovomaltine,145g,Snacks & Sweets,Migros,2023-05-24
+672,4.95,British ChipsCheddar & onion,Burts,150g,Snacks & Sweets,Migros,2023-05-24
+673,2.20,Milch Extra Nuss,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+674,4.60,Milch,Frey,400g,Snacks & Sweets,Migros,2023-05-24
+675,3.60, Maître Choc.Villars Les Laits Suisses Berne,Villars,100g,Snacks & Sweets,Migros,2023-05-24
+676,6.95,Sélection Bruchschokolade noir-nuss,Migros Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+677,6.95, Bruchschokolade noir-nuss,Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+678,6.95,Lindt Goldtafel Milch-Nuss,Lindt,300g,Snacks & Sweets,Migros,2023-05-24
+679,1.95,So Nuts Torino,Torino,40g,Snacks & Sweets,Migros,2023-05-24
+680,3.30,Alnavit Cracker Saaten,Alnavit,75g,Snacks & Sweets,Migros,2023-05-24
+681,3.95,  MiniMilk chocolate with hazelnut cream filling,Frey,200g,Snacks & Sweets,Migros,2023-05-24
+682,3.30,Cocoa biscuitCoconut,Alnatura,330g,Snacks & Sweets,Migros,2023-05-24
+683,3.95,  SuprêmeDark chocolateHazelnuts and almonds,Frey,200g,Snacks & Sweets,Migros,2023-05-24
+684,2.60,GarlicWith herbs,Condy,130g,Snacks & Sweets,Migros,2023-05-24
+685,5.40,Michel et AugustinLittle cookies from FranceMilk and dark chocolate,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+686,5.25,Cashew nutsSalted,Migros Bio,170g,Snacks & Sweets,Migros,2023-05-24
+687,7.95,Amaretti,Sélection,200g,Snacks & Sweets,Migros,2023-05-24
+688,14.50,  Tentation NoireChocolate pralinesPlain with truffle filling,Sélection,155g,Snacks & Sweets,Migros,2023-05-24
+689,3.95," BrothersOrganic biscuits with oats and speltPecan, coconut and chocolate",Farm,150g,Snacks & Sweets,Migros,2023-05-24
+690,2.70,Chocolate barsMilk chocolate,Toblerone,100g,Snacks & Sweets,Migros,2023-05-24
+691,6.95,Chocolate barsMilk,Lindt,300g,Snacks & Sweets,Migros,2023-05-24
+692,7.40,"  TouristChocolat au laitAvec raisins secs, noisettes et amandes",Frey,400g,Snacks & Sweets,Migros,2023-05-24
+693,7.95,  GiandorChocolat au laitFourré à la crème d'amandes,Frey,300g,Snacks & Sweets,Migros,2023-05-24
+694,1.30,Milch,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+695,2.50,Lindt Milch-Nuss,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+696,13.95,Bärner Bär Milchschokolade,Frey,500g,Snacks & Sweets,Migros,2023-05-24
+697,2.50,Lindt Milch extra,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+698,1.95,Alnatura ganze Nuss Vollmilch,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+699,3.60, Maître Choc.Villars Les Laits Suisses Fribourg,Villars,100g,Snacks & Sweets,Migros,2023-05-24
+700,6.95,Sélection Bruchschokolade Milch-Nuss,Migros Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+701,6.95, Bruchschokolade Milch-Nuss,Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+702,18.50,Toblerone Swiss Milk,Toblerone,6 x 100g,Snacks & Sweets,Migros,2023-05-24
+703,3.95,So Nuts Torino,Torino,120g,Snacks & Sweets,Migros,2023-05-24
+704,2.80,Toblerone Fruit & Nut,Toblerone,100g,Snacks & Sweets,Migros,2023-05-24
+705,4.90,Schokolade Milch-Nuss,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+706,2.–,Migros Bio Fairtrade Delice,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+707,1.90,Toblerone Milk,Toblerone,50g,Snacks & Sweets,Migros,2023-05-24
+708,3.95,Petit-Beurre with dark chocolate,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+709,2.35,Spelt cracker Sesame,Alnatura,175g,Snacks & Sweets,Migros,2023-05-24
+710,3.60,Nut mixtureRoasted and salted,Party,200g,Snacks & Sweets,Migros,2023-05-24
+711,10.95,  LindorCarrésMilk,Lindt,216g,Snacks & Sweets,Migros,2023-05-24
+712,7.95, Gum  WhiteChewing gum with sweetenerSweet mint,Mentos,150g,Snacks & Sweets,Migros,2023-05-24
+713,3.60,"Mini GrissiniRosemary &sea salt, organic",Alnavit,100g,Snacks & Sweets,Migros,2023-05-24
+714,3.45,  LightCandySugar-free,Spruso,150g,Snacks & Sweets,Migros,2023-05-24
+715,3.95,  TorinoMilk chocolate sticksBlond,Camille Bloch,5 x 23g,Snacks & Sweets,Migros,2023-05-24
+716,4.20,Corn ChipsWith chili taste,Pancho Villa,200g,Snacks & Sweets,Migros,2023-05-24
+717,4.95,  ApéroCashew nuts&salted and roasted,Sun Queen,4 x 40g,Snacks & Sweets,Migros,2023-05-24
+718,7.95,Milk chocolate trufflesMilk chocolate,Frey,230g,Snacks & Sweets,Migros,2023-05-24
+719,4.40,Herb sugar,Ricola,200g,Snacks & Sweets,Migros,2023-05-24
+720,2.70,  LindorPlaque de chocolat fourré fondantLait,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+721,2.–,"  TouristChocolate barsMilk chocolate, raisins, nuts and almonds",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+722,4.95,CakeCarottes/Noisettes,Grosis,350g,Snacks & Sweets,Migros,2023-05-24
+723,Regional Price,Gougelhopf au chocolat,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+724,5.–,M-ClassicLinzer-tarts,unknown,450g,Snacks & Sweets,Migros,2023-05-24
+725,5.–,M-ClassicApricot tarts,unknown,450g,Snacks & Sweets,Migros,2023-05-24
+726,5.–,Choc-tarts,unknown,450g,Snacks & Sweets,Migros,2023-05-24
+727,5.55,Bündner nut tarts,unknown,480g,Snacks & Sweets,Migros,2023-05-24
+728,3.15,Hazelnut gingerbread,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+729,4.70,  OriginalMarket Stomach Bread,Werners,250g,Snacks & Sweets,Migros,2023-05-24
+730,3.80,Carrés viennois,unknown,240g,Snacks & Sweets,Migros,2023-05-24
+731,2.20,Swiss milk chocolate stickWith hazelnut and Madel cream filling,Torino,46g,Snacks & Sweets,Migros,2023-05-24
+732,2.50,Torino Noir,Torino,100g,Snacks & Sweets,Migros,2023-05-24
+733,9.95,Giandor Milchschokolade,Frey,250g,Snacks & Sweets,Migros,2023-05-24
+734,2.50,Torino Milch,Torino,100g,Snacks & Sweets,Migros,2023-05-24
+735,3.90,Werners AdR mini Magenbrot,Werners,120g,Snacks & Sweets,Migros,2023-05-24
+736,2.40,Luzerner Lebkuchen,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+737,1.40,M-ClassicM-Classic Amarello-Törtli,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+738,1.60,M-BudgetM-Budget Linzertörtli,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+739,Regional Price,Pfaffenhut,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+740,2.40,AHA Banana Bread,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+741,2.10,Hazelnut Snack,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+742,Regional Price,Mini Tiroler Cake,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+743,Regional Price,Bananita-Roulade,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+744,Regional Price,Biberli gefüllt,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+745,Regional Price,San Antonio Colomba Beutel,San Antonio,NA,Snacks & Sweets,Migros,2023-05-24
+746,Regional Price,Panettone am Meter,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+747,1.70,Himbeer- Vanille Plunder,unknown,110g,Snacks & Sweets,Migros,2023-05-24
+748,7.70,Curiosite aux amande,unknown,290g,Snacks & Sweets,Migros,2023-05-24
+749,1.55,M-ClassicM-Classic Nuss-Törtli,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+750,1.40,M-ClassicM-Classic Kokos Schokoladen Törtli,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+751,3.40,Migros Bio Dinkel Birnweggen ,Migros Bio,3er225g,Snacks & Sweets,Migros,2023-05-24
+752,2.40,M-BudgetM-Budget Zitronencake,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+753,Regional Price,Bienenstich,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+754,Regional Price,San Antonio Colomba Beutel,San Antonio,NA,Snacks & Sweets,Migros,2023-05-24
+755,3.90,Werners Mini Magenbrot,Werners,120g,Snacks & Sweets,Migros,2023-05-24
+756,4.70,Werners Magenbrot,Werners,250g,Snacks & Sweets,Migros,2023-05-24
+757,1.55,Haselnuss-Carré,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+758,Regional Price,Appenzeller Biberfladen,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+759,6.60,Luzerner Lebkuchen,unknown,450g,Snacks & Sweets,Migros,2023-05-24
+760,2.40,M-BudgetM-Budget Marmorcake,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+761,1.70,Mini Cake Lemon,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+762,Regional Price,Mini Schoggi Cake,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+763,2.60,M-BudgetM-Budget Roulade Erdbeere,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+764,2.95,SQ MH RED PEQUILLO PEPPERS,Sun Queen,160g,Snacks & Sweets,Migros,2023-05-24
+765,6.60,Luzerner Birnweggen,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+766,5.20,Luzerner Birnweggen,unknown,240g,Snacks & Sweets,Migros,2023-05-24
+767,5.80, Mini Pandorino ,San Antonio,10 Stück300g,Snacks & Sweets,Migros,2023-05-24
+768,3.10,-Törtchen,Party,225g,Snacks & Sweets,Migros,2023-05-24
+769,13.60,Dama Steinpilze in Öl,Sacla,200g,Snacks & Sweets,Migros,2023-05-24
+770,5.20,Ponti Peperlizia L'Ortoghiotto,Ponti,330g,Snacks & Sweets,Migros,2023-05-24
+771,1.40,M-ClassicM-Classic Choc-Törtli,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+772,1.70,Mini Dänenstollen,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+773,1.80,Mini Linzertörtli,unknown,72g,Snacks & Sweets,Migros,2023-05-24
+774,5.60,Banana Bread,unknown,320g,Snacks & Sweets,Migros,2023-05-24
+775,Regional Price,Osterblume,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+776,6.10,Walkers Genfer Cake,Walkers,350g,Snacks & Sweets,Migros,2023-05-24
+777,Regional Price,San Antonio Colomba 120g,San Antonio,NA,Snacks & Sweets,Migros,2023-05-24
+778,Regional Price,Linzerschnitte,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+779,4.10,Ponti Peperlizia I Peperoni,Ponti,210g,Snacks & Sweets,Migros,2023-05-24
+780,5.40, AntipastiPepperballs mit Frischkäse,Dittmann,290g,Snacks & Sweets,Migros,2023-05-24
+781,9.30,Carciofini all'olio,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+782,2.95,M-SELEC MH M.ARTISCHOCKEN,Migros Sélection,130g,Snacks & Sweets,Migros,2023-05-24
+783,4.30,Polli MSC Antipasto Verdure e tonno,Polli,200g,Snacks & Sweets,Migros,2023-05-24
+784,6.20,Polli Riso più leggero senza olio,Polli,3 x 180g,Snacks & Sweets,Migros,2023-05-24
+785,4.70,Polli Condimento Riso più con tonno,Polli,290g,Snacks & Sweets,Migros,2023-05-24
+786,4.70,Werners Magenbrot,Werners,250g,Snacks & Sweets,Migros,2023-05-24
+787,5.50,Birnweggli,unknown,320g,Snacks & Sweets,Migros,2023-05-24
+788,Regional Price,Appenzeller Biberli,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+789,3.95,Gugelhopf Zitrone,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+790,5.55,HIT Cookie ,unknown,4 Stück304g,Snacks & Sweets,Migros,2023-05-24
+791,3.95,Zitronenkuchen,unknown,450g,Snacks & Sweets,Migros,2023-05-24
+792,3.95,Marmorkuchen,unknown,450g,Snacks & Sweets,Migros,2023-05-24
+793,4.95,EMILIO POMO. SECC. PUGLIA,Da Emilio,150g,Snacks & Sweets,Migros,2023-05-24
+794,1.40,M-ClassicM-Classic Erdbeer-Rhabarber Törtli,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+795,0.95,M-BudgetM-Budget Zitronentörtchen,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+796,7.90,Bio Bündner Nusstorte,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+797,5.50,Lebkuchen,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+798,2.50,HB Schenkeli,unknown,70g,Snacks & Sweets,Migros,2023-05-24
+799,7.20,Werners AdR Magenbrot ,Werners,400g400g,Snacks & Sweets,Migros,2023-05-24
+800,3.20,Ricola Gletscherminze,Ricola,50g,Snacks & Sweets,Migros,2023-05-24
+801,3.20,Ricola Holunderblüten,Ricola,50g,Snacks & Sweets,Migros,2023-05-24
+802,3.20,Ricola Orangenminze ohne Zucker,Ricola,50g,Snacks & Sweets,Migros,2023-05-24
+803,3.20,Ricola Eucalyptus,Ricola,50g,Snacks & Sweets,Migros,2023-05-24
+804,3.20,Ricola Zitronenmelisse,Ricola,50g,Snacks & Sweets,Migros,2023-05-24
+805,3.20,Ricola Kräuter,Ricola,50g,Snacks & Sweets,Migros,2023-05-24
+806,Regional Price,Freshly prepared forTartelette Schoko Karamell,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+807,7.20,Werners Magenbrot,Werners,400g,Snacks & Sweets,Migros,2023-05-24
+808,5.40,Migros Bio Cake Haselnuss-Schokolade,Migros Bio,260g,Snacks & Sweets,Migros,2023-05-24
+809,8.50,Delicatesse orange,unknown,260g,Snacks & Sweets,Migros,2023-05-24
+810,5.30,Da Emilio Pomodorini Ciliegin semi-secchi,Da Emilio,280g,Snacks & Sweets,Migros,2023-05-24
+811,7.30,Throat lozengesBlueberry,Grether's,110g,Snacks & Sweets,Migros,2023-05-24
+812,10.30,Sélection Christstollen,Migros Sélection,720g,Snacks & Sweets,Migros,2023-05-24
+813,10.30, Christstollen,Sélection,720g,Snacks & Sweets,Migros,2023-05-24
+814,3.20,M-BudgetM-Budget Pudding Küchlein,unknown,240g,Snacks & Sweets,Migros,2023-05-24
+815,1.–,M-BudgetM-Budget Zitronenmelisse ohne Zucker,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+816,Regional Price,Linzertörtli Ostern,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+817,12.95,  Mini PralinésMini pralinés assorted,Lindt,180g,Snacks & Sweets,Migros,2023-05-24
+818,3.60,Tradition - BiscuitsSandwich shortbread with raspberry fillingNusshörnli,unknown,140g,Snacks & Sweets,Migros,2023-05-24
+819,2.65,  SuprêmeExtra dark chocolate,Frey,91% Cocoa100g,Snacks & Sweets,Migros,2023-05-24
+820,4.10,  PureSpelt pastry and ryeChili- Oregano,Blévita,190g,Snacks & Sweets,Migros,2023-05-24
+821,8.50,Assorted truffles,Frey,230g,Snacks & Sweets,Migros,2023-05-24
+822,2.40,  Corn ChipsCorn ChipsPlain,Zweifel,150g,Snacks & Sweets,Migros,2023-05-24
+823,3.95,Meringues bowls,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+824,2.30,  Bizzl MixFrothy sugar sweets,Trolli,200g,Snacks & Sweets,Migros,2023-05-24
+825,2.20,  GiandorWhite chocolate with almond cream fillingWhite,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+826,4.20,  BrancheOvaltine Branchli,Ovomaltine,5 x 22g,Snacks & Sweets,Migros,2023-05-24
+827,3.40,Meringue with hazelnuts and milk chocolateMilk chocolate rocher,Chocmidor,100g,Snacks & Sweets,Migros,2023-05-24
+828,2.65,  SuprêmeExtra dark chocolatePlease:,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+829,2.10,Coconut fruit slice,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+830,2.10,M-ClassicGreek olives black,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+831,1.80,Strawberry flavored gumdrop,Red Band,100g,Snacks & Sweets,Migros,2023-05-24
+832,2.20,"  Les AdorablesChocolate barsMilk chocolate, praline filling and pistachios",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+833,4.30,Spelt SabléLemon,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+834,3.95,Apéro biscuitsTarallini,Da Emilio,300g,Snacks & Sweets,Migros,2023-05-24
+835,3.60,Tradition - BiscuitsSablé MacaroonChocolate,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+836,2.50,Gomme aux fruitsPommes Fizz,Haribo,200g,Snacks & Sweets,Migros,2023-05-24
+837,2.65,  Suprême,Frey,83% Dark chocolateDominican Republic100g,Snacks & Sweets,Migros,2023-05-24
+838,2.50,Beetroot spread cream Horseradish,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+839,3.95,Bricelets éventails,Eclair,190g,Snacks & Sweets,Migros,2023-05-24
+840,Regional Price,  Il PanettoneGâteau brioché sucré à la farine de fromentSans fruits confits,San Antonio,NA,Snacks & Sweets,Migros,2023-05-24
+841,4.20,Confiserie en massepain au gingembre,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+842,Regional Price,  La Colomba ClassicaSweet wheat sourdough pastry,San Antonio,NA,Snacks & Sweets,Migros,2023-05-24
+843,1.20,Bonbons de chocolat au lait,Smarties,38g,Snacks & Sweets,Migros,2023-05-24
+844,1.25,  SurpriseOeuf confiserie recouvert de chocolat supérieur au lait,Kinder,20g,Snacks & Sweets,Migros,2023-05-24
+845,4.30,Spécialités de confiserieFourré à la crème de noisettes,Giotto,116g,Snacks & Sweets,Migros,2023-05-24
+846,4.95,OLIVA TARTUFI BIANCHI,Oliva,200g,Snacks & Sweets,Migros,2023-05-24
+847,8.95,Lindt Hauchdünn Milch-Orange,Lindt,180g,Snacks & Sweets,Migros,2023-05-24
+848,8.95,Lindt Hauchdünn Noir ,Lindt,52% Cacao180g,Snacks & Sweets,Migros,2023-05-24
+849,8.95,Lindt Hauchdünn Milch,Lindt,180g,Snacks & Sweets,Migros,2023-05-24
+850,5.95,Lindt Lindor Milch Herz,Lindt,62g,Snacks & Sweets,Migros,2023-05-24
+851,4.80,Celebrations,Celebrations,196g,Snacks & Sweets,Migros,2023-05-24
+852,5.95,Lindt Squares Dark Caramel Sea Salt,Lindt,144g,Snacks & Sweets,Migros,2023-05-24
+853,3.–,Alnatura Kokos Minis Zartbitter,Alnatura,80g,Snacks & Sweets,Migros,2023-05-24
+854,5.95,Lindt Squares Dark Orange,Lindt,138g,Snacks & Sweets,Migros,2023-05-24
+855,3.70,Mozartkugeln,Schluckwerder,200g,Snacks & Sweets,Migros,2023-05-24
+856,4.95,Lindt Sensation Heidelbeere & Acai,Lindt,150g,Snacks & Sweets,Migros,2023-05-24
+857,4.95,Lindt Sensation Himbeere & Cranberry,Lindt,150g,Snacks & Sweets,Migros,2023-05-24
+858,6.50,Lindt Hello Mini Emotis,Lindt,140g,Snacks & Sweets,Migros,2023-05-24
+859,3.20,Knoppers Nussriegel,Knoppers,200g,Snacks & Sweets,Migros,2023-05-24
+860,3.60,Marienkäfer,unknown,95g,Snacks & Sweets,Migros,2023-05-24
+861,3.95,Coaties Cappuccino,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+862,1.95,So Nuts Ragusa,Ragusa,40g,Snacks & Sweets,Migros,2023-05-24
+863,3.60,Marienkäfer mit Pralinenfüllung,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+864,3.20,Marzipan Rum-Sultan. und Schokolade,unknown,96g,Snacks & Sweets,Migros,2023-05-24
+865,2.30,Kinder Bueno White,Kinder,129g,Snacks & Sweets,Migros,2023-05-24
+866,7.95,Mars Mixed Minis,Mars,500g,Snacks & Sweets,Migros,2023-05-24
+867,2.50,Zaini Überraschungsei,Zaini,3 x 20g,Snacks & Sweets,Migros,2023-05-24
+868,7.95,Toblerone Tiny Mix,Toblerone,248g,Snacks & Sweets,Migros,2023-05-24
+869,4.40,M&M'sM&M's Salted Caramel,unknown,220g,Snacks & Sweets,Migros,2023-05-24
+870,3.95,So Nuts Ragusa,Ragusa,120g,Snacks & Sweets,Migros,2023-05-24
+871,3.95,So Nuts Coffee,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+872,3.95,Crunchy Clouds Berry Mix,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+873,9.50,Le Roy RenéPetits Calissons,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+874,1.95,So Nuts Coffee,unknown,40g,Snacks & Sweets,Migros,2023-05-24
+875,3.95,Crunchy Clouds Mango,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+876,3.90,Kinder Schokolade,Kinder,300g,Snacks & Sweets,Migros,2023-05-24
+877,3.95,Kinder Happy Moments,Kinder,161g,Snacks & Sweets,Migros,2023-05-24
+878,8.95,Gottlieber Classic Mini,Gottlieber,150g,Snacks & Sweets,Migros,2023-05-24
+879,5.20,Melanzane Olio Oliva,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+880,3.70,Polli Antipasto Farcitoast,Polli,290g,Snacks & Sweets,Migros,2023-05-24
+881,2.30,San Antonio Pandorino Schokolade,San Antonio,90g,Snacks & Sweets,Migros,2023-05-24
+882,3.50,Polli Peperoni Mix,Polli,285g,Snacks & Sweets,Migros,2023-05-24
+883,1.20,Polli Bruschetta Pomodoro e aglio,Polli,90g,Snacks & Sweets,Migros,2023-05-24
+884,7.95,La Reinese Peperoncini farc. al tonno,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+885,4.60,Polli Champignons grilliert,Polli,285g,Snacks & Sweets,Migros,2023-05-24
+886,5.65,Aus der Region Zwiebel-Confit,unknown,110g,Snacks & Sweets,Migros,2023-05-24
+887,4.90,Polli Pilzmix grilliert,Polli,285g,Snacks & Sweets,Migros,2023-05-24
+888,4.10,La Reinese Peperoncini macinati,unknown,170g,Snacks & Sweets,Migros,2023-05-24
+889,5.50,Polli Funghi alla pizzaiola,Polli,285g,Snacks & Sweets,Migros,2023-05-24
+890,4.20, Chocolates Almond Butter Cups,Niagara,116g,Snacks & Sweets,Migros,2023-05-24
+891,3.20,Da Emilio Bruschetta carciofi,Da Emilio,190g,Snacks & Sweets,Migros,2023-05-24
+892,19.10,Sélection Panettone Artigianale,Migros Sélection,500g,Snacks & Sweets,Migros,2023-05-24
+893,19.10, Panettone Artigianale,Sélection,500g,Snacks & Sweets,Migros,2023-05-24
+894,4.95,Antipasti Platte,unknown,170g,Snacks & Sweets,Migros,2023-05-24
+895,10.90,Aus der Region Peperon. sott'olio,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+896,2.80,Crispy Coaties Salzbrezel,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+897,3.20,  ExcellenceTablette de chocolatDark- Intense Pear,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+898,4.20,"Powerful MixEdamame, roasted almonds, Blackcurrant &Chickpeas",You,170g,Snacks & Sweets,Migros,2023-05-24
+899,5.95,  RagusaChocolate pralines with praline fillingFriends - Classic,Camille Bloch,132g,Snacks & Sweets,Migros,2023-05-24
+900,4.20,Rice crackersPoppy,Blévita,210g,Snacks & Sweets,Migros,2023-05-24
+901,3.95,Pommes ChipsCrème fraîche,Farm,175g,Snacks & Sweets,Migros,2023-05-24
+902,3.50,  Schoko-BonsWhite chocolate confection filled with milk and crushed hazelnuts,Kinder,200g,Snacks & Sweets,Migros,2023-05-24
+903,10.70,Finest treats,unknown,1kg,Snacks & Sweets,Migros,2023-05-24
+904,4.30,Extra fine milk chocolateCats' tongues,Frey,125g,Snacks & Sweets,Migros,2023-05-24
+905,4.50,  Les GrandesChocolate barsWhite almond,Lindt,150g,Snacks & Sweets,Migros,2023-05-24
+906,4.50,  Les GrandesChocolate barsMilk nut,Lindt,150g,Snacks & Sweets,Migros,2023-05-24
+907,5.40,Chewing gumPeppermint - ,V6,3 action2 x 24g,Snacks & Sweets,Migros,2023-05-24
+908,5.10,"Chocolate barsDark, ",Sélection,80% cocoa Trinidad80g,Snacks & Sweets,Migros,2023-05-24
+909,4.20,Corn ChipsWith barbecue taste,Pancho Villa,200g,Snacks & Sweets,Migros,2023-05-24
+910,4.30,Spelt SabléChocolate,Migros Bio,200g,Snacks & Sweets,Migros,2023-05-24
+911,4.60,er  Around the worldCereal barsCheesecake,Farm,156g,Snacks & Sweets,Migros,2023-05-24
+912,4.70,"Noix mélangées Exotic, salées",Excellent,170g,Snacks & Sweets,Migros,2023-05-24
+913,1.95,Red Band Sweet Strawberries,Red Band,100g,Snacks & Sweets,Migros,2023-05-24
+914,3.40, Maître Choc.Villars Larmes d'absinthe noir,Villars,100g,Snacks & Sweets,Migros,2023-05-24
+915,2.80,Camille Bloch Kirsch ohne Zuckerkruste,Camille Bloch,100g,Snacks & Sweets,Migros,2023-05-24
+916,1.95,Alnatura Gummibären Mix rote Früchte,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+917,2.30,Trolli Dinorex,Trolli,200g,Snacks & Sweets,Migros,2023-05-24
+918,3.70,Mentos Mint,Mentos,5 x 38g,Snacks & Sweets,Migros,2023-05-24
+919,3.–,Bonelle Mix Gelées,Bonelle,175g,Snacks & Sweets,Migros,2023-05-24
+920,2.80,Cola Fröschli,Cola Fröschli,140g,Snacks & Sweets,Migros,2023-05-24
+921,3.–,Gocce Liquirizia,Gocce,175g,Snacks & Sweets,Migros,2023-05-24
+922,5.30,Sun Queen Pekannüsse,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+923,3.60,Party Nussmischung Mexico,Party,200g,Snacks & Sweets,Migros,2023-05-24
+924,2.95,Kinder Cards,Kinder,128g,Snacks & Sweets,Migros,2023-05-24
+925,3.50,Galbusera Magretti Leggeri Plus ,Galbusera,6 porz.260g,Snacks & Sweets,Migros,2023-05-24
+926,4.35,Pavesi Gocciole extra dark,Pavesi,400g,Snacks & Sweets,Migros,2023-05-24
+927,3.20,Galbusera Magretti Più Leggeri ,Galbusera,6 porz.350g,Snacks & Sweets,Migros,2023-05-24
+928,4.90,Pavesi Gocciole Chocolate,Pavesi,500g,Snacks & Sweets,Migros,2023-05-24
+929,3.–, BrothersFARM BROTHERS CHOCO CHIP,Farm,102g,Snacks & Sweets,Migros,2023-05-24
+930,1.95,HARIBOHaribo wilde Erdbeeren,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+931,1.95,Red Band Sour Fizz,Red Band,100g,Snacks & Sweets,Migros,2023-05-24
+932,1.40,HARIBOHaribo Goldbären,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+933,1.20,Swizzels Double Dip,Swizzels,20g,Snacks & Sweets,Migros,2023-05-24
+934,1.95,HARIBOHaribo Pfirsiche,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+935,3.70,Mentos Fruit,Mentos,5 x 38g,Snacks & Sweets,Migros,2023-05-24
+936,1.95,HARIBOHaribo Saure Pommes,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+937,1.95,HARIBOHaribo Happy Cola,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+938,3.80,Maynards Wine Gums,unknown,190g,Snacks & Sweets,Migros,2023-05-24
+939,2.90,Balocco Zero più con gocce di cioccolato,Balocco,210g,Snacks & Sweets,Migros,2023-05-24
+940,3.70,Mentos Rainbow,Mentos,5x38g,Snacks & Sweets,Migros,2023-05-24
+941,7.20,  BioCooked chestnuts,Sun Queen,400g,Snacks & Sweets,Migros,2023-05-24
+942,1.65,Almond honey bar,Alnatura,40g,Snacks & Sweets,Migros,2023-05-24
+943,2.20,V-LoveChocolate bars,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+944,4.50,"  TouristMilk chocolateWith grapes, hazelnuts and almonds",Frey,6 x 35g,Snacks & Sweets,Migros,2023-05-24
+945,3.40,Biscuits with milk chocolateRondo,Chocmidor,100g,Snacks & Sweets,Migros,2023-05-24
+946,3.70,  ExcellenceChocolate barCaramel & Sea Salt ,Lindt,70%100g,Snacks & Sweets,Migros,2023-05-24
+947,3.40,"FlutesCocktail, mini",unknown,135g,Snacks & Sweets,Migros,2023-05-24
+948,4.95,  FairtradeChocolate ballsFilled with dark chocolate cream,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+949,2.60,"Chocolate barsDark, with candied ginger",Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+950,2.50,  Ragusa,Camille Bloch,60% Dark chocolateWith hazelnuts100g,Snacks & Sweets,Migros,2023-05-24
+951,2.15,Alnatura weisse Schokolade Crisp,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+952,8.95,Toblerone White,Toblerone,360g,Snacks & Sweets,Migros,2023-05-24
+953,2.80,Petit Beurre Mini Framboise,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+954,4.60,WALKERS SHORTBR. GLUTENF.,Walkers,140g,Snacks & Sweets,Migros,2023-05-24
+955,2.95,M-ClassicM-Classic Amigos Milch-Schoko,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+956,3.60,Rose of RichmondRoR Oaty Chocolate Biscuit glutenfrei,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+957,2.95,M-ClassicM-Classic Wiener Waffel,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+958,3.30,Petit Beurre Waldbeeren,unknown,138g,Snacks & Sweets,Migros,2023-05-24
+959,0.90,Kinder Cards,Kinder,26g,Snacks & Sweets,Migros,2023-05-24
+960,5.60,Flakes dunkle Schokolade,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+961,2.20,Frothy sugar sweetsFruit-flavored,Trolli,200g,Snacks & Sweets,Migros,2023-05-24
+962,3.95,Sugar-free chewing gumSpearmint,Skai,64g,Snacks & Sweets,Migros,2023-05-24
+963,3.50,  Sour TonguesSour cats' tongues,Red Band,300g,Snacks & Sweets,Migros,2023-05-24
+964,2.30,  FrioneChocolate barsMilk chocolate with honey-almond nougat,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+965,1.25,Extra fine milk chocolateHeart-shaped,Frey,27g,Snacks & Sweets,Migros,2023-05-24
+966,3.50,M-ClassicApricot Tart,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+967,3.30,"  SuprêmeChocolate barsMilk chocolate, whole hazelnuts and caramelized hazelnut brittle",Frey,180g,Snacks & Sweets,Migros,2023-05-24
+968,3.95,LozengesRich in vitamins C,Sport Fresh,2 x 85g,Snacks & Sweets,Migros,2023-05-24
+969,6.10,Frothy sugar sweets,Trolli,1kg,Snacks & Sweets,Migros,2023-05-24
+970,3.20,WafersClassico,Chocmidor,190g,Snacks & Sweets,Migros,2023-05-24
+971,4.20,Herb candiesGlacier mint - without sugar,Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+972,9.95,  LindorChocolate ballsAssorted,Lindt,200g,Snacks & Sweets,Migros,2023-05-24
+973,6.50,  Beau NugaFine marzipan with ,Zentis,38% nougat coated with milk chocolate115g,Snacks & Sweets,Migros,2023-05-24
+974,5.80,  ProteinFilled spelt biscuitsCocoa - almond,Blévita,216g,Snacks & Sweets,Migros,2023-05-24
+975,1.40,"Chewing gumCinnamon, sugar-free, with sweeteners",Skai,20g,Snacks & Sweets,Migros,2023-05-24
+976,2.75,"M-Classic  Blox Biskizz miniBiscuit, caramel, chocolatMinis",unknown,40g,Snacks & Sweets,Migros,2023-05-24
+977,4.20,  BriossGénoise fourré au lait,Kinder,270g,Snacks & Sweets,Migros,2023-05-24
+978,1.30,  RisolettoMilk chocolate with rice crispies and caramel fillingClassic,Frey,42g,Snacks & Sweets,Migros,2023-05-24
+979,1.95,Almond biscuitsAlmond,Moo Bär,45g,Snacks & Sweets,Migros,2023-05-24
+980,1.20,Milk chocolate with filled fine candycreme,Snickers,50g,Snacks & Sweets,Migros,2023-05-24
+981,3.60,Twix Sticks,Twix,200g,Snacks & Sweets,Migros,2023-05-24
+982,4.80,Sun Queen Paprika-Cashewnüsse,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+983,1.20,Alnatura Riegel Café Biscuit,Alnatura,37.5g,Snacks & Sweets,Migros,2023-05-24
+984,1.40,Kinder Riegel,Kinder,42g,Snacks & Sweets,Migros,2023-05-24
+985,0.75,Kinder Riegel,Kinder,21g,Snacks & Sweets,Migros,2023-05-24
+986,4.50,Risoletto minis assortiert,Frey,210g,Snacks & Sweets,Migros,2023-05-24
+987,4.50, minis assortiert,Risoletto,210g,Snacks & Sweets,Migros,2023-05-24
+988,1.50,Appenzeller Biberli,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+989,2.60,DalColle Trotterella,Dal Colle,172g,Snacks & Sweets,Migros,2023-05-24
+990,2.60,Pansoffice,Dal Colle,202g,Snacks & Sweets,Migros,2023-05-24
+991,15.95,Gottlieber Tradition ,Gottlieber,20er300g,Snacks & Sweets,Migros,2023-05-24
+992,3.95,Mini Schenkeli,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+993,4.95,M-ClassicM-Classic Zitronenrollen,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+994,4.95,M-ClassicM-Classic Himbeer Rolle,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+995,2.60,DalColle Bambolone al latte,Dal Colle,210g,Snacks & Sweets,Migros,2023-05-24
+996,8.95,Golden,Toblerone,360g,Snacks & Sweets,Migros,2023-05-24
+997,8.95,Toblerone Orange Twist,Toblerone,360g,Snacks & Sweets,Migros,2023-05-24
+998,8.95,Crunchy Almonds,Toblerone,360g,Snacks & Sweets,Migros,2023-05-24
+999,1.50,Snickers Peanut Butter,Snickers,36.5g,Snacks & Sweets,Migros,2023-05-24
+1000,5.40,Migros Bio Dinkel Birnweggen,Migros Bio,450g,Snacks & Sweets,Migros,2023-05-24
+1001,7.65,Schenkeli,unknown,210g,Snacks & Sweets,Migros,2023-05-24
+1002,4.90,Pitch choco barre lait,Brioche Pasquier,300g,Snacks & Sweets,Migros,2023-05-24
+1003,4.20,Pitch pepites de chocolat,Brioche Pasquier,300g,Snacks & Sweets,Migros,2023-05-24
+1004,2.95,Snickers Crisp,Snickers,5 x 40g,Snacks & Sweets,Migros,2023-05-24
+1005,4.60,Michel et Augustin  Les trublions du goûtSuper cookiesWith milk chocolate and hazelnuts,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+1006,2.50,Wafer mix,Desiree,500g,Snacks & Sweets,Migros,2023-05-24
+1007,4.60,Herb candies without sugar,Ricola,125g,Snacks & Sweets,Migros,2023-05-24
+1008,9.95,  LindorChocolate ballsDark - ,Lindt,70% cocoa200g,Snacks & Sweets,Migros,2023-05-24
+1009,4.50,V-LoveCrunchy cloudsRaspberry,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1010,2.60,V-LoveChocolate bars,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1011,2.–,ConfectionerySour mushrooms,Red Band,100g,Snacks & Sweets,Migros,2023-05-24
+1012,3.95,Sugar-free chewing gumAir Boost,Skai,64g,Snacks & Sweets,Migros,2023-05-24
+1013,2.10,"  TouristDark chocolate with grapes, hazelnuts and almondsCrèmant",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1014,2.95,BranchesClassic,Frey,135g,Snacks & Sweets,Migros,2023-05-24
+1015,4.20,Chocolate barsMilk Grapes & Hazelnuts,Lindt,200g,Snacks & Sweets,Migros,2023-05-24
+1016,3.95,Tradition - BiscuitsChocolate cakes,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1017,1.95,  PavesiBiscuits croquantsAvec un contenu crémeux au chocolat,Ringo,165g,Snacks & Sweets,Migros,2023-05-24
+1018,1.95,  PavesiBiscuits fourrésAvec un contenu crémeux à la vanille,Ringo,165g,Snacks & Sweets,Migros,2023-05-24
+1019,2.95,Caramel candies coated with chocolate with milk fat,Micamu,400g,Snacks & Sweets,Migros,2023-05-24
+1020,4.10,  PavesiBiscuits croquantsAvec un contenu crémeux au chocolat,Ringo,6 x 28g,Snacks & Sweets,Migros,2023-05-24
+1021,1.30,Biscuits  à l'épeautreMini - fourrés,Alnatura,90g,Snacks & Sweets,Migros,2023-05-24
+1022,4.95,Ovomaltine Crisp Müesli Riegel,Ovomaltine,150g,Snacks & Sweets,Migros,2023-05-24
+1023,2.95,Be-Kind Caramel Almond & Sea Salt,Be Kind,40g,Snacks & Sweets,Migros,2023-05-24
+1024,4.–,Galbusera ZeroGrano Frollini miele,Galbusera,220g,Snacks & Sweets,Migros,2023-05-24
+1025,3.–,Galbusera Zero grano al cacao,Galbusera,160g,Snacks & Sweets,Migros,2023-05-24
+1026,1.95,YOUBio YOU Crisps Red Rice & Chickpea,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+1027,2.75,Oreo Double Cream,Oreo,157g,Snacks & Sweets,Migros,2023-05-24
+1028,4.90,Werners AdR Nideltaefeli,Werners,150g,Snacks & Sweets,Migros,2023-05-24
+1029,6.60,Amaretti gefüllt,unknown,210g,Snacks & Sweets,Migros,2023-05-24
+1030,3.90,Ringo vaniglia ,Ringo,6 p.330g,Snacks & Sweets,Migros,2023-05-24
+1031,1.90,Oreo Pocket,Oreo,66g,Snacks & Sweets,Migros,2023-05-24
+1032,4.90,Werners Nideltäfeli,Werners,150g,Snacks & Sweets,Migros,2023-05-24
+1033,22.90,Läckerli Huus Flûtes de Bâle,Läckerli Huus,275g,Snacks & Sweets,Migros,2023-05-24
+1034,6.90,Läckerli Huus Rahmtäfeli,Läckerli Huus,200g,Snacks & Sweets,Migros,2023-05-24
+1035,Regional Price,St. Galler Biberli,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1036,2.–,Änis Biber,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+1037,2.30,Spitzbub Saison,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+1038,2.–,Sugar Lozenges with fruit aromaLove Hearts,Swizzels,118g,Snacks & Sweets,Migros,2023-05-24
+1039,2.50,Oat barApricot & coconut,Deliciously Ella,50g,Snacks & Sweets,Migros,2023-05-24
+1040,2.–,  BioNut and date bar,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+1041,15.90,"  TinyChocolate barsAssortment milk, dark, white chocolate, with honey and almond nougat",Toblerone,496g,Snacks & Sweets,Migros,2023-05-24
+1042,4.20,Throat lozengesSugar--free,Cassis,110g,Snacks & Sweets,Migros,2023-05-24
+1043,3.80,Fruit cubesCranberry,You,100g,Snacks & Sweets,Migros,2023-05-24
+1044,4.40,M&M'sCrispy in milk chocolate,unknown,213g,Snacks & Sweets,Migros,2023-05-24
+1045,9.95,  LindorChocolate ballsWhite,Lindt,200g,Snacks & Sweets,Migros,2023-05-24
+1046,10.50,Assorted truffles,Frey,256g,Snacks & Sweets,Migros,2023-05-24
+1047,5.20,Truffles Dark chocolates,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+1048,2.65,  SuprêmeChocolate barsSalted caramel,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1049,3.80,Peperoni grigliati,Da Emilio,125g,Snacks & Sweets,Migros,2023-05-24
+1050,5.30,  ApéroNut mixtureRoasted and spiced,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+1051,1.75,Pain d'épices petit oursNon fourré,unknown,95g,Snacks & Sweets,Migros,2023-05-24
+1052,5.95,Roasted almonds,Werners,140g,Snacks & Sweets,Migros,2023-05-24
+1053,Regional Price,"Aha!Gingerbread, gluten-free",unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1054,Regional Price,Shortbread,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1055,1.85,American Favorites Cookie,American Favorites,76g,Snacks & Sweets,Migros,2023-05-24
+1056,6.50,Butter & Chocolat Chip Cookies,unknown,454g,Snacks & Sweets,Migros,2023-05-24
+1057,4.60,Walkers Toffee & Pecan Biscuits,Walkers,150g,Snacks & Sweets,Migros,2023-05-24
+1058,4.10,Sì con Riso Merendina,Riso Scotti,200g,Snacks & Sweets,Migros,2023-05-24
+1059,2.60,DalColle Bonn al cioccolato,Dal Colle,210g,Snacks & Sweets,Migros,2023-05-24
+1060,Regional Price,American Favorites Brownie,American Favorites,NA,Snacks & Sweets,Migros,2023-05-24
+1061,2.60,DalColle Bonn all'albicocca,Dal Colle,210g,Snacks & Sweets,Migros,2023-05-24
+1062,2.80,Bio Cake Stück Apfel,Migros Bio,80g,Snacks & Sweets,Migros,2023-05-24
+1063,1.–,Birnenweggli,unknown,50g,Snacks & Sweets,Migros,2023-05-24
+1064,8.80,Milk chocolate with almond cream fillingHappiness Käferli,Frey,200g,Snacks & Sweets,Migros,2023-05-24
+1065,1.40,"Chewing gumLemon-pineapple, sugar-free, with sweeteners",Skai,20g,Snacks & Sweets,Migros,2023-05-24
+1066,5.40,"Chocolate barsDark, ",Sélection,100% cocoa Madagascar80g,Snacks & Sweets,Migros,2023-05-24
+1067,2.35,Tradition milk chocolateWithout sugar added,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1068,4.95,  Rêve d'orConfectionery specialties,Frey,45g,Snacks & Sweets,Migros,2023-05-24
+1069,1.80,St-MichelShortbreadCoconut,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1070,3.20,ChipsPlain,Migros Bio,140g,Snacks & Sweets,Migros,2023-05-24
+1071,2.20,Chocolate barsExtra dark ,Frey,72% Cocoa100g,Snacks & Sweets,Migros,2023-05-24
+1072,2.95,"Chewing gumGreen mint, sugar-free",Stimorol,2 x 14g,Snacks & Sweets,Migros,2023-05-24
+1073,8.20,Macadamia nuts with milk chocolate,Sélection,120g,Snacks & Sweets,Migros,2023-05-24
+1074,2.20,Fruit slicesAlmond,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+1075,1.–,Cocos bars whole milk,Alnatura,40g,Snacks & Sweets,Migros,2023-05-24
+1076,4.60,Herb candiesElderflowers,Ricola,125g,Snacks & Sweets,Migros,2023-05-24
+1077,3.20,Milk chocolateWith Cognac syrup centre,Camille Bloch,100g,Snacks & Sweets,Migros,2023-05-24
+1078,2.20,Fruit slicesMulti,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+1079,3.50,Gaufres et pancakes,La Crêpière,225g,Snacks & Sweets,Migros,2023-05-24
+1080,4.10,Aus der Region Wilisauer mini,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+1081,5.50,Pain d'anis,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+1082,2.65,Ginger Thins,Lotus,150g,Snacks & Sweets,Migros,2023-05-24
+1083,4.20,Pastefrolle Nostrane della Valle Bedretto,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1084,2.40,M-ClassicM-CLAS AMARETTI ,unknown,200G200g,Snacks & Sweets,Migros,2023-05-24
+1085,3.40,Galbusera Più integrali ,Galbusera,6 por.330g,Snacks & Sweets,Migros,2023-05-24
+1086,3.10,Pavesi Pavesini ,Pavesi,8xKekse200g,Snacks & Sweets,Migros,2023-05-24
+1087,5.50,Croquets,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+1088,Regional Price,Osterspitzbuben,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1089,7.20,Croquet fribourgeois,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1090,5.50,Choco Makroenli ,unknown,4/200g200g,Snacks & Sweets,Migros,2023-05-24
+1091,8.–,Läckerli Huus Gebrannte Mandeln,Läckerli Huus,150g,Snacks & Sweets,Migros,2023-05-24
+1092,1.50,Freshly prepared forAmaretto,unknown,85g,Snacks & Sweets,Migros,2023-05-24
+1093,Regional Price,Brunslistern,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1094,6.30,Brunsli,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1095,4.10,Pancakes,Brioche Pasquier,350g,Snacks & Sweets,Migros,2023-05-24
+1096,8.50,TruffesWith marc de champagne,Frey,130g,Snacks & Sweets,Migros,2023-05-24
+1097,2.95,Coconut macaroons,unknown,310g,Snacks & Sweets,Migros,2023-05-24
+1098,3.60,Rose of RichemondCookiesTriple chocolate,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1099,2.80,  MiniCrackersCocoa,Blévita,90g,Snacks & Sweets,Migros,2023-05-24
+1100,2.95,PeanutsRoasted and salted,Alnatura,175g,Snacks & Sweets,Migros,2023-05-24
+1101,2.10,Fruit-flavored lozenges,Mentos,2 x 38g,Snacks & Sweets,Migros,2023-05-24
+1102,4.95, Gum  WhiteChewing gum with sweetenerMint flavor,Mentos,75g,Snacks & Sweets,Migros,2023-05-24
+1103,2.20,"  MahonyFine ChocolateHoney, almond, nougat",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1104,2.80,  BakedCracker Crispy &ThinBell pepper,Zweifel,95g,Snacks & Sweets,Migros,2023-05-24
+1105,5.95,Be-KindCaramel coated bar with almonds and sea salt,unknown,3x30g,Snacks & Sweets,Migros,2023-05-24
+1106,2.70,  LindorChocolate barsWhite,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+1107,5.90,Throat lozengesElderflower,Grether's,60g,Snacks & Sweets,Migros,2023-05-24
+1108,2.10,Berries fruit sliceBerries,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+1109,6.30,Créa d'OrMélange de biscuits suisses de première qualitéDeluxe - boîte métale,unknown,648g,Snacks & Sweets,Migros,2023-05-24
+1110,3.60,"Crispy biscuit, tender caramel, white chocolate",Twix,6x46g,Snacks & Sweets,Migros,2023-05-24
+1111,2.35,Aha!Hazelnut biscuits with cocoa,unknown,55g,Snacks & Sweets,Migros,2023-05-24
+1112,3.95," BrothersOrganic biscuits with oats, spelt and ryeBrownie - almond",Farm,150g,Snacks & Sweets,Migros,2023-05-24
+1113,12.50,Milk chocolate with malt extract and Choco KrispiesWith barley malt extract (,Eimalzin,4.5%) and cocoa-containing wheat crispies (3.5%)750g,Snacks & Sweets,Migros,2023-05-24
+1114,11.95,  Classic BranchesClassic BranchesBicolore,Frey,810g,Snacks & Sweets,Migros,2023-05-24
+1115,11.95,Classic BranchesDark,Frey,810g,Snacks & Sweets,Migros,2023-05-24
+1116,1.20,Barre à l'amarante et au chocolat noir,Alnatura,25g,Snacks & Sweets,Migros,2023-05-24
+1117,3.20,Macarons à la noix de coco,unknown,204g,Snacks & Sweets,Migros,2023-05-24
+1118,Regional Price,Aha!Biscuit sablé sans gluten avec beurre exempt de lactoseMilanais,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1119,1.25,Chocolat au lait extra fin,Frey,35g,Snacks & Sweets,Migros,2023-05-24
+1120,1.35,Chocolat au laitFourré à la crème de noisettes,Frey,42g,Snacks & Sweets,Migros,2023-05-24
+1121,2.20,Chocolate barsPraline filling and whole hazelnuts,Ragusa,50g,Snacks & Sweets,Migros,2023-05-24
+1122,2.20,Mahony White,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1123,1.30,Alnatura Nougat & Mandel,Alnatura,35g,Snacks & Sweets,Migros,2023-05-24
+1124,1.70,Ovomaltine Branchli,Ovomaltine,33g,Snacks & Sweets,Migros,2023-05-24
+1125,1.20,Alnatura Riegel Himbeer Joghurt,Alnatura,37.5g,Snacks & Sweets,Migros,2023-05-24
+1126,3.50,Bounty,Bounty,4 x 57g,Snacks & Sweets,Migros,2023-05-24
+1127,4.60,Aus der Region Apfelringe,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1128,5.90,Aus der Region Apfelringe,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1129,3.50,Ciambelle ,unknown,3 Stück99g,Snacks & Sweets,Migros,2023-05-24
+1130,2.50,Alnatura Hafer Knusper Kekse,Alnatura,150g,Snacks & Sweets,Migros,2023-05-24
+1131,6.–,Maison Cotolot Pruneaux d'agen,Maison Cotolot,500g,Snacks & Sweets,Migros,2023-05-24
+1132,6.20,Aus der Region Apfelringe Redlove,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1133,2.10,Taralli Peperoncino,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1134,8.50,Gottlieber Tradition ,Gottlieber,10er150g,Snacks & Sweets,Migros,2023-05-24
+1135,2.95,M-ClassicM-Classic Carré aux fraises,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1136,3.60,Balocco Bastoncini,Balocco,350g,Snacks & Sweets,Migros,2023-05-24
+1137,2.60,Galbusera Buoni cosi ,Galbusera,4 porz.160g,Snacks & Sweets,Migros,2023-05-24
+1138,7.20,Anisgebäck,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1139,7.–,Vanillesterne,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1140,4.20,Aus der Region Züri Tirggel,unknown,195g,Snacks & Sweets,Migros,2023-05-24
+1141,3.60,Marmor-Butter Rosetten,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+1142,3.50,Galbusera Buoni Così ,Galbusera,6 porz.330g,Snacks & Sweets,Migros,2023-05-24
+1143,8.95,Gottlieber Hüppen Tradition Mini,Gottlieber,150g,Snacks & Sweets,Migros,2023-05-24
+1144,2.40,Migros Bio Dinkelpreussen mit Butter,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+1145,2.50,Alnatura Knusper Gebäck,Alnatura,150g,Snacks & Sweets,Migros,2023-05-24
+1146,2.25,M-ClassicM-Classic Dessert Preussen Léger,unknown,220g,Snacks & Sweets,Migros,2023-05-24
+1147,2.30,Spitzbube,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+1148,2.30,Weihnachtsspitzbube,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+1149,Regional Price,Feigen getrocknet,Migros Fresca,NA,Snacks & Sweets,Migros,2023-05-24
+1150,5.75,Migros Bio Preussen,Migros Bio,300g,Snacks & Sweets,Migros,2023-05-24
+1151,1.85,Lindt Riegel Milch-Nuss,Lindt,35g,Snacks & Sweets,Migros,2023-05-24
+1152,Regional Price,M-ClassicM-Classic Preussen,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1153,1.90,Aenisstängel ,unknown,2 Stück160g,Snacks & Sweets,Migros,2023-05-24
+1154,5.85,Ragusa Noir,Ragusa,300g,Snacks & Sweets,Migros,2023-05-24
+1155,4.60,Aus der Region Apfelringe,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+1156,Regional Price,Migros Daily Nuts Tropica,Migros Daily,NA,Snacks & Sweets,Migros,2023-05-24
+1157,4.95,Lindt Riegel Milch-Nuss,Lindt,4x35g,Snacks & Sweets,Migros,2023-05-24
+1158,12.50,Klaussack,unknown,600g,Snacks & Sweets,Migros,2023-05-24
+1159,1.95,Alnatura Nuss & Frucht,Alnatura,60g,Snacks & Sweets,Migros,2023-05-24
+1160,1.80,Vogelnestli,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+1161,1.85,Vogelnestli,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+1162,2.90,Balocco Zero più ,Balocco,7 cereali e cornflakes230g,Snacks & Sweets,Migros,2023-05-24
+1163,1.90,Spitzbueb Saison,unknown,70g,Snacks & Sweets,Migros,2023-05-24
+1164,7.95,Zimtsterne,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1165,Regional Price,Bratapfel Stollen,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1166,6.70,Sélection Mandel-Schokozauber,Migros Sélection,200g,Snacks & Sweets,Migros,2023-05-24
+1167,6.70, Mandel-Schokozauber,Sélection,200g,Snacks & Sweets,Migros,2023-05-24
+1168,6.30,Mailänderli,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1169,Regional Price,Mailänderlistern,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1170,Regional Price,Snackbrötchen Kräuter,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1171,2.–,  FairtradeChocolate barsMilk chocolate with hazelnuts,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+1172,4.20,Oats biscuitsWith sesame,Blévita,210g,Snacks & Sweets,Migros,2023-05-24
+1173,3.10,  BranchesMilk chocolateWith barley malt extract (,Eimalzin,4.5%) and cocoa-containing wheat crispies (3.5%)125g,Snacks & Sweets,Migros,2023-05-24
+1174,4.95,  Mon ChériChocolate liqueur cherry pralines,Ferrero,168g,Snacks & Sweets,Migros,2023-05-24
+1175,3.20,  ExcellenceChocolate barsDark - cocoa ,Lindt,78%100g,Snacks & Sweets,Migros,2023-05-24
+1176,4.95,Tocchetti rosmarino,Da Emilio,300g,Snacks & Sweets,Migros,2023-05-24
+1177,2.20,"  Les DélicesChocolate barsWhite, with hazelnut brittle",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1178,4.50,  Start upSandwich biscuits,Blévita,148g,Snacks & Sweets,Migros,2023-05-24
+1179,4.20,Fruit jelly,Haribo,250g,Snacks & Sweets,Migros,2023-05-24
+1180,3.20,SpreadOlives and dried tomatoes,Da Emilio,190g,Snacks & Sweets,Migros,2023-05-24
+1181,2.80,  BakedCracker pitaRosemary,Zweifel,90g,Snacks & Sweets,Migros,2023-05-24
+1182,Regional Price, gingerbread treats,Soft,NA,Snacks & Sweets,Migros,2023-05-24
+1183,4.95,Dark chocolateDark cream filling,Frey,250g,Snacks & Sweets,Migros,2023-05-24
+1184,3.30,Lozenges for cough and hoarsenessExtra fresh - Cherry,Fisherman's Friend,2 x 25g,Snacks & Sweets,Migros,2023-05-24
+1185,4.80,SportMintBonbonsTendres avec sucre de raisin,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+1186,2.95,Finest cream caramelsSmooth,Micamu,155g,Snacks & Sweets,Migros,2023-05-24
+1187,3.95,"  SuprêmeFine milk chocolate with whole hazelnuts, almonds and pistachiosMilk three nuts",Frey,200g,Snacks & Sweets,Migros,2023-05-24
+1188,3.30,  SuprêmeDark chocolate barAlmonds &salted caramel,Frey,180g,Snacks & Sweets,Migros,2023-05-24
+1189,5.90,Baci di dama,Sélection,160g,Snacks & Sweets,Migros,2023-05-24
+1190,1.75,Party Wasabi Nuts,Party,200g,Snacks & Sweets,Migros,2023-05-24
+1191,1.70,Party Crunch Nutz,Party,170g,Snacks & Sweets,Migros,2023-05-24
+1192,3.70,Gran Pavesi Mediterraneo,Pavesi,270g,Snacks & Sweets,Migros,2023-05-24
+1193,3.95,  crunchy cloudsMilk chocolate with whole hazelnuts,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1194,10.95,  ConnaisseursTruffes Marc de Champagne,Lindt,135g,Snacks & Sweets,Migros,2023-05-24
+1195,3.50,  KezzEnglish ChipsIndian Tellicherry pepper & sea salt,Zweifel,110g,Snacks & Sweets,Migros,2023-05-24
+1196,2.95,V-LoveChoco cookies,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1197,2.20,V-LoveChocolate bars,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1198,2.–,  NoxanaFine milk chocolateWhole hazelnuts,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1199,3.–,Marzipan and Dark Chocolate Bites,Alnatura,70g,Snacks & Sweets,Migros,2023-05-24
+1200,2.20,  DuettChocolate barsTwo-layer chocolate with Japanese biscuit,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1201,4.25,"Herb candiesElderberry, sugar-free",Bonherba,150g,Snacks & Sweets,Migros,2023-05-24
+1202,3.40,  Batata FritaPotato Fry,Dalimar,185g,Snacks & Sweets,Migros,2023-05-24
+1203,2.65,  Suprême,Frey,77% Dark chocolatePeru100g,Snacks & Sweets,Migros,2023-05-24
+1204,4.–,M-ClassicEucalyptus rubber lozengesSugar-free,unknown,2 x 70g,Snacks & Sweets,Migros,2023-05-24
+1205,2.95,YOUYOU Crispies Randen,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+1206,2.95,YOUYOU Crispies Provençale,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+1207,3.90,Galbusera RisoSuRiso crackers ,Galbusera,10 porzioni380g,Snacks & Sweets,Migros,2023-05-24
+1208,3.40,Galbusera ZeroGrano Wafer con Cioccolato,Galbusera,180g,Snacks & Sweets,Migros,2023-05-24
+1209,4.60, Cracker senza glutine,Galbusera,320g,Snacks & Sweets,Migros,2023-05-24
+1210,2.80,Aus der Region Butter Flûtes,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1211,4.60,Galbusera Crackers ohne Hefe,Galbusera,300g,Snacks & Sweets,Migros,2023-05-24
+1212,3.90,Flûtes au beurre Trio cocktail,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1213,3.50,Gran Pavesi Curcuma Cracker,Pavesi,280g,Snacks & Sweets,Migros,2023-05-24
+1214,4.80,Crackers crosté,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+1215,1.80,M-ClassicM-Classic Waffeln Zitrone,unknown,235g,Snacks & Sweets,Migros,2023-05-24
+1216,3.40,Alnatura Oliven Mix mit Kräutern,Alnatura,180g,Snacks & Sweets,Migros,2023-05-24
+1217,1.95,Polli Olive verdi,Polli,2 x 40g,Snacks & Sweets,Migros,2023-05-24
+1218,2.70,M-ClassicM-Classic MSC Oliven mit Sardellenpaste,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1219,2.30,Polli Olive Rondelle,Polli,80g,Snacks & Sweets,Migros,2023-05-24
+1220,1.95,Polli olive nere,Polli,2 x 40g,Snacks & Sweets,Migros,2023-05-24
+1221,4.95,Da Emilio Grissini Rosmarin,Da Emilio,200g,Snacks & Sweets,Migros,2023-05-24
+1222,4.95,Da Emilio Lingue,Da Emilio,130g,Snacks & Sweets,Migros,2023-05-24
+1223,4.95,Da Emilio Lingue Rosmarin,Da Emilio,130g,Snacks & Sweets,Migros,2023-05-24
+1224,Regional Price,Basler Läckerli Piccolo,Läckerli Huus,NA,Snacks & Sweets,Migros,2023-05-24
+1225,12.90,Basler Läckerli Münster,Läckerli Huus,270g,Snacks & Sweets,Migros,2023-05-24
+1226,9.40,Läckerli Huus Basler Läckerli noir,Läckerli Huus,120g,Snacks & Sweets,Migros,2023-05-24
+1227,9.40,Läckerli Huus Basler Läckerli lait,Läckerli Huus,120g,Snacks & Sweets,Migros,2023-05-24
+1228,8.90,Läckerli Huus Basler Läckerli,Läckerli Huus,300g,Snacks & Sweets,Migros,2023-05-24
+1229,13.90,Läckerli Huus Basler Läckerli,Läckerli Huus,500g,Snacks & Sweets,Migros,2023-05-24
+1230,2.95,Italian Olives,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+1231,3.40,"Herb candiesHoney, Lemon Echinacea",Ricola,75g,Snacks & Sweets,Migros,2023-05-24
+1232,7.95,The Biscuit Family  Best ofAssortment of biscuits,unknown,220g,Snacks & Sweets,Migros,2023-05-24
+1233,4.95,  RagusaChocolate stemsBlond,Camille Bloch,5 x 25g,Snacks & Sweets,Migros,2023-05-24
+1234,4.20,Herb candiesElderflowers  - Without sugar,Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+1235,2.–,M-Classic  KisssBlack Chocolate Choko-KöpfliSugar foam with waffle,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+1236,4.45,  CoatiesLozengesAlmonds with sugar coating,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1237,4.95,  BranchesMini branchesClassic,Frey,230g,Snacks & Sweets,Migros,2023-05-24
+1238,3.20,M-ClassicGreek olivesStuffed with red jalapeños,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1239,1.60,Filled chocolate bars with caramel and peanuts,Choco Fun,216g,Snacks & Sweets,Migros,2023-05-24
+1240,3.30,  Lofthouse'sLozenges for cough and hoarsenessWithout sugar with sorbitol - Eucalyptus - Extra Fresh,Fisherman's Friend,2 x 25g,Snacks & Sweets,Migros,2023-05-24
+1241,2.20,  Les AdorablesTender milk chocolate with semi-liquid cream caramel filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1242,5.40,CHOCOLATE.HEARTS COLORED. ,unknown,200G200g,Snacks & Sweets,Migros,2023-05-24
+1243,4.95,  FairtradeChocolate ballsMilk and a creamy heart,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+1244,2.30,Grissini Piemontesi,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1245,2.80,Aus der Region Käse Flûtes,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1246,4.20,Aus der Region Bouchées croquante,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1247,2.10,Taralli Finocchio,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1248,3.50,Flûtes au sel,unknown,180g,Snacks & Sweets,Migros,2023-05-24
+1249,2.10,Taralli Caserecci,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1250,4.40,Aus der Region Bâtonnets vaudois,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1251,5.10,Aus der Region Bâtonnets à l.tomate,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1252,3.90,Grissini Sesamo e chia,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1253,2.80,Butter Flûtes Premium,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1254,2.10,Pomegranate grape fruit slice,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+1255,5.40,Chewing gumWhite spearmint,V6,2 x 24g,Snacks & Sweets,Migros,2023-05-24
+1256,1.40,"Chewing gumGreen mint, sugar-free, with sweeteners",Skai,20g,Snacks & Sweets,Migros,2023-05-24
+1257,3.70,PeasWasabi,Party,170g,Snacks & Sweets,Migros,2023-05-24
+1258,9.95,  LindorChocolate ballsDark ,Lindt,60% cocoa200g,Snacks & Sweets,Migros,2023-05-24
+1259,0.90,Cashew brittle bar,Alnatura,30g,Snacks & Sweets,Migros,2023-05-24
+1260,3.40,Chips from QuinoaPlain,You,90g,Snacks & Sweets,Migros,2023-05-24
+1261,4.40,"Herb candiesHoney, Lemon Echinacea",Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+1262,2.95, Caramels,Soft,150g,Snacks & Sweets,Migros,2023-05-24
+1263,2.95,Energy barWhite chocolate & macadamia nut,Clif,68g,Snacks & Sweets,Migros,2023-05-24
+1264,2.95,Mini caramel waffles,Alnatura,150g,Snacks & Sweets,Migros,2023-05-24
+1265,2.55,"Giandor milk chocolateAlmond cream filling, without sugar added",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1266,2.95,"Chewing gumWild cherry, sugar-free",Stimorol,2 x 14g,Snacks & Sweets,Migros,2023-05-24
+1267,9.95,  Rêve d'orConfectionery specialities,Frey,118g,Snacks & Sweets,Migros,2023-05-24
+1268,3.95,Assorted truffles,Frey,49g,Snacks & Sweets,Migros,2023-05-24
+1269,2.40,  CornchipsSnack au maisChili Paprika,Zweifel,125g,Snacks & Sweets,Migros,2023-05-24
+1270,1.80,"Mint lozengesWith sorbitol, without sugar",Fisherman's Friend,25g,Snacks & Sweets,Migros,2023-05-24
+1271,1.95,YOUYOU Linsenchips Sweet Chili,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+1272,3.50,Stedy Chips Härdöpfelgwürz,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1273,3.95,Aus der Region Ribelmais Tort.Chips,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1274,3.95, PotatoesFarm Chips Tortilla Ribelmais,Farm,150g,Snacks & Sweets,Migros,2023-05-24
+1275,1.95,Zweifel Vaya Bean Snack,Zweifel,27g,Snacks & Sweets,Migros,2023-05-24
+1276,2.90,Groksi Grana panado,Groksi,60g,Snacks & Sweets,Migros,2023-05-24
+1277,3.90,Aus der Region Tortilla Chips Vollk,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1278,2.20,Alnatura Karotten Cracker,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+1279,1.95,  BioCorn chips and black rice,You,80g,Snacks & Sweets,Migros,2023-05-24
+1280,2.60,Doritos Nacho Cheese,Doritos,110g,Snacks & Sweets,Migros,2023-05-24
+1281,2.60,Doritos Sweet Chili,Doritos,110g,Snacks & Sweets,Migros,2023-05-24
+1282,4.30,Aus der Region Chili Ribelmais Tort.Chips,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1283,2.50,Fonzies,Fonzies,100g,Snacks & Sweets,Migros,2023-05-24
+1284,2.95,BIO ACAP. TORT. CHIPS CHI,Acapulco,125g,Snacks & Sweets,Migros,2023-05-24
+1285,2.95,BIO ACAP. TORT. CHIPS NA.,Acapulco,125g,Snacks & Sweets,Migros,2023-05-24
+1286,2.65,  SuprêmeChocolate barsDark caramel-almond nougat,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1287,6.95,Broken chocolate,Sélection,150g,Snacks & Sweets,Migros,2023-05-24
+1288,4.75,PhysalisDried,Migros Bio,130g,Snacks & Sweets,Migros,2023-05-24
+1289,8.95,  ConfiseurAssorted chocolates,Frey,149g,Snacks & Sweets,Migros,2023-05-24
+1290,5.95,"DemeterApricots, dried and pitted",unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1291,3.80,Petit-Beurre with milk chocolate,Migros Bio,150g,Snacks & Sweets,Migros,2023-05-24
+1292,3.40,M&M'sChocolate lentils (milk chocolate ,unknown,70%) with sugar coating250g,Snacks & Sweets,Migros,2023-05-24
+1293,3.30,Chips hummusPepper,You,100g,Snacks & Sweets,Migros,2023-05-24
+1294,1.40,"Chewing gumBerry, sugar-free, with sweeteners",Skai,20g,Snacks & Sweets,Migros,2023-05-24
+1295,6.40,Chewy candyFruit-flavored,Sugus,400g,Snacks & Sweets,Migros,2023-05-24
+1296,5.80,  SandwichOrganic spelt biscuitsCurry - Ananas,Blévita,216g,Snacks & Sweets,Migros,2023-05-24
+1297,1.50,"  SelectionOrganic chocolate barsWhite, lime-poppy",Alnatura,50g,Snacks & Sweets,Migros,2023-05-24
+1298,3.50,Sweet potato chipsWith herbal seasoning,Sélection,100g,Snacks & Sweets,Migros,2023-05-24
+1299,3.20,Pommes ChipsBear's Garlic,Farm,150g,Snacks & Sweets,Migros,2023-05-24
+1300,1.40, PotatoesFarm Chips Schweizer Kräuter,Farm,30g,Snacks & Sweets,Migros,2023-05-24
+1301,1.50,Pringles Sour Cream,Pringles,40g,Snacks & Sweets,Migros,2023-05-24
+1302,3.50,Migros Bio Chips Alpenkräuter,Migros Bio,140g,Snacks & Sweets,Migros,2023-05-24
+1303,4.20,Herb candiesMountain mint- Without sugar,Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+1304,2.80,  MiniCrackersTomato,Blévita,90g,Snacks & Sweets,Migros,2023-05-24
+1305,5.80,Throat lozengesWith acerola taste,unknown,220g,Snacks & Sweets,Migros,2023-05-24
+1306,2.30,Meringue with chocolate,unknown,145g,Snacks & Sweets,Migros,2023-05-24
+1307,6.50,  GiandorDelicately melting pralines with finest almond cream filling,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1308,21.95,  ConfiseurAssorted chocolates,Frey,503g,Snacks & Sweets,Migros,2023-05-24
+1309,3.95,  crunchy cloudsMilk chocolate with almond slivers,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1310,1.40,"Chewing gumPeppermint, sugar-free, with sweeteners",Skai,20g,Snacks & Sweets,Migros,2023-05-24
+1311,2.20,  TruffesTender milk chocolate with truffle filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1312,3.20,"  ExcellenceChocolate barsDark, with chili",Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+1313,2.50,  Les AdorablesMilk chocolate with Marc de Champagne filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1314,16.95,  Rêve d'orConfectionery specialities,Frey,260g,Snacks & Sweets,Migros,2023-05-24
+1315,3.80,  RisolettoMilk chocolate with rice crispies and caramel filling,Frey,100 kcal154g,Snacks & Sweets,Migros,2023-05-24
+1316,3.65,  OriginalChipsBell pepper,Zweifel,180g,Snacks & Sweets,Migros,2023-05-24
+1317,7.10,BioFigues séchées bio,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+1318,5.95,Aus der Region Apfelringe,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1319,5.40,Aus der Region Birnen ganz gedörrt,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+1320,3.20,"Zweifel Baked Pretzel, Salz",Zweifel,180g,Snacks & Sweets,Migros,2023-05-24
+1321,Regional Price,Mini Feigen getrocknet,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1322,Regional Price,Äpfel getrocknet,unknown,NA,Snacks & Sweets,Migros,2023-05-24
+1323,7.90,Dörrbirnen,unknown,500g,Snacks & Sweets,Migros,2023-05-24
+1324,3.20,  JoyAvocado bowl chipsWith avocado oil,Zweifel,90g,Snacks & Sweets,Migros,2023-05-24
+1325,1.–,M-BudgetBaby brezel,unknown,250g,Snacks & Sweets,Migros,2023-05-24
+1326,2.95,Energy barChocolate and almonds,Clif,68g,Snacks & Sweets,Migros,2023-05-24
+1327,4.25,"  ClassiqueHerb candies, sugar-free",Bonherba,150g,Snacks & Sweets,Migros,2023-05-24
+1328,4.80,"Herbal lozenges, sugar-free",Bonherba,3 x 25g,Snacks & Sweets,Migros,2023-05-24
+1329,4.20,Chocolate barsMilk & nuts,Lindt,200g,Snacks & Sweets,Migros,2023-05-24
+1330,3.95,Spelt biscuitsLemon & pepper,Blévita,228g,Snacks & Sweets,Migros,2023-05-24
+1331,4.20,Corn ChipsPaprika,Pancho Villa,200g,Snacks & Sweets,Migros,2023-05-24
+1332,3.50,M&M'sPeanutsIn chocolate with sugar coating,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1333,4.60,  GiandorMilk chocolateWith almond cream filling,Frey,6 x 35g,Snacks & Sweets,Migros,2023-05-24
+1334,18.95,  ConnaisseursChocolate pralines,Lindt,230g,Snacks & Sweets,Migros,2023-05-24
+1335,4.95,Nut mixtureWith Wasatch,Sélection,130g,Snacks & Sweets,Migros,2023-05-24
+1336,5.90,Throat lozengesRed currant,Grether's,60g,Snacks & Sweets,Migros,2023-05-24
+1337,3.60,WafersBlack & White,Chocmidor,200g,Snacks & Sweets,Migros,2023-05-24
+1338,3.70,PeasSirracha,Party,170g,Snacks & Sweets,Migros,2023-05-24
+1339,3.60,PastriesReal Willisauer Ringli,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+1340,2.40,  FrioneAiry milk chocolateWith barley malt extract,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1341,4.95,  ApéroMix,Sun Queen,160g,Snacks & Sweets,Migros,2023-05-24
+1342,3.40,Pommes ChipsA,Farm,150g,Snacks & Sweets,Migros,2023-05-24
+1343,1.50,Pringles Original,Pringles,40g,Snacks & Sweets,Migros,2023-05-24
+1344,4.30,Eldorado la tradizionale,Eldorado,130g,Snacks & Sweets,Migros,2023-05-24
+1345,1.30,Alnatura Mini Brezeln,Alnatura,75g,Snacks & Sweets,Migros,2023-05-24
+1346,4.60,"Herb candies, sugar-free",Bonherba,300g,Snacks & Sweets,Migros,2023-05-24
+1347,4.60,Herb candies without sugarLemon balm,Ricola,125g,Snacks & Sweets,Migros,2023-05-24
+1348,3.50,Malt filling with milk chocolate coating,Maltesers,100g,Snacks & Sweets,Migros,2023-05-24
+1349,3.10,Sandwich biscuitsWith milk cream filling,Chocky,250g,Snacks & Sweets,Migros,2023-05-24
+1350,6.95,  CoatiesChocolate lozengesOriginal,Frey,500g,Snacks & Sweets,Migros,2023-05-24
+1351,2.10,  NoxanaFine white chocolateWhole hazelnuts,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1352,5.80,  ProteinFilled spelt biscuitsHazelnut,Blévita,216g,Snacks & Sweets,Migros,2023-05-24
+1353,6.95,Choko-KöpfliMilk,Villars,20 x 10g,Snacks & Sweets,Migros,2023-05-24
+1354,1.95,  the bigger gumChewing gumStrawberry sour,Skai,31g,Snacks & Sweets,Migros,2023-05-24
+1355,2.20,  Les AdorablesDark chocolateWith cherry filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1356,7.50,Hazelnut pastry,Sélection,200g,Snacks & Sweets,Migros,2023-05-24
+1357,1.–,Milk chocolate barWith a cream-flavoured filling,Maître Truffout,8 x 12.5g,Snacks & Sweets,Migros,2023-05-24
+1358,2.80,  ChocolettiChocolate barsCoconut,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+1359,2.80,Petit beurreWith sweeteners,unknown,210g,Snacks & Sweets,Migros,2023-05-24
+1360,1.40,Appenzeller Snäck Tschipps Paprika,unknown,30g,Snacks & Sweets,Migros,2023-05-24
+1361,1.40,M-ClassicM-Classic Popcorn Caramel,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+1362,2.25,M-ClassicM-Classic Microwave Popcorn Butter,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+1363,1.40,Zweifel Wave Inferno,Zweifel,30g,Snacks & Sweets,Migros,2023-05-24
+1364,1.40,Zweifel Graneo Mild Chili,Zweifel,27g,Snacks & Sweets,Migros,2023-05-24
+1365,3.95,Pommes ChipsWave bacon,Farm,175g,Snacks & Sweets,Migros,2023-05-24
+1366,2.85,Zweifel Wave Chips Smokey Paprika,Zweifel,120g,Snacks & Sweets,Migros,2023-05-24
+1367,4.20,Herb candiesEucalyptus - without sugar,Ricola,2x50g,Snacks & Sweets,Migros,2023-05-24
+1368,3.60,Rice squaresCaramel & salt,You,200g,Snacks & Sweets,Migros,2023-05-24
+1369,3.70,M-ClassicWafer cones,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1370,6.95,Chocolate barsMilk chocolate,Toblerone,248g,Snacks & Sweets,Migros,2023-05-24
+1371,2.60,V-LoveChocolate barsBlueberry & almond,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1372,2.70,  ChocolettiChocolate barMilk hazelnut,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+1373,2.90,Flat Bricelets,Eclair,165g,Snacks & Sweets,Migros,2023-05-24
+1374,4.50,Protein mix,You,170g,Snacks & Sweets,Migros,2023-05-24
+1375,2.–,  SplendorFinest double cream chocolate,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1376,3.70,  ExcellenceChocolate barsRaspberry Hazelnut ,Lindt,70%100g,Snacks & Sweets,Migros,2023-05-24
+1377,3.70,  SuprêmeMilk chocolate barAlmonds &salted caramel,Frey,180g,Snacks & Sweets,Migros,2023-05-24
+1378,4.95,V-LoveChocolate balls,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1379,2.20,  Les adorablesTender milk chocolate with coffee fillingMocha,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1380,12.95,  ConnaisseursChocolate pralines,Lindt,145g,Snacks & Sweets,Migros,2023-05-24
+1381,1.95,  FairtradeChocolate barsMilk chocolate with hazelnut chips,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+1382,2.50,  MousseDark chocolateFilled with chocolate mousse,Camille Bloch,100g,Snacks & Sweets,Migros,2023-05-24
+1383,5.80,Throat lozengesElderberry,Holunder,220g,Snacks & Sweets,Migros,2023-05-24
+1384,3.95, ChipsPommes Chips NatureAu chili des Alpes,Farm,175g,Snacks & Sweets,Migros,2023-05-24
+1385,2.80,Appenzeller Snäck Tschipps Paprika,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+1386,4.20,Ginger sticks chocolate coated,Alnatura,90g,Snacks & Sweets,Migros,2023-05-24
+1387,3.20,WafersNoir,Chocmidor,190g,Snacks & Sweets,Migros,2023-05-24
+1388,2.20,  Les DélicesChocolate barsMilk chocolate with hazelnut filling and Japanese biscuit crumble,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1389,3.20,Butter biscuitWith chocolate chips,Walkers,125g,Snacks & Sweets,Migros,2023-05-24
+1390,4.20,"Tradition - BiscuitsShortbread with salted, caramelized almonds",unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1391,4.95,  ExcellenceChocolate barsDark pure Cocoa,Lindt,80g,Snacks & Sweets,Migros,2023-05-24
+1392,4.20,Fruits & nuts,You,150g,Snacks & Sweets,Migros,2023-05-24
+1393,3.80,Tradition - BiscuitsBiscuit assortment,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1394,5.95,  SquaresChocolate barsWith caramel filling,Lindt,144g,Snacks & Sweets,Migros,2023-05-24
+1395,3.95,Cocoa Almonds,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+1396,3.95,Meringues géantes,unknown,140g,Snacks & Sweets,Migros,2023-05-24
+1397,3.20,Bricelets roulés,Eclair,165g,Snacks & Sweets,Migros,2023-05-24
+1398,2.15,Mini Fasnachtschuechli,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+1399,3.30,MIDORMerveilles de Carnaval,unknown,216g,Snacks & Sweets,Migros,2023-05-24
+1400,4.–,Meringue vin cuit,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+1401,3.50,Aus der Region Rahm-Brätzeli,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1402,4.40,Aus der Region Meringues raisinee,unknown,140g,Snacks & Sweets,Migros,2023-05-24
+1403,3.50,Aus der Region Bricelets roulés,unknown,165g,Snacks & Sweets,Migros,2023-05-24
+1404,3.85,Aus der Region Meringues Schalen,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1405,3.80,Aus der Region Bricelets  éventails,unknown,190g,Snacks & Sweets,Migros,2023-05-24
+1406,4.10,Aus der Region Meringues minis,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1407,3.50,Aus der Region Chaes-Braezeli,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+1408,6.90,AdR Bricelets ,unknown,100g100g,Snacks & Sweets,Migros,2023-05-24
+1409,5.50,Meringue vin cuit,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1410,3.85,Aus der Region Riesen-Meringues,unknown,140g,Snacks & Sweets,Migros,2023-05-24
+1411,3.50,Aus der Region Bricelets plats,unknown,165g,Snacks & Sweets,Migros,2023-05-24
+1412,4.10,Aus der Region Meringues ,unknown,8 pièces140g,Snacks & Sweets,Migros,2023-05-24
+1413,3.90,Aus der Region Bricelets Fromage,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1414,4.30,Aus der Region Fines Vaudoises,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1415,4.50,Meringues Weiss,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1416,3.30,Fasnachtschüechli Kakao,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1417,2.10,Fasnachtschüechli to go,unknown,75g,Snacks & Sweets,Migros,2023-05-24
+1418,2.95,Riccioline,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1419,2.50,Herbstchüechli,unknown,80g,Snacks & Sweets,Migros,2023-05-24
+1420,5.65,Macadamia nutsRosemary Pepper,Sélection,130g,Snacks & Sweets,Migros,2023-05-24
+1421,3.30,  Lofthouse'sLozenges for cough and hoarsenessExtra fresh - cinnamon,Fisherman's Friend,2 x 25g,Snacks & Sweets,Migros,2023-05-24
+1422,2.20,  DuettChocolate barsMilk and dark chocolate - hazelnuts,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1423,2.20,  Les DélicesChocolate barsMilk chocolate with whole wheat crispies,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1424,3.80,Filled hazelnut pastry specialtyWith fine milk hazelnut cream from skimmed milk,Giotto,155g,Snacks & Sweets,Migros,2023-05-24
+1425,6.50,  Noir Special - Les PralinésDelicately melting pralines with finest dark chocolate with dark cream filling,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1426,1.95,Mini hazelnut sticks,unknown,135g,Snacks & Sweets,Migros,2023-05-24
+1427,5.30,Cookie mix,Migros Bio,300g,Snacks & Sweets,Migros,2023-05-24
+1428,2.95,Finest caramel sweetsHard,Micamu,280g,Snacks & Sweets,Migros,2023-05-24
+1429,2.70,  ChocolettiChocolate barsDark,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+1430,2.70,Chocolate barsWhite,Lindt,100g,Snacks & Sweets,Migros,2023-05-24
+1431,3.95,Tradition - BiscuitsBanana quiche,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1432,2.95,Energy barBlueberry,Clif,68g,Snacks & Sweets,Migros,2023-05-24
+1433,5.30,Caponata,Da Emilio,265g,Snacks & Sweets,Migros,2023-05-24
+1434,3.50,M-ClassicFilled hazelnut-macaroon biscuitsHazelnut and chocolate,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1435,2.70,V-LoveRustico flûtes,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+1436,4.95,AlmondsSalted,Migros Bio,170g,Snacks & Sweets,Migros,2023-05-24
+1437,4.95,Fondant sugar fillingWith dark chocolate,Frey,220g,Snacks & Sweets,Migros,2023-05-24
+1438,2.20,  Les DélicesExtra fine milk chocolateHoney and Almond Nougat,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1439,2.70,Throat lozengesBlackcurrant,Cassis,50g,Snacks & Sweets,Migros,2023-05-24
+1440,2.50,Oat barCacao & almond,Deliciously Ella,50g,Snacks & Sweets,Migros,2023-05-24
+1441,8.95,"Assorted chocolatesHoney, almond, nougat",Frey,500g,Snacks & Sweets,Migros,2023-05-24
+1442,4.25,Herb candies filled sugarfreeSugarfree,Bonherba,150g,Snacks & Sweets,Migros,2023-05-24
+1443,5.30,  Premium NutsMélange de noixBasilic-citron,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+1444,1.40,"Chewing gumAir boost, sugar-free, with sweeteners",Skai,20g,Snacks & Sweets,Migros,2023-05-24
+1445,2.65,"  SuprêmeChocolate barsDark, almonds and blueberries",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1446,4.80,DemeterAubergines,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1447,3.50,Peperoncini calabresi,Da Emilio,100g,Snacks & Sweets,Migros,2023-05-24
+1448,4.95,"DemeterFigs, dried",unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1449,3.80,Soft caramel sweets,Baselbieterli,150g,Snacks & Sweets,Migros,2023-05-24
+1450,3.80, caramel sweets,Soft,150g,Snacks & Sweets,Migros,2023-05-24
+1451,2.65,  SuprêmeExtra fine milk chocolateWith slivers of pistachio nuts,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1452,3.80,Herb candiesSugar-free,Bonherba,2 x 50g,Snacks & Sweets,Migros,2023-05-24
+1453,2.85,  BioChocolate barsFilled with coffee,La Semeuse,85g,Snacks & Sweets,Migros,2023-05-24
+1454,4.60,Herb candiesSage,Ricola,125g,Snacks & Sweets,Migros,2023-05-24
+1455,3.20,BBQ AlmondsWith a smoky taste,Party,180g,Snacks & Sweets,Migros,2023-05-24
+1456,1.50,Peperoncini redFiery hot,Condy,180g,Snacks & Sweets,Migros,2023-05-24
+1457,2.95,  GraneoMultigrain snacksPink pepper & Lime,Zweifel,100g,Snacks & Sweets,Migros,2023-05-24
+1458,2.75,BiscuitFourrés goût vanille,Oreo,154g,Snacks & Sweets,Migros,2023-05-24
+1459,2.80,Chocolate barsWhite,Toblerone,100g,Snacks & Sweets,Migros,2023-05-24
+1460,7.95,  SuprêmeExtra fine dark chocolate,Frey,200g,Snacks & Sweets,Migros,2023-05-24
+1461,1.50,CandyFilled with sour powder,Juicy Drop,45g,Snacks & Sweets,Migros,2023-05-24
+1462,3.70,PeasSpicy,Party,170g,Snacks & Sweets,Migros,2023-05-24
+1463,2.95,Milk chocolateWith Kirsch syrup centre,Camille Bloch,100g,Snacks & Sweets,Migros,2023-05-24
+1464,3.50,Be-KindDark chocolate and nut protein bar,unknown,50g,Snacks & Sweets,Migros,2023-05-24
+1465,6.20,BuckthornDried,Migros Bio,120g,Snacks & Sweets,Migros,2023-05-24
+1466,8.50,Assorted trufflesWith liqueur fillings,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1467,3.20,  LindorChocolate barMilk,Lindt,4 x 25g,Snacks & Sweets,Migros,2023-05-24
+1468,1.20,Marzipan Nougat BarPlain,Alnatura,40g,Snacks & Sweets,Migros,2023-05-24
+1469,1.80,M-ClassicCorn ChipsBarbecue,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+1470,8.80,Wafer specialty made of milk chocolateWith hazelnuts and cream,Ferrero,375g,Snacks & Sweets,Migros,2023-05-24
+1471,2.30,PeanutsRoasted and spicy seasoned,Party,200g,Snacks & Sweets,Migros,2023-05-24
+1472,3.95,V-LoveChoco bars nuts,unknown,3 x 50g,Snacks & Sweets,Migros,2023-05-24
+1473,3.70,  ExcellenceChocolate barOrange & Almond ,Lindt,70% Bar100g,Snacks & Sweets,Migros,2023-05-24
+1474,2.20,Milk chocolateWith almonds,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1475,3.40,M-Classic  KisssBlack Chocolate CephalopodsSugar foam with waffle,unknown,120g,Snacks & Sweets,Migros,2023-05-24
+1476,3.20,"Chewing gumPeppermint, sugar-free",V6,24g,Snacks & Sweets,Migros,2023-05-24
+1477,3.40,LozengePeppermint,Tic Tac,2 x 49g,Snacks & Sweets,Migros,2023-05-24
+1478,2.65,  Côte d'Ivoire NecaayoDark chocolate barLemon almond,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1479,2.95,Biscuit topped with milk chocolate,Cadbury,114g,Snacks & Sweets,Migros,2023-05-24
+1480,3.95,  Crunchy CloudsDark chocolate with coconut flakes and rice crispies,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1481,2.20,  Les DélicesChocolate barsMilk chocolate with orange filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1482,2.65,M-BudgetMilk chocolateMilk chocolate with hazelnut chips,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+1483,2.70,  SnackMilk chocolate with cereal crispies and caramel filling,Risoletto,150g,Snacks & Sweets,Migros,2023-05-24
+1484,2.50,"  FairtradeChocolate barsDark, Amaranth",Migros Bio,80g,Snacks & Sweets,Migros,2023-05-24
+1485,3.95,  Crunchy CloudsMilk chocolate with butter biscuits and barley malt extract,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1486,4.20,Berries chocolate-coated,Alnatura,85g,Snacks & Sweets,Migros,2023-05-24
+1487,4.40,M-ClassicWafer cuts,unknown,78g,Snacks & Sweets,Migros,2023-05-24
+1488,1.30,er  NutsAlmond and hazelnut bars,Farm,30g,Snacks & Sweets,Migros,2023-05-24
+1489,2.50,  MousseMilk chocolateFilled with chocolate mousse,Camille Bloch,100g,Snacks & Sweets,Migros,2023-05-24
+1490,2.85,  Real GumChewing gumCinnamon,Skai,19.6g,Snacks & Sweets,Migros,2023-05-24
+1491,3.40,LozengeOrange flavor,Tic Tac,2 x 49g,Snacks & Sweets,Migros,2023-05-24
+1492,2.65,  Côte d'Ivoire NecaayoChocolate bars,Frey,65% dark100g,Snacks & Sweets,Migros,2023-05-24
+1493,4.50,  NoxanaFine milk chocolateWith hazelnuts,Frey,6 x 35g,Snacks & Sweets,Migros,2023-05-24
+1494,2.95,M-Classic  AmigosCocoa biscuits,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1495,3.50,"  SuprêmeWhite chocolate with whole almonds and caramelized almond brittleWhite, whole almonds and caramelized almond brittle",Frey,180g,Snacks & Sweets,Migros,2023-05-24
+1496,2.80,  CoatiesSalted butter-flavored cereal crispies covered with milk chocolate,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1497,4.40,Mini artichokesWith spices,Sélection,145g,Snacks & Sweets,Migros,2023-05-24
+1498,4.50,  Chocolate ChipsMilk chocolate with puffed riceOrange,Hamlet,125g,Snacks & Sweets,Migros,2023-05-24
+1499,1.30,Flake bar,Cadbury,32g,Snacks & Sweets,Migros,2023-05-24
+1500,2.20,Chocolate barsExtra milk chocolate with milk cream filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1501,1.30,er  NutsAlmond and figs bars,Farm,30g,Snacks & Sweets,Migros,2023-05-24
+1502,3.70,  SuprêmeWhite chocolateAlmonds and caramel,Frey,180g,Snacks & Sweets,Migros,2023-05-24
+1503,2.60,V-LoveChocolate bars ,unknown,65%Berry100g,Snacks & Sweets,Migros,2023-05-24
+1504,2.90,M-ClassicHard candiesWith menthol,unknown,270g,Snacks & Sweets,Migros,2023-05-24
+1505,4.60,Extra dark chocolateDark Special ,Frey,72%6 x 35g,Snacks & Sweets,Migros,2023-05-24
+1506,2.60,  FairtradeChocolate barsMilk chocolate with almond nougatine,Migros Bio,100g,Snacks & Sweets,Migros,2023-05-24
+1507,3.50,Be-KindProtein bar with peanuts,unknown,50g,Snacks & Sweets,Migros,2023-05-24
+1508,2.95,Butter FlûtesRaclette,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+1509,4.20,Oats biscuitsPink pepper,Blévita,210g,Snacks & Sweets,Migros,2023-05-24
+1510,3.50,Malt filling with milk chocolate coating,Maltesers,3 x 35g,Snacks & Sweets,Migros,2023-05-24
+1511,1.30,Fruit slicesCashew Caramel,Alnatura,40g,Snacks & Sweets,Migros,2023-05-24
+1512,2.65,  Côte d'Ivoire NecaayoChocolate barsCaramel-almond-nougat,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1513,2.10,Mint flavored lozenges,Mentos,2 x 38g,Snacks & Sweets,Migros,2023-05-24
+1514,4.70,  RocherWafer specialty made of milk chocolateWith hazelnuts and cream,Ferrero,200g,Snacks & Sweets,Migros,2023-05-24
+1515,0.85,M-BudgetChewing gum without sugarSpearmint,unknown,2 x 36g,Snacks & Sweets,Migros,2023-05-24
+1516,2.20,  Les DélicesFine milk chocolateGrapes pickled in rum,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1517,3.50,BioTortilla chipsChili,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1518,2.50,"Oat barApple, raisins & cinnamon",Deliciously Ella,50g,Snacks & Sweets,Migros,2023-05-24
+1519,3.40,"FlutesButter and cheese, mini",unknown,135g,Snacks & Sweets,Migros,2023-05-24
+1520,4.20,Fruits & nuts,You,150g,Snacks & Sweets,Migros,2023-05-24
+1521,3.80,"  CoatiesFruit preparation coated with dark chocolateApple, Pomegranate &Passion Fruit",Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1522,4.95,  ApéroMix,Sun Queen,160g,Snacks & Sweets,Migros,2023-05-24
+1523,1.80,Crackers,Jacob's,200g,Snacks & Sweets,Migros,2023-05-24
+1524,2.50,Oat barPeanut butter,Deliciously Ella,50g,Snacks & Sweets,Migros,2023-05-24
+1525,3.20,Milk chocolate bar with peanut butter filling,Snickers,182g,Snacks & Sweets,Migros,2023-05-24
+1526,3.60,Meringue with milk chocolate and hazelnut cream fillingSwiss,Chocmidor,100g,Snacks & Sweets,Migros,2023-05-24
+1527,1.80,Milk chocolate bar,Cadbury,45g,Snacks & Sweets,Migros,2023-05-24
+1528,2.20,  DuettChocolate barsMilk and dark chocolate - coffee,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1529,7.40,  NoxanaFine milk chocolateWith whole hazelnuts,Frey,400g,Snacks & Sweets,Migros,2023-05-24
+1530,2.20,  Les AdorablesChocolate barsMilk chocolate with stracciatella filling,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1531,2.35,"  GiandorChocolate barsMilk chocolate, with almond cream filling and almond slivers",Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1532,2.65,  Côte d'Ivoire NecaayoChocolate barsMilk,Frey,100g,Snacks & Sweets,Migros,2023-05-24
+1533,3.95,  Crunchy CloudsDark chocolate with salted caramel-almond nougat and cornflakes,Frey,150g,Snacks & Sweets,Migros,2023-05-24
+1534,7.95,  SuprêmeFine milk chocolate,Frey,200g,Snacks & Sweets,Migros,2023-05-24
+1535,2.95,Mixed picklesGourmet blend,Condy,230g,Snacks & Sweets,Migros,2023-05-24
+1536,5.20,  ApéroMix,Sun Queen,170g,Snacks & Sweets,Migros,2023-05-24
+1537,2.80,DemeterDried tomatoes cream,unknown,90g,Snacks & Sweets,Migros,2023-05-24
+1538,3.95,V-LoveChoco bars almonds,unknown,3 x 50g,Snacks & Sweets,Migros,2023-05-24
+1539,4.20,"Throat lozengesWith sage flavor, sugar-free",Salbisan,110g,Snacks & Sweets,Migros,2023-05-24
+1540,8.10,Il Pandoro,San Antonio,500g,Snacks & Sweets,Migros,2023-05-24
+1541,4.50,Courgettes with curry,Condy,210g,Snacks & Sweets,Migros,2023-05-24
+1542,1.95,Nut mixture&salted and roasted,Party,4 x 40g,Snacks & Sweets,Migros,2023-05-24
+1543,4.50,  Chocolate ChipsMilk chocolate with puffed riceMilk,Hamlet,125g,Snacks & Sweets,Migros,2023-05-24
+1544,4.80,M-ClassicMilk chocolateCreamy stuffing,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1545,3.95,BeansPizza,Party,150g,Snacks & Sweets,Migros,2023-05-24
+1546,1.85,Corn ChipsBell pepper,Alnatura,125g,Snacks & Sweets,Migros,2023-05-24
+1547,5.95,  RagusaChocolates from blond chocolateFriends - caramelized blond,Camille Bloch,132g,Snacks & Sweets,Migros,2023-05-24
+1548,4.20,Roasted peanut clusters,Niagara,128g,Snacks & Sweets,Migros,2023-05-24
+1549,5.95,  RagusaDark chocolate pralinesFriends - Noir,Camille Bloch,132g,Snacks & Sweets,Migros,2023-05-24
+1550,1.95,Peppermint lozengesFresh mint,Tic Tac,49g,Snacks & Sweets,Migros,2023-05-24
+1551,8.95,  Finest Selection,Merci,32 chocolate bars400g,Snacks & Sweets,Migros,2023-05-24
+1552,4.95,  Sweet & SaltyMix,Sun Queen,160g,Snacks & Sweets,Migros,2023-05-24
+1553,3.95,BeansChili & lime,Party,150g,Snacks & Sweets,Migros,2023-05-24
+1554,3.85,"  MahonyMilk chocolateHoney, almond, nougat",Frey,210g,Snacks & Sweets,Migros,2023-05-24
+1555,1.80,M-ClassicCorn ChipsHot &spicy,unknown,300g,Snacks & Sweets,Migros,2023-05-24
+1556,2.40,DemeterSultanas dried,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1557,1.30,  BuenoWaffle with milk hazelnut cream filling,Kinder,43g,Snacks & Sweets,Migros,2023-05-24
+1558,2.80,Bâton de chocolatMi-amer,Toblerone,100g,Snacks & Sweets,Migros,2023-05-24
+1559,10.95,  TorinoMilk chocolate sticksWith praline filling,Camille Bloch,300g,Snacks & Sweets,Migros,2023-05-24
+1560,1.75,M-BudgetPetit-Beurre,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+1561,1.80,"M-BudgetFruit candiesWith orange, lemon and raspberry taste",unknown,300g,Snacks & Sweets,Migros,2023-05-24
+1562,2.90,Chips baked in a kettleRosemary &sea salt,Alnatura,125g,Snacks & Sweets,Migros,2023-05-24
+1563,2.90,Organic Potato ChipsWith smoked paprika powder,Alnatura,125g,Snacks & Sweets,Migros,2023-05-24
+1564,6.60,M-BudgetChocolate lozengesMix,unknown,850g,Snacks & Sweets,Migros,2023-05-24
+1565,6.50,Baru nutsSalted,Sélection,130g,Snacks & Sweets,Migros,2023-05-24
+1566,5.20,DemeterHazelnutsUnsalted,unknown,200g,Snacks & Sweets,Migros,2023-05-24
+1567,1.95,Fruit jelly raspberry,Alnatura,100g,Snacks & Sweets,Migros,2023-05-24
+1568,6.45,"  MahonyMilk chocolateHoney, almond, nougat",Frey,400g,Snacks & Sweets,Migros,2023-05-24
+1569,2.60,Mini Meringues,unknown,100g,Snacks & Sweets,Migros,2023-05-24
+1570,1.95,M-ClassicRefreshment candies,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1571,3.55,"Milk chocolateHoney, almond, nougat",Frey,210g,Snacks & Sweets,Migros,2023-05-24
+1572,4.95,  ApéroMix,Sun Queen,160g,Snacks & Sweets,Migros,2023-05-24
+1573,4.95,CranberriesDried,Migros Bio,130g,Snacks & Sweets,Migros,2023-05-24
+1574,3.70,Balsamico vinegar mix,Party,200g,Snacks & Sweets,Migros,2023-05-24
+1575,3.40,M-ClassicButter biscuits with almonds,unknown,150g,Snacks & Sweets,Migros,2023-05-24
+1576,6.20,BioBlackcurrantDried,unknown,130g,Snacks & Sweets,Migros,2023-05-24
+1577,4.60,DemeterAntipasti mix,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1578,4.20,Peanut butter cups,Niagara,128g,Snacks & Sweets,Migros,2023-05-24
+1579,4.25,  Schoko-BonsMilk chocolate candies filledWith milk and finely chopped hazelnuts.,Kinder,300g,Snacks & Sweets,Migros,2023-05-24
+1580,1.95,Tic Tac Orange Flavor,Tic Tac,49g,Snacks & Sweets,Migros,2023-05-24
+1581,4.20,Fruits & nuts,You,170g,Snacks & Sweets,Migros,2023-05-24
+1582,3.25,M-ClassicChipsBell pepper,unknown,400g,Snacks & Sweets,Migros,2023-05-24
+1583,0.85,"M-BudgetChewing gumPeppermint, sugar-free",unknown,2 x 36g,Snacks & Sweets,Migros,2023-05-24
+1584,1.–,M-BudgetHerb candies without sugar,unknown,125g,Snacks & Sweets,Migros,2023-05-24
+1585,2.20,Meringue biscuits,unknown,107g,Snacks & Sweets,Migros,2023-05-24

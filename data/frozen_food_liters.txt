@@ -1,0 +1,192 @@
+,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,14,2.20,M-ClassicIce creamAmarena,unknown,0.15,Frozen Food,Migros,2023-05-24
+1,16,2.20,M-ClassicIce creamVacherin,unknown,0.15,Frozen Food,Migros,2023-05-24
+2,17,2.20,M-ClassicIce creamCoffee,unknown,0.165,Frozen Food,Migros,2023-05-24
+3,21,3.35,Crème d'orIce creamEspresso Doppio,unknown,0.17,Frozen Food,Migros,2023-05-24
+4,22,2.20,M-ClassicIce creamCappuccino,unknown,0.165,Frozen Food,Migros,2023-05-24
+5,23,2.20,M-ClassicIce creamJaponais,unknown,0.165,Frozen Food,Migros,2023-05-24
+6,29,4.95,Enjoy TrillIce cream veganBerry Blast,unknown,0.30000000000000004,Frozen Food,Migros,2023-05-24
+7,33,7.30,Cream ice creamVanilla,unknown,0.684,Frozen Food,Migros,2023-05-24
+8,36,7.30,Cream ice creamChocolate,unknown,0.684,Frozen Food,Migros,2023-05-24
+9,43,5.95,Water iceWith strawberry and melon aroma,Cowboy,0.5760000000000001,Frozen Food,Migros,2023-05-24
+10,53,7.30,Cream ice creamStrawberry,unknown,0.684,Frozen Food,Migros,2023-05-24
+11,54,2.20,M-ClassicIce creamBanana Split,unknown,0.15,Frozen Food,Migros,2023-05-24
+12,58,5.40,Iced bars,Snickers,0.30179999999999996,Frozen Food,Migros,2023-05-24
+13,81,6.95,Water iceWith sour fireflies,Trolli,0.536,Frozen Food,Migros,2023-05-24
+14,92,5.50,  Fruit IceFruit ice creamMango,You,0.28800000000000003,Frozen Food,Migros,2023-05-24
+15,93,5.50,  Fruit IceFruit ice creamRaspberry,You,0.28800000000000003,Frozen Food,Migros,2023-05-24
+16,102,10.50,Crème d'orCream ice creamBourbon vanilla,unknown,1.0,Frozen Food,Migros,2023-05-24
+17,117,5.95,Cream ice creamGelato stracciatella,Gelato,0.42000000000000004,Frozen Food,Migros,2023-05-24
+18,122,5.40,Iced bars,Mars,0.29700000000000004,Frozen Food,Migros,2023-05-24
+19,124,6.95,Ice cream pralineCrunchy & creamy,Choquello,0.656,Frozen Food,Migros,2023-05-24
+20,125,8.40,Water-MelonWater iceWatermelon,unknown,0.56,Frozen Food,Migros,2023-05-24
+21,132,5.95,Ice TeaWater ice ice teaLemon,unknown,0.5760000000000001,Frozen Food,Migros,2023-05-24
+22,137,10.60,Waffle CornetStrawberry,Fun,1.16,Frozen Food,Migros,2023-05-24
+23,149,7.30,Cream ice creamMocha,unknown,0.684,Frozen Food,Migros,2023-05-24
+24,157,1.95,Soft IceIce creamVanilla with chocolate sauce,unknown,0.22,Frozen Food,Migros,2023-05-24
+25,170,9.20,Crème d'orWaffle ice creamStracciatella,unknown,0.732,Frozen Food,Migros,2023-05-24
+26,172,5.50,Water iceTropical,Rainbow,0.42000000000000004,Frozen Food,Migros,2023-05-24
+27,185,6.95,Bubble JoeWater iceWith fruit flavors - Chewing Gum Stick,unknown,0.5,Frozen Food,Migros,2023-05-24
+28,188,9.20,Crème d'orWaffle ice creamCaramel,unknown,0.732,Frozen Food,Migros,2023-05-24
+29,190,10.50,Crème d'orCream ice creamCaramel,unknown,1.0,Frozen Food,Migros,2023-05-24
+30,191,10.60,Waffle CornetChocolate,Fun,1.16,Frozen Food,Migros,2023-05-24
+31,199,10.50,Crème d'orCream ice creamChocolate,unknown,1.0,Frozen Food,Migros,2023-05-24
+32,206,4.20,Delta-JetWater iceWith pineapple and orange aroma,unknown,0.424,Frozen Food,Migros,2023-05-24
+33,210,1.95,Soft IceIce creamStrawberry &Vanilla,unknown,0.22,Frozen Food,Migros,2023-05-24
+34,214,7.30,Cream ice creamCaramel,unknown,0.684,Frozen Food,Migros,2023-05-24
+35,215,7.95,V-LoveVegetable ice creamStrawberry,unknown,0.66,Frozen Food,Migros,2023-05-24
+36,216,1.95,Soft IceIce creamCoffee with coffee sauce,unknown,0.22,Frozen Food,Migros,2023-05-24
+37,220,8.95,MegaStar  AlmondVanilla ice creamWith milk chocolate coating and almonds,unknown,0.72,Frozen Food,Migros,2023-05-24
+38,224,7.50,  MiniIce cream with Oreo biscuit pieces,Oreo,0.30000000000000004,Frozen Food,Migros,2023-05-24
+39,225,9.95,Ben & Jerry'sCream ice creamCookie Dough,unknown,0.465,Frozen Food,Migros,2023-05-24
+40,229,2.20,M-ClassicM-Classic Léger Kakao,unknown,0.165,Frozen Food,Migros,2023-05-24
+41,230,1.95,Soft Ice Amarena,unknown,0.22,Frozen Food,Migros,2023-05-24
+42,231,2.20,V-LoveV-Love Vanilla Chocolate & Cookies,unknown,0.12,Frozen Food,Migros,2023-05-24
+43,232,4.95,M-ClassicM-Classic Frozen Yo Nature,unknown,0.45,Frozen Food,Migros,2023-05-24
+44,233,3.70,Gasparini Haselnuss & Pistache,Gasparini,0.14,Frozen Food,Migros,2023-05-24
+45,234,3.50,Ben & Jerry'sFairtrade Ben&Jerry. Chocolate Brownie,unknown,0.1,Frozen Food,Migros,2023-05-24
+46,235,3.50,Ben & Jerry'sFairtrade Ben&Jerry. Peanut Butter Cup,unknown,0.1,Frozen Food,Migros,2023-05-24
+47,236,2.20,V-LoveV-Love Coffee Caramel Swirl,unknown,0.12,Frozen Food,Migros,2023-05-24
+48,237,5.–,V-LoveV-Love Vanilla,unknown,0.45,Frozen Food,Migros,2023-05-24
+49,238,3.95,Dieci Joghurt-Heidelbeer,Dieci,0.12,Frozen Food,Migros,2023-05-24
+50,240,3.35,Crème d'orCrème d'Or Chocolat,unknown,0.17,Frozen Food,Migros,2023-05-24
+51,241,7.95,  PetitWaffle CornetColoretto,Fun,0.48,Frozen Food,Migros,2023-05-24
+52,242,3.15,M-BudgetIce creamVanilla Bourbon,unknown,2.0,Frozen Food,Migros,2023-05-24
+53,243,10.50,"Crème d'orCream ice creamGruyère cream, meringues & apricot",unknown,1.0,Frozen Food,Migros,2023-05-24
+54,245,3.50,Ben & Jerry'sFairtrade Ben&Jerry. Cookie Dough,unknown,0.1,Frozen Food,Migros,2023-05-24
+55,246,3.95,Dieci Stracciatella,Dieci,0.12,Frozen Food,Migros,2023-05-24
+56,247,3.70,Gasparini Rahmtäfeli Becher,Gasparini,0.14,Frozen Food,Migros,2023-05-24
+57,248,8.80,Aus der Region Gasparini Vanille,Gasparini,0.48,Frozen Food,Migros,2023-05-24
+58,249,8.80,Aus der Region Gasparini Café Croq.,Gasparini,0.48,Frozen Food,Migros,2023-05-24
+59,251,5.50,V-LovePlant based ice cream chocolatesVegan,unknown,0.18,Frozen Food,Migros,2023-05-24
+60,254,7.95,Waffle Cornet - MiniVanilla-Strawberry,Fun,0.48,Frozen Food,Migros,2023-05-24
+61,255,5.95,Water iceLemon and orange flavors,Alaska,0.5760000000000001,Frozen Food,Migros,2023-05-24
+62,256,8.95,MegaStar  CappuccinoGlace CoffeeWith milk chocolate coating,unknown,0.72,Frozen Food,Migros,2023-05-24
+63,261,6.50,Ice creamWith Oreo cookie pieces,Oreo,0.33,Frozen Food,Migros,2023-05-24
+64,263,10.50,Crème d'orCream ice creamCappuccino &Chocolate,unknown,1.0,Frozen Food,Migros,2023-05-24
+65,264,7.20,  Pure Vanille Bourbon ComoresVanilla cream ice cream,Sélection,0.45,Frozen Food,Migros,2023-05-24
+66,267,10.50,Crème d'orCream ice creamEspresso doppio,unknown,1.0,Frozen Food,Migros,2023-05-24
+67,270,6.95,Ice creamWith fruit juice,Exotic,0.36,Frozen Food,Migros,2023-05-24
+68,272,10.50,Crème d'orCream ice creamPistache,unknown,1.0,Frozen Food,Migros,2023-05-24
+69,274,10.50,Crème d'orCream ice creamStracciatella italiana,unknown,1.0,Frozen Food,Migros,2023-05-24
+70,275,7.95,  BiscoffMini cream ice cream,Lotus,0.36,Frozen Food,Migros,2023-05-24
+71,276,7.30,Cream ice creamVanilla,unknown,0.51,Frozen Food,Migros,2023-05-24
+72,277,2.10,  VanillaSoft ice,Squice,0.11,Frozen Food,Migros,2023-05-24
+73,279,2.20,M-Classic  LégerSorbetVanilla,unknown,0.165,Frozen Food,Migros,2023-05-24
+74,280,10.60,Waffle CornetVanilla,Fun,1.16,Frozen Food,Migros,2023-05-24
+75,282,9.20,Crème d'orWaffle ice creamCookies & Cream,unknown,0.732,Frozen Food,Migros,2023-05-24
+76,284,6.30,Crème d'orIce creamCoconut & Passionfruit,unknown,0.5,Frozen Food,Migros,2023-05-24
+77,286,10.50,Crème d'orCream ice creamJamaica,unknown,1.0,Frozen Food,Migros,2023-05-24
+78,288,5.95,Cream ice creamVanilla & Chocolate,Gelato,0.42000000000000004,Frozen Food,Migros,2023-05-24
+79,289,9.20,Crème d'orWaffle ice creamCoffee,unknown,0.732,Frozen Food,Migros,2023-05-24
+80,297,6.30,Crème d'orCream ice creamMint Chocolate,unknown,0.5,Frozen Food,Migros,2023-05-24
+81,298,2.10,Cream ice creamVanilla,unknown,0.1,Frozen Food,Migros,2023-05-24
+82,299,6.95,Aha!Vanilla ice cream,unknown,0.72,Frozen Food,Migros,2023-05-24
+83,300,10.50,Crème d'orCream ice creamBerries,unknown,1.0,Frozen Food,Migros,2023-05-24
+84,301,7.20,SorbetMango,Sélection,0.45,Frozen Food,Migros,2023-05-24
+85,305,7.20,  BioSorbetLemon & Lime,Sélection,0.45,Frozen Food,Migros,2023-05-24
+86,310,3.60,M-ClassicM-Classic Walnuss,unknown,1.0,Frozen Food,Migros,2023-05-24
+87,311,6.30,Crème d'orCrème d'Or Caramel,unknown,0.5,Frozen Food,Migros,2023-05-24
+88,312,4.30,M-ClassicM-Classic Mini Mix Glace,unknown,0.603,Frozen Food,Migros,2023-05-24
+89,315,3.60,M-ClassicM-Classic Vanille,unknown,1.0,Frozen Food,Migros,2023-05-24
+90,319,8.80,Aus der Region Gasparini Erdbeer,Gasparini,0.48,Frozen Food,Migros,2023-05-24
+91,321,3.35,Crème d'orCrème d'Or Gruyère,unknown,0.17,Frozen Food,Migros,2023-05-24
+92,322,3.35,Crème d'orCrème d'Or Cheesecake,unknown,0.17,Frozen Food,Migros,2023-05-24
+93,330,9.20,  Crunchy IceCream ice cream,Ovomaltine,0.4,Frozen Food,Migros,2023-05-24
+94,333,6.95,MegaStar  CaramelCaramel ice creamWith white chocolate coating and biscuits,unknown,0.36,Frozen Food,Migros,2023-05-24
+95,335,5.20,V-LoveVegetable cream ice creamVanilla Chocolate & Cookies,unknown,0.45,Frozen Food,Migros,2023-05-24
+96,346,3.95,Dieci Mango,Dieci,0.12,Frozen Food,Migros,2023-05-24
+97,347,7.95,Aus der Region Vanille Glace,unknown,0.9,Frozen Food,Migros,2023-05-24
+98,348,8.80,Aus der Region Gasparini Chocolat,Gasparini,0.48,Frozen Food,Migros,2023-05-24
+99,349,8.80,Aus der Region Gasparini Rahmtäfeli,Gasparini,0.48,Frozen Food,Migros,2023-05-24
+100,350,6.20,V-LoveV-LOVE COCO & CHOCO,unknown,0.456,Frozen Food,Migros,2023-05-24
+101,351,2.95,M-ClassicIce blockVanilla and strawberry,unknown,0.68,Frozen Food,Migros,2023-05-24
+102,353,8.95,MegaStar  VanillaVanilla ice creamWith milk chocolate coating,unknown,0.72,Frozen Food,Migros,2023-05-24
+103,361,3.35,Crème d'orIce creamStracciatella,unknown,0.17,Frozen Food,Migros,2023-05-24
+104,362,3.95,M-Classic  MaxiVanilla Bourbon ice creamWith milk chocolate coating,unknown,0.96,Frozen Food,Migros,2023-05-24
+105,365,2.20,M-Classic  SlurpyWater iceWith orange and ziron flavor,unknown,0.6000000000000001,Frozen Food,Migros,2023-05-24
+106,366,2.95,MegaStarMegaStar Artisan Coffee Cold Brew,unknown,0.095,Frozen Food,Migros,2023-05-24
+107,367,2.95,SorbetRaspberry,Sélection,0.12,Frozen Food,Migros,2023-05-24
+108,369,0.95,Ice TeaIce Tea Lemon Glace,unknown,0.048,Frozen Food,Migros,2023-05-24
+109,370,6.95,Thunderstorm,unknown,0.536,Frozen Food,Migros,2023-05-24
+110,372,2.95,  BioSorbetLemon & Lime,Sélection,0.12,Frozen Food,Migros,2023-05-24
+111,373,2.70,Gasparini Banane & Chocolat,Gasparini,0.08,Frozen Food,Migros,2023-05-24
+112,374,2.70,Gasparini Vanille & Himbeer,Gasparini,0.08,Frozen Food,Migros,2023-05-24
+113,375,9.50,Gasparini Banane & Chocolat,Gasparini,0.32,Frozen Food,Migros,2023-05-24
+114,376,9.50,Gasparini Vanille & Himbeer,Gasparini,0.32,Frozen Food,Migros,2023-05-24
+115,378,2.95,M-ClassicIce blockVanilla,unknown,0.68,Frozen Food,Migros,2023-05-24
+116,380,10.50,Crème d'orCream ice creamLes trois noix,unknown,1.0,Frozen Food,Migros,2023-05-24
+117,381,9.95,Ben & Jerry'sCream ice creamChocolate Fudge Brownie,unknown,0.465,Frozen Food,Migros,2023-05-24
+118,383,2.60,Snickers Ice Cream,Snickers,0.072,Frozen Food,Migros,2023-05-24
+119,384,2.60,Mars Ice Cream,Mars,0.074,Frozen Food,Migros,2023-05-24
+120,386,3.50, Ice Sandw. ,Oreo,0.135,Frozen Food,Migros,2023-05-24
+121,389,10.50,Crème d'orCream ice creamFior di Latte & Framboise,unknown,1.0,Frozen Food,Migros,2023-05-24
+122,391,6.20,GlacesticksWith milk chocolate,Milk'is,0.54,Frozen Food,Migros,2023-05-24
+123,392,2.70,Gasparini Stracciatella,Gasparini,0.08,Frozen Food,Migros,2023-05-24
+124,393,4.50,Alnatura Fruchteis Himbeere,Alnatura,0.192,Frozen Food,Migros,2023-05-24
+125,394,2.70,Gasparini Mango & Passion,Gasparini,0.08,Frozen Food,Migros,2023-05-24
+126,395,2.70,Gasparini Caramel & Fior di Latte,Gasparini,0.08,Frozen Food,Migros,2023-05-24
+127,396,7.95,Aha!Vanilla ice cream,unknown,1.0,Frozen Food,Migros,2023-05-24
+128,397,6.30,Crème d'orCream ice creamAlmond Salted Caramel,unknown,0.5,Frozen Food,Migros,2023-05-24
+129,399,2.10,Cream ice creamChocolate,unknown,0.1,Frozen Food,Migros,2023-05-24
+130,401,6.50,MegaStar  MinisVanilla ice creamWith milk chocolate coating and almonds,unknown,0.39,Frozen Food,Migros,2023-05-24
+131,408,3.95,Gasparini Cornet Zolli Erbeer,Gasparini,0.145,Frozen Food,Migros,2023-05-24
+132,409,7.95,V-LoveV-LOVE Chocolate Cornet,unknown,0.66,Frozen Food,Migros,2023-05-24
+133,410,3.95,Gasparini Cornet Zolli Choc Noir,Gasparini,0.145,Frozen Food,Migros,2023-05-24
+134,411,3.95,Gasparini Cornet Zolli Vanille,Gasparini,0.145,Frozen Food,Migros,2023-05-24
+135,413,3.35,Crème d'orIce creamAlmond Salted Caramel,unknown,0.17,Frozen Food,Migros,2023-05-24
+136,416,7.20,  Pure Café Blue MountainCream ice coffee,Sélection,0.45,Frozen Food,Migros,2023-05-24
+137,421,3.60,M-ClassicCream ice creamStracciatella,unknown,1.0,Frozen Food,Migros,2023-05-24
+138,423,7.20,  Pure Chocolat Santo DomingoCream ice chocolate,Sélection,0.45,Frozen Food,Migros,2023-05-24
+139,430,6.30,Crème d'orIce creamCheesecake,unknown,0.5,Frozen Food,Migros,2023-05-24
+140,435,3.95,Gasparini Cornet Zolli Himbeer,Gasparini,0.145,Frozen Food,Migros,2023-05-24
+141,441,10.50,Crème d'orCream ice creamWalnut &Maple,unknown,1.0,Frozen Food,Migros,2023-05-24
+142,442,5.20,GlacecakeCappuccino,Glacetta,0.8,Frozen Food,Migros,2023-05-24
+143,446,6.30,Crème d'orCream ice creamCookies & Cream,unknown,0.5,Frozen Food,Migros,2023-05-24
+144,452,11.10,Ben & Jerry'sVegetable cream ice creamCookies on Cookie Dough - Non-Dairy,unknown,0.465,Frozen Food,Migros,2023-05-24
+145,463,7.20,SorbetRaspberry,Sélection,0.45,Frozen Food,Migros,2023-05-24
+146,464,5.50,  SaisonIce cakeRomanoff,Glacetta,0.75,Frozen Food,Migros,2023-05-24
+147,471,7.20,SorbetBlood orange,Sélection,0.45,Frozen Food,Migros,2023-05-24
+148,474,3.95,Plant-based ice creamPistache,Nanimale,0.12,Frozen Food,Migros,2023-05-24
+149,475,7.20,  Pure Nocciola PiemonteHazelnut cream ice cream,Sélection,0.45,Frozen Food,Migros,2023-05-24
+150,481,7.20,  Pure Pistacchio SiciliaCream ice cream pistachio,Sélection,0.45,Frozen Food,Migros,2023-05-24
+151,483,7.20,Crème glacée au caramelSalt of the Alps,Sélection,0.45,Frozen Food,Migros,2023-05-24
+152,486,5.95,Cold Brew CoffeeWater iceCoffee,unknown,0.28800000000000003,Frozen Food,Migros,2023-05-24
+153,487,9.95,Ben & Jerry'sCream ice creamNetflix & Chilll'd,unknown,0.465,Frozen Food,Migros,2023-05-24
+154,489,4.95,BioIce creamVanilla Bourbon,unknown,0.45,Frozen Food,Migros,2023-05-24
+155,491,6.95,MegaStar  Orange DarkChocolate and orange ice creamWith dark chocolate coating and almonds,unknown,0.36,Frozen Food,Migros,2023-05-24
+156,493,4.95,Enjoy TrillIce cream veganCrackin Caramel,unknown,0.30000000000000004,Frozen Food,Migros,2023-05-24
+157,496,3.10,M-ClassicIce creamChocolate and cherry,unknown,0.68,Frozen Food,Migros,2023-05-24
+158,497,4.95,Migros BioIce creamChocolate,unknown,0.45,Frozen Food,Migros,2023-05-24
+159,499,1.55,Soft IceIce creamCaramel,unknown,0.175,Frozen Food,Migros,2023-05-24
+160,501,10.50,Crème d'orCream ice creamIrish cream,unknown,1.0,Frozen Food,Migros,2023-05-24
+161,508,6.50,M-Classic  LégerWater iceVanilla,unknown,1.0,Frozen Food,Migros,2023-05-24
+162,510,6.50,MegaStar  MinisIce chocolateCovered with dark chocolate,unknown,0.39,Frozen Food,Migros,2023-05-24
+163,511,7.50,Cream ice creamWith Bourbon vanilla,Alnatura,0.44,Frozen Food,Migros,2023-05-24
+164,513,5.40,Ice CreamChocolate,Alnatura,0.5,Frozen Food,Migros,2023-05-24
+165,515,5.20,GlacecakePanna Cotta,Glacetta,0.7,Frozen Food,Migros,2023-05-24
+166,517,3.95,Plant-based ice creamHazelnut,Nanimale,0.12,Frozen Food,Migros,2023-05-24
+167,518,3.60,M-ClassicCream ice creamChocolate,unknown,1.0,Frozen Food,Migros,2023-05-24
+168,520,4.95,Enjoy TrillIce cream veganChilla Vanilla,unknown,0.30000000000000004,Frozen Food,Migros,2023-05-24
+169,522,3.60,M-ClassicCream ice creamMocha,unknown,1.0,Frozen Food,Migros,2023-05-24
+170,523,5.20,V-LoveVegetable cream ice creamCoffee Caramel Swirl,unknown,0.45,Frozen Food,Migros,2023-05-24
+171,534,3.95,Plant-based ice creamGianduja Praline,Nanimale,0.12,Frozen Food,Migros,2023-05-24
+172,538,4.50,GlacecakeVanilla,Glacetta,0.8,Frozen Food,Migros,2023-05-24
+173,543,4.50,Mary Jane  Almost CookieCream ice cream caramel,unknown,0.45,Frozen Food,Migros,2023-05-24
+174,546,3.95,MegaStar  MinisVanilla ice creamWith milk chocolate coating and almonds,unknown,0.18,Frozen Food,Migros,2023-05-24
+175,547,4.95,Enjoy TrillIce cream veganChoca Choc,unknown,0.30000000000000004,Frozen Food,Migros,2023-05-24
+176,555,3.60,M-ClassicCream ice creamStrawberry,unknown,1.0,Frozen Food,Migros,2023-05-24
+177,556,4.95,M-ClassicWaffle Cornet - MiniVanilla,unknown,0.336,Frozen Food,Migros,2023-05-24
+178,561,5.50,GlacecakeCaramel,Glacetta,0.8,Frozen Food,Migros,2023-05-24
+179,562,4.95,M-ClassicWaffle Cornet - MiniChocolate,unknown,0.336,Frozen Food,Migros,2023-05-24
+180,564,4.30,Glace à la vanilleAvec la crème fraîche,Alnatura,0.5,Frozen Food,Migros,2023-05-24
+181,567,4.10,Le SorbetSorbetApricot &peach,unknown,1.0,Frozen Food,Migros,2023-05-24
+182,571,5.95,Dessert glacéMocha,Glacetta,0.48,Frozen Food,Migros,2023-05-24
+183,574,3.20,Le SorbetSorbetLemons,unknown,1.0,Frozen Food,Migros,2023-05-24
+184,575,5.95,Dessert glacéCaramel,Glacetta,0.48,Frozen Food,Migros,2023-05-24
+185,576,4.10,Le SorbetSorbetPlums,unknown,1.0,Frozen Food,Migros,2023-05-24
+186,577,4.10,Le SorbetSorbetPineapple Passion Fruit,unknown,1.0,Frozen Food,Migros,2023-05-24
+187,578,2.95,M-ClassicWaffle CornetVanilla & Strawberry,unknown,0.96,Frozen Food,Migros,2023-05-24
+188,579,2.95,M-ClassicWaffle CornetVanilla,unknown,0.96,Frozen Food,Migros,2023-05-24
+189,580,2.95,M-ClassicWaffle CornetVanilla & Chocolate,unknown,0.96,Frozen Food,Migros,2023-05-24
+190,581,3.95,M-Classic  MaxiVanilla Bourbon ice creamWith milk chocolate coating and almonds,unknown,0.96,Frozen Food,Migros,2023-05-24

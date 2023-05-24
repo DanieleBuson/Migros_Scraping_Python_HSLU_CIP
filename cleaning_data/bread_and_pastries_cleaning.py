@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-breadDf = pd.read_csv("bread_and_pastries.txt")
+breadDf = pd.read_csv("data/bread_and_pastries.txt")
 
 ## extracting only products that have grams (or kilograms) for the following analysis
 ## It is important to extract the quantities in order to gain information regarding the price per g or kg.
@@ -37,13 +37,28 @@ for i in range(len(breadDf)):
 
             elif len(breadDf.loc[i, "Quantity"].split("Stück")) > 1:
                 breadDf.loc[i, "Quantity"] = float(breadDf.loc[i, "Quantity"].split("Stück")[1].split("kg")[0].replace(" ", ""))*1000
+
+            ## Another possibility is having the percentage
+            elif len(breadDf.loc[i, "Quantity"].split("%")) > 1:
+                temp_string = breadDf.loc[i, "Quantity"].split("%")[1]
+                breadDf.loc[i, "Product"] += breadDf.loc[i, "Quantity"].split("%")[0] + "%" 
+                ind = 0
+                count_number = 0
+                for c in temp_string:
+                    ## We search for a digit and cut the string.
+                    if c.isdigit() and count_number == 0:
+                        breadDf.loc[i, "Quantity"] = float(temp_string[ind:].split("kg")[0])*1000
+                        breadDf.loc[i, "Product"] += temp_string[:ind]
+                        ## Setting the count number to 1 we avoid the search of another digit.
+                        count_number += 1
+                    ind += 1
                 
-            ## We decided for time reasons, not to extract other records that were problematic. However, we elieve that in a larger project
+            ## We decided for time reasons, not to extract other records that were problematic. However, we believe that in a larger project
             ## all the cases have to be considered.
             else:
                 breadDf.loc[i, "Quantity"] = float(breadDf.loc[i, "Quantity"].split("kg")[0].replace(" ", ""))*1000
         except: 
-            print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
+            # print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
             breadDf.loc[i, "Quantity"] = np.nan
     
     ## We did the same consideration for grams. 
@@ -61,10 +76,24 @@ for i in range(len(breadDf)):
             elif len(breadDf.loc[i, "Quantity"].split("Stück")) > 1:
                 breadDf.loc[i, "Quantity"] = float(breadDf.loc[i, "Quantity"].split("Stück")[1].split("g")[0].replace(" ", ""))
 
+            elif len(breadDf.loc[i, "Quantity"].split("%")) > 1:
+                temp_string = breadDf.loc[i, "Quantity"].split("%")[1]
+                breadDf.loc[i, "Product"] += breadDf.loc[i, "Quantity"].split("%")[0] + "%" 
+                ind = 0
+                count_number = 0
+                for c in temp_string:
+                    ## We search for a digit and cut the string.
+                    if c.isdigit() and count_number == 0:
+                        breadDf.loc[i, "Quantity"] = float(temp_string[ind:].split("g")[0])
+                        breadDf.loc[i, "Product"] += temp_string[:ind]
+                        ## Setting the count number to 1 we avoid the search of another digit.
+                        count_number += 1
+                    ind += 1
+
             else:
                 breadDf.loc[i, "Quantity"] = float(breadDf.loc[i, "Quantity"].split("g")[0].replace(" ", ""))
         except:
-            print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
+            # print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
             breadDf.loc[i, "Quantity"] = np.nan
     
     ## since we are searching for grams or kilograms, if the termination of the quantity is different (in pieces or liters)
@@ -82,15 +111,16 @@ breadDf_grams = breadDf_grams.reset_index(drop = True)
 
 ## After creating the dataframe, we can store it temporarily in a csv file. 
 
-with open("bread_and_pastries_grams.txt", "w") as csv_file:
+with open("data/bread_and_pastries_grams.txt", "w") as csv_file:
     breadDf_grams.to_csv(path_or_buf=csv_file)
+    print("Done! CSV created")
 
 
 # Extracting liters for following analysis
 # The purpose is the same as before, extracting all the values in liters to have the possibility to show 
 # numerical data regarding the price per liter.
 
-breadDf = pd.read_csv("bread_and_pastries.txt")
+breadDf = pd.read_csv("data/bread_and_pastries.txt")
 
 for i in range(len(breadDf)):
     # print(breadDf.loc[i, "Quantity"], "  ", type(breadDf.loc[i, "Quantity"]))
@@ -107,7 +137,7 @@ for i in range(len(breadDf)):
                 breadDf.loc[i, "Quantity"] = float(breadDf.loc[i, "Quantity"].split("ml")[0].replace(" ", ""))/1000
 
         except: 
-            print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
+            # print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
             breadDf.loc[i, "Quantity"] = np.nan
 
     elif str(breadDf.loc[i, "Quantity"])[-1] == "l" and str(breadDf.loc[i, "Quantity"])[-2] != "m":
@@ -121,7 +151,7 @@ for i in range(len(breadDf)):
                 breadDf.loc[i, "Quantity"] = float(breadDf.loc[i, "Quantity"].split("l")[0].replace(" ", ""))
 
         except:
-            print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
+            # print("There is a problem with '", breadDf.loc[i, "Quantity"], "'\nThe value will be considered invalid.")
             breadDf.loc[i, "Quantity"] = np.nan
 
     else: 
@@ -136,5 +166,6 @@ breadDf_liter = breadDf_liter.reset_index(drop=True)
 
 ## After creating the dataframe, we can store it temporarily in a csv file. 
 
-with open("bread_and_pastries_liters.txt", "w") as csv_file:
+with open("data/bread_and_pastries_liters.txt", "w") as csv_file:
     breadDf_liter.to_csv(path_or_buf=csv_file)
+    print("Done! CSV created")

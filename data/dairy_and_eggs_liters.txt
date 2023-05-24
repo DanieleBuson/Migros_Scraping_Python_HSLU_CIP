@@ -1,0 +1,220 @@
+,Unnamed: 0,Price,Product,Producer,Quantity,Type of food,Supermarket,Date
+0,3,1.95,Whole milkPAST,Migros Bio,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+1,8,1.95,Semi-skimmed milkPAST - 2.5% Milk fat,Migros Bio,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+2,9,2.10,Aha!Lactose free semi-skimmed milkUHT - 1.5% Milk fat,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+3,17,1.55,  IP-SUISSEHalf creamUHT - 25% Fat,Valflora,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+4,26,2.05,  IP-SUISSEWhole creamUHT - 35% Fat,Valflora,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+5,30,2.10,Oat-based drinkUnsweetened,Alnatura,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+6,31,2.70,  IP-SUISSEHalf creamUHT - 25% Fat,Valflora,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+7,33,1.95,Semi-skimmed milkUHT - 2.5% Milk fat,Migros Bio,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+8,34,1.95,Whole milkUHT - 3.5% Milk fat,Migros Bio,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+9,35,3.50,Whole creamUHT - 35% Fat,Valflora,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+10,39,1.95,  IP-SUISSESemi-skimmed milkHOCH PAST - 2.5% Milk fat,Heidi,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+11,47,1.95,  IP-SUISSEWhole milkHOCH PAST - 3.8% Milk fat,Heidi,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+12,52,2.80,Aha!Half-creamLactose-free,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+13,54,5.50,Salad dressingFrench,Mini Salatsossä,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+14,80,3.45,!Oat drinkBarista,Oatly,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+15,88,3.15,M-ClassicChoco Drink,unknown,1.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+16,96,2.05,Coffee cream,Valflora,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+17,97,1.60,Sour single cream18% Milk fat,Valflora,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+18,98,1.40,  IP-SUISSESemi-skimmed milkHOCH PAST - 2.5% Fat,Valflora,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+19,107,1.60,  IP-SUISSESemi-skimmed milkUHT - 2.5% Fat,Valflora,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+20,109,1.65,M-ClassicSkimmed milkUHT - 0.1% Milk fat,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+21,117,1.–,  IP-SUISSESemi-skimmed milkUHT - 2.5% Fat,Valflora,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+22,129,2.10,Sauce single cream25% Milk fat,Valflora,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+23,143,1.40,  IP-SUISSEWhole milkHOCH PAST - 3.5% Fat,Valflora,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+24,146,3.95,Whipped creamWith no added sugar,Valflora,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+25,147,3.05,Aha!Whole creamLactose-free,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+26,148,6.95,  GazpachoMediterranean soup fresh vegetablesOriginal,Alvalle,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+27,164,3.10,V-Love  BioOat drinkBarista,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+28,177,1.25,Coffee cream,Valflora,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+29,179,1.70,M-ClassicFine cream for cooking15% fat,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+30,184,3.35,Almond drinkUnsweetened,Alnatura,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+31,191,1.70,Vegetable alternative to liquid cream,Alnatura,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+32,224,5.30,  IP-SUISSEWhole creamMountain milk,Heidi,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+33,231,1.60,  IP-SUISSEWhole milkUHT - 3.5% Fat,Valflora,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+34,233,1.–,Whole milkUHT - 3.5% Fat,Valflora,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+35,234,1.85,DrinkFraise,Bifidus,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+36,236,4.65,Double cream from Gruyère45% Milk fat - not beatable,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+37,243,6.70,Yogurt DrinkStrawberry,Bifidus,0.8,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+38,244,1.70,M-Classic  LégerFine cream for cooking7% fat,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+39,247,4.30,  IP-SUISSESingle creamMountain milk,Heidi,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+40,250,0.60,M-ClassicMilk drink,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+41,279,3.–,V-Love  BioRice drinkAlmond,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+42,280,1.–,M-BudgetCoffee with milkMacchiato,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+43,282,1.85,  DrinkSoy drinkUnsweetened,Alnatura,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+44,292,0.70,Whole milkUHT - 3.5% Fat,Valflora,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+45,295,5.50,Salad dressingFrench,Frifrench,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+46,311,2.45,V-Love  BioSoy drinkPlain,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+47,318,3.50,  This is not M*lkOat drink3.5% fat,Alpro,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+48,328,1.80,M-BudgetCoffee creamUHT homogenised - 15% Milk fat,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+49,334,1.85,Yogurt DrinkMocha,Bifidus,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+50,346,3.95,Almond drinkRoasted - unsweetened,Alpro,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+51,349,1.95,"Milk drinkWith skim milk, whole milk and Ovaltine",Ovomaltine,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+52,353,4.65,Whipped creamWith added sugar,Valflora,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+53,355,0.55,M-Classic  LégerChoco Drink,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+54,359,1.65,M-ClassicMilk drinkSkimmed milk with 3.3 %chocolate,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+55,365,9.95,Salad dressingFrench,Frifrench,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+56,367,3.20,Probiotic yogurt drinkStrawberry,Lilibiggs,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+57,372,2.–,  IP-SUISSESemi-skimmed milkUHT - 1.5% Fat,Valflora,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+58,374,2.10,  DrinkRice-based drinkNature,Alnatura,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+59,404,1.85,DrinksMango,Bifidus,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+60,409,1.80,Milk drinkChocolate,Heidi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+61,415,3.55,Whole cream,Migros Bio,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+62,426,2.50,Milk drinkFit,Lattesso,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+63,427,3.50,Oat drinkUnsweetened,Alpro,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+64,437,6.50,Salad dressingItalian,Mini Salatsossä,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+65,458,3.–,Single creamPaste,Migros Bio,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+66,465,1.65,M-ClassicMilk drink,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+67,466,3.20,Beleaf  IP-SUISSEOat drinkUHT - Vegan,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+68,480,3.20,Sheep milkPAST,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+69,486,1.25,Sour buttermilkPlain,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+70,492,3.20,SugoPesto basil,Anna's Best,0.15,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+71,495,6.70,Yogurt DrinkMultivitamin,Bifidus,0.8,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+72,497,4.95,GazpachoAndaluz,Anna's Best,0.75,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+73,498,1.60,M-BudgetSoy drinkCalcium,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+74,507,2.90,V-LovePlant-based Cuisine,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+75,512,3.20,Milk drinkHigh Protein,Ovomaltine,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+76,513,2.95,Milk drinkVanilla,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+77,516,1.30,  aha!Choco DrinkLactose-free,Migros Bio,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+78,533,1.85,Milk drinkStrawberry,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+79,541,2.90,V-LoveRice drinkCalcium,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+80,560,3.40,SugoPesto rosso,Anna's Best,0.15,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+81,587,2.45,  aha!Whole milkUHT,Migros Bio,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+82,609,3.35,V-Love  BioCoconut drinkPlain,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+83,610,3.90,Tomato soup,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+84,631,1.85,Milk drinkVanilla,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+85,636,5.75,  BenecolYogurt drinkStrawberry,Emmi,0.39,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+86,639,3.95,"  aha!  - VitafrenchSalad dressingLactose free, gluten free",Frifrench,0.27,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+87,641,5.50,Salad dressingFrench Dressing,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+88,647,3.60,M-Classic  LégerWhipped creamUHT,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+89,650,2.95,Milk drinkStrawberry,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+90,651,3.15,"Milk drinkWith skim milk, whole milk and Ovaltine",Ovomaltine,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+91,662,4.30,  BioSalsaCinque Pi,Anna's Best,0.28,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+92,679,5.75,  BenecolYogurt drinkBlueberries,Emmi,0.39,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+93,683,2.50,bucks  FairtradeMilk drinkCaramel macchiato,Star,0.22,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+94,685,4.30,SauceCarbonara,Anna's Best,0.28,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+95,696,3.30,  BioAlmond drinkSugar-free,Bjorg,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+96,709,2.80,QimiQSingle cream15% Grease,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+97,715,3.–,Milk drinkChoco Mountain,Chiefs,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+98,797,3.15,  BioOat drink,Bjorg,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+99,803,4.95,  VinaigretteSalad dressingMustard-honey,Anna's Best,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+100,805,2.95,Milk drinkChoco,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+101,806,3.70,  BioSugoPomodoro,Anna's Best,0.28,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+102,807,5.85,  BenecolYogurt drinkRaspberry,Emmi,0.39,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+103,813,1.50,Milk drinkMacchiato,Caffè Grande,0.27,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+104,815,1.85,Milk drinkChocolate,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+105,833,4.75,  AktifitProbiotic yogurt drinkExotic,Emmi,0.39,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+106,845,2.50,bucks  FairtradeMilk drinkCaffè latte,Star,0.22,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+107,864,3.30,!Oat drinkFull,Oatly,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+108,867,3.95,Whipped cream,Valflora,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+109,891,4.95,Truffle sauce,Sélection,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+110,894,4.95,  DressingSalad dressingThousand Island,Anna's Best,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+111,974,3.30,Oatly Haferdrink Deluxe Past,Oatly,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+112,975,3.20,BeleafBeleaf Hafer Haselnuss,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+113,980,3.–,V-LoveV-Love Bio Haselnuss Drink,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+114,982,2.70,V-LoveV-Love Hafer Drink Kalzium,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+115,983,2.–,M-BudgetM-Budget Mandeldrink,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+116,986,3.50,Alpro this is not Mlk 1.8%,Alpro,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+117,993,2.20,V-LoveV-Love Bio Drink Choco,unknown,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+118,994,2.20,V-LoveV-Love Bio Drink Vanilla,unknown,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+119,996,3.50, Bio Haselnussdrink,Bjorg,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+120,1000,2.50,V-Love  BioOat drinkCacao,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+121,1014,5.50,Salad dressingBalsamico Dressing,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+122,1015,5.95,SoupeMarrons-Morilles,Sélection,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+123,1034,7.95,  DressingSalad dressingFrench,Anna's Best,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+124,1056,0.75,Migros Bio Dressing Balsamico,Migros Bio,0.05,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+125,1080,0.75,Migros Daily Maple Mustard Sauce,Migros Daily,0.06,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+126,1081,0.70,Migros Daily Balsamico Dressing,Migros Daily,0.06,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+127,1082,0.70,Migros Daily Italian Dressing,Migros Daily,0.06,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+128,1083,0.75,Migros Daily French Dressing,Migros Daily,0.06,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+129,1107,0.95,Bio Migros Daily Tandoori Dressing,Migros Daily,0.04,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+130,1119,1.50,Milk drinkCappuccino,Caffè Grande,0.27,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+131,1126,3.95,Sauce Pesto aux ail d'ours,Anna's Best,0.15,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+132,1138,3.30,Anna's Best Pesto ai funghi,Anna's Best,0.15,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+133,1141,3.30,V-Love  BioQuinoa drinkPlain,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+134,1214,2.95,Milk drinkCoffee,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+135,1218,5.30,Doppelrahm Moleson,unknown,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+136,1219,4.40,Energy Drink Chocolat,Emmi,0.99,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+137,1220,4.40,Energy Drink Vanille,Emmi,0.99,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+138,1221,6.–,bucksStarbucks Caffe Latte,Star,0.66,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+139,1222,6.–,bucksStarbucks Cappuccino,Star,0.66,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+140,1226,1.70,Bio Ayran Aya,Migros Bio,0.23,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+141,1228,7.20,Chiefs Drink Choco,Chiefs,0.99,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+142,1229,7.20,Chiefs Drink Coffee,Chiefs,0.99,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+143,1231,6.–, Caffè LatteEmmi Caffè Latte Balance,Emmi,0.6900000000000001,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+144,1237,3.–,Plant Protein Energy DrinkChoco,Emmi,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+145,1238,1.50,Milk drinkZero,Grande Caffè,0.27,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+146,1241,0.60,M-Classic  Choco DrinkMilk drink,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+147,1243,3.95,Coconut drinkUnsweetened,Alpro,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+148,1246,6.–,Milk drinkFree,Lattesso,0.75,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+149,1247,6.–,Milk drinkFit,Lattesso,0.75,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+150,1248,6.–,Milk drinkCappuccino,Lattesso,0.75,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+151,1249,2.45,bucksBoisson lactée au caféCappuccino,Star,0.22,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+152,1250,0.90,M-ClassicChoco DrinkLait écréme avec 3.3% de chocolat,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+153,1270,2.50,LATTESSOLattesso Cappuccino,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+154,1302,4.40,Energy Drink Erdbeer,Emmi,0.99,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+155,1303,7.55,Ovo,Ovomaltine,1.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+156,1304,4.65,Ovo,Ovomaltine,0.75,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+157,1313,6.–,bucksStarbucks Caramel Macchiato,Star,0.66,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+158,1328,1.95,Sélection Lassi Mango,Migros Sélection,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+159,1329,1.95, Lassi Mango,Sélection,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+160,1343,2.50,Bio Kefir Drink,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+161,1345,2.–,Oh! High Protein Ananas Kokos,Oh!,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+162,1349,2.60,DUG  PotatoPotato-based vegetable drinkUnsweetened,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+163,1350,4.75,  AktifitProbiotic yogurt drinkStrawberry,Emmi,0.39,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+164,1354,6.95,  GazpachoSoupe Méditerranéenne de légumes fraisVert,Alvalle,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+165,1355,1.85,V-Love  BioRice drinkPlain,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+166,1367,4.60,Migros Bio Gerstensuppe,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+167,1429,4.30,Kürbissuppe,unknown,0.3,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+168,1431,4.60,Bio Erbsensuppe,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+169,1432,4.60,Migros Bio Hüttensuppe,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+170,1433,5.95,Sélection Steinpilz-Baumnuss-Suppe,Migros Sélection,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+171,1434,5.95, Steinpilz-Baumnuss-Suppe,Sélection,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+172,1435,2.95,Anna's Best Gazpacho Andaluz,Anna's Best,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+173,1586,4.30,Pilzcrèmesuppe,unknown,0.3,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+174,1587,4.30,Kartoffel-Lauchsuppe,unknown,0.3,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+175,1608,9.90,Aus der Region Gaspacho,unknown,0.74,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+176,1645,4.75,  AktifitProbiotic yogurt drinkPeach,Emmi,0.39,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+177,1651,2.40,Migros Bio Molke Drink Mango,Migros Bio,0.24,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+178,1671,2.40,Migros Bio Molke Drink Berries,Migros Bio,0.24,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+179,1672,1.20,Buttermilch nature,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+180,1708,1.90,Trinkmolke Aronia,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+181,1791,4.60,Pumpkin and coconut soup,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+182,1792,3.80,  CupSoupsRed Lentils &Curry,Anna's Best,0.3,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+183,1796,1.30,Buttermilch Erdbeer IP-SUISSE,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+184,1797,1.30,Buttermilch Aprikose,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+185,1798,1.30,Buttermilch Beerenmix IP-SUISSE,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+186,1809,1.30,Buttermilch Williamsbirne,unknown,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+187,1813,5.15,  AktifitProbiotic yogurt drinkBanana,Emmi,0.39,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+188,1822,3.–,Milk drinkCoffee Town,Chiefs,0.33,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+189,2082,2.60,DUG  PotatoPotato-based vegetable drinkBarista,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+190,2084,2.65,BioCrème entière pasteurisée,unknown,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+191,2093,2.90,Halbrahm Past,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+192,2094,2.20,Züribieter Vollrahm,unknown,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+193,2115,3.40,Vollrahm Past,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+194,2116,5.40,Bio Rahm Past,Migros Bio,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+195,2117,2.30,Vollrahm past,unknown,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+196,2118,6.95,Valflora Vollrahm UHT IP-SUISSE,Valflora,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+197,2119,2.10,Züribiet Halbrahm Past,unknown,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+198,2133,2.70,Haussauce Tartar ,unknown,0.11,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+199,2134,2.90,Bio Rahm Past,unknown,0.25,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+200,2139,3.90,  BioSoupsTomatoes,Anna's Best,0.3,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+201,2142,1.50,  M-DessertAcidulated milk12% Milk Fat,Valflora,0.2,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+202,2144,1.45,Saurer Halbrahm Nature aha!,unknown,0.18,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+203,2148,2.80,Creme Fraiche Nature aha!,unknown,0.18,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+204,2150,2.60,DUG  PotatoPotato-based vegetable drinkOriginal,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+205,2164,3.90,  BioSoupsPumpkin and coconut,Anna's Best,0.3,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+206,2288,1.50,Milk drinkEspresso,Caffè Grande,0.27,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+207,2299,4.95,  DressingSalad dressingCaesar,Anna's Best,0.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+208,2435,2.50,M-Drink UHT Flasche,unknown,1.5,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+209,2436,1.65,M-Drink UHT,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+210,2437,1.85,Wiesenmilch M-Drink UHT IP-SUISSE,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+211,2438,14.90,M-Drink UHT,unknown,9.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+212,2439,10.40,Valflora M-Drink UHT,Valflora,10.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+213,2440,6.20,Valflora M-Drink,Valflora,6.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+214,2445,2.20,M-BudgetM-Budget Milch teilentr. IP-Suisse,unknown,2.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+215,2446,2.25,M-BudgetM-Budget Vollmilch IP-SUISSE,unknown,2.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+216,2447,1.90,Wiesenmilch Vollmilch UHT,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+217,2448,2.10,Vollmilch laktosefr. aha! IP-Suisse,unknown,1.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24
+218,2450,11.70,Migros Bio M-Drink UHT,Migros Bio,6.0,"Dairy, Eggs & Fresh Convenience Food",Migros,2023-05-24

@@ -75,7 +75,7 @@ url = 'https://www.migros.ch/en/category/frozen-food'
 driver = webdriver.Chrome()
 driver.get(url)
 driver.maximize_window()
-time.sleep(70)
+time.sleep(30)
 page = driver.page_source
 driver.quit()
 ## We pass the page extracted using selenium to BeutifulSoup in order to extract data through the html. 
@@ -170,5 +170,5 @@ frozenDf.columns = ["Price", "Product", "Producer", "Quantity", "Type of food", 
 ## Here it is the result in a tabular form.
 print(frozenDf)
 
-with open('frozen_food.txt', 'w') as csv_file:
+with open('data/frozen_food.txt', 'w') as csv_file:
     frozenDf.to_csv(path_or_buf=csv_file)
