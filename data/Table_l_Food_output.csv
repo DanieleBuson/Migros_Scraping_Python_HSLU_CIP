@@ -1,0 +1,2224 @@
+ProductId,Price,Product,Producer,Quantity,TypeOfFood,Supermarket,Date
+511,11.7,Coop,Coop,6.0,Dairy Products & Eggs,Coop,2023-05-23
+512,11.7,Coop,Coop,6.0,Dairy Products & Eggs,Coop,2023-05-23
+513,2.95,IP-Suisse Crème Fraîche Plain,Coop,0.2,Dairy Products & Eggs,Coop,2023-05-23
+514,2.1,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+518,1.55,Single cream UHT IP-Suisse,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+520,1.95,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+521,16.9,Coop,Coop,12.0,Dairy Products & Eggs,Coop,2023-05-23
+524,1.8,Pasteurized Milk Drink,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+525,2.05,Full Cream UHT IP-Suisse,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+535,16.95,Coop,Coop,12.0,Dairy Products & Eggs,Coop,2023-05-23
+538,3.75,Full Cream UHT IP-Suisse,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+540,2.6,Thai Kitchen Coconut Milk,Thai Kitchen,0.25,Dairy Products & Eggs,Coop,2023-05-23
+541,3.75,Oatly Oat Milk Barista Edition,OATLY,1.0,Dairy Products & Eggs,Coop,2023-05-23
+546,2.95,Halbrahm UHT,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+548,1.6,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+549,2.15,Coffee Cream IP-Suisse,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+552,2.1,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+558,1.95,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+570,3.95,alpro Unsweetened Almond Drink,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+574,3.3,Coop,Coop,1.75,Dairy Products & Eggs,Coop,2023-05-23
+579,2.5,Coffee Cream Portions IP-Suisse 40x12g,Coop,0.48,Dairy Products & Eggs,Coop,2023-05-23
+584,16.95,Coop,Coop,12.0,Dairy Products & Eggs,Coop,2023-05-23
+590,1.0,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+592,2.1,Rama,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+597,1.8,Pasteurized Whole Milk IP-Suisse,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+604,2.2,Single Cream for Sauces IP-Suisse,Coop,0.2,Dairy Products & Eggs,Coop,2023-05-23
+609,3.3,Half-fat cream UHT IP-Suisse 3x125ml,Coop,0.375,Dairy Products & Eggs,Coop,2023-05-23
+615,2.4,Emmi good day,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+621,2.0,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+623,2.85,Emmi good day Protein Milk UHT,Emmi good day,1.0,Dairy Products & Eggs,Coop,2023-05-23
+631,,None,None,0.5,Dairy Products & Eggs,Coop,2023-05-23
+636,,None,None,0.5,Dairy Products & Eggs,Coop,2023-05-23
+639,1.4,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+642,4.3,Thai Kitchen Coconut Milk,Thai Kitchen,0.5,Dairy Products & Eggs,Coop,2023-05-23
+643,5.3,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+650,2.95,alpro Original Soya Drink with Calcium,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+652,3.5,alpro Oat drink no sugars,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+655,3.15,Pasteurized Milk Drink,Coop,1.75,Dairy Products & Eggs,Coop,2023-05-23
+656,16.95,Coop,Coop,12.0,Dairy Products & Eggs,Coop,2023-05-23
+669,2.55,Thai Kitchen Light Coconut Milk,Thai Kitchen,0.25,Dairy Products & Eggs,Coop,2023-05-23
+670,2.8,Free From Halbrahm UHT 250ml,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+677,,None,None,1.0,Dairy Products & Eggs,Coop,2023-05-23
+682,1.6,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+684,3.3,Coop,Coop,1.75,Dairy Products & Eggs,Coop,2023-05-23
+689,4.4,Whole cream UHT IP-Suisse 3x125ml,Coop,0.375,Dairy Products & Eggs,Coop,2023-05-23
+690,3.5,alpro Vanilla Soya Drink,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+707,4.3,Half-Fat Cream,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+716,2.0,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+720,3.15,Pasteurized Whole Milk,Coop,1.75,Dairy Products & Eggs,Coop,2023-05-23
+721,2.9,Thai Kitchen Organic Coconut Milk,Thai Kitchen,0.25,Dairy Products & Eggs,Coop,2023-05-23
+723,,Qualité &,None,0.25,Dairy Products & Eggs,Coop,2023-05-23
+725,2.5,Naturaplan organic plain kefir yoghurt drink,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+726,1.35,Coffee Cream IP-Suisse,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+729,1.0,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+733,1.95,Oatly Oat Milk Barista Edition,OATLY,0.5,Dairy Products & Eggs,Coop,2023-05-23
+735,4.2,Emmi,Coop,0.33,Dairy Products & Eggs,Coop,2023-05-23
+746,3.35,Karma Organic Almond Drink Barista,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+750,2.4,Emmi good day Milk Drink UHT,Emmi good day,1.0,Dairy Products & Eggs,Coop,2023-05-23
+751,2.25,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+755,1.95,Alpro Soya Cooking Mix,alpro,0.25,Dairy Products & Eggs,Coop,2023-05-23
+771,,None,None,1.0,Dairy Products & Eggs,Coop,2023-05-23
+781,2.1,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+782,2.7,Naturaplan Organic Coffee Cream,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+788,2.65,Naturaplan Organic UHT Whole Cream,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+792,2.95,IP Vollrahm past.,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+800,2.1,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+805,,None,None,0.4,Dairy Products & Eggs,Coop,2023-05-23
+806,2.0,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+809,2.95,alpro Unsweetened Soya Drink,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+817,15.9,Coop,Coop,9.0,Dairy Products & Eggs,Coop,2023-05-23
+820,2.1,Rama,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+831,3.05,Free From Vollrahm UHT 250ml,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+834,3.95,alpro Unsweetened Coconut Drink,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+841,15.0,Coop,Coop,9.0,Dairy Products & Eggs,Coop,2023-05-23
+850,,None,None,1.0,Dairy Products & Eggs,Coop,2023-05-23
+855,2.0,Karma Bio Sojadrink,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+861,3.0,Karma Organic Rice Drink with Calcium,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+863,,None,None,1.5,Dairy Products & Eggs,Coop,2023-05-23
+865,3.75,alpro Barista oat milk,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+871,1.95,Oatly Oat Cuisine for cooking,OATLY,0.25,Dairy Products & Eggs,Coop,2023-05-23
+872,3.25,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+875,1.2,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+876,3.5,alpro,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+884,0.7,Coop,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+893,,None,None,1.5,Dairy Products & Eggs,Coop,2023-05-23
+895,10.3,Gourmet La Crème Clarified Cream,Cremo,0.4,Dairy Products & Eggs,Coop,2023-05-23
+903,1.95,Rama,Coop,0.2,Dairy Products & Eggs,Coop,2023-05-23
+905,0.7,Coop,Coop,0.25,Dairy Products & Eggs,Coop,2023-05-23
+930,2.0,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+932,3.5,alpro,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+934,3.8,Coop,Coop,0.2,Dairy Products & Eggs,Coop,2023-05-23
+935,3.0,Karma Organic Rice Drink with Almonds,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+936,5.6,nu3 Organic Coconut Oil,nu3,0.23,Dairy Products & Eggs,Coop,2023-05-23
+942,15.9,Coop,Coop,9.0,Dairy Products & Eggs,Coop,2023-05-23
+945,3.0,Karma Bio Haferdrink Mandeln,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+953,1.6,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+955,3.75,Oatly Barista Oat Milk Past,OATLY,1.0,Dairy Products & Eggs,Coop,2023-05-23
+957,2.05,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+975,11.1,Coop,Coop,6.0,Dairy Products & Eggs,Coop,2023-05-23
+976,1.45,Free From Organic full-fat milk pasteurised,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+987,3.2,Emmi beleaf Oat Milk,Emmi Beleaf,1.0,Dairy Products & Eggs,Coop,2023-05-23
+989,5.45,Rama for Frying with a Hint of Butter,Rama,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1012,3.0,Karma Organic Rice Drink plain,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1018,4.7,Thai Kitchen Organic Coconut Milk,Thai Kitchen,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1020,3.2,Emmi beleaf Hazelnut Oat Milk,Emmi Beleaf,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1027,1.2,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1030,1.75,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1039,1.9,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1057,3.2,Thai Kitchen coconut cream,Thai Kitchen,0.25,Dairy Products & Eggs,Coop,2023-05-23
+1063,3.45,Oatly Oat Milk Chocolate,OATLY,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1071,6.95,Thai Kitchen Coconut Milk,Thai Kitchen,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1080,3.3,Oatly Oat Drink Whole,OATLY,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1083,4.8,Belfina Classic Vegetable Greese Cream,Belfina,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1084,1.95,Rama,Coop,0.2,Dairy Products & Eggs,Coop,2023-05-23
+1122,,None,None,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1124,3.25,Karma Organic Plain Oat Drink,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1135,1.9,Naturli,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1141,3.0,Karma Bio Haferdrink Vanillearoma,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1143,,None,None,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1144,3.5,Emmi beleaf Oat Milk Barista,Emmi Beleaf,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1155,1.8,Pasteurized Milk Drink,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1164,1.95,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1177,6.5,Sais Spécial Vegetable Cream-Oil,Sais,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1190,1.85,Nordwestschweizer Semi-skimmed Milk pasteurized IP-Suisse,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1201,3.75,Karma Bio Mandeldrink Barista,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1202,1.9,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1204,3.2,Emmi beleaf Almond Oat Milk,Emmi Beleaf,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1213,3.3,Oatly Haferdrink Fettarm,OATLY,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1214,1.95,Oatly Oat Cuisine for whipping,OATLY,0.25,Dairy Products & Eggs,Coop,2023-05-23
+1224,1.9,Naturli,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1225,1.8,Pasteurized Whole Milk,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1246,3.95,alpro Hazelnut Milk,alpro,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1259,3.45,Oatly Vanilla Oat Milk,OATLY,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1275,7.4,Vollrahm UHT,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1291,3.75,Karma Organic Barista Oat Drink,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1297,3.25,Naturaplan Organic Fairtrade Coconut Milk Tetra Pak,Coop,0.33,Dairy Products & Eggs,Coop,2023-05-23
+1304,1.25,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1305,3.3,Oatly Oat Milk Deluxe,OATLY,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1316,2.45,Karma Cooking Cream,Coop,0.2,Dairy Products & Eggs,Coop,2023-05-23
+1329,1.6,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1338,1.25,Coop,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1347,2.5,Sojasun Natural Soya Drink,Sojasun,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1384,2.75,Pro Specie Rara Highly Pasteurized Goat Milk,Coop,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1385,1.6,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1410,2.3,Rama Lactose Free Cooking Cream,Rama,0.25,Dairy Products & Eggs,Coop,2023-05-23
+1420,3.5,Sproud Barista Pea Milk,Sproud,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1425,1.85,Nordwestschweizer Whole Milk pasteurized IP-Suisse,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1430,2.35,Le petit chevrier Goat Milk,Le petit Chevrier,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1446,,None,None,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1467,1.6,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1478,3.3,Karma Organic Rice Drink with Hazelnut,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1484,5.2,Blue Elephant Thai Coconut Milk,Blue Elephant,0.4,Dairy Products & Eggs,Coop,2023-05-23
+1485,3.75,Harvest Moon original,HARVEST MOON,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1491,6.1,Michel & Augustin Chocolate Mousse,Michel et Augustin,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1529,1.95,Coop,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1532,6.95,Belfina Bratöl mit Appenzeller Bergbutter,Belfina,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1536,3.3,Karma 5-Cereal Drink,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1558,2.8,Blue Elephant Thai Coconut Milk,Blue Elephant,0.165,Dairy Products & Eggs,Coop,2023-05-23
+1574,3.6,Karma Bio Cashewdrink 1L,Coop,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1595,3.5,Naturli Do not call me milk 1l,Naturli,1.0,Dairy Products & Eggs,Coop,2023-05-23
+1609,5.95,Belfina Balance Plant Oil Creme,Belfina,0.5,Dairy Products & Eggs,Coop,2023-05-23
+1657,4.7,Milco Gruyere Double Cream,Milco,0.2,Dairy Products & Eggs,Coop,2023-05-23
+2551,4.95,Betty Bossi Calabrese Tomato Sauce with Chorizo,Coop,0.24,Meat & Fish,Coop,2023-05-23
+3370,6.6,evian Non Carbonated Mineral Water 6x1.5l,Evian,9.0,Drinks,Coop,2023-05-23
+3371,4.4,San Pellegrino Carbonated Mineral Water 6x1.25l,San Pellegrino,7.5,Drinks,Coop,2023-05-23
+3372,,None,None,9.0,Drinks,Coop,2023-05-23
+3373,13.8,Coca-Cola Zero 6x1.5l,Coca Cola,9.0,Drinks,Coop,2023-05-23
+3374,5.95,Coca-Cola Zero 6x33cl,Coca Cola,1.98,Drinks,Coop,2023-05-23
+3375,,None,None,9.0,Drinks,Coop,2023-05-23
+3376,8.7,Coca-Cola Zero 6x50cl,Coca Cola,3.0,Drinks,Coop,2023-05-23
+3377,5.95,Coca-Cola Original 6x33cl,Coca Cola,1.98,Drinks,Coop,2023-05-23
+3378,6.9,Valser Classic Carbonated Mineral Water 6x1.5l,Valser,9.0,Drinks,Coop,2023-05-23
+3379,5.6,evian Non Carbonated Mineral Water 6x50cl,Evian,3.0,Drinks,Coop,2023-05-23
+3380,5.95,Swiss Alpina Blue Carbonated Mineral Water 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+3381,5.95,Capri-Sun Multivitamin Fruit Juice 10x20cl,Capri Sun,2.0,Drinks,Coop,2023-05-23
+3382,13.8,Coca-Cola 6x1.5l,Coca Cola,9.0,Drinks,Coop,2023-05-23
+3383,6.3,Andros Orange Juice,Andros,1.5,Drinks,Coop,2023-05-23
+3384,2.4,JaMaDu Apple Juice 4x20cl,Coop,0.8,Drinks,Coop,2023-05-23
+3385,8.7,Coca-Cola 6x50cl,Coca Cola,3.0,Drinks,Coop,2023-05-23
+3386,6.6,San Pellegrino Sanbitter Rosso 10x10cl,San Pellegrino,1.0,Drinks,Coop,2023-05-23
+3387,5.95,Swiss Alpina Red Natural Non-Carbonated Mineral Water 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+3388,5.6,Fairtrade Orange Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3389,5.95,Swiss Alpina Green Slightly Carbonated Mineral Water 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+3390,,None,None,1.0,Drinks,Coop,2023-05-23
+3391,11.95,Appenzeller Quöllfrisch Beer 10x33cl,Appenzeller Bier,3.3,Drinks,Coop,2023-05-23
+3392,5.7,San Pellegrino Carbonated Mineral Water 6x50cl,San Pellegrino,3.0,Drinks,Coop,2023-05-23
+3393,5.1,Andros Blonde Orange Juice,Andros,1.0,Drinks,Coop,2023-05-23
+3395,6.6,Hohes C Orange Juice 6x  25cl,hohes C,1.5,Drinks,Coop,2023-05-23
+3396,5.1,Andros Blood Orange Juice,Andros,1.0,Drinks,Coop,2023-05-23
+3397,8.7,Coca-Cola Caffeine Free Zero 6x50cl,Coca Cola,3.0,Drinks,Coop,2023-05-23
+3398,9.95,Corona Extra Beer 6x35.5cl,Corona,2.13,Drinks,Coop,2023-05-23
+3399,3.7,Swiss Alpina Blue Carbonated Mineral Water 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3400,6.3,evian Non Carbonated Mineral Water 6x1l,Evian,6.0,Drinks,Coop,2023-05-23
+3401,8.4,Coca-Cola 12x15cl,Coca Cola,1.8,Drinks,Coop,2023-05-23
+3402,,None,None,12.0,Drinks,Coop,2023-05-23
+3403,18.95,Granini Orange Juice 6x1l,Granini,6.0,Drinks,Coop,2023-05-23
+3404,5.95,Vittel still mineral water 6x1.5l,Vittel,9.0,Drinks,Coop,2023-05-23
+3405,10.95,Appenzeller Quöllfrisch Beer 6x50cl,Appenzeller Bier,3.0,Drinks,Coop,2023-05-23
+3406,3.4,Fairtrade Ice Tea Lemon 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3407,8.4,Coca-Cola Zero 12x15cl,Coca Cola,1.8,Drinks,Coop,2023-05-23
+3408,9.2,evian Non Carbonated Mineral Water Junior Sports Bottle 12x33cl,Evian,3.96,Drinks,Coop,2023-05-23
+3409,3.5,Naturaplan Bio Orangensaft,Coop,0.75,Drinks,Coop,2023-05-23
+3410,19.95,Naturaplan Bio Orangensaft 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3411,14.95,Rivella Blue Low Calorie Carbonated Beverages 6x1.5l,Rivella,9.0,Drinks,Coop,2023-05-23
+3412,4.95,Eptinger Carbonated Mineral Water 6x150cl,Eptinger,9.0,Drinks,Coop,2023-05-23
+3413,3.95,Naturaplan Organic Elderflower Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+3414,6.4,Fairtrade Multivitamin Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3415,,None,None,3.0,Drinks,Coop,2023-05-23
+3416,6.9,Valser Silence Non Carbonated Water 6x1.5l,Valser,9.0,Drinks,Coop,2023-05-23
+3417,9.6,Ramseier Naturaplan Organic Apple Schorle 6x50cl,Ramseier,3.0,Drinks,Coop,2023-05-23
+3418,6.6,evian Non Carbonated Mineral Water 6x75cl,Evian,4.5,Drinks,Coop,2023-05-23
+3419,14.95,Rivella Red Carbonated Beverages 6x1.5l,Rivella,9.0,Drinks,Coop,2023-05-23
+3421,5.95,Henniez Slightly Carbonated Mineral Water 6x1.5l,Henniez,9.0,Drinks,Coop,2023-05-23
+3423,3.7,Swiss Alpina Red Natural Mineral Water 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3424,7.8,Filtered Apple Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3425,11.95,Schweppes Zero Tonic Water 6x50cl,Schweppes,3.0,Drinks,Coop,2023-05-23
+3426,2.95,Raspberry Syrup,Coop,0.75,Drinks,Coop,2023-05-23
+3427,23.95,Energy,Red Bull,6.0,Drinks,Coop,2023-05-23
+3428,8.95,Red Bull Energy Drink 6x25cl,Red Bull,1.5,Drinks,Coop,2023-05-23
+3429,12.95,Volvic Green Tea with mint flavor 6x1.5L,Volvic,9.0,Drinks,Coop,2023-05-23
+3430,4.95,Naturaplan Organic Raspberry Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+3431,9.3,Rivella Blue Low Calorie Carbonated Beverages 6x50cl,Rivella,3.0,Drinks,Coop,2023-05-23
+3432,5.95,Henniez Carbonated Mineral Water 6x1.5l,Henniez,9.0,Drinks,Coop,2023-05-23
+3433,7.8,Fever Tree Tonic Water 4x20cl,Fever Tree,0.8,Drinks,Coop,2023-05-23
+3434,3.7,Strawberry Bifidus Yogurt Drink 2x  500ml,Coop,1.0,Drinks,Coop,2023-05-23
+3435,2.95,Naturaplan Organic Apple Juice,Coop,0.75,Drinks,Coop,2023-05-23
+3436,12.5,Feldschlösschen Alcohol Free Lager Beer 10x33cl,Feldschlösschen,3.3,Drinks,Coop,2023-05-23
+3437,11.95,Schweppes Indian Tonic 6x50cl,Schweppes,3.0,Drinks,Coop,2023-05-23
+3438,8.3,Appenzeller Alcohol Free Sonnwendlig Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3439,7.5,Emmi Double Zero Caffè Latte 3x  230ml,Emmi Caffè Latte,0.69,Drinks,Coop,2023-05-23
+3440,4.95,San Pellegrino Aranciata 6x33cl,San Pellegrino,1.98,Drinks,Coop,2023-05-23
+3441,4.5,Innocent Orange Juice with Pulp,innocent,0.9,Drinks,Coop,2023-05-23
+3442,7.9,Fairtrade Zero Lemon Ice Tea 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+3443,6.95,Volvic Natural Mineral Water 6x1.5l,Volvic,9.0,Drinks,Coop,2023-05-23
+3444,6.85,Emmi Aktifit plus Strawberry Probiotic Drinks 10x65ml,Emmi Aktifit,0.65,Drinks,Coop,2023-05-23
+3445,5.3,Rimuss Party grape juice non-alcoholic white,Rimuss,0.7,Drinks,Coop,2023-05-23
+3446,1.95,Wander UHT Ovo Drink Chocolate Beverage,Ovomaltine,0.25,Drinks,Coop,2023-05-23
+3447,,None,None,1.5,Drinks,Coop,2023-05-23
+3448,2.15,Emmi Macchiato Caffè Latte,Emmi Caffè Latte,0.23,Drinks,Coop,2023-05-23
+3449,5.95,Henniez Blue Non Carbonated Mineral Water 6x1.5l,Henniez,9.0,Drinks,Coop,2023-05-23
+3450,16.8,Ramseier Naturaplan Organic Apple Schorle 6x1.5l,Ramseier,9.0,Drinks,Coop,2023-05-23
+3451,5.7,Badoit Natural Mineral Water 6x1l,Badoit,6.0,Drinks,Coop,2023-05-23
+3453,5.1,Andros Pink Grapefruit Juice,Andros,1.0,Drinks,Coop,2023-05-23
+3454,1.3,Fairtrade UHT Chocato Milk Drink 2x  250ml,Coop,0.5,Drinks,Coop,2023-05-23
+3455,4.2,Fairtrade Peach Ice Tea 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3456,7.5,Contrex Non Carbonated Natural Mineral Water 6x1.5l,Contrex,9.0,Drinks,Coop,2023-05-23
+3457,3.7,Swiss Alpina Green Lightly Carbonated Mineral Water 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3458,11.4,El Tony Mate 6x  33cl,El Tony,1.98,Drinks,Coop,2023-05-23
+3459,18.95,Granini Fruit Cocktail Juice 6x1l,Granini,6.0,Drinks,Coop,2023-05-23
+3460,11.5,Feldschlösschen Alcohol Free Lager Beer 6x50cl,Feldschlösschen,3.0,Drinks,Coop,2023-05-23
+3461,11.95,Appenzeller Quöllfrisch Unfiltered Beer 10x33cl,Appenzeller Bier,3.3,Drinks,Coop,2023-05-23
+3462,14.7,Birra Moretti 10x33cl,Moretti,3.3,Drinks,Coop,2023-05-23
+3463,14.95,Anker Lager Beer 24x50cl,Anker,12.0,Drinks,Coop,2023-05-23
+3464,2.8,Emmi Yogi Raspberry Yogurts 2x200ml 2x  200ml,Emmi,0.4,Drinks,Coop,2023-05-23
+3465,5.95,Valser Classic Carbonated Mineral Water 6x50cl,Valser,3.0,Drinks,Coop,2023-05-23
+3467,4.95,innocent yellow Multimix,innocent,0.9,Drinks,Coop,2023-05-23
+3468,8.7,Coca-Cola Light 6x50cl,Coca Cola,3.0,Drinks,Coop,2023-05-23
+3470,9.3,Rivella Red Carbonated Beverages 6x50cl,Rivella,3.0,Drinks,Coop,2023-05-23
+3471,,None,None,9.0,Drinks,Coop,2023-05-23
+3472,18.6,Hohes C Orange Juice 6x1l,hohes C,6.0,Drinks,Coop,2023-05-23
+3473,7.8,Unfiltered Apple Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3474,5.95,Capri-Sun Safari Fruit Juice 10x20cl,Capri Sun,2.0,Drinks,Coop,2023-05-23
+3475,13.5,Vitamin Well Reload 6x  50cl,Vitamin Well,3.0,Drinks,Coop,2023-05-23
+3476,,None,None,3.0,Drinks,Coop,2023-05-23
+3478,2.25,Naturaplan Organic Fairtrade Mango Lassi,Coop,0.25,Drinks,Coop,2023-05-23
+3479,11.5,Naturaplan Organic Unsweetened Alp Herbs Ice Tea 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3480,3.2,Ovo Protein Drink,Ovomaltine,0.33,Drinks,Coop,2023-05-23
+3481,9.95,Naturaplan Gran Alpin Senza 6x33cl,Coop,1.98,Drinks,Coop,2023-05-23
+3482,12.5,Feldschlösschen Original Lager Beer 10x33cl,Feldschlösschen,3.3,Drinks,Coop,2023-05-23
+3483,13.8,Coca-Cola Light 6x1.5l,Coca Cola,9.0,Drinks,Coop,2023-05-23
+3484,8.5,Fairtrade Zero Peach Ice Tea 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+3485,8.95,Red Bull Energy Drink Sugarfree 6x25cl,Red Bull,1.5,Drinks,Coop,2023-05-23
+3486,1.55,Naturaplan Organic Natural Sour Buttermilk,Coop,0.5,Drinks,Coop,2023-05-23
+3487,4.95,innocent Apple Berry Juice,innocent,0.9,Drinks,Coop,2023-05-23
+3488,11.5,Feldschlösschen Original Lager Beer 6x50cl,Feldschlösschen,3.0,Drinks,Coop,2023-05-23
+3489,11.95,Nestea Peach Black Ice Tea 6x1.5l,Nestea,9.0,Drinks,Coop,2023-05-23
+3490,11.95,FOCUSWATER Active pineapple & mango 6x50cl,Focus Water,3.0,Drinks,Coop,2023-05-23
+3491,,None,None,9.0,Drinks,Coop,2023-05-23
+3492,4.3,Swiss Alpina Blue Carbonated Mineral Water 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3493,23.95,Red Bull Sugarfree 24x25cl,Red Bull,6.0,Drinks,Coop,2023-05-23
+3494,3.95,Naturaplan Bio PinkGrapefruitsaft,Coop,0.75,Drinks,Coop,2023-05-23
+3495,6.4,Fairtrade Mild Orange Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3496,5.95,Andros Ananas Juice,Andros,1.0,Drinks,Coop,2023-05-23
+3497,11.95,Nestea Lemon Black Ice Tea 6x1.5l,Nestea,9.0,Drinks,Coop,2023-05-23
+3498,,None,None,9.0,Drinks,Coop,2023-05-23
+3499,7.8,Fairtrade Every Day Protect 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3501,5.95,Fanta Orange Soda 6x33cl,Fanta,1.98,Drinks,Coop,2023-05-23
+3503,4.95,San Pellegrino Limonata 6x33cl,San Pellegrino,1.98,Drinks,Coop,2023-05-23
+3507,,None,None,9.0,Drinks,Coop,2023-05-23
+3508,8.6,Emmi Macchiato Caffè Latte 4x230ml,Emmi Caffè Latte,0.92,Drinks,Coop,2023-05-23
+3509,17.95,Super Bock Original Lager Beer 24x33cl,Superbock,7.92,Drinks,Coop,2023-05-23
+3510,6.0,Coca-Cola Vanilla 6x  25cl,Coca Cola,1.5,Drinks,Coop,2023-05-23
+3511,5.9,Biotta Naturaplan Organic Vegetable Cocktail 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3512,7.8,Fever Tree Mediterranean Tonic Water 4x20cl,Fever Tree,0.8,Drinks,Coop,2023-05-23
+3513,7.8,Fever Tree Ginger Beer 4x20cl,Fever Tree,0.8,Drinks,Coop,2023-05-23
+3514,14.7,Coca-Cola Zero 6x2l,Coca Cola,12.0,Drinks,Coop,2023-05-23
+3516,5.1,Andros Clementine Juice,Andros,1.0,Drinks,Coop,2023-05-23
+3518,5.1,Yakult Original 6x65ml,Yakult,0.325,Drinks,Coop,2023-05-23
+3521,,None,None,0.66,Drinks,Coop,2023-05-23
+3522,5.9,Emmi Vanilla High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Drinks,Coop,2023-05-23
+3523,18.95,Granini Orange Mango Juice 6x1l,Granini,6.0,Drinks,Coop,2023-05-23
+3524,2.8,Sluups Ginger Shot,SLUUPS,0.06,Drinks,Coop,2023-05-23
+3525,,None,None,1.5,Drinks,Coop,2023-05-23
+3526,5.9,Biotta Naturaplan Organic Carrot Juice 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3527,13.5,Vitamin Well Antioxidant 6x  50cl,Vitamin Well,3.0,Drinks,Coop,2023-05-23
+3528,14.95,Chopfab Draft Beer 10x33cl,CHOPFAB,3.3,Drinks,Coop,2023-05-23
+3529,14.5,Bilz,Coop,3.3,Drinks,Coop,2023-05-23
+3532,9.95,Sluups Reload Ginger Shot,SLUUPS,0.5,Drinks,Coop,2023-05-23
+3533,5.0,Emmi Balance Caffè Latte 2x  230ml,Emmi Caffè Latte,0.46,Drinks,Coop,2023-05-23
+3534,2.6,Naturaplan Organic Orange Juice,Coop,0.3,Drinks,Coop,2023-05-23
+3535,5.2,Swiss Apple Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3536,11.95,Schweppes Bitter Lemon 6x50CL,Schweppes,3.0,Drinks,Coop,2023-05-23
+3540,,None,None,0.25,Drinks,Coop,2023-05-23
+3541,17.95,Red Bull Energy Drink Fridge Pack 12x25cl,Red Bull,3.0,Drinks,Coop,2023-05-23
+3542,8.95,Naturaplan Organic Flavoured Water 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3544,4.95,innocent Multi Mix Juice,innocent,0.9,Drinks,Coop,2023-05-23
+3545,2.0,High Protein Drink Choco,Coop,0.5,Drinks,Coop,2023-05-23
+3546,3.7,Fairtrade Mocha Bifidus Drink 2x  500ml,Coop,1.0,Drinks,Coop,2023-05-23
+3548,12.5,Pepsi Max 6x1.5l,Pepsi,9.0,Drinks,Coop,2023-05-23
+3550,6.5,Elmer Citro Lemon Flavoured Carbonated Water 6x50cl,Elmer,3.0,Drinks,Coop,2023-05-23
+3551,7.2,Red Grape Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3552,8.6,Emmi Cappuccino Caffè Latte 4x230ml,Emmi Caffè Latte,0.92,Drinks,Coop,2023-05-23
+3553,5.95,Naturaplan Organic Flavoured Water 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3554,,None,None,0.25,Drinks,Coop,2023-05-23
+3555,,None,None,9.0,Drinks,Coop,2023-05-23
+3556,5.9,Emmi Strawberry High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Drinks,Coop,2023-05-23
+3557,12.95,Volvic Tea with peach flavor 6x1.5L,Volvic,9.0,Drinks,Coop,2023-05-23
+3558,11.5,Naturaplan Organic Mint Green Ice Tea 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3559,4.95,innocent Orange Mango Juice,innocent,0.9,Drinks,Coop,2023-05-23
+3560,13.5,Vitamin Well Awake 6x  50cl,Vitamin Well,3.0,Drinks,Coop,2023-05-23
+3561,1.75,Naturaplan Organic Tomato Juice,Coop,0.5,Drinks,Coop,2023-05-23
+3562,5.9,Emmi Chocolate High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Drinks,Coop,2023-05-23
+3564,,None,None,9.0,Drinks,Coop,2023-05-23
+3565,9.95,Corona,Coop,1.98,Drinks,Coop,2023-05-23
+3566,8.4,Coca-Cola Original 6x25cl,Coca Cola,1.5,Drinks,Coop,2023-05-23
+3567,7.9,Fairtrade Lemon Ice Tea 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+3568,10.95,Valaisanne,Coop,1.32,Drinks,Coop,2023-05-23
+3569,,None,None,9.0,Drinks,Coop,2023-05-23
+3571,8.4,Naturaplan Organic Moroccan Mint Green Ice Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3573,12.6,Fairtrade Michel Premium Orange Juice 4x1l,Michel,4.0,Drinks,Coop,2023-05-23
+3574,8.95,Elmer Citro Carbonated Water with Lemon Flavour 6x1.5l,Elmer,9.0,Drinks,Coop,2023-05-23
+3575,,None,None,1.5,Drinks,Coop,2023-05-23
+3576,,None,None,0.5,Drinks,Coop,2023-05-23
+3577,8.5,Calanda Radler Lemon 0.0 6x33cl,Calanda,1.98,Drinks,Coop,2023-05-23
+3578,6.2,innocent Plus Antioxidant Smoothie,innocent,0.75,Drinks,Coop,2023-05-23
+3579,3.6,cocomax,Coop,1.0,Drinks,Coop,2023-05-23
+3580,6.0,Coca Cola Lemon 6x  25cl,Coca Cola,1.5,Drinks,Coop,2023-05-23
+3581,3.15,Wander UHT Ovo Drink Chocolate Beverage,Ovomaltine,0.5,Drinks,Coop,2023-05-23
+3582,18.95,Schweppes Indian Tonic 6x100cl,Schweppes,6.0,Drinks,Coop,2023-05-23
+3583,5.5,Andros Orange Juice without Pulp,Andros,1.0,Drinks,Coop,2023-05-23
+3584,17.7,Ocean Spray Cranberry Juice 6x1l,Ocean spray,6.0,Drinks,Coop,2023-05-23
+3586,2.95,Karma Kombucha Curcuma-Ingwer,Coop,0.33,Drinks,Coop,2023-05-23
+3587,10.95,Valser Limelite Carbonated Lemon Mineral Water 6x1.5l,Valser,9.0,Drinks,Coop,2023-05-23
+3588,,None,None,6.0,Drinks,Coop,2023-05-23
+3589,2.0,Fairtrade UHT Chocato Milk Drink 2x  500ml,Coop,1.0,Drinks,Coop,2023-05-23
+3590,11.95,Feldschlösschen Alcohol Free Lemon Beer 6x50cl,Feldschlösschen,3.0,Drinks,Coop,2023-05-23
+3591,9.5,Heineken Alcohol Free 0.0 Beer 6x33cl,Heineken,1.98,Drinks,Coop,2023-05-23
+3592,15.55,Ramseier Naturaplan Organic Apple Juice 6x1l,Ramseier,6.0,Drinks,Coop,2023-05-23
+3593,4.95,Naturaplan Organic Black Currant Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+3594,7.6,Lola Alcohol Free Beer IPA 2x  33cl,LOLA,0.66,Drinks,Coop,2023-05-23
+3595,6.0,Chiefs Choco Mountain Milk Protein Drink 2x  330ml,Chiefs,0.66,Drinks,Coop,2023-05-23
+3596,11.95,FOCUSWATER Antiox lemon & lime 6x50cl,Focus Water,3.0,Drinks,Coop,2023-05-23
+3597,8.2,Fever Tree Tonic Water 2x  50cl,Fever Tree,1.0,Drinks,Coop,2023-05-23
+3598,14.95,Rivella Refresh 6x1.5L,Rivella,9.0,Drinks,Coop,2023-05-23
+3599,9.3,Sinalco Original Soda Pop 6x1.5l,Sinalco,9.0,Drinks,Coop,2023-05-23
+3602,11.95,FOCUSWATER Care mirabelle & rhubarb 6x50cl,Focus Water,3.0,Drinks,Coop,2023-05-23
+3603,8.5,Appenzeller Bschorle Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3604,6.3,innocent Coconut Water,innocent,1.0,Drinks,Coop,2023-05-23
+3606,3.95,Naturaplan Bio Blutorangensaft,Coop,0.75,Drinks,Coop,2023-05-23
+3608,5.0,Emmi Caffè Latte Hazelnut-Brownie 2x  230ml,Emmi Caffè Latte,0.46,Drinks,Coop,2023-05-23
+3609,8.7,Fanta Orange Flavoured Soda 6x50cl,Fanta,3.0,Drinks,Coop,2023-05-23
+3610,3.5,Alpro Protein Drink Chocolate,alpro,1.0,Drinks,Coop,2023-05-23
+3612,4.5,Tell Lager Beer 6x50cl,Tell,3.0,Drinks,Coop,2023-05-23
+3614,5.1,Andros Multi Fruchsaft exotic 1L,Andros,1.0,Drinks,Coop,2023-05-23
+3615,,None,None,9.0,Drinks,Coop,2023-05-23
+3616,3.9,Caffè Lattesso Fit Coffee with Lactose Free Milk 2x  250ml,Lattesso,0.5,Drinks,Coop,2023-05-23
+3618,8.7,Sinalco 6x50cl,Sinalco,3.0,Drinks,Coop,2023-05-23
+3619,6.85,Emmi Aktifit Peach Probiotic Drinks 10x65ml,Emmi Aktifit,0.65,Drinks,Coop,2023-05-23
+3621,12.6,Fairtrade Michel Bodyguard Fruit Juice 4x1l,Michel,4.0,Drinks,Coop,2023-05-23
+3623,7.5,Nestea Lemon Black Ice Tea 6x50cl,Nestea,3.0,Drinks,Coop,2023-05-23
+3626,4.95,"innocent Wild Blueberry, blackcurrant & cranberry",innocent,0.9,Drinks,Coop,2023-05-23
+3627,5.2,Andros Bio Orangensaft,Andros,0.75,Drinks,Coop,2023-05-23
+3631,10.5,Eve Tropical Daiquiri 4x27.5cl,Eve,1.1,Drinks,Coop,2023-05-23
+3632,,None,None,1.0,Drinks,Coop,2023-05-23
+3634,12.5,Chopfab Draft Beer 6X50cl,CHOPFAB,3.0,Drinks,Coop,2023-05-23
+3636,3.7,Fairtrade Mango Bifidus Drink 2x  500ml,Coop,1.0,Drinks,Coop,2023-05-23
+3638,8.2,Fever Tree Mediterranean Tonic Water 2x  50cl,Fever Tree,1.0,Drinks,Coop,2023-05-23
+3639,5.95,Acqua Panna Non Carbonated Mineral Water 6x1.5l,Acqua Panna,9.0,Drinks,Coop,2023-05-23
+3640,5.1,Yakult Plus 6x65ml,Yakult,0.39,Drinks,Coop,2023-05-23
+3641,3.3,Light Raspberry Syrup,Coop,0.75,Drinks,Coop,2023-05-23
+3642,7.9,Biotta Naturaplan Organic Vita 7 Juice 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3644,9.95,Volvic Green Tea with mint flavor 6x75cL,Volvic,4.5,Drinks,Coop,2023-05-23
+3646,13.2,Moretti Beer 6x50cl,Moretti,3.0,Drinks,Coop,2023-05-23
+3647,6.8,Red Bull Energy Drink The Apricot Edition Aprikose-Erdbeere 4x25cl,Red Bull,1.0,Drinks,Coop,2023-05-23
+3648,11.95,Schweppes Ginger Ale 6x50cl,Schweppes,3.0,Drinks,Coop,2023-05-23
+3649,5.0,Starbucks Fairtrade Caramel Macchiato Coffee 2x  220ml,Starbucks,0.44,Drinks,Coop,2023-05-23
+3650,3.6,Strawberry Syrup,Coop,0.75,Drinks,Coop,2023-05-23
+3651,8.7,Sprite 6x50cl,Sprite,3.0,Drinks,Coop,2023-05-23
+3653,17.95,Red Bull Energy Drink Sugarfree Fridge Pack 12x25cl,Red Bull,3.0,Drinks,Coop,2023-05-23
+3654,11.7,Volvic Essence Orange Elderberry Mineral Water 6x75cl,Volvic,4.5,Drinks,Coop,2023-05-23
+3656,10.5,Biotta Naturaplan Organic Cranberry Juice 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3658,15.95,Appenzeller Ginger Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3659,5.0,Emmi Caffè Latte Popcorn 2x  230ml,Emmi Caffè Latte,0.46,Drinks,Coop,2023-05-23
+3660,10.95,Valaisanne Pale Ale Beer 4x33cl,Valaisanne,1.32,Drinks,Coop,2023-05-23
+3661,7.5,Nestea Peach Black Ice Tea 6x50cl,Nestea,3.0,Drinks,Coop,2023-05-23
+3662,8.5,Calanda Radler Grapefruit 0.0 6x33cl,Calanda,1.98,Drinks,Coop,2023-05-23
+3664,7.8,Pink Grapefruit Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3666,9.4,Rothaus Bräu Tannenzäpfle beer 6x36cl,Rothaus,2.16,Drinks,Coop,2023-05-23
+3667,11.5,Naturaplan Organic Alpen Herb Ice Tea 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3668,7.5,Rhäzünser Sparkling Mineral Water 6 x 1.5 l,Rhäzünser,9.0,Drinks,Coop,2023-05-23
+3669,5.2,Andros orange & mango juice,Andros,1.0,Drinks,Coop,2023-05-23
+3670,17.7,"Ramseier Filtered Apple Juice 6x1,5l",Ramseier,9.0,Drinks,Coop,2023-05-23
+3671,24.95,Esta Thé Pesca 24x  33cl,Esta Thé,7.92,Drinks,Coop,2023-05-23
+3672,2.5,Naturaplan Bio Blutorangensaft,Coop,0.3,Drinks,Coop,2023-05-23
+3674,43.8,1664 Blonde Lager Beer 24x50cl,Kronenbourg,12.0,Drinks,Coop,2023-05-23
+3676,5.4,evian Natural Mineral Water with Glass 4x  75cl,Evian,3.0,Drinks,Coop,2023-05-23
+3677,12.2,Appenzeller IPA Beer alcohol-free 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3678,5.95,innocent Orange Juice with Pulp,innocent,1.5,Drinks,Coop,2023-05-23
+3679,4.3,innocent Smoothie Plus Energise,innocent,0.3,Drinks,Coop,2023-05-23
+3680,3.95,hohes C shots Immun,hohes C,0.33,Drinks,Coop,2023-05-23
+3681,13.8,Fanta Orange Flavoured Soda 6x1.5l,Fanta,9.0,Drinks,Coop,2023-05-23
+3683,7.5,Nestea Peach Zero 6x50cl,Nestea,3.0,Drinks,Coop,2023-05-23
+3684,13.95,VALAISANNE Lager Beer 10x33cl,Valaisanne,3.3,Drinks,Coop,2023-05-23
+3685,10.95,Appenzeller Quöllfrisch Unfiltered Beer 6x50cl,Appenzeller Bier,3.0,Drinks,Coop,2023-05-23
+3687,7.8,Fever Tree Raspberry & Rhubarb 4x20cl,Fever Tree,0.8,Drinks,Coop,2023-05-23
+3688,17.7,Ocean Spray Light Cranberry Juice 6x1l,Ocean spray,6.0,Drinks,Coop,2023-05-23
+3690,13.8,Sprite 6x1.5l,Sprite,9.0,Drinks,Coop,2023-05-23
+3691,9.3,Rivella Refresh 6x50cl,Rivella,3.0,Drinks,Coop,2023-05-23
+3692,,None,None,0.66,Drinks,Coop,2023-05-23
+3693,14.7,Coca-Cola 6x2l,Coca Cola,12.0,Drinks,Coop,2023-05-23
+3694,10.2,Red Bull Energy Drink The Summer Edition Juneberry 6x  25cl,Red Bull,1.5,Drinks,Coop,2023-05-23
+3695,15.3,Feldschlösschen Original 8x56.5cl,Feldschlösschen,4.52,Drinks,Coop,2023-05-23
+3697,5.9,Biotta Naturaplan Organic Beet Juice 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3698,11.7,Volvic Essence Mint Cucumber Mineral Water 6x75cl,Volvic,4.5,Drinks,Coop,2023-05-23
+3700,12.3,Calanda Radler Beer 6x50cl,Calanda,3.0,Drinks,Coop,2023-05-23
+3702,5.2,Morand Grenadine Flavoured Syrup,Morand,1.0,Drinks,Coop,2023-05-23
+3703,8.7,Fanta zero Pink Grapefruit 6x45CL,Fanta,3.0,Drinks,Coop,2023-05-23
+3705,11.95,Feldschlösschen,Coop,3.0,Drinks,Coop,2023-05-23
+3706,2.0,Strawberry High Protein Drink,Coop,0.5,Drinks,Coop,2023-05-23
+3707,12.95,VALAISANNE Lager Beer 6x50cl,Valaisanne,3.0,Drinks,Coop,2023-05-23
+3708,12.95,Chopfab Alcohol Free & Wheat Free Beer 6x33cl,CHOPFAB,1.98,Drinks,Coop,2023-05-23
+3709,5.85,Emmi Benecol Raspberry Zero 6x65ml,Emmi Benecol,0.39,Drinks,Coop,2023-05-23
+3713,6.4,Moretti,Coop,1.32,Drinks,Coop,2023-05-23
+3715,9.7,Schneider Weisse Original Wheat Beer 4x50cl,Schneider Weisse,2.0,Drinks,Coop,2023-05-23
+3719,7.95,Pepsi Max 6x50cl,Pepsi,3.0,Drinks,Coop,2023-05-23
+3720,2.4,JaMaDu Ananas & Orange 4x20cl,Coop,0.8,Drinks,Coop,2023-05-23
+3721,7.9,Biotta Blackcurrant Fruit Juice 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3722,4.75,Emmi Aktifit Strawberry Probiotic Drinks 6x65ml,Emmi Aktifit,0.39,Drinks,Coop,2023-05-23
+3723,18.6,Hohes C Orange Pulp 6x1L,hohes C,6.0,Drinks,Coop,2023-05-23
+3724,14.95,Schützengarten Alcohol Free IP Beer 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+3725,6.6,Hohes C Multivitamin Fruit Juice 6x  25cl,hohes C,1.5,Drinks,Coop,2023-05-23
+3726,9.95,Naturaplan Gran Alpin Amber 6x33cl,Coop,1.98,Drinks,Coop,2023-05-23
+3729,15.95,Appenzeller Non-Alcoholic Ginger Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3730,10.5,Eve,Coop,1.1,Drinks,Coop,2023-05-23
+3731,13.5,Vitamin Well Boost 6x  50cl,Vitamin Well,3.0,Drinks,Coop,2023-05-23
+3732,9.0,San Pellegrino Carbonated Mineral Water 4x  75cl,San Pellegrino,3.0,Drinks,Coop,2023-05-23
+3733,1.85,Emmi Vanilla Energy Milk Drink,Emmi Energy Milk,0.33,Drinks,Coop,2023-05-23
+3734,8.5,Calanda Radler Beer 6x33cl,Calanda,1.98,Drinks,Coop,2023-05-23
+3735,9.8,Appenzeller Alcohol Free Wheat Beer 4x50cl,Appenzeller Bier,2.0,Drinks,Coop,2023-05-23
+3737,6.95,Andros Pomegranate Juice,Andros,0.75,Drinks,Coop,2023-05-23
+3738,4.95,innocent Orange and Carrot Juice,innocent,0.9,Drinks,Coop,2023-05-23
+3739,11.7,Knutwiler Redline Raspberry Lemon Balm Mineral Water 6x1.5l,Knutwiler,9.0,Drinks,Coop,2023-05-23
+3740,4.3,JaMaDu Jamasecco,Coop,0.75,Drinks,Coop,2023-05-23
+3741,,None,None,2.0,Drinks,Coop,2023-05-23
+3742,1.85,Emmi Strawberry Energy Milk Drink,Emmi Energy Milk,0.33,Drinks,Coop,2023-05-23
+3743,8.6,Fairtrade Pineapple Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3744,4.3,innocent Smoothie Plus Antioxidant,innocent,0.3,Drinks,Coop,2023-05-23
+3746,5.95,Naturaplan Organic Ginger Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+3747,8.2,Fever Tree Ginger Beer 2x  50cl,Fever Tree,1.0,Drinks,Coop,2023-05-23
+3748,9.25,Ramseier Filtered Apple Juice 6x50cl,Ramseier,3.0,Drinks,Coop,2023-05-23
+3749,12.95,Volvic Black Tea with lemon flavor 6x1.5L,Volvic,9.0,Drinks,Coop,2023-05-23
+3750,4.95,innocent Orange without pulp,innocent,0.9,Drinks,Coop,2023-05-23
+3751,2.0,High Protein Drink Vanilla,Coop,0.5,Drinks,Coop,2023-05-23
+3752,18.95,Schweppes Ginger Ale 6x100cl,Schweppes,6.0,Drinks,Coop,2023-05-23
+3755,5.9,Emmi Coffee High Energy Protein Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Drinks,Coop,2023-05-23
+3757,2.5,Caotina Drink,Caotina,0.33,Drinks,Coop,2023-05-23
+3758,24.95,Esta Thé Limone 24x  33cl,Esta Thé,7.92,Drinks,Coop,2023-05-23
+3760,18.6,Hohes C Multivitamin 6x1l,hohes C,6.0,Drinks,Coop,2023-05-23
+3761,13.5,Vitamin Well Recover 6x  50cl,Vitamin Well,3.0,Drinks,Coop,2023-05-23
+3762,12.95,Ittinger Amber Beer 6x33cl,Ittinger,1.98,Drinks,Coop,2023-05-23
+3764,8.5,"Fairtrade Peach Ice Tea 6x1,5l",Coop,9.0,Drinks,Coop,2023-05-23
+3765,4.3,Emmi Espresso Caffè Latte 2x  230ml,Emmi Caffè Latte,0.46,Drinks,Coop,2023-05-23
+3766,10.5,Eve Strawberry Mojito 4x27.5cl,Eve,1.1,Drinks,Coop,2023-05-23
+3767,7.1,Emmi High Protein Caffé Latte 2x  370ml,Emmi Caffè Latte,0.74,Drinks,Coop,2023-05-23
+3768,4.2,Naturaplan Bio Multifruchtsaft,Coop,0.75,Drinks,Coop,2023-05-23
+3769,3.3,Betty Bossi Fairtrade Orange Juice,Coop,0.75,Drinks,Coop,2023-05-23
+3770,10.7,Gluten Free Birra da Ris Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3771,7.5,Nestea Lemon Zero 6x50cl,Nestea,3.0,Drinks,Coop,2023-05-23
+3772,14.4,Apostel Weizen Beer Dose 24x50cl,Apostelbräu,12.0,Drinks,Coop,2023-05-23
+3773,6.85,Emmi Aktifit Globi Strawberry Banana & Apple 10x65ml,Emmi Aktifit,0.65,Drinks,Coop,2023-05-23
+3775,7.9,Biotta Naturaplan Organic Mango Mix Juice 2x50cl 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3776,8.8,Biotta Naturaplan Organic demeter Carrot Orange & Ginger 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3777,6.9,Knutwiler Green Natural Mineral Water 6x1.5l,Knutwiler,9.0,Drinks,Coop,2023-05-23
+3780,3.5,Beeren Sirup,Coop,0.75,Drinks,Coop,2023-05-23
+3782,13.8,"Fanta Mango Flavoured Soda 6x1,5l",Fanta,9.0,Drinks,Coop,2023-05-23
+3784,9.95,Volvic Essence mint & cucumber 4x1.25l,Volvic,5.0,Drinks,Coop,2023-05-23
+3785,,None,None,9.0,Drinks,Coop,2023-05-23
+3786,8.4,Naturaplan Organic Unsweetened Alpen Herb Ice Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3787,5.4,Lemon Ice Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3788,11.95,Valaisanne White IPA Beer 4x33cl,Valaisanne,1.32,Drinks,Coop,2023-05-23
+3789,7.2,Happy Zero Cola 6x50cl,Happy,3.0,Drinks,Coop,2023-05-23
+3790,18.6,Hohes C Mild Orange Juice 6x1l,hohes C,6.0,Drinks,Coop,2023-05-23
+3791,11.4,Pepita Carbonated Grapefruit Juice 6x1.5l,Pepita,9.0,Drinks,Coop,2023-05-23
+3792,0.65,Fairtrade Chocato Drink Zero,Coop,0.25,Drinks,Coop,2023-05-23
+3793,7.8,Pepita Carbonated Grapefruit Juice 6x50cl,Pepita,3.0,Drinks,Coop,2023-05-23
+3794,6.2,innocent Plus Blue Kale Smoothie,innocent,0.75,Drinks,Coop,2023-05-23
+3795,7.5,San Pellegrino Chinotto 4x20cl,San Pellegrino,0.8,Drinks,Coop,2023-05-23
+3796,10.5,Eve Litchi 4x27.5cl,Eve,1.1,Drinks,Coop,2023-05-23
+3797,11.5,Naturaplan Organic Ginger Green Ice Tea 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3798,5.2,Henniez Slightly Carbonated Mineral Water 6x50cl,Henniez,3.0,Drinks,Coop,2023-05-23
+3800,9.95,Appenzeller Quöllfrisch Brown Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3801,6.0,Chiefs Vanilla Drive Milk Protein Drink 2x  330ml,Chiefs,0.66,Drinks,Coop,2023-05-23
+3802,4.95,YFood Classic Choco Liquid Meal,YFood,0.5,Drinks,Coop,2023-05-23
+3803,14.4,Desperados Tequila Beer 6x50cl,Desperados Tequila,3.0,Drinks,Coop,2023-05-23
+3804,4.5,Naturaplan organic orange carrot & ginger juice,Coop,0.75,Drinks,Coop,2023-05-23
+3805,15.6,Leffe Blonde Beer 6x33cl,Leffe,1.98,Drinks,Coop,2023-05-23
+3806,5.75,Benecol Special Blueberry Yogurt Drinks 6x65ml,Emmi Benecol,0.39,Drinks,Coop,2023-05-23
+3807,4.95,Naturaplan Organic Lemon Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+3808,11.95,Feldschlösschen Braufrisch Unfiltered Lager Beer 6x50cl,Feldschlösschen,3.0,Drinks,Coop,2023-05-23
+3810,11.4,Granini orange juice 6x33cl,Granini,1.98,Drinks,Coop,2023-05-23
+3812,16.8,Brewdog Punk IPA Beer 4x  50cl,Brewdog,2.0,Drinks,Coop,2023-05-23
+3813,10.5,Biotta Naturaplan Organic Pomegranate Juice 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3815,6.45,Emmi Cappuccino Caffè Latte 3x  230ml,Emmi Caffè Latte,0.69,Drinks,Coop,2023-05-23
+3817,11.7,Volvic Essence Lemon Apple Mineral Water 6x75cl,Volvic,4.5,Drinks,Coop,2023-05-23
+3818,7.65,Pilsner Urquell Beer 4x50cl,Pilsner Urquell,2.0,Drinks,Coop,2023-05-23
+3820,13.5,Vitamin Well Active 6x  50cl,Vitamin Well,3.0,Drinks,Coop,2023-05-23
+3821,12.95,Appenzeller Quöllfrisch Beer 12x25cl,Appenzeller Bier,3.0,Drinks,Coop,2023-05-23
+3822,5.5,Capri Sun Multi-Fruit Syrup,Capri Sun,0.6,Drinks,Coop,2023-05-23
+3823,13.8,Heineken Premium Quality Beer 6x50cl,Heineken,3.0,Drinks,Coop,2023-05-23
+3824,13.8,Erdinger Wheat Beer 6x50cl,Erdinger,3.0,Drinks,Coop,2023-05-23
+3825,6.9,Knutwiler Blue Carbonated Mineral Water 6x1.5l,Knutwiler,9.0,Drinks,Coop,2023-05-23
+3826,5.0,Emmi Vanilla Caffè Latte 2x  230ml,Emmi Caffè Latte,0.46,Drinks,Coop,2023-05-23
+3828,4.95,YFood Smooth Vanilla Liquid Meal,YFood,0.5,Drinks,Coop,2023-05-23
+3831,3.1,Coop,Coop,1.0,Drinks,Coop,2023-05-23
+3834,13.2,Brewdog Hazy Jane Beer 4x33cl,Brewdog,1.32,Drinks,Coop,2023-05-23
+3835,10.5,Biotta Superfruit Nectar 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3836,4.4,Coca Cola Zero Creations Movement 4x  25cl,Coca Cola,1.0,Drinks,Coop,2023-05-23
+3837,5.4,Swiss Alpina Red Uncarbonated Natural Mineral Water 6x75cl,Coop,4.5,Drinks,Coop,2023-05-23
+3838,6.95,Naturaplan Organic Pomegranate Juice,Coop,0.75,Drinks,Coop,2023-05-23
+3840,11.5,Somersby,Coop,2.0,Drinks,Coop,2023-05-23
+3841,7.8,Fever Tree Lemon Tonic Water 4x20cl,Fever Tree,0.8,Drinks,Coop,2023-05-23
+3843,11.7,Knutwiler Schnitz Water 6x1.5l,Knutwiler,9.0,Drinks,Coop,2023-05-23
+3844,11.95,Feldschlösschen Wheat Non-Alcoholic 6x50cl,Feldschlösschen,3.0,Drinks,Coop,2023-05-23
+3846,17.95,Feldschlösschen Original Lager Beer 12x33cl,Feldschlösschen,3.96,Drinks,Coop,2023-05-23
+3847,10.95,"Volvic Green Tea mint - verbena, sugar free 6x75cL",Volvic,4.5,Drinks,Coop,2023-05-23
+3848,1.25,JaMaDu Red Fruit & Tea,Coop,0.3,Drinks,Coop,2023-05-23
+3849,5.1,Andros Fruit Juice 3 citrus fruits,Andros,1.0,Drinks,Coop,2023-05-23
+3852,9.8,Schweppes Pink Tonic 6x33cl,Schweppes,1.98,Drinks,Coop,2023-05-23
+3853,9.25,Ramseier Naturaplan Organic Zisch Apple Juice 6x50cl,Ramseier,3.0,Drinks,Coop,2023-05-23
+3855,12.95,Möhl Easy Apple Cider 6x33cl,Möhl,1.98,Drinks,Coop,2023-05-23
+3857,12.95,Boxer Old Beer 12x25cl,Boxer,3.0,Drinks,Coop,2023-05-23
+3858,14.95,Schützengarten Alcohol Free Ginger Beer 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+3861,11.95,Lagunitas IPA Beer 4x35.5cl,LAGUNITAS,1.42,Drinks,Coop,2023-05-23
+3862,10.7,Appenzeller Vollmond Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3864,4.95,Naturaplan Organic Rhubarb Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+3865,5.95,Oettinger Beer 8x50cl,Oettinger,4.0,Drinks,Coop,2023-05-23
+3866,11.5,Somersby Apple Original Cider 4x50cl,Somersby,2.0,Drinks,Coop,2023-05-23
+3870,5.9,Guinness Alcohol Free Beer 2x  44cl,Guinness,0.88,Drinks,Coop,2023-05-23
+3871,11.7,Volvic Essence Lime and Blackcurrant 6x75cl,Volvic,4.5,Drinks,Coop,2023-05-23
+3872,7.8,Guarana Antarctica Soda 6x33cl,Guarana,1.98,Drinks,Coop,2023-05-23
+3873,6.4,Emmi Mr. Big Macchiato Caffè Latte 2x  370ml,Emmi Caffè Latte,0.74,Drinks,Coop,2023-05-23
+3877,1.25,JaMaDu Fruit & Herbal Tea,Coop,0.3,Drinks,Coop,2023-05-23
+3878,,None,None,9.0,Drinks,Coop,2023-05-23
+3880,11.4,El Tony Mate & Ginger 6x  33cl,El Tony,1.98,Drinks,Coop,2023-05-23
+3883,11.4,Granini fruit cocktail 6x33cl,Granini,1.98,Drinks,Coop,2023-05-23
+3884,11.95,Eichhof Alcohol Free Beer 10x33cl,Eichhof,3.3,Drinks,Coop,2023-05-23
+3885,7.8,Fairtrade Every Day ACE 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3888,8.7,Fanta Mango Flavoured Soda 6x50cl,Fanta,3.0,Drinks,Coop,2023-05-23
+3889,5.0,Starbucks Fairtrade Skinny Latte 2x  220ml,Starbucks,0.44,Drinks,Coop,2023-05-23
+3890,5.7,Teisseire Passion Fruit Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+3891,7.8,Swiss Alpina+ Raspberry Mineral Water 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3892,,None,None,9.0,Drinks,Coop,2023-05-23
+3893,3.2,Naturaplan Organic Mango Passion Fruit Smoothie,Coop,0.25,Drinks,Coop,2023-05-23
+3894,17.7,Naturaplan Bio Traubensaft 6x1L,Coop,6.0,Drinks,Coop,2023-05-23
+3895,11.4,El Tony mate & mint 6x  33cl,El Tony,1.98,Drinks,Coop,2023-05-23
+3896,6.4,Emmi Caffè Latte Mr.Big Double zero 2x  370ml,Emmi Caffè Latte,0.74,Drinks,Coop,2023-05-23
+3897,10.5,Appenzeller Sonnwendlig Beer alcohol-free 6x50cl,Appenzeller Bier,3.0,Drinks,Coop,2023-05-23
+3902,11.95,Grimbergen Blanche Belgian Wheat Beer 6x25cl,Grimbergen,1.5,Drinks,Coop,2023-05-23
+3903,6.2,innocent Plus Energize Smoothie,innocent,0.75,Drinks,Coop,2023-05-23
+3904,1.75,Naturaplan organic spicy tomato juice,Coop,0.5,Drinks,Coop,2023-05-23
+3905,23.3,Sagres Lager Beer 24x25cl,Sagres,6.0,Drinks,Coop,2023-05-23
+3906,8.4,Naturaplan Organic Fruit Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3908,12.95,Feldschlösschen Beer Braufrisch 10x33cl,Feldschlösschen,3.3,Drinks,Coop,2023-05-23
+3911,5.7,Teisseire Grenadine Flavoured Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+3912,8.5,Schweppes Selection Tonic & Hibiscus 4x20cl,Schweppes,0.8,Drinks,Coop,2023-05-23
+3913,9.95,Volvic Essence Orange & Elderflower 4x1.25l,Volvic,5.0,Drinks,Coop,2023-05-23
+3914,10.95,Appenzeller Bschorle Non-alcoholic 6x50cl,Appenzeller Bier,3.0,Drinks,Coop,2023-05-23
+3915,9.5,Somersby Apple Original Cider 4x33cl,Somersby,1.32,Drinks,Coop,2023-05-23
+3916,17.7,Ramseier Upper Branches Non-Filtered Apple Pear 6x1.5l,Ramseier,9.0,Drinks,Coop,2023-05-23
+3917,9.2,Erdinger Wheat Beer non-alcoholic 4x50cl,Erdinger,2.0,Drinks,Coop,2023-05-23
+3918,6.5,Rimuss Champion grape juice non-alcoholic white,Rimuss,0.75,Drinks,Coop,2023-05-23
+3921,13.95,Unser Lager Beer 6x33cl,Unser Bier,1.98,Drinks,Coop,2023-05-23
+3922,11.95,FOCUSWATER Calm Rhubarb 6x50cl,Focus Water,3.0,Drinks,Coop,2023-05-23
+3923,11.95,FOCUSWATER Push Orange 6x50cl,Focus Water,3.0,Drinks,Coop,2023-05-23
+3924,13.2,Brewdog Alcohol Free Punk Beer 4x33cl,Brewdog,1.32,Drinks,Coop,2023-05-23
+3925,9.5,Bilz Panaché Beer cans 6x33cl,Bilz,1.98,Drinks,Coop,2023-05-23
+3926,8.4,Naturaplan Organic Ginger Green Ice Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3927,5.0,Emmi Caffè Latte Double Zero Macchiato 2x  230ml,Emmi Caffè Latte,0.46,Drinks,Coop,2023-05-23
+3929,7.9,Biotta Organic Breakfast 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+3930,21.6,Naturaplan Organic Pink Grapefruit Juice 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+3931,8.85,Riegele Alcohol Free IPA Liberis Beer 3x  33cl,Riegele,0.99,Drinks,Coop,2023-05-23
+3932,14.95,Rivella Green Carbonated Beverages with Green Tea Extract 6x1.5l,Rivella,9.0,Drinks,Coop,2023-05-23
+3935,11.95,Naturaplan Bio Ingwer Shot,Coop,0.5,Drinks,Coop,2023-05-23
+3936,9.95,Volvic Tea with peach flavor 6x75cL,Volvic,4.5,Drinks,Coop,2023-05-23
+3937,2.1,Comella UHT Choco-Drink,Emmi Comella,0.33,Drinks,Coop,2023-05-23
+3938,5.0,Starbucks Fairtrade Cappuccino 2x  220ml,Starbucks,0.44,Drinks,Coop,2023-05-23
+3940,8.5,Tell Bier Lager 15x33CL,Tell,4.95,Drinks,Coop,2023-05-23
+3941,3.3,Ovo & Coffee Drink,Ovomaltine,0.33,Drinks,Coop,2023-05-23
+3943,11.3,Calanda Glatsch Beer 6x50cl,Calanda,3.0,Drinks,Coop,2023-05-23
+3944,0.95,Yörük Ayran,Yörük,0.33,Drinks,Coop,2023-05-23
+3947,4.3,innocent Plus Vitamine Bundle Smoothie,innocent,0.3,Drinks,Coop,2023-05-23
+3948,2.9,Alo Exposed Aloe Vera Drink,ALO Drink,0.5,Drinks,Coop,2023-05-23
+3951,10.7,Appenzeller Organic Naturperle Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+3952,11.4,"Appenzeller Flauder Carbonated Water Elder Blossom 6x1,5l",Appenzell Flauder,9.0,Drinks,Coop,2023-05-23
+3953,5.55,Emmi Chocolate Energy Milk Drink 3x  330ml,Emmi Energy Milk,0.99,Drinks,Coop,2023-05-23
+3954,9.0,Naturaplan Organic Rhubarb Schorle 6x  50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3956,23.7,Granini Valais Apricot 6x1l,Granini,6.0,Drinks,Coop,2023-05-23
+3957,2.8,Emmi Yogi Mocha Yogurts 2x200ml 2x  200ml,Emmi,0.4,Drinks,Coop,2023-05-23
+3961,10.5,Estrella Galicia beer 6x33cl,Estrella Galicia,1.98,Drinks,Coop,2023-05-23
+3962,9.6,Hoegaarden Pale Beer 4x33cl,Hoegaarden,1.32,Drinks,Coop,2023-05-23
+3964,10.5,Estrella Galicia Glutenfrei,Estrella Galicia,1.98,Drinks,Coop,2023-05-23
+3965,9.8,Schweppes Tonic 6x33cl,Schweppes,1.98,Drinks,Coop,2023-05-23
+3967,3.9,Caffè Lattesso Zero 2x  250ml,Lattesso,0.5,Drinks,Coop,2023-05-23
+3968,17.95,Appenzeller Quöllfrisch Beer 24x25cl,Appenzeller Bier,6.0,Drinks,Coop,2023-05-23
+3969,3.3,innocent Apple Mango Juice,innocent,0.33,Drinks,Coop,2023-05-23
+3970,6.95,Pear Juice 4x1l,Coop,4.0,Drinks,Coop,2023-05-23
+3971,4.95,YFood Fresh Berry Liquid Meal,YFood,0.5,Drinks,Coop,2023-05-23
+3972,7.95,Felsenau Bärner Müntschi Beer 4x33cl,Felsenau,1.32,Drinks,Coop,2023-05-23
+3973,9.95,Volvic Matcha Tea raspberry flavor - cherry blossom 6x75cL,Volvic,4.5,Drinks,Coop,2023-05-23
+3974,8.4,Naturaplan Organic Alpine Herbal Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+3975,2.95,High Protein Banana & Nougat,Emmi Energy Milk,0.33,Drinks,Coop,2023-05-23
+3979,26.15,Birra Ichnusa 24x  33cl,ichnusa,7.92,Drinks,Coop,2023-05-23
+3980,37.8,Leffe Beer 24x50cl,Leffe,12.0,Drinks,Coop,2023-05-23
+3981,8.7,Fanta Lemon Flavoured Soda 6x50cl,Fanta,3.0,Drinks,Coop,2023-05-23
+3982,6.0,Chiefs Milk Protein Coffee County Drink 2x  330ml,Chiefs,0.66,Drinks,Coop,2023-05-23
+3984,19.95,Appenzeller Ginger Beer 6x50cl,Appenzeller Bier,3.0,Drinks,Coop,2023-05-23
+3986,5.0,Starbucks Fairtrade Caffe Latte Coffee 2x  220ml,Starbucks,0.44,Drinks,Coop,2023-05-23
+3987,8.95,Volvic Limotion Lemon Lime 6x45cl,Volvic,2.7,Drinks,Coop,2023-05-23
+3989,4.95,Naturaplan Organic Exotic Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+3990,4.75,Emmi Aktifit Exotic Fruit Probiotic Drinks 6x65ml,Emmi Aktifit,0.39,Drinks,Coop,2023-05-23
+3991,11.95,Valaisanne Juicy IPA 4x33cl,Valaisanne,1.32,Drinks,Coop,2023-05-23
+3993,10.8,Powerade Mountain Blast Sport Drink 4x50cl,Powerade,2.0,Drinks,Coop,2023-05-23
+3994,,None,None,0.66,Drinks,Coop,2023-05-23
+3995,5.0,Starbucks Dark Chocolate Mocha 2x  220ml,Starbucks,0.44,Drinks,Coop,2023-05-23
+3997,10.2,Red Bull Energy Drink The Blue Edition Heidelbeere 6x25cl 6x  25cl,Red Bull,1.5,Drinks,Coop,2023-05-23
+3999,12.5,Uszit Beer 6x50cl,USZIT,3.0,Drinks,Coop,2023-05-23
+4000,23.7,Granini Pear 6x1l,Granini,6.0,Drinks,Coop,2023-05-23
+4002,5.3,Teisseire,Coop,0.6,Drinks,Coop,2023-05-23
+4003,9.0,Evian,Coop,10.0,Drinks,Coop,2023-05-23
+4004,2.8,Sluups Vitamin C Shot,SLUUPS,0.06,Drinks,Coop,2023-05-23
+4006,23.4,Docteur Gab's Ipanema Beer 6x50cl,Docteur Gab's,3.0,Drinks,Coop,2023-05-23
+4007,5.7,Swiss Alpina+ Raspberry Mineral Water 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4010,8.85,Gatorade Cool Blue Raspberry Sports Beverage 3x  75cl,Gatorade,2.25,Drinks,Coop,2023-05-23
+4011,14.95,Naturaplan Organic Mint Green Ice Tea 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+4017,2.8,Sluups Vitamin D Shot,SLUUPS,0.06,Drinks,Coop,2023-05-23
+4018,12.95,Möhl Juicy Apple Cider 6 x 33 cl,Möhl,1.98,Drinks,Coop,2023-05-23
+4019,13.5,Chopfab Pale Ale 6x50cl,CHOPFAB,3.0,Drinks,Coop,2023-05-23
+4020,12.95,Valaisanne Pale Ale Beer 4x50cl,Valaisanne,2.0,Drinks,Coop,2023-05-23
+4021,8.4,Ichnusa Unfiltered Beer 3x  50cl,ichnusa,1.5,Drinks,Coop,2023-05-23
+4022,11.95,Grimbergen,Coop,1.5,Drinks,Coop,2023-05-23
+4023,15.6,Bundaberg Ginger Beer 4x37.5cl,BUNDABERG,1.5,Drinks,Coop,2023-05-23
+4024,5.7,Teisseire Peach Flavoured Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+4025,9.3,Rivella Green Carbonated Beverages with Green Tea Extract 6x50cl,Rivella,3.0,Drinks,Coop,2023-05-23
+4026,4.95,YFood Cold Brew Coffee Liquid Meal,YFood,0.5,Drinks,Coop,2023-05-23
+4027,4.95,Yfood Happy Banana,YFood,0.5,Drinks,Coop,2023-05-23
+4028,8.6,Appenzeller Panachee Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+4029,16.2,Ramseier Naturaplan Organic Zisch Apple Juice 6x1.5l,Ramseier,9.0,Drinks,Coop,2023-05-23
+4033,5.1,Andros Orange Apricot & Carrot Juice,Andros,1.0,Drinks,Coop,2023-05-23
+4035,12.95,Chopfab Amber Beer 6x33cl,CHOPFAB,1.98,Drinks,Coop,2023-05-23
+4036,9.6,Naturaplan Organic Apple Schorle 6x50cl,Shorley,3.0,Drinks,Coop,2023-05-23
+4039,13.8,Appenzeller IPA Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+4040,26.95,Capri-Sun Multivitamin Fruit Juice 15x20cl,Capri Sun,4.95,Drinks,Coop,2023-05-23
+4041,7.8,Löwenbräu Beer 6x50cl,Löwenbräu,3.0,Drinks,Coop,2023-05-23
+4042,13.6,Swaf Lager Beer 8x33cl,SWAF,2.64,Drinks,Coop,2023-05-23
+4043,5.95,Naturaplan Flavoured Water Orange 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4045,9.95,Volvic Essence Lemon Apple 4x1.25l,Volvic,5.0,Drinks,Coop,2023-05-23
+4046,3.95,Naturaplan Bio Immunity Juice,Coop,0.25,Drinks,Coop,2023-05-23
+4047,6.2,innocent Plus Vitamine Bundle Smoothie,innocent,0.75,Drinks,Coop,2023-05-23
+4049,10.0,Nocco Blood Orange Del Sol 4x  33cl,NOCCO,1.32,Drinks,Coop,2023-05-23
+4050,8.95,Naturaplan Flavoured Water Orange 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4051,7.2,Valser Limelite Lemon Mineral Water 6x50cl,Valser,3.0,Drinks,Coop,2023-05-23
+4052,2.8,Sluups Immunity Shot,SLUUPS,0.06,Drinks,Coop,2023-05-23
+4054,12.85,Red Bull Energy Drink 6x35.5cl,Red Bull,2.13,Drinks,Coop,2023-05-23
+4057,3.95,JaMaDu Red Berries Schorle 10x20cl,Coop,2.0,Drinks,Coop,2023-05-23
+4058,13.95,La Nébuleuse Embuscade IPA Beer 4x33cl,La Nébuleuse,1.32,Drinks,Coop,2023-05-23
+4059,10.5,Brooklyn Special Effects alcohol free Lager Beer 4x33cl,Brooklyn,1.32,Drinks,Coop,2023-05-23
+4060,7.2,Happy Classic Cola 6x50cl,Happy,3.0,Drinks,Coop,2023-05-23
+4061,3.75,Schweppes Hibiscus Tonic,Schweppes,0.45,Drinks,Coop,2023-05-23
+4062,3.9,Caffè Lattesso Macchiato Coffee 2x  250ml,Lattesso,0.5,Drinks,Coop,2023-05-23
+4063,13.2,Singha Beer 6x33cl,Singha,1.98,Drinks,Coop,2023-05-23
+4064,9.25,Ramseier Schorle Summer Berries 6x50cl,Ramseier,3.0,Drinks,Coop,2023-05-23
+4065,15.6,Leffe Brune 6x33cl,Leffe,1.98,Drinks,Coop,2023-05-23
+4066,13.95,Docteur Gab's Houleuse Artisanal Lager Beer 4x33cl,Docteur Gab's,1.32,Drinks,Coop,2023-05-23
+4067,9.0,Naturaplan Organic Lemon Lime Schorle 6x  50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4069,16.95,Desperados Original Beer 12x25cl,Desperados Tequila,3.0,Drinks,Coop,2023-05-23
+4070,10.95,Valaisanne Cave Beer 4x33cl,Valaisanne,1.32,Drinks,Coop,2023-05-23
+4075,5.75,Benecol Special Strawberry Yogurt Drinks 6x65ml,Emmi Benecol,0.39,Drinks,Coop,2023-05-23
+4077,5.7,Teisseire Mint Flavoured Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+4078,11.95,Grimbergen Blonde Abbey Beer 6x25cl,Grimbergen,1.5,Drinks,Coop,2023-05-23
+4079,5.3,Teisseire Grapefruit Syrup no added sugar,Teisseire,0.6,Drinks,Coop,2023-05-23
+4080,14.9,Heineken Beer 12x25cl,Heineken,3.0,Drinks,Coop,2023-05-23
+4082,11.5,Brooklyn East IPA Beer 4x33cl,Brooklyn,1.32,Drinks,Coop,2023-05-23
+4083,8.5,Schweppes Selection Tonic & Pink Pepper 4x20cl,Schweppes,0.8,Drinks,Coop,2023-05-23
+4084,13.4,Michel Peach Nectar 4x1l,Michel,4.0,Drinks,Coop,2023-05-23
+4087,8.7,Mezzo Mix Orange Soda 6x50cl,Mezzo Mix,3.0,Drinks,Coop,2023-05-23
+4088,13.95,Docteur Gab's Pépite PA Beer 4x33cl,Docteur Gab's,1.32,Drinks,Coop,2023-05-23
+4089,8.95,Schützengarten Grapefruit alkfrei 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+4090,10.2,Red Bull Energy Drink The White Edition 6x25cl 6x  25cl,Red Bull,1.5,Drinks,Coop,2023-05-23
+4091,5.7,Teisseire Lemon Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+4092,8.8,Blue Moon Belgian White Dose 50 cl 4x  50cl,Blue Moon,2.0,Drinks,Coop,2023-05-23
+4093,13.95,DocteurGab's amber beer Chameau 4x33cl,Docteur Gab's,1.32,Drinks,Coop,2023-05-23
+4094,3.3,innocent orange juice without pulp,innocent,0.33,Drinks,Coop,2023-05-23
+4098,10.2,The ORGANICS by Red Bull Simply Cola 6x25cl 6x  25cl,ORGANICS,1.5,Drinks,Coop,2023-05-23
+4099,5.95,Naturaplan Organic Mint Water 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4100,3.2,Naturaplan Organic Red Berry Smoothie,Coop,0.25,Drinks,Coop,2023-05-23
+4101,10.4,Augustiner Pale Lager 4x  50cl,Augustiner-Bräu,2.0,Drinks,Coop,2023-05-23
+4102,17.7,Ramseier Alcohol Free Apple Cider 6x1.5l,Ramseier,9.0,Drinks,Coop,2023-05-23
+4104,13.95,Docteur Gab's Ipanema Beer 4x33cl,Docteur Gab's,1.32,Drinks,Coop,2023-05-23
+4105,16.2,Naturaplan Organic Apple Schorle 6x1.5l,Shorley,9.0,Drinks,Coop,2023-05-23
+4106,5.7,Swiss Alpina+ Green Apple 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4109,13.5,Chopfab Amber cans 6x 50cl,CHOPFAB,3.0,Drinks,Coop,2023-05-23
+4110,3.1,Skyr Drink Mango & Passion,Emmi Energy Milk,0.33,Drinks,Coop,2023-05-23
+4111,4.95,YFood Crazy Coconut,YFood,0.5,Drinks,Coop,2023-05-23
+4113,10.5,EVE Grapefruit Cosmopolitan 4x27.5CL,Eve,1.1,Drinks,Coop,2023-05-23
+4114,19.2,Granini Pineapple 6x  1l,Granini,6.0,Drinks,Coop,2023-05-23
+4116,3.4,Alpro Almond Coffee Drink 2x  235ml,alpro,0.47,Drinks,Coop,2023-05-23
+4117,13.8,Ueli Reverenz Naturtrüb Beer 6x50cl,Ueli Bier,3.0,Drinks,Coop,2023-05-23
+4118,,None,None,2.13,Drinks,Coop,2023-05-23
+4119,3.3,Ovo Vegan Drink,Ovomaltine,0.33,Drinks,Coop,2023-05-23
+4124,14.95,Whitefrontier Session IPA Beer 4x33cl,WHITEFRONTIER,1.32,Drinks,Coop,2023-05-23
+4125,5.8,Budweiser Budvar Lager Beer 4x50cl,Budweiser Budvar,2.0,Drinks,Coop,2023-05-23
+4126,4.95,YFood Salted Caramel Liquid Meal,YFood,0.5,Drinks,Coop,2023-05-23
+4127,13.8,"Fanta zero Pink Grapefruit 6x1,5l",Fanta,9.0,Drinks,Coop,2023-05-23
+4129,3.4,Alpro Caramel Soya Coffee Drink 2x  235ml,alpro,0.47,Drinks,Coop,2023-05-23
+4130,7.9,Chimay Brown Beer 2x  33cl,Chimay,0.66,Drinks,Coop,2023-05-23
+4133,2.3,High Protein Choco & Nuts Vegan,Coop,0.5,Drinks,Coop,2023-05-23
+4135,10.95,Stella Artois Beer 6x33cl,Stella Artois,1.98,Drinks,Coop,2023-05-23
+4136,,None,None,0.3,Drinks,Coop,2023-05-23
+4139,6.4,ichnusa non filtrata beer 4x20cl,ichnusa,0.8,Drinks,Coop,2023-05-23
+4140,12.8,Calvinus Lager Beer 6x33cl,Calvinus,1.98,Drinks,Coop,2023-05-23
+4141,4.5,Bifidus Berries Yoghurt no added sugar lactose-free 2x  500ml,Coop,1.0,Drinks,Coop,2023-05-23
+4144,9.95,1664 Blanc beer 6x33cl,Kronenbourg,1.98,Drinks,Coop,2023-05-23
+4145,6.95,Super Bock Original Lager Beer 6x33cl,Superbock,1.98,Drinks,Coop,2023-05-23
+4146,3.3,innocent Plus Blue Break Juice,innocent,0.33,Drinks,Coop,2023-05-23
+4148,12.3,Calanda Radler Grapefruit cans 6x50cl,Calanda,3.0,Drinks,Coop,2023-05-23
+4149,11.95,Calanda Glatsch Beer 10x33cl,Calanda,3.3,Drinks,Coop,2023-05-23
+4153,5.3,Teisseire Syrup no added sugar Raspberry & Cranberry,Teisseire,0.6,Drinks,Coop,2023-05-23
+4154,9.0,Naturaplan Organic Grapefruit Schorle 6x  50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4155,2.75,Comella UHT Choco-Drink,Emmi Comella,0.5,Drinks,Coop,2023-05-23
+4156,10.0,Nocco Bcaa Peach 4x  33cl,NOCCO,1.32,Drinks,Coop,2023-05-23
+4157,3.9,Lattesso Espresso Macchiato 2x  250ml,Lattesso,0.5,Drinks,Coop,2023-05-23
+4158,12.5,Appenzeller Bünzli Büx beer 6x50 l,Appenzeller Bier,3.0,Drinks,Coop,2023-05-23
+4159,8.4,Naturaplan Organic Fairtrade Earl Grey Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4160,8.5,Schweppes Pomelo Tonic 4x20cl,Schweppes,0.8,Drinks,Coop,2023-05-23
+4162,7.8,Appenzeller Flauder Carbonated Water Elder Blossom 6x  50cl,Appenzell Flauder,3.0,Drinks,Coop,2023-05-23
+4163,6.4,Emmi Mr. Big Cappuccino Caffè Latte 2x  370ml,Emmi Caffè Latte,0.74,Drinks,Coop,2023-05-23
+4165,9.95,Naturaplan Organic Gran Alpin Lager 6x33cl,Coop,1.98,Drinks,Coop,2023-05-23
+4166,7.95,Peroni Bier Nastro Azzurro 4x33cl,Nastro Azzuro,1.32,Drinks,Coop,2023-05-23
+4167,2.95,Karma Kombucha Acerola & Ginger,Coop,0.33,Drinks,Coop,2023-05-23
+4168,8.7,Fanta Shokata 6x50cl,Fanta,3.0,Drinks,Coop,2023-05-23
+4170,11.95,Grimbergen Ambrée Dubbel Beer 6x25cl,Grimbergen,1.5,Drinks,Coop,2023-05-23
+4171,9.5,Somersby Blueberry 4x33cl,Somersby,1.32,Drinks,Coop,2023-05-23
+4172,9.6,Puerto Mate Lemongrass 4x  50cl,PUERTO MATE,2.0,Drinks,Coop,2023-05-23
+4174,1.3,Vanillato vanilla drink 2x  250ml,Coop,0.5,Drinks,Coop,2023-05-23
+4175,6.4,Emmi Caffè Latte Mr. Big Balance 2x  370ml,Emmi Caffè Latte,0.74,Drinks,Coop,2023-05-23
+4178,9.95,Coop,Coop,4.5,Drinks,Coop,2023-05-23
+4182,7.6,Lola Wit-Bier alcohol-free 2x  33cl,LOLA,0.66,Drinks,Coop,2023-05-23
+4185,12.8,Calvinus Pale Beer 6x33cl,Calvinus,1.98,Drinks,Coop,2023-05-23
+4186,5.3,Rimuss Fresh grape juice white non-alcoholic,Rimuss,0.7,Drinks,Coop,2023-05-23
+4187,14.6,Brooklyn East IPA Beer 4x50cl,Brooklyn,2.0,Drinks,Coop,2023-05-23
+4188,11.4,Contrex Natural Mineral Water 2x  300cl,Contrex,6.0,Drinks,Coop,2023-05-23
+4189,3.5,Naturaplan Organic Pomegranate Juice,Coop,0.3,Drinks,Coop,2023-05-23
+4191,5.45,Cardinal Weihnachtsbier 6x33CL,Cardinal,1.98,Drinks,Coop,2023-05-23
+4192,19.2,Granini Sensation Passion Fruit 6x75cl,Granini,4.5,Drinks,Coop,2023-05-23
+4194,13.95,La Nébuleuse Speakeasy Sess IPA Beer 4x33cl,La Nébuleuse,1.32,Drinks,Coop,2023-05-23
+4195,9.9,Biotta Well Blood Pressure 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+4201,3.3,innocent Orange Juice with Pulp,innocent,0.33,Drinks,Coop,2023-05-23
+4202,3.9,Lattesso Salted Caramel 2x  250ml,Lattesso,0.5,Drinks,Coop,2023-05-23
+4203,10.8,Fairtrade Lemon Ice Tea 12x1l,Coop,12.0,Drinks,Coop,2023-05-23
+4204,9.2,Erdinger wheat beer cans 4x50cl,Erdinger,2.0,Drinks,Coop,2023-05-23
+4205,4.95,Homemade Raspberry Syrup,Homemade,0.7,Drinks,Coop,2023-05-23
+4206,1.3,Fragolato strawberry drink 2x  250ml,Coop,0.5,Drinks,Coop,2023-05-23
+4208,11.5,Boxer Old Lager Beer 6x50cl,Boxer,3.0,Drinks,Coop,2023-05-23
+4210,14.95,Whitefrontier Amor Fati IPA Dose 4x33cl,WHITEFRONTIER,1.32,Drinks,Coop,2023-05-23
+4211,12.5,Pepsi Regular 6x1.5l,Pepsi,9.0,Drinks,Coop,2023-05-23
+4212,3.95,hohes C shots Antiox,hohes C,0.33,Drinks,Coop,2023-05-23
+4215,14.95,Naturaplan Organic Ginger Green Ice Tea 6x1.5l,Coop,9.0,Drinks,Coop,2023-05-23
+4216,9.9,Biotta Well Immune 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+4217,9.5,Feldschlösschen IPA Dose 4x50cl,Feldschlösschen,2.0,Drinks,Coop,2023-05-23
+4218,13.2,Brewdog Hazy Jane Guava cans 4x33cl,Brewdog,1.32,Drinks,Coop,2023-05-23
+4219,10.0,Nocco Limon del Sol 4x  33cl,NOCCO,1.32,Drinks,Coop,2023-05-23
+4220,3.9,Caffè Lattesso Espresso Coffee 2x  250ml,Lattesso,0.5,Drinks,Coop,2023-05-23
+4221,10.5,Asahi Super Dry Beer 4x33cl,Asahi,1.32,Drinks,Coop,2023-05-23
+4222,15.95,Appenzeller Beer Ginger & Cola 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+4223,8.4,Naturaplan Bio Mate 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4224,2.6,Naturaplan Organic Multi-Fruit Juice,Coop,0.3,Drinks,Coop,2023-05-23
+4226,10.7,Appenzeller Hanfblüte Beer 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+4229,13.8,Swaf Lager Beer 6x50cl,SWAF,3.0,Drinks,Coop,2023-05-23
+4230,13.95,Docteur Tempête Beer 4x33cl,Docteur Gab's,1.32,Drinks,Coop,2023-05-23
+4231,4.3,innocent Plus Multitalent Smoothie,innocent,0.3,Drinks,Coop,2023-05-23
+4233,8.95,Volvic Limotion Orange 6x45cl,Volvic,2.7,Drinks,Coop,2023-05-23
+4235,8.5,Appenzeller Wheat Beer 4x50cl,Appenzeller Bier,2.0,Drinks,Coop,2023-05-23
+4236,23.7,Naturaplan organic Orange-Mango juice 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4240,11.5,Naturaplan Bio fairtrade Earl Grey 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4241,26.4,Naturaplan Bio Multifruchtsaft 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4242,11.7,Romanette Lemon Soda Pop 6x1.5l,Romanette,9.0,Drinks,Coop,2023-05-23
+4243,3.3,Betty Bossi Blood Orange Juice,Coop,0.75,Drinks,Coop,2023-05-23
+4245,13.95,La Nébuleuse Stirling Beer 4x33cl,La Nébuleuse,1.32,Drinks,Coop,2023-05-23
+4246,17.7,Ramseier,Coop,9.0,Drinks,Coop,2023-05-23
+4249,6.8,Messina Cristalli di Sale Beer 2x  50cl,MESSINA,1.0,Drinks,Coop,2023-05-23
+4250,9.2,Guinness West Indies Porter Beer 2x  50cl,Guinness,1.0,Drinks,Coop,2023-05-23
+4251,5.9,Störtebeker Atlantic Ale Beer 2x  50cl,Störtebeker,1.0,Drinks,Coop,2023-05-23
+4252,11.95,Appenzeller Quöllfrisch Beer 8x33cl,Appenzeller Bier,2.64,Drinks,Coop,2023-05-23
+4253,29.95,"Uszit, cans 24x50cl",USZIT,12.0,Drinks,Coop,2023-05-23
+4254,12.95,Möhl Spritz Apple Cider 6x33cl,Möhl,1.98,Drinks,Coop,2023-05-23
+4255,14.95,Unser Amber Beer 6x33cl,Unser Bier,1.98,Drinks,Coop,2023-05-23
+4256,10.0,Nocco Golden Grape Del Sol 4x  33cl,NOCCO,1.32,Drinks,Coop,2023-05-23
+4257,7.8,Sumol Passion 6x  33cl,Sumol,1.98,Drinks,Coop,2023-05-23
+4258,11.4,Ramseier Huus Tee Minze 6x1l,Ramseier,6.0,Drinks,Coop,2023-05-23
+4260,13.95,Valaisanne White IPA cans 4x50cl,Valaisanne,2.0,Drinks,Coop,2023-05-23
+4261,76.8,Guinness Draught Stout Beer 24x  50cl,Guinness,12.0,Drinks,Coop,2023-05-23
+4263,8.95,Bitburger Drive Alcohol Free Beer 6x33cl,Bitburger,1.98,Drinks,Coop,2023-05-23
+4264,8.5,Schweppes Selection Tonic Original & Lime 4x20cl,Schweppes,0.8,Drinks,Coop,2023-05-23
+4265,9.95,Volvic Black Tea with lemon flavor 6x75cL,Volvic,4.5,Drinks,Coop,2023-05-23
+4267,17.6,Ueli Light Lager Beer 10x33cl,Ueli Bier,3.3,Drinks,Coop,2023-05-23
+4268,11.95,Grimbergen Rouge Top-fermented beer mixed drink 6x25cl,Grimbergen,1.5,Drinks,Coop,2023-05-23
+4269,10.95,1664 Blonde Lager Beer 6x50cl,Kronenbourg,3.0,Drinks,Coop,2023-05-23
+4270,5.7,Teisseire Mojito Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+4271,8.85,Gatorade Red Orange Sports Beverage 3x  75cl,Gatorade,2.25,Drinks,Coop,2023-05-23
+4272,10.2,The ORGANICS by Red Bull Viva Mate 6x  25cl,ORGANICS,1.5,Drinks,Coop,2023-05-23
+4273,6.4,Emmi Mr. Big Espresso Caffè Latte 2x  370ml,Emmi Caffè Latte,0.74,Drinks,Coop,2023-05-23
+4279,9.5,Feldschlösschen Stark Strong Beer 4x50cl,Feldschlösschen,2.0,Drinks,Coop,2023-05-23
+4285,5.5,Rimuss Fruité non-alcoholic,Rimuss,0.7,Drinks,Coop,2023-05-23
+4288,4.3,Sumol Ananas 6x  33cl,Sumol,1.98,Drinks,Coop,2023-05-23
+4289,5.7,Teisseire Blackcurrant Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+4293,7.5,"Nestea Mango & Pineapple, 6 x 500 ml",Nestea,3.0,Drinks,Coop,2023-05-23
+4296,9.0,C'Ice Swiss Hemp Ice Tea 6x  25cl,C'Ice,1.5,Drinks,Coop,2023-05-23
+4297,8.4,Naturaplan Organic Lemon and Verbena 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4298,3.95,Naturaplan Bio Impulse Juice,Coop,0.25,Drinks,Coop,2023-05-23
+4299,2.95,PowerBar Protein Shake Smooth Choco,PowerBar,0.33,Drinks,Coop,2023-05-23
+4301,6.6,Ice Tea Watermelon 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4305,11.95,Eichhof Retro Beer 9x33cl,Eichhof,2.97,Drinks,Coop,2023-05-23
+4307,9.95,Heineken Silver beer cans 6x33cl,Heineken,1.98,Drinks,Coop,2023-05-23
+4308,6.0,2 go Sugarfree Energy Drinks 6x25cl,2 go,1.5,Drinks,Coop,2023-05-23
+4312,7.4,Gotlands Alcohol Free Easy Rider Beer 2x  33cl,Gotlands,0.66,Drinks,Coop,2023-05-23
+4313,11.2,Charitea Mate 4x  33cl,Charitea,1.32,Drinks,Coop,2023-05-23
+4314,13.8,Sumol Ananas 6x  1.5l,Sumol,9.0,Drinks,Coop,2023-05-23
+4315,9.95,Coop,Coop,4.5,Drinks,Coop,2023-05-23
+4318,15.95,Appenzeller Ginger Beer Red 6x33cl,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+4319,12.5,Cardinal Beer Blonde 10x33cl,Cardinal,3.3,Drinks,Coop,2023-05-23
+4322,12.95,Chopfab Pale Ale 6x33cl,CHOPFAB,1.98,Drinks,Coop,2023-05-23
+4323,11.95,Fuller's London Pride Can 4x50cl,Fuller's,2.0,Drinks,Coop,2023-05-23
+4324,3.75,Schweppes Ginger Beer & Chili,Schweppes,0.45,Drinks,Coop,2023-05-23
+4325,23.7,Naturaplan Organic Orange Pineapple & Ginger 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4326,8.85,Gatorade Mandarine Sports Beverage 3x  75cl,Gatorade,2.25,Drinks,Coop,2023-05-23
+4327,19.2,Granini pink grapefruit nectar 6x  1l,Granini,6.0,Drinks,Coop,2023-05-23
+4328,8.95,Schützengarten Alcohol-free Panaché 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+4329,9.5,Feldschlösschen Pale Ale Beer 4x50cl,Feldschlösschen,2.0,Drinks,Coop,2023-05-23
+4330,5.7,Peach Ice Tea 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4331,9.25,Ramseier Upper Branches Non-Filtered Apple Pear 6x50cl,Ramseier,3.0,Drinks,Coop,2023-05-23
+4333,9.0,innocent Coconut Water 2x  500ml,innocent,1.0,Drinks,Coop,2023-05-23
+4336,7.95,Kronenbourg,Coop,1.5,Drinks,Coop,2023-05-23
+4337,11.95,Cosmos IPA 4x33cl,COSMOS,1.32,Drinks,Coop,2023-05-23
+4339,12.5,1664 Blonde Lager Beer 12x25cl,Kronenbourg,3.0,Drinks,Coop,2023-05-23
+4341,9.5,Feldschlösschen Wheat Beer 4x50cl,Feldschlösschen,2.0,Drinks,Coop,2023-05-23
+4345,1.95,Zenbu Organic Matcha Energy Drink,ZENBU,0.25,Drinks,Coop,2023-05-23
+4346,6.2,Lindemans Kriek Beer 2x  25cl,Lindemans,0.5,Drinks,Coop,2023-05-23
+4347,10.8,MAGNERS ORIGINAL Cider 2x  56.8cl,Magners,1.136,Drinks,Coop,2023-05-23
+4350,7.95,Pepsi Regular 6x50cl,Pepsi,3.0,Drinks,Coop,2023-05-23
+4351,16.2,Gazzosa Ticinese Carbonated Lemon Flavoured Beverage 6x35cl,Fizzy,2.1,Drinks,Coop,2023-05-23
+4354,8.85,Appenzeller Holzfass Wooden Barrel Bier 3x  33cl,Appenzeller Bier,0.99,Drinks,Coop,2023-05-23
+4355,12.5,Blanche de Namur Lie Beer 4x50cl,Blanche de Namur,2.0,Drinks,Coop,2023-05-23
+4356,13.95,La Nébuleuse Diversion no alcohol 4x33CL,La Nébuleuse,1.32,Drinks,Coop,2023-05-23
+4357,3.3,true fruits Smoothie Pink,true fruits,0.25,Drinks,Coop,2023-05-23
+4358,3.3,true fruits Smoothie Yellow,true fruits,0.25,Drinks,Coop,2023-05-23
+4360,5.7,Teisseire Strawberry Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+4361,6.3,Perrier 6x50cl,Perrier,3.0,Drinks,Coop,2023-05-23
+4362,9.5,Feldschlösschen Dunkel Special Beer 4x50cl,Feldschlösschen,2.0,Drinks,Coop,2023-05-23
+4363,6.95,Sagres Beer 6x33cl,Sagres,1.98,Drinks,Coop,2023-05-23
+4366,14.1,Stella Artois Beer 6x50cl,Stella Artois,3.0,Drinks,Coop,2023-05-23
+4367,14.95,Whitefrontier Log Out & Live PA DS 4x33cl,WHITEFRONTIER,1.32,Drinks,Coop,2023-05-23
+4368,19.95,Kona Big Wave Ale 6x35.5cl,Kona,2.13,Drinks,Coop,2023-05-23
+4369,17.7,Zurich Region High Stem Apple Juice 6x1l,Züribieter,6.0,Drinks,Coop,2023-05-23
+4376,13.95,Boxer Pale Ale 9x25cl,Boxer,2.25,Drinks,Coop,2023-05-23
+4378,13.2,Brewdog Dead Pony Club Beer 4x33cl,Brewdog,1.32,Drinks,Coop,2023-05-23
+4379,11.7,Jever Beer 6x  50cl,JEVER,3.0,Drinks,Coop,2023-05-23
+4380,6.4,Clos Normand Cider,Clos Normand,0.75,Drinks,Coop,2023-05-23
+4381,2.5,Mövenpick Caffé Espresso Zero,Mövenpick,0.2,Drinks,Coop,2023-05-23
+4382,2.6,Kirin Japan Ichiban Beer,Kirin,0.5,Drinks,Coop,2023-05-23
+4385,3.3,true fruits Smoothie Purple,true fruits,0.25,Drinks,Coop,2023-05-23
+4386,9.25,Ramseier High-Branch Schorle Apple Juice 6x50cl,Ramseier,3.0,Drinks,Coop,2023-05-23
+4388,4.45,Nestea Energy Green Apple & Pear 6x33cl,Nestea,1.98,Drinks,Coop,2023-05-23
+4389,19.2,Granini Sensation Mango 6x75cl,Granini,4.5,Drinks,Coop,2023-05-23
+4391,13.95,Boxer Blanche 9x25cl,Boxer,2.25,Drinks,Coop,2023-05-23
+4392,14.5,Grimbergen Blonde Abbey Beer 4x50cl,Grimbergen,2.0,Drinks,Coop,2023-05-23
+4393,7.0,Lindemans Pecheresse Beer 2x  25cl,Lindemans,0.5,Drinks,Coop,2023-05-23
+4394,13.5,Ueli Basilisk Beer 6x33cl,Ueli Bier,1.98,Drinks,Coop,2023-05-23
+4395,8.8,Acqua Panna natural mineral water with glass 4x  75cl,Acqua Panna,3.0,Drinks,Coop,2023-05-23
+4396,7.8,Swiss Alpina+ Passion Fruit 6 x 1 l,Coop,6.0,Drinks,Coop,2023-05-23
+4397,11.5,Brooklyn Lager Beer 4x33cl,Brooklyn,1.32,Drinks,Coop,2023-05-23
+4398,13.5,Ueli Reverenz Beer 6x33cl,Ueli Bier,1.98,Drinks,Coop,2023-05-23
+4399,11.95,Calvinus Blond Beer 6x50cl,Calvinus,3.0,Drinks,Coop,2023-05-23
+4400,6.0,2go Energy Drinks 6x25cl,2 go,1.5,Drinks,Coop,2023-05-23
+4406,8.85,Schwarzer Kristall Beer 3x  33cl,Appenzeller Bier,0.99,Drinks,Coop,2023-05-23
+4407,6.95,Superbock,Coop,1.98,Drinks,Coop,2023-05-23
+4408,8.8,Enertea by Rivella Guayusa 4x33cl,ENERTEA,1.32,Drinks,Coop,2023-05-23
+4409,5.5,YFood Vegan Berry,YFood,0.5,Drinks,Coop,2023-05-23
+4410,2.95,Sluups Organic Ginger Shot vegan,SLUUPS,0.06,Drinks,Coop,2023-05-23
+4411,2.5,Mövenpick Caffé Macchiato,Mövenpick,0.2,Drinks,Coop,2023-05-23
+4413,11.95,Eichhof Lager Beer 10x33cl,Eichhof,3.3,Drinks,Coop,2023-05-23
+4414,4.95,Karma Coconut Water,Coop,0.47,Drinks,Coop,2023-05-23
+4415,1.4,Andros Kids Tropical Juice,Andros,0.15,Drinks,Coop,2023-05-23
+4416,7.9,La Chouette Cider 2x  33cl,LA CHOUETTE,0.66,Drinks,Coop,2023-05-23
+4418,,None,None,9.0,Drinks,Coop,2023-05-23
+4419,2.6,Lattesso Organic Macchiato less sweet,Lattesso,0.25,Drinks,Coop,2023-05-23
+4423,22.5,Feldschlösschen Non-alcoholic Lager 18x33cl,Feldschlösschen,5.94,Drinks,Coop,2023-05-23
+4424,16.6,Burgdorfer Bier Helles 8x33cl,Burgdorfer Bier,2.64,Drinks,Coop,2023-05-23
+4425,4.95,Happy Cola Zero can 6x33cl,Happy,1.98,Drinks,Coop,2023-05-23
+4427,7.0,Bier Factory OH IPA 2x  33cl,Bier Factory,0.66,Drinks,Coop,2023-05-23
+4428,5.5,Capri Sun Sirup Berry Mix,Capri Sun,0.6,Drinks,Coop,2023-05-23
+4429,5.7,Swiss Alpina+ Passion Fruit 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4434,14.5,Feldschlösschen Original Lager Beer 12x25cl,Feldschlösschen,3.0,Drinks,Coop,2023-05-23
+4435,11.7,Volvic Lemon Lime Flavoured Natural Mineral Water 6x1.5l,Volvic,9.0,Drinks,Coop,2023-05-23
+4436,2.8,Sluups Omega 3 Shot,SLUUPS,0.06,Drinks,Coop,2023-05-23
+4437,6.5,true fruits triple Smoothie Pink,true fruits,0.75,Drinks,Coop,2023-05-23
+4438,5.5,YFood Trinkmahlzeit vegan Choco 500ml,YFood,0.5,Drinks,Coop,2023-05-23
+4442,6.15,Ichnusa Radler 3x33cl,ichnusa,0.99,Drinks,Coop,2023-05-23
+4443,10.5,Eichhof Lager Beer 6x50cl,Eichhof,3.0,Drinks,Coop,2023-05-23
+4444,2.7,Andros Pomegranate Juice,Andros,0.25,Drinks,Coop,2023-05-23
+4449,53.95,Franziskaner Lager Beer 24x50cl,Franziskaner,12.0,Drinks,Coop,2023-05-23
+4450,4.95,Happy Cola Classic can 6x33cl,Happy,1.98,Drinks,Coop,2023-05-23
+4451,2.95,PowerBar Protein Shake Creamy Vanilla,PowerBar,0.33,Drinks,Coop,2023-05-23
+4454,11.5,Cardinal Bier Blonde Dose 6x50CL,Cardinal,3.0,Drinks,Coop,2023-05-23
+4455,7.2,Perrier Mineral Water 6x1l,Perrier,6.0,Drinks,Coop,2023-05-23
+4456,1.4,Andros Kids Saft Orange,Andros,0.15,Drinks,Coop,2023-05-23
+4457,4.6,Valser Sparkling 6x1l,Valser,6.0,Drinks,Coop,2023-05-23
+4459,23.4,Docteur Gab's Pépite Beer 6x50cl,Docteur Gab's,3.0,Drinks,Coop,2023-05-23
+4461,9.0,Miller Draft Dose 6x  50cl,Miller,3.0,Drinks,Coop,2023-05-23
+4462,2.5,Karma Organic Refresher Hibiscus,Coop,0.5,Drinks,Coop,2023-05-23
+4465,7.5,Westmalle Trappiste Blonde Beer 2x  33cl,Westmalle,0.66,Drinks,Coop,2023-05-23
+4466,9.6,Puerto Mate Pomegranate 4x  50cl,PUERTO MATE,2.0,Drinks,Coop,2023-05-23
+4467,3.2,"Naturaplan Organic Apple, Pear & Elderflower Smoothie",Coop,0.25,Drinks,Coop,2023-05-23
+4468,2.5,Mövenpick Caffé Cappuccino,Mövenpick,0.2,Drinks,Coop,2023-05-23
+4469,9.95,Bier Silver,Heineken,1.98,Drinks,Coop,2023-05-23
+4470,,Qualité &,None,0.5,Drinks,Coop,2023-05-23
+4472,5.4,Bitburger Beer 4x50cl,Bitburger,2.0,Drinks,Coop,2023-05-23
+4473,5.7,Swiss Alpina+ Elderberry Carbonated Mineral Water 6x50cl,Coop,3.0,Drinks,Coop,2023-05-23
+4474,,None,None,1.0,Drinks,Coop,2023-05-23
+4476,27.95,Calanda Radler cans 24x50cl,Calanda,12.0,Drinks,Coop,2023-05-23
+4477,10.5,Schützengarten 1779 Beer 6x50cl,Schützengarten,3.0,Drinks,Coop,2023-05-23
+4478,,None,None,3.0,Drinks,Coop,2023-05-23
+4479,9.95,Efrat Kosher Red Grape Juice,Bloch,1.0,Drinks,Coop,2023-05-23
+4482,12.5,Usterbräu Original Beer 6x33cl,Oberländerbräu,1.98,Drinks,Coop,2023-05-23
+4483,10.8,Powerade Orange Sport Drink 4x50cl,Powerade,2.0,Drinks,Coop,2023-05-23
+4486,14.2,Brewdog Beer Elvis Juice can 4x33cl,Brewdog,1.32,Drinks,Coop,2023-05-23
+4487,8.95,Château Lézergué Doux Cider,CHÂTEAU LÉZERGUÉ,0.75,Drinks,Coop,2023-05-23
+4488,,None,None,9.0,Drinks,Coop,2023-05-23
+4491,12.95,Hürlimann Lager Beer 6x50cl,Hürlimann,3.0,Drinks,Coop,2023-05-23
+4492,7.5,San Pellegrino Limonata 4x20cl,San Pellegrino,0.8,Drinks,Coop,2023-05-23
+4495,4.95,Bulmers Original Premium Cider,BULMERS,0.5,Drinks,Coop,2023-05-23
+4496,8.7,Sinalco Fresh 6x50cl,Sinalco,3.0,Drinks,Coop,2023-05-23
+4500,5.9,Guinness Hop House 13 Lager Beer 2x  33cl,Guinness,0.66,Drinks,Coop,2023-05-23
+4501,12.5,Chopfab Draft Beer cans 8x33cl,CHOPFAB,2.64,Drinks,Coop,2023-05-23
+4502,10.0,BraTee Watermelon 4x  75cl,BraTee,3.0,Drinks,Coop,2023-05-23
+4505,13.5,Volvic Mate Pure 6x45cl,Volvic,2.7,Drinks,Coop,2023-05-23
+4506,3.5,Bio Land ginger shot,Coop,0.05,Drinks,Coop,2023-05-23
+4507,5.3,Rimuss Party grape juice non-alcoholic rosé,Rimuss,0.7,Drinks,Coop,2023-05-23
+4509,13.95,La Nébuleuse Moonshine Beer 4x33cl,La Nébuleuse,1.32,Drinks,Coop,2023-05-23
+4510,14.95,Schützengarten India Pale Ale 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+4511,10.8,Vivi Kola 6x33cl,Vivi Kola,1.98,Drinks,Coop,2023-05-23
+4512,7.2,Knutwiler Kola Wasser 6x50CL,Knutwiler,3.0,Drinks,Coop,2023-05-23
+4513,3.5,Betty Bossi Pineapple Juice,Coop,0.75,Drinks,Coop,2023-05-23
+4514,2.95,Kedem Kosher Unsweetened Red Grape Juice,Kedem,0.24,Drinks,Coop,2023-05-23
+4516,11.7,Schützengarten Klosterbräu Beer 6x50cl,Schützengarten,3.0,Drinks,Coop,2023-05-23
+4517,6.5,true fruits triple Smoothie Yellow,true fruits,0.75,Drinks,Coop,2023-05-23
+4518,5.9,Störtebeker 1402 Cellar Beer 2x  50cl,Störtebeker,1.0,Drinks,Coop,2023-05-23
+4519,,Qualité &,None,0.5,Drinks,Coop,2023-05-23
+4520,8.8,Enertea by Rivella Mate 4x33cl,ENERTEA,1.32,Drinks,Coop,2023-05-23
+4521,5.5,YFood Smooth vegan Coffee,YFood,0.5,Drinks,Coop,2023-05-23
+4524,18.9,Kitchen Brew Centennial IPA Beer 6x33cl,KITCHEN BREW,1.98,Drinks,Coop,2023-05-23
+4525,23.4,Docteur Gab's Houleuse Beer 6x50cl,Docteur Gab's,3.0,Drinks,Coop,2023-05-23
+4526,13.95,Kitchen Brew Everyday Blonde Ale 6x33cl,KITCHEN BREW,1.98,Drinks,Coop,2023-05-23
+4527,12.2,Schützengarten Klosterbräu Beer 8x33cl,Schützengarten,2.64,Drinks,Coop,2023-05-23
+4528,9.3,Volvic Lemon Lime Flavoured Natural Mineral Water with Sportcap 6x75cl,Volvic,4.5,Drinks,Coop,2023-05-23
+4530,19.2,BFM La Salamandre Bier blanche 4x33cl,BFM,1.32,Drinks,Coop,2023-05-23
+4531,7.5,Hoppy People Porn Star Beer 2x  33cl,HOPPY PEOPLE,0.66,Drinks,Coop,2023-05-23
+4532,11.95,Cosmos Neipa 4x33cl,COSMOS,1.32,Drinks,Coop,2023-05-23
+4534,27.8,Superbock Sabor Auténtico 24x33CL,Superbock,7.92,Drinks,Coop,2023-05-23
+4535,12.6,Leffe Blonde Beer cans 4x50cl,Leffe,2.0,Drinks,Coop,2023-05-23
+4536,8.95,Nestea Energy Passion Fruit 6x33cl,Nestea,1.98,Drinks,Coop,2023-05-23
+4537,4.5,Evian Limited Edition 2022,Evian,0.75,Drinks,Coop,2023-05-23
+4539,10.4,Blanche de Namur Wheat Beer 2x  75cl,Blanche de Namur,1.5,Drinks,Coop,2023-05-23
+4540,19.95,Kona Longboard Island Lager Beer 6x35.5cl,Kona,2.13,Drinks,Coop,2023-05-23
+4541,7.8,Adelbodner mit CO2 6x150cl,Adelbodner,9.0,Drinks,Coop,2023-05-23
+4544,11.5,Schützengarten Lager Beer 10x33cl,Schützengarten,3.3,Drinks,Coop,2023-05-23
+4550,11.4,Red Stripe 4x  33cl,Red Stripe,1.32,Drinks,Coop,2023-05-23
+4551,,Qualité &,None,0.5,Drinks,Coop,2023-05-23
+4552,6.5,innocent Orange o. Fruchtfl. 1.5L,innocent,1.5,Drinks,Coop,2023-05-23
+4557,7.9,La Chouette Rose Cider 2x  33cl,LA CHOUETTE,0.66,Drinks,Coop,2023-05-23
+4558,6.2,Lindemans Raspberry Beer 2x  25cl,Lindemans,0.5,Drinks,Coop,2023-05-23
+4559,13.5,Volvic Mate Peach 6x45cl,Volvic,2.7,Drinks,Coop,2023-05-23
+4560,5.5,YFood Smooth vegan Banana,YFood,0.5,Drinks,Coop,2023-05-23
+4561,1.5,Molson Canadian 33 cl,Molson,0.33,Drinks,Coop,2023-05-23
+4562,6.6,Brewdog Punk IPA Gluten Free 2x  33cl,Brewdog,0.66,Drinks,Coop,2023-05-23
+4563,14.95,Schützengarten Swiss Stout Beer 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+4564,4.6,Andros Orange Juice 2x  250ml,Andros,0.5,Drinks,Coop,2023-05-23
+4566,11.85,Chouffe Blanche 3x  33cl,Chouffe,0.99,Drinks,Coop,2023-05-23
+4567,10.95,Super Bock Original Lager Beer 6x50cl,Superbock,3.0,Drinks,Coop,2023-05-23
+4568,11.95,Focus Water Vitamin Kick Peach & Apple 6x50cl,Focus Water,3.0,Drinks,Coop,2023-05-23
+4570,10.5,Chouffe Blonde Beer 3x  33cl,Chouffe,0.99,Drinks,Coop,2023-05-23
+4571,14.4,Crafty Cidre artisanal 4x33cl,Crafty,1.32,Drinks,Coop,2023-05-23
+4573,11.95,Köstritzer Dark Beer 6x33cl,Köstritzer,1.98,Drinks,Coop,2023-05-23
+4574,3.95,La Pâtelière Orange Blossom Aroma,La PATELIERE,0.25,Drinks,Coop,2023-05-23
+4575,7.5,Nestea Coconut & Passion 6x50cl,Nestea,3.0,Drinks,Coop,2023-05-23
+4578,8.95,Schützengarten Panaché 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+4579,13.8,Sumol Orange 6x  1.5l,Sumol,9.0,Drinks,Coop,2023-05-23
+4582,9.6,Bier Factory Wanderlust Swiss PA 3x  33cl,Bier Factory,0.99,Drinks,Coop,2023-05-23
+4583,11.8,Störtebeker Amber Wheat 4x  50cl,Störtebeker,2.0,Drinks,Coop,2023-05-23
+4584,11.95,Cosmos Brut Pale Ale 4x33cl,COSMOS,1.32,Drinks,Coop,2023-05-23
+4585,12.2,Schützengarten Black Bear Beer 8x33cl,Schützengarten,2.64,Drinks,Coop,2023-05-23
+4586,5.5,YFood Smooth vegan Vanilla,YFood,0.5,Drinks,Coop,2023-05-23
+4589,7.2,The ORGANICS by Red Bull Black Orange 25cl 6x  25cl,ORGANICS,1.5,Drinks,Coop,2023-05-23
+4590,10.4,La Goudale 4x  33cl,BRASSERIE Goudale,1.32,Drinks,Coop,2023-05-23
+4591,12.5,Züri-Hell Beer 6x33cl,ZÜRI-HELL,1.98,Drinks,Coop,2023-05-23
+4595,8.95,Chimay Grande Réserve Beer,Chimay,0.75,Drinks,Coop,2023-05-23
+4596,10.5,Chouffe Cherry Beer 3x  33cl,Chouffe,0.99,Drinks,Coop,2023-05-23
+4597,10.5,Müller Bräu Lager Beer 6x50cl,Müllerbräu,3.0,Drinks,Coop,2023-05-23
+4599,7.4,Coca Cola Zero 4x90cl,Coca Cola,3.6,Drinks,Coop,2023-05-23
+4600,,None,None,3.0,Drinks,Coop,2023-05-23
+4604,19.2,BFM La Meule Bière à la sauge 4x33cl,BFM,1.32,Drinks,Coop,2023-05-23
+4605,5.7,Teisseire Lime Flavoured Syrup,Teisseire,0.6,Drinks,Coop,2023-05-23
+4606,8.4,Naturaplan Bio Fairtrade Schwarztee mit Ingwer 6x50CL,Coop,3.0,Drinks,Coop,2023-05-23
+4607,11.7,Romanette Grapefruit Soda Pop 6x1.5l,Romanette,9.0,Drinks,Coop,2023-05-23
+4611,8.5,Egger Spez Maximus Beer 6x33cl,Egger,1.98,Drinks,Coop,2023-05-23
+4612,8.95,Nestea Energy Mango Lemon 6x33cl,Nestea,1.98,Drinks,Coop,2023-05-23
+4613,6.95,Andros Orange Juice,Andros,1.5,Drinks,Coop,2023-05-23
+4616,7.95,Mont Blanc La Rousse Beer,Mont Blanc,0.75,Drinks,Coop,2023-05-23
+4617,9.95,Mooser Liesl Helles 6x33cl,Arcobräu,1.98,Drinks,Coop,2023-05-23
+4618,11.8,Tsüri Pale Lager 4x33cl,TSÜRI BIER,1.32,Drinks,Coop,2023-05-23
+4619,,None,None,3.0,Drinks,Coop,2023-05-23
+4620,69.95,Biotta Wellness Week 11x50cl,Biotta,5.5,Drinks,Coop,2023-05-23
+4621,4.95,YFood Hazelnut Liquid Meal,YFood,0.5,Drinks,Coop,2023-05-23
+4629,11.95,Cosmos Oak Wood Red Ale 4x33cl,COSMOS,1.32,Drinks,Coop,2023-05-23
+4630,3.2,Karma Organic Refresher Hibiscus,Coop,0.75,Drinks,Coop,2023-05-23
+4631,9.5,Cardinal Blanche Wheat Beer 4x50cl,Cardinal,2.0,Drinks,Coop,2023-05-23
+4632,5.7,Happy Cola Classic 6x25cl,Happy,1.5,Drinks,Coop,2023-05-23
+4633,2.5,Karma Organic Refresher Alpine Herbs,Coop,0.5,Drinks,Coop,2023-05-23
+4635,13.95,Boxer Brunette 9x25cl,Boxer,2.25,Drinks,Coop,2023-05-23
+4636,14.6,Brooklyn Lager Beer 4x50cl,Brooklyn,2.0,Drinks,Coop,2023-05-23
+4637,10.8,Aecht Schlenkerla Smoky Beer 3x  50cl,Aecht Schlenkerla,1.5,Drinks,Coop,2023-05-23
+4638,10.0,BraTee Peach 4x  75cl,BraTee,3.0,Drinks,Coop,2023-05-23
+4643,13.95,La Nébuleuse Double Oat Beer 4x33cl,La Nébuleuse,1.32,Drinks,Coop,2023-05-23
+4645,17.95,Amboss Amber Beer 8x33cl,Amboss,2.64,Drinks,Coop,2023-05-23
+4646,5.0,Andros Exotic Multi-Fruit Juice 2x  250ml,Andros,0.5,Drinks,Coop,2023-05-23
+4656,11.95,Cosmos White IPA 4x33cl,COSMOS,1.32,Drinks,Coop,2023-05-23
+4657,10.5,Rivella Naturaplan Organic Swiss Mint 6x50cl,Rivella,3.0,Drinks,Coop,2023-05-23
+4658,1.95,Fairtrade Orange Juice 4x25cl,Coop,1.0,Drinks,Coop,2023-05-23
+4661,8.95,Château Lézergué Brut Cider,CHÂTEAU LÉZERGUÉ,0.75,Drinks,Coop,2023-05-23
+4662,22.95,Somersby Watermelon cans 8x50cl,Somersby,4.0,Drinks,Coop,2023-05-23
+4665,6.95,Morand Passion Fruit Syrup,Morand,1.0,Drinks,Coop,2023-05-23
+4666,2.95,High Protein Shot Iced Coffee,Layenberger,0.2,Drinks,Coop,2023-05-23
+4669,7.0,Amundsen Ink and Dagger Beer 2x  33cl,Amundsen,0.66,Drinks,Coop,2023-05-23
+4670,19.2,La Torpille Brown Beer 4x33cl,BFM,1.32,Drinks,Coop,2023-05-23
+4671,55.2,Erdinger Alcohol Free White Beer 24x  50cl,Erdinger,12.0,Drinks,Coop,2023-05-23
+4672,,Qualité &,None,0.5,Drinks,Coop,2023-05-23
+4674,29.95,Desperados Original Dose 24x50cl,Desperados Tequila,12.0,Drinks,Coop,2023-05-23
+4675,14.5,Unser Wheat Beer 6x33cl,Unser Bier,1.98,Drinks,Coop,2023-05-23
+4676,46.9,Chouffe Blonde can 12x50cl,Chouffe,6.0,Drinks,Coop,2023-05-23
+4677,12.95,Tsingtao Beer 6x33cl,Tsingtao,1.98,Drinks,Coop,2023-05-23
+4678,13.5,Usterbräu Beer 6x50cl,USTERBRÄU,3.0,Drinks,Coop,2023-05-23
+4679,3.5,Karma Antiox Skin Mango & Passionfruit,Coop,0.25,Drinks,Coop,2023-05-23
+4681,5.95,Mövenpick Caffé Cappuccino 3x200ml,Mövenpick,0.6,Drinks,Coop,2023-05-23
+4682,6.0,Karlovacko Beer 4x  500ml,Karlovacko,2.0,Drinks,Coop,2023-05-23
+4683,7.4,Coca Cola Original 4x90cl,Coca Cola,3.6,Drinks,Coop,2023-05-23
+4689,7.95,Felsenau Schümli beer non-alcoholic 4x33cl,Felsenau,1.32,Drinks,Coop,2023-05-23
+4690,10.8,MAGNERS BERRY Berry Cider 2x  56.8cl,Magners,1.136,Drinks,Coop,2023-05-23
+4691,15.95,Öufi Lager Beer 10x33cl,ÖUFI,3.3,Drinks,Coop,2023-05-23
+4692,35.95,Peroni Beer can 24x33CL,PERONI,7.92,Drinks,Coop,2023-05-23
+4695,5.95,Mövenpick Caffé Macchiato 3x200ml,Mövenpick,0.6,Drinks,Coop,2023-05-23
+4697,7.25,Morand Pur Jus Raspberry Syrup,Morand,1.0,Drinks,Coop,2023-05-23
+4698,7.4,Morand Strawberry Pure Juice Syrup,Morand,1.0,Drinks,Coop,2023-05-23
+4699,9.5,Felsenau Bärner wheat beer 4x50cl,Felsenau,2.0,Drinks,Coop,2023-05-23
+4700,11.95,Eichhof Retro Beer 6x50cl,Eichhof,3.0,Drinks,Coop,2023-05-23
+4701,26.95,Appenzeller Sour Beer,Appenzeller Bier,1.98,Drinks,Coop,2023-05-23
+4702,7.5,Amsterdam Maximator Extra Strong Beer 3x  50cl,Amsterdam,1.5,Drinks,Coop,2023-05-23
+4703,12.95,Blonde 25 Lager Beer 10x25cl,Valaisanne,2.5,Drinks,Coop,2023-05-23
+4704,15.9,Coopers Brewery Pale Ale 6 x 37.5cl,Coopers,2.25,Drinks,Coop,2023-05-23
+4706,13.8,Öufi Hells Pills Beer 6x50cl,ÖUFI,3.0,Drinks,Coop,2023-05-23
+4707,13.5,Zurich Region Lager Beer 6x50cl,ZÜRI-HELL,3.0,Drinks,Coop,2023-05-23
+4708,14.4,San Martino La Rossa Beer 6x33cl,San Martino,1.98,Drinks,Coop,2023-05-23
+4709,7.8,Chérie Raspberry Wheat Beer 3x  33cl,CHÉRIE,0.99,Drinks,Coop,2023-05-23
+4710,3.6,Defence + Immunity Vitamin Water Passionfruit,MONO,0.5,Drinks,Coop,2023-05-23
+4711,7.2,Kedem Kosher Unsweetened Red Grape Juice,Ked/Taam,0.65,Drinks,Coop,2023-05-23
+4719,12.95,1664 Blanc Beer cans 6x50cl,Kronenbourg,3.0,Drinks,Coop,2023-05-23
+4720,10.5,Rugenbräu Lager Beer 6x50cl,Rugenbräu,3.0,Drinks,Coop,2023-05-23
+4721,5.2,Morand Lemongrass Syrup,Morand,1.0,Drinks,Coop,2023-05-23
+4722,7.4,Coca Cola zero caffeine-free 4x90cl,Coca Cola,3.6,Drinks,Coop,2023-05-23
+4723,2.95,High Protein Shot Double Choc,Layenberger,0.2,Drinks,Coop,2023-05-23
+4724,13.8,La Nébuleuse Zepp’ cans 6x50cl,La Nébuleuse,3.0,Drinks,Coop,2023-05-23
+4725,11.5,Müller Bräu Lager Beer 10x33cl,Müllerbräu,3.3,Drinks,Coop,2023-05-23
+4726,20.4,Desperados Original 24x25CL,Desperados Tequila,6.0,Drinks,Coop,2023-05-23
+4728,3.6,Reload + Hydrate Vitamin Water Lemon & Lime,MONO,0.5,Drinks,Coop,2023-05-23
+4732,19.6,Lägere Bräu Original 8x33cl,LägereBräu,2.64,Drinks,Coop,2023-05-23
+4735,9.0,Abbaye de St-Maurice DXV Beer 2x  33cl,ABBAYE DE ST-MAURICE,0.66,Drinks,Coop,2023-05-23
+4736,7.4,Abbaye de St-Maurice Lumen Beer 2x  33cl,ABBAYE DE ST-MAURICE,0.66,Drinks,Coop,2023-05-23
+4737,2.2,Filtered Apple Juice 4x25cl,Coop,1.0,Drinks,Coop,2023-05-23
+4740,12.95,Jasmine Organic Rice Beer 6x33cl,CROWN SELECTION,1.98,Drinks,Coop,2023-05-23
+4741,4.8,Messina Classica 2x  33cl,MESSINA,0.66,Drinks,Coop,2023-05-23
+4742,13.5,Ueli Beer Shandy 6x33cl,Ueli Bier,1.98,Drinks,Coop,2023-05-23
+4743,,Qualité &,None,0.5,Drinks,Coop,2023-05-23
+4744,2.95,PowerBar Protein Shake Salted Caramel,PowerBar,0.33,Drinks,Coop,2023-05-23
+4747,14.95,San Martino Ticino Beer Box 6x33cl,San Martino,1.98,Drinks,Coop,2023-05-23
+4748,13.6,Möhl Saft vom Fass Alkoholfrei 8x33CL,Möhl,2.64,Drinks,Coop,2023-05-23
+4749,7.95,Morand Apricot Syrup,Morand,1.0,Drinks,Coop,2023-05-23
+4752,7.8,L'Echappée Originale Beer 2x37.5cl,L’Echappée,0.75,Drinks,Coop,2023-05-23
+4753,9.9,St. Austell Proper Job Beer 2x  50cl,St. Austell,1.0,Drinks,Coop,2023-05-23
+4754,12.6,Rhäzünser Bergamot 6x1.5l,Rhäzünser,9.0,Drinks,Coop,2023-05-23
+4759,5.95,Mövenpick Caffé Espresso Zero 3x200ml,Mövenpick,0.6,Drinks,Coop,2023-05-23
+4760,12.5,Luzerner Original Beer 6x33cl,Luzerner Bier,1.98,Drinks,Coop,2023-05-23
+4761,15.8,Murailles Sorcière Rousse Beer 4x33cl,Brasserie des Murailles,1.32,Drinks,Coop,2023-05-23
+4762,6.95,Morand Mojito Syrup,Morand,1.0,Drinks,Coop,2023-05-23
+4764,8.95,Rugenbräu Oberland Amber Beer 6x33cl,Rugenbräu,1.98,Drinks,Coop,2023-05-23
+4773,14.95,Schützengarten Gallus 612 Beer 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+4774,6.3,Riegele Simco 3 Beer,Riegele,0.66,Drinks,Coop,2023-05-23
+4775,14.8,Seetaler Apple Cider,Hochstamm Seetal,0.75,Drinks,Coop,2023-05-23
+4779,8.5,Eichhof Pony 4x33cl,Eichhof,1.32,Drinks,Coop,2023-05-23
+4780,9.9,St. Austell Tribute Beer 2x  50cl,St. Austell,1.0,Drinks,Coop,2023-05-23
+4781,15.8,Murailles La Meynite Lager Beer 4x33cl,Brasserie des Murailles,1.32,Drinks,Coop,2023-05-23
+4782,9.95,Schützengarten Engel Lager Beer 4x50cl,Schützengarten,2.0,Drinks,Coop,2023-05-23
+4784,2.95,Fairtrade Multivitamin Fuit Juice 4x25cl,Coop,1.0,Drinks,Coop,2023-05-23
+4787,8.5,Eichhof Kloster 4x33cl,Eichhof,1.32,Drinks,Coop,2023-05-23
+4788,13.5,Warteck Lager Beer 10x33cl,Warteck,3.3,Drinks,Coop,2023-05-23
+4789,2.35,Fairtrade Peach Ice Tea 4x33cl,Coop,1.32,Drinks,Coop,2023-05-23
+4792,8.1,Liefmans Fruitesse Beer 3x  25cl,Liefmans,0.75,Drinks,Coop,2023-05-23
+4793,6.3,Riegele Augustus 8 Beer,Riegele,0.66,Drinks,Coop,2023-05-23
+4794,11.5,O'Hara's Nitro Stout 4x44cl,O'Hara's,1.76,Drinks,Coop,2023-05-23
+4795,13.6,Wittekop Lager Beer 6x33cl,Wittekop,1.98,Drinks,Coop,2023-05-23
+4797,,None,None,1.5,Drinks,Coop,2023-05-23
+4798,8.4,Jorat La Vaudoise 33CL 2x  33cl,Brasserie du Jorat,0.66,Drinks,Coop,2023-05-23
+4799,13.95,Rugenbräu Oberland Amber can 6x50cl,Rugenbräu,3.0,Drinks,Coop,2023-05-23
+4800,,Qualité &,None,0.5,Drinks,Coop,2023-05-23
+4801,7.2,Happy Cola Zero Yuzu Flavor 6x50CL,Happy,3.0,Drinks,Coop,2023-05-23
+4802,9.9,Arizona Greentea 6x50cl,Arizona,3.0,Drinks,Coop,2023-05-23
+4804,12.8,Doppelleu Brewmaster Edition 34 4x33cl,DOPPELLEU,1.32,Drinks,Coop,2023-05-23
+4805,16.95,Fri-Mousse Barbeblanche Beer 4x33cl,FRI-MOUSSE,1.32,Drinks,Coop,2023-05-23
+4807,20.95,Appenzeller Quöllfrisch Beer pale,Appenzeller Bier,5.0,Drinks,Coop,2023-05-23
+4808,7.2,Brlo Berliner Weisse beer 2x  33cl,BRLO,0.66,Drinks,Coop,2023-05-23
+4809,7.9,Insel Übersee Hops IPA Beer 2x  33cl,INSEL,0.66,Drinks,Coop,2023-05-23
+4810,10.5,Limmatbräu Lager 10x33cl,Müllerbräu,3.3,Drinks,Coop,2023-05-23
+4812,7.9,Jorat La Blanche Beer 2x  33cl,Brasserie du Jorat,0.66,Drinks,Coop,2023-05-23
+4813,6.3,Riegele Auris 19 Beer,Riegele,0.66,Drinks,Coop,2023-05-23
+4814,14.95,San Martino Organic La Helles Beer 6x33cl,San Martino,1.98,Drinks,Coop,2023-05-23
+4815,6.3,Riegele Dulcis 12 Beer,Riegele,0.66,Drinks,Coop,2023-05-23
+4821,6.6,Kitchen Brew Lager Beer 3x  44cl,KITCHEN BREW,1.32,Drinks,Coop,2023-05-23
+4822,10.95,Crodino Biondo 6x17.5cl,CRODINO,1.05,Drinks,Coop,2023-05-23
+4823,9.5,Santero Bellini alkoholfrei,Italy,0.75,Drinks,Coop,2023-05-23
+4828,11.5,Schützengarten Light Lager Beer 15x33cl,Schützengarten,4.95,Drinks,Coop,2023-05-23
+4829,8.5,Eichhof Hubertus 4x33cl,Eichhof,1.32,Drinks,Coop,2023-05-23
+4830,3.95,Insel German Coast IPA Beer,INSEL,0.33,Drinks,Coop,2023-05-23
+4831,6.6,Valser Still 6x1l,Valser,6.0,Drinks,Coop,2023-05-23
+4836,15.95,Öufi Organic Red Beer 6x33cl,ÖUFI,1.98,Drinks,Coop,2023-05-23
+4837,1.5,Peroni Beer Nastro Azzurro Can,Nastro Azzuro,0.33,Drinks,Coop,2023-05-23
+4838,7.9,Officina Della Birra Innah 2x  33cl,OFFICINA DELLA BIRRA,0.66,Drinks,Coop,2023-05-23
+4839,9.95,Rugenbräu Bier Zwickel 6x33cl,Rugenbräu,1.98,Drinks,Coop,2023-05-23
+4840,6.8,Red Bull Green Edition Dragonfruit 4x25cl,Red Bull,1.0,Drinks,Coop,2023-05-23
+4841,9.95,Volvic Tea Hibiskus 6x75cl,Volvic,4.5,Drinks,Coop,2023-05-23
+4844,3.95,Naturaplan Organic Alpine Herbs Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+4845,7.9,Bier Factory Corp Monkey Lager 2x  33cl,Bier Factory,0.66,Drinks,Coop,2023-05-23
+4846,9.0,Pohjala Must Kuld Beer 2x  33cl,Pohjala,0.66,Drinks,Coop,2023-05-23
+4847,7.9,Officina Della Birra Valona 2x  33cl,OFFICINA DELLA BIRRA,0.66,Drinks,Coop,2023-05-23
+4848,14.95,Schützengarten Craft Beer Box 6x33cl,Schützengarten,1.98,Drinks,Coop,2023-05-23
+4849,1.7,ORGANICS by Red Bull Ginger 25CL,ORGANICS,0.25,Drinks,Coop,2023-05-23
+4853,14.4,San Martino La Nostra Beer 6x33cl,San Martino,1.98,Drinks,Coop,2023-05-23
+4854,11.8,Sierrvoise Blanche Beer 4x25cl,Sierrvoise,1.0,Drinks,Coop,2023-05-23
+4855,6.8,Red Bull Red Edition Watermelon 4x25cl,Red Bull,1.0,Drinks,Coop,2023-05-23
+4859,2.1,Q&P High Protein Dr. Choc-Macch.LE 500ml,Coop,0.5,Drinks,Coop,2023-05-23
+4860,7.5,Bourgogne des Flandres Beer 2x  33cl,Bourgogne des Flandres,0.66,Drinks,Coop,2023-05-23
+4861,7.9,Jorat L'Ambrée Beer 2x  33cl,Brasserie du Jorat,0.66,Drinks,Coop,2023-05-23
+4862,,None,None,1.5,Drinks,Coop,2023-05-23
+4867,2.95,"Barter Upturn Draft, cans",BARTER,0.33,Drinks,Coop,2023-05-23
+4868,15.8,Murailles La Pieuse Lager Beer 4x33cl,Brasserie des Murailles,1.32,Drinks,Coop,2023-05-23
+4869,9.9,Biotta Well Antioxidant 2x  50cl,Biotta,1.0,Drinks,Coop,2023-05-23
+4874,7.9,Abbaye de St-Maurice Candide Beer 2x  33cl,ABBAYE DE ST-MAURICE,0.66,Drinks,Coop,2023-05-23
+4875,9.95,Boxer Brunette beer 4x33cl,Boxer,1.32,Drinks,Coop,2023-05-23
+4880,4.95,Naturaplan Organic Pink Grapefruit Syrup,Coop,0.5,Drinks,Coop,2023-05-23
+4885,1.7,Organics Red Bull Black Orange,ORGANICS,0.25,Drinks,Coop,2023-05-23
+4890,9.95,Boxer Blanche beer 4x33cl,Boxer,1.32,Drinks,Coop,2023-05-23
+4891,9.2,Pohjala Virmalised Bier DS 33CL 2x  33cl,Pohjala,0.66,Drinks,Coop,2023-05-23
+4892,12.2,LägereBräu Stella Maris Beer 4x33cl,LägereBräu,1.32,Drinks,Coop,2023-05-23
+4893,12.95,Chopfab Limited Editions Orange Pale Ale 6x33CL,CHOPFAB,1.98,Drinks,Coop,2023-05-23
+4894,15.9,Hardwald Glattgold 6x33CL,Hardwald,1.98,Drinks,Coop,2023-05-23
+4895,13.95,Jucker Farm Hofbier Amber Beer 4x33cl,Juckerfarm,1.32,Drinks,Coop,2023-05-23
+4896,12.6,AMBAR,Coop,1.98,Drinks,Coop,2023-05-23
+4897,16.95,Fri-Mousse Barberousse Beer 4x33cl,FRI-MOUSSE,1.32,Drinks,Coop,2023-05-23
+4898,11.95,Rugenbräu Lager Beer 10x33cl,Rugenbräu,3.3,Drinks,Coop,2023-05-23
+4899,11.8,Sierrvoise Lager Beer 4x25cl,Sierrvoise,1.0,Drinks,Coop,2023-05-23
+4900,11.8,Sierrvoise Rousse Beer 4x25cl,Sierrvoise,1.0,Drinks,Coop,2023-05-23
+4901,70.8,O'Hara's Nitro Red 24x44cl,O'Hara's,1.76,Drinks,Coop,2023-05-23
+4902,6.4,Monin Sirup Amaretto,MONIN,0.25,Drinks,Coop,2023-05-23
+4903,6.4,Monin Sirup Caramel,MONIN,0.25,Drinks,Coop,2023-05-23
+4904,6.4,Monin Sirup Coconut,MONIN,0.25,Drinks,Coop,2023-05-23
+4905,6.4,Monin Sirup Haselnuss,MONIN,0.25,Drinks,Coop,2023-05-23
+4906,6.4,Monin Sirup Orange Spritz,MONIN,0.25,Drinks,Coop,2023-05-23
+4907,6.4,Monin Sirup Vanille,MONIN,0.25,Drinks,Coop,2023-05-23
+4908,5.3,Teisseire Sirup Waldfrüchte Zero 60cl,Teisseire,0.6,Drinks,Coop,2023-05-23
+4909,10.5,Happy Cola Classic Soda 6x1l,Happy,6.0,Drinks,Coop,2023-05-23
+4910,10.5,Happy Cola Zero Soda 6x1l,Happy,6.0,Drinks,Coop,2023-05-23
+4911,2.4,Puerto Mate Puro Tea,PUERTO MATE,0.5,Drinks,Coop,2023-05-23
+4912,1.2,What The Fanta 33CL,Fanta,0.33,Drinks,Coop,2023-05-23
+4913,7.5,Nestea Lime & Mint 6x50cl,Nestea,3.0,Drinks,Coop,2023-05-23
+4914,11.5,Naturaplan Bio Mate Tea 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4915,8.95,Nestea Energy Tea Guarna 6x33cl,Nestea,1.98,Drinks,Coop,2023-05-23
+4916,13.5,Vitaminwater defence Raspberry and Apple 6x  50cl,GLACEAU VITAMINWATER,3.0,Drinks,Coop,2023-05-23
+4917,13.5,Vitaminwater relax Blueberry and Lavender 6x  50cl,GLACEAU VITAMINWATER,3.0,Drinks,Coop,2023-05-23
+4918,13.5,Vitamin Well Protect 6x  50cl,Vitamin Well,3.0,Drinks,Coop,2023-05-23
+4919,10.95,Crodino Rosso 6x17.5cl,CRODINO,1.05,Drinks,Coop,2023-05-23
+4920,4.1,Fever Tree Raspberry&Rhubarb Tonic Water,Fever Tree,0.5,Drinks,Coop,2023-05-23
+4921,10.8,Powerade Blood Orange low-calorie 4x50cl,Powerade,2.0,Drinks,Coop,2023-05-23
+4922,12.6,Rivella,Coop,4.5,Drinks,Coop,2023-05-23
+4923,7.8,Fever-Tree Distiller's Cola 4x20cl,Fever Tree,0.8,Drinks,Coop,2023-05-23
+4924,10.8,Henniez Apfel Kiwi Holunder 6x50cl,Henniez,3.0,Drinks,Coop,2023-05-23
+4925,10.8,Henniez HimbeereGranatGinseng 6x50cl,Henniez,3.0,Drinks,Coop,2023-05-23
+4926,6.95,Lokales Wasser 37 Sparkling Water 6x50cl,LOKALES WASSER 37,3.0,Drinks,Coop,2023-05-23
+4927,22.95,Naturaplan Demeter Organic Apple Juice 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4928,3.95,hohes C Super Shots Energie,hohes C,0.33,Drinks,Coop,2023-05-23
+4929,3.5,Karma Juice Energy & Immunity,Coop,0.25,Drinks,Coop,2023-05-23
+4930,3.5,Karma Juice Refresh & Reload,Coop,0.25,Drinks,Coop,2023-05-23
+4931,11.5,Naturaplan Bio Fruit Tea 6x1l,Coop,6.0,Drinks,Coop,2023-05-23
+4932,16.8,Coop Apfeldirektsaft trüb m.CO2 6x1.5L,Coop,9.0,Drinks,Coop,2023-05-23
+4933,16.8,Coop Apfeldirektsaft trüb o.CO2 6x1.5L,Coop,9.0,Drinks,Coop,2023-05-23
+4934,15.55,Naturaplan Organic Ramseier Clear Apple Juice 6x1l,Ramseier,6.0,Drinks,Coop,2023-05-23
+4935,19.2,Granini Sensation Guava and Dragonfruit 6x75cl,Granini,4.5,Drinks,Coop,2023-05-23
+4958,1.5,Organic Sparkling Passion Fruit,Coop,0.5,Drinks,Coop,2023-05-23
+4970,3.8,Heinz Tomato Ketchup,Heinz,0.5,Inventories,Coop,2023-05-23
+4975,5.8,Brunos French salad dressing,Brunos,0.5,Inventories,Coop,2023-05-23
+4980,5.4,Sunflower Oil,Coop,1.0,Inventories,Coop,2023-05-23
+4985,,None,None,0.2,Inventories,Coop,2023-05-23
+4992,16.5,Filippo Berio Extra Virgin Olive Oil,Filippo Berio,1.0,Inventories,Coop,2023-05-23
+4997,,None,None,1.0,Inventories,Coop,2023-05-23
+4998,3.95,THOMY Hollandaise Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+5000,5.2,IP Suisse rapeseed oil,Coop,1.0,Inventories,Coop,2023-05-23
+5003,10.75,Iliada Kalamata Extra Virgin Olive Oil PDO,Iliada,1.0,Inventories,Coop,2023-05-23
+5004,9.4,Bio Extra Virgin Olive Oil Crete,Coop,0.5,Inventories,Coop,2023-05-23
+5008,,None,None,1.0,Inventories,Coop,2023-05-23
+5020,6.5,Naturaplan Organic Maple Syrup,Coop,0.25,Inventories,Coop,2023-05-23
+5022,3.3,Chirat Kressi Wine Vinegar with Herbs,Chirat,1.0,Inventories,Coop,2023-05-23
+5028,,None,None,1.0,Inventories,Coop,2023-05-23
+5033,17.95,Naturaplan Bio Oliveoil extra vergine IGP Sicilia,Coop,1.0,Inventories,Coop,2023-05-23
+5079,9.95,Brunos French salad dressing,Brunos,1.0,Inventories,Coop,2023-05-23
+5089,13.7,Don Felipe Extra Virgin Olive Oil,Don Felipe,1.0,Inventories,Coop,2023-05-23
+5095,1.95,Naturaplan Organic Lemon Juice,Coop,0.2,Inventories,Coop,2023-05-23
+5096,2.9,Maggi Seasoning,Maggi,0.202,Inventories,Coop,2023-05-23
+5100,2.8,Naturaplan Organic Cider Vinegar,Coop,0.5,Inventories,Coop,2023-05-23
+5106,9.4,Naturaplan Organic D.O.P Dauno Olive Oil,Coop,0.5,Inventories,Coop,2023-05-23
+5120,2.75,Heinz Tomato Ketchup,Heinz,0.22,Inventories,Coop,2023-05-23
+5140,5.25,Heinz Light Ketchup,Heinz,0.5,Inventories,Coop,2023-05-23
+5144,6.95,Naturaplan organic extra virgin rapeseed oil,Coop,0.5,Inventories,Coop,2023-05-23
+5145,3.35,Antica Modena Balsamic Vinegar 2 Blatt,Antica Modena,0.5,Inventories,Coop,2023-05-23
+5150,6.95,Bio Aceto Balsamico Modena 3 Blatt,Coop,0.5,Inventories,Coop,2023-05-23
+5155,12.55,San Giuliano Extra Virgin Olive Oil,San Giuliano,1.0,Inventories,Coop,2023-05-23
+5169,3.2,Kikkoman Soya Sauce,Kikkoman,0.15,Inventories,Coop,2023-05-23
+5174,2.2,French Dressing,Coop,1.0,Inventories,Coop,2023-05-23
+5188,5.8,Kikkoman Soya Sauce,Kikkoman,0.5,Inventories,Coop,2023-05-23
+5199,6.6,Fine Food Modena Balsamic Cream Vinegar,Coop,0.15,Inventories,Coop,2023-05-23
+5200,9.5,Extra Virgin Olive Oil,Coop,1.0,Inventories,Coop,2023-05-23
+5209,4.55,Antica Modena Condimento Bianco Dolce,Antica Modena,0.5,Inventories,Coop,2023-05-23
+5249,3.4,Sunflower oil,Coop,0.5,Inventories,Coop,2023-05-23
+5266,4.85,Heinz Ketchup without Added Sugar or Salt,Heinz,0.4,Inventories,Coop,2023-05-23
+5270,1.55,White Wine Vinegar,Coop,1.0,Inventories,Coop,2023-05-23
+5287,3.95,THOMY Béchamel Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+5299,6.2,Peanut Oil,Coop,1.0,Inventories,Coop,2023-05-23
+5301,6.95,Alvalle Gazpacho Soup,Alvalle,1.0,Inventories,Coop,2023-05-23
+5316,13.95,Antica Modena Balsamic Vinegar 3 Blatt,Antica Modena,1.0,Inventories,Coop,2023-05-23
+5324,5.8,Kikkoman,Coop,0.25,Inventories,Coop,2023-05-23
+5336,3.2,Betty Bossi Pesto alla Genovese,Coop,0.15,Inventories,Coop,2023-05-23
+5337,5.95,Mei Yang Sesame Oil,Mei Yang,0.19,Inventories,Coop,2023-05-23
+5340,6.95,Sabo Sesame Seed Oil,Sabo,0.25,Inventories,Coop,2023-05-23
+5353,3.95,THOMY Mushroom Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+5364,3.95,THOMY Cream Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+5374,7.3,Sabo Sunflower Oil,Sabo,1.0,Inventories,Coop,2023-05-23
+5379,1.95,Cider Vinegar,Coop,1.0,Inventories,Coop,2023-05-23
+5410,11.5,Naturaplan Demeter Organic Olive Oil,Coop,0.5,Inventories,Coop,2023-05-23
+5413,5.65,Heinz Tomato Ketchup,Heinz,0.8,Inventories,Coop,2023-05-23
+5414,5.95,Brunos Fitness salad dressing,Brunos,0.5,Inventories,Coop,2023-05-23
+5421,13.5,Filippo Berio Cooking Olive Oil,Filippo Berio,1.0,Inventories,Coop,2023-05-23
+5422,3.35,Saitaku Rice Vinegar,SAITAKU,0.15,Inventories,Coop,2023-05-23
+5425,3.95,THOMY Curry Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+5430,6.5,Naturaplan Organic White Balsamic Vinegar Dressing,Coop,0.5,Inventories,Coop,2023-05-23
+5432,2.8,Naturaplan Organic Natural Apple Cider Vinegar,Coop,0.5,Inventories,Coop,2023-05-23
+5438,3.2,McIlhenny Spicy Tabasco Sauce,Mc Ilhenny,0.06,Inventories,Coop,2023-05-23
+5451,4.3,Betty Bossi Cinque P Tomato Cream Sauce,Coop,0.24,Inventories,Coop,2023-05-23
+5455,12.95,Naturaplan Organic Sunflower Oil,Coop,1.0,Inventories,Coop,2023-05-23
+5458,6.8,Brunos Italian salad dressing,Brunos,0.5,Inventories,Coop,2023-05-23
+5461,,None,None,0.375,Inventories,Coop,2023-05-23
+5473,5.95,Naturaplan Organic Sunflower Oil,Coop,0.5,Inventories,Coop,2023-05-23
+5475,15.8,Frying Oil,Coop,3.0,Inventories,Coop,2023-05-23
+5478,11.85,Antica Modena Superiore Balsamic Vinegar,Antica Modena,0.25,Inventories,Coop,2023-05-23
+5528,5.8,Kikkoman Tamari Gluten Free Soya Sauce,Kikkoman,0.25,Inventories,Coop,2023-05-23
+5542,,None,None,2.0,Inventories,Coop,2023-05-23
+5546,2.75,Heinz Worcestershire Sauce,Heinz,0.15,Inventories,Coop,2023-05-23
+5548,4.4,Antica Modena White Balsamic Vinegar,Antica Modena,0.5,Inventories,Coop,2023-05-23
+5552,8.8,Filippo Berio Extra Vierge Olive Oil,Filippo Berio,0.5,Inventories,Coop,2023-05-23
+5556,3.75,Heinz American Burger Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+5590,4.8,Thai Kitchen Sweet Chili Sauce,Thai Kitchen,0.435,Inventories,Coop,2023-05-23
+5607,3.95,THOMY Béarnaise Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+5613,39.95,Filippo Berio Extra Virgin Olive Oil,Filippo Berio,3.0,Inventories,Coop,2023-05-23
+5616,9.4,Naturaplan Organic Córdoba Olive Oil,Coop,0.5,Inventories,Coop,2023-05-23
+5619,3.95,THOMY Zurich Meat Strips Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+5620,7.3,Sabo RapsPlus Rapeseed Oil with Omega 3,Sabo,1.0,Inventories,Coop,2023-05-23
+5637,9.85,Kikkoman Soya Sauce,Kikkoman,1.0,Inventories,Coop,2023-05-23
+5643,1.95,Limonina Lemon Juice,Limonina,0.2,Inventories,Coop,2023-05-23
+5647,4.25,Heinz Organic Tomato Ketchup,Heinz,0.4,Inventories,Coop,2023-05-23
+5666,7.95,Fine Food Balsamic Vinegar with Figs,Coop,0.25,Inventories,Coop,2023-05-23
+5671,3.15,Heinz Cocktail Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+5676,4.95,Kabuki Sesame Seed Dressing,Kabuki,0.25,Inventories,Coop,2023-05-23
+5685,4.95,Naturaplan Organic IGP Crema con Aceto Balsamico,Coop,0.15,Inventories,Coop,2023-05-23
+5706,7.3,Sabo Bonfrit Frying Vegetable Oil,Sabo,1.0,Inventories,Coop,2023-05-23
+5708,5.8,Brunos Spanish Style Salad Dressing,Brunos,0.5,Inventories,Coop,2023-05-23
+5735,4.3,THOMY French Salad Dressing,Thomy,0.7,Inventories,Coop,2023-05-23
+5745,3.2,THOMY French Salad Dressing,Thomy,0.45,Inventories,Coop,2023-05-23
+5747,5.8,Iliada DOP Kalamata Extra Virgin Olive Oil,Iliada,0.5,Inventories,Coop,2023-05-23
+5760,4.95,Heinz Mayonnaise,Heinz,0.495,Inventories,Coop,2023-05-23
+5766,3.15,Heinz Barbecue Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+5776,3.95,Naturaplan Organic French Salad Dressing,Coop,0.5,Inventories,Coop,2023-05-23
+5777,5.15,Heinz Andalousian Sauce,Heinz,0.4,Inventories,Coop,2023-05-23
+5805,2.6,Naturaplan Organic Wine Vinegar with Herbs,Coop,0.5,Inventories,Coop,2023-05-23
+5808,4.3,THOMY French Light Salad Dressing,Thomy,0.7,Inventories,Coop,2023-05-23
+5809,,None,None,0.5,Inventories,Coop,2023-05-23
+5836,3.95,Blue Elephant Thai Oyster Sauce,Blue Elephant,0.19,Inventories,Coop,2023-05-23
+5837,4.85,Antica Modena Balsamic Vinegar,Antica Modena,0.5,Inventories,Coop,2023-05-23
+5840,8.95,Old Style Salad Dressing,Sylvain & Co,1.0,Inventories,Coop,2023-05-23
+5842,4.95,Maille Honey Mustard,Maille,0.2,Inventories,Coop,2023-05-23
+5848,4.55,Heinz Hot Chili Ketchup,Heinz,0.5,Inventories,Coop,2023-05-23
+5850,3.15,Heinz Curry & Mango Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+5851,3.5,Knorr Pumpkin Soup Mix,Knorr,0.5,Inventories,Coop,2023-05-23
+5852,5.95,Lacroix Veal Stock,Lacroix,0.4,Inventories,Coop,2023-05-23
+5869,2.5,Händlmaier's Home Made Sweet Mustard,Händlmaier's,0.1,Inventories,Coop,2023-05-23
+5880,7.7,Becel Vita-3 Vegetable Oil,Becel,0.5,Inventories,Coop,2023-05-23
+5888,0.95,Brunos French salad dressing,Brunos,0.055,Inventories,Coop,2023-05-23
+5892,4.3,THOMY Italian Salad Dressing,Thomy,0.7,Inventories,Coop,2023-05-23
+5914,3.5,Knorr Cream of Vegetable Soup Mix,Knorr,0.5,Inventories,Coop,2023-05-23
+5915,8.95,Sabo Linseed Oil,Sabo,0.25,Inventories,Coop,2023-05-23
+5927,2.6,THOMY Cocktail Sauce Squeeze,Thomy,0.3,Inventories,Coop,2023-05-23
+5954,7.95,Betty Bossi Bourbon Vanilla Paste,Betty Bossi,0.06,Inventories,Coop,2023-05-23
+5970,6.95,Fine Food Honey & Ginger Condiment,Coop,0.25,Inventories,Coop,2023-05-23
+5993,4.95,Flying Goose Sriracha Sauce,FLYING GOOSE BRAND,0.455,Inventories,Coop,2023-05-23
+5994,4.95,Bull's Eye Original BBQ Sauce,Bull's Eye,0.3,Inventories,Coop,2023-05-23
+5996,5.3,Kikkoman Teriyaki Sauce,Kikkoman,0.25,Inventories,Coop,2023-05-23
+5998,4.95,Naturaplan Organic French Dressing,Coop,0.5,Inventories,Coop,2023-05-23
+6004,5.95,Shoyu Naturaplan Organic Soya Sauce,Coop,0.3,Inventories,Coop,2023-05-23
+6008,3.95,THOMY Gratin Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+6010,7.95,Naturaplan Organic Demeter Olive Oil with Lemon,Coop,0.25,Inventories,Coop,2023-05-23
+6030,6.8,Assugrin Liquid Sweetener,Assugrin,0.2,Inventories,Coop,2023-05-23
+6034,4.5,Zenbu Mirin,ZENBU,0.152,Inventories,Coop,2023-05-23
+6037,4.95,Flying Goose Sriracha Mayonnaise,FLYING GOOSE BRAND,0.455,Inventories,Coop,2023-05-23
+6047,5.2,Naturaplan Organic Poultry Stock,Coop,0.23,Inventories,Coop,2023-05-23
+6053,4.95,Hugo Grandma Aïda Salad Dressing,Hugo Reitzel,0.25,Inventories,Coop,2023-05-23
+6054,4.95,Cholula Hot Sauce,Cholula,0.15,Inventories,Coop,2023-05-23
+6056,5.95,Brunos Salatsauce Vinaigrette,Brunos,0.5,Inventories,Coop,2023-05-23
+6074,,None,None,0.15,Inventories,Coop,2023-05-23
+6077,3.4,Zenbu Rice Vinegar,ZENBU,0.152,Inventories,Coop,2023-05-23
+6082,3.3,THOMY Mayonnaise Squeeze,Thomy,0.3,Inventories,Coop,2023-05-23
+6091,5.5,Thai Kitchen Sweet Chili Sauce,Thai Kitchen,0.6,Inventories,Coop,2023-05-23
+6092,4.1,THOMY Hollandaise,Thomy,0.25,Inventories,Coop,2023-05-23
+6094,3.95,Betty Bossi House Dressing,Coop,0.33,Inventories,Coop,2023-05-23
+6112,3.8,Blue Elephant Thai Fish Sauce,Blue Elephant,0.2,Inventories,Coop,2023-05-23
+6119,3.1,Dr. Oetker Chocolate Sauce,Dr. Oetker,0.2,Inventories,Coop,2023-05-23
+6125,4.2,House sauce for dipping,Haus-Sauce,0.25,Inventories,Coop,2023-05-23
+6126,2.6,THOMY Curry Sauce Squeeze,Thomy,0.3,Inventories,Coop,2023-05-23
+6142,2.95,Heinz Mayonnaise,Heinz,0.22,Inventories,Coop,2023-05-23
+6146,4.3,THOMY French Herbs Salad Dressing,Thomy,0.7,Inventories,Coop,2023-05-23
+6154,4.95,Bull's Eye Burger Sauce,Bull's Eye,0.3,Inventories,Coop,2023-05-23
+6159,3.95,Betty Bossi Honey Mustard,Coop,0.33,Inventories,Coop,2023-05-23
+6162,4.4,Thai Kitchen Yellow Curry Sauce,Thai Kitchen,0.25,Inventories,Coop,2023-05-23
+6163,4.4,Antica Modena Crema Balsamic Vinegar,Antica Modena,0.25,Inventories,Coop,2023-05-23
+6172,4.4,Thai Kitchen Red Curry Sauce,Thai Kitchen,0.25,Inventories,Coop,2023-05-23
+6180,3.15,Heinz Garlic Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+6187,9.5,Fine Food Walnut Oil,Coop,0.25,Inventories,Coop,2023-05-23
+6196,5.95,Lacroix Poultry Stock,Lacroix,0.4,Inventories,Coop,2023-05-23
+6206,3.15,Gautschi French Dressing 5dl,Gautschi,0.5,Inventories,Coop,2023-05-23
+6230,4.95,Family French Salad Dressing,Coop,1.0,Inventories,Coop,2023-05-23
+6231,3.95,Baergfeuer Chili Sauce,Baergfeuer,0.05,Inventories,Coop,2023-05-23
+6234,4.6,Antica Modena Balsamic Vinegar,Antica Modena,0.25,Inventories,Coop,2023-05-23
+6248,14.95,Fine Food Olive Oil with Truffle Flavour,Coop,0.1,Inventories,Coop,2023-05-23
+6265,5.95,THOMY French Herbs Dressing,Thomy,0.45,Inventories,Coop,2023-05-23
+6266,,None,None,1.0,Inventories,Coop,2023-05-23
+6271,3.65,Hellmann's Ketchup,Hellmann's,0.43,Inventories,Coop,2023-05-23
+6272,3.2,THOMY French Light Salad Dressing,Thomy,0.45,Inventories,Coop,2023-05-23
+6284,2.95,Naturaplan Organic Red Wine Vinegar,Coop,0.5,Inventories,Coop,2023-05-23
+6285,,None,None,1.0,Inventories,Coop,2023-05-23
+6294,5.95,Brunos Salatsauce Naturelle,Brunos,0.5,Inventories,Coop,2023-05-23
+6295,0.75,Liquid Yeast,Coop,0.038,Inventories,Coop,2023-05-23
+6298,6.6,Fine Food Balsamic Cream with Raspberries,Coop,0.15,Inventories,Coop,2023-05-23
+6303,23.95,Merano Extra Virgin Olive Oil,Merano,0.75,Inventories,Coop,2023-05-23
+6314,3.1,Thai Kitchen Springroll Sauce,Thai Kitchen,0.2,Inventories,Coop,2023-05-23
+6315,5.95,Knorr Tom Kha Gai Soup,Knorr,0.57,Inventories,Coop,2023-05-23
+6342,1.75,Red Wine Vinegar,Coop,1.0,Inventories,Coop,2023-05-23
+6343,2.6,THOMY Tartare Sauce Squeeze,Thomy,0.3,Inventories,Coop,2023-05-23
+6355,4.2,Zenbu Teriyaki Sauce,ZENBU,0.152,Inventories,Coop,2023-05-23
+6362,3.95,THOMY Stroganoff Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+6369,8.95,Dr. Oetker Bourbon Vanilla Paste,Dr. Oetker,0.1,Inventories,Coop,2023-05-23
+6372,4.2,Naturaplan Organic Tomato Soup,Coop,0.39,Inventories,Coop,2023-05-23
+6375,5.95,Lacroix Rindfonds,Lacroix,0.4,Inventories,Coop,2023-05-23
+6383,6.95,THOMY Balsamico Dressing,Thomy,0.45,Inventories,Coop,2023-05-23
+6389,3.95,THOMY Pepper Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+6394,4.2,Blue Elephant Thai Peanut Sauce,Blue Elephant,0.19,Inventories,Coop,2023-05-23
+6399,,None,None,0.39,Inventories,Coop,2023-05-23
+6409,5.2,Naturaplan Organic Beef Stock,Coop,0.23,Inventories,Coop,2023-05-23
+6420,3.65,Heinz Tomato Ketchup light,Heinz,0.22,Inventories,Coop,2023-05-23
+6422,3.6,Zenbu Premium Soya Sauce,ZENBU,0.152,Inventories,Coop,2023-05-23
+6451,12.75,Oliveira da Serra Extra Virgin Olive Oil,Oliveira da Serra,0.75,Inventories,Coop,2023-05-23
+6477,10.45,San Giuliano Sardinian DOP Olive Oil,San Giuliano,0.5,Inventories,Coop,2023-05-23
+6483,3.95,Naturaplan Organic Apple Balsamic Vinegar,Coop,0.25,Inventories,Coop,2023-05-23
+6489,3.15,THOMY Vegan Burger Sauce Squeeze,Thomy,0.3,Inventories,Coop,2023-05-23
+6495,7.95,Naturaplan Organic Demeter Olive Oil with Basil,Coop,0.25,Inventories,Coop,2023-05-23
+6498,2.6,THOMY Drizzles Sweet & Sour,Thomy,0.17,Inventories,Coop,2023-05-23
+6499,3.8,Kikkoman Low Sodium Soya Sauce,Kikkoman,0.15,Inventories,Coop,2023-05-23
+6503,6.95,Filippo Berio Extra Virgin Olive Oil in Aerosol Spray,Filippo Berio,0.2,Inventories,Coop,2023-05-23
+6510,4.4,Thai Kitchen Panang Curry Sauce,Thai Kitchen,0.25,Inventories,Coop,2023-05-23
+6511,3.2,Dr. Oetker Dessert Sauce Caramel,Dr. Oetker,0.2,Inventories,Coop,2023-05-23
+6515,4.5,Heinz Mayo Mix,Heinz,0.415,Inventories,Coop,2023-05-23
+6517,3.5,Frank's Original Red Hot Cayenne Pepper Sauce,FRANK'S,0.148,Inventories,Coop,2023-05-23
+6535,2.6,THOMY Streetfood Sauce Honey Mustard,Thomy,0.17,Inventories,Coop,2023-05-23
+6536,5.95,Maille Cider Vinegar,Maille,0.5,Inventories,Coop,2023-05-23
+6538,3.75,Heinz Sauce Sweet Chili,Heinz,0.22,Inventories,Coop,2023-05-23
+6539,3.3,McIlhenny Mild Tabasco Sauce,Mc Ilhenny,0.06,Inventories,Coop,2023-05-23
+6543,2.6,Thomy American BBQ Sauce,Thomy,0.3,Inventories,Coop,2023-05-23
+6556,3.95,THOMY Hollandaise Style Vegan Sauce,Thomy,0.25,Inventories,Coop,2023-05-23
+6559,0.95,Brunos Italian salad dressing,Brunos,0.055,Inventories,Coop,2023-05-23
+6562,,None,None,0.5,Inventories,Coop,2023-05-23
+6566,8.0,Tsüri Chimichurri Sauce,TSÜRI SAUCE,0.11,Inventories,Coop,2023-05-23
+6583,4.95,Knorr Vegetable Cream Soup Mix,Knorr,0.45,Inventories,Coop,2023-05-23
+6592,6.95,Sabo Butter Flavoured Rapeseed Oil,Sabo,0.5,Inventories,Coop,2023-05-23
+6601,4.2,Naturaplan Organic Ginger Carrot Soup,Coop,0.39,Inventories,Coop,2023-05-23
+6604,3.95,Betty Bossi Balsamico Dressing,Coop,0.33,Inventories,Coop,2023-05-23
+6607,5.15,Heinz Fries Sauce,Heinz,0.4,Inventories,Coop,2023-05-23
+6611,16.95,Fine Food Olio oliva e.v. Bosana,Coop,0.5,Inventories,Coop,2023-05-23
+6614,4.4,Thai Kitchen Green Curry Sauce,Thai Kitchen,0.25,Inventories,Coop,2023-05-23
+6622,4.95,Bull's Eye Spicy Garlic BBQ,Bull's Eye,0.3,Inventories,Coop,2023-05-23
+6626,6.5,Chipeno Original,CHIPEÑO,0.3,Inventories,Coop,2023-05-23
+6635,5.95,Fine Food Italian Dressing,Coop,0.31,Inventories,Coop,2023-05-23
+6649,4.95,Bio Himbeeren Essigzubereitung 250ml,Coop,0.25,Inventories,Coop,2023-05-23
+6656,9.95,Fine Food Pumpkin Seed Oil,Coop,0.25,Inventories,Coop,2023-05-23
+6658,7.4,Sabo Pizza Oil,Sabo,0.25,Inventories,Coop,2023-05-23
+6664,3.95,Naturaplan Organic Orange Vinegar Preparation,Coop,0.25,Inventories,Coop,2023-05-23
+6671,19.95,Bio Aceto Balsamico Modena 4 Blatt,Coop,0.25,Inventories,Coop,2023-05-23
+6684,11.95,Naturaplan Organic Styrian GGA Pumpkin Seed Oil,Coop,0.25,Inventories,Coop,2023-05-23
+6686,7.5,Naturaplan Organic Brunos Salad Dressing,Coop,0.5,Inventories,Coop,2023-05-23
+6687,0.75,Betty Bossi House Salad Dressing,Coop,0.075,Inventories,Coop,2023-05-23
+6693,,None,None,0.72,Inventories,Coop,2023-05-23
+6708,6.95,Little Lunch Bio Protein Vegetable stew chickpea and lentil,Little Lunch,0.35,Inventories,Coop,2023-05-23
+6710,5.95,Lieber's White Vinegar,Lieber's,0.946,Inventories,Coop,2023-05-23
+6713,,None,None,0.72,Inventories,Coop,2023-05-23
+6723,3.95,Organic Italian Salad Dressing,Coop,0.5,Inventories,Coop,2023-05-23
+6724,4.95,Knorr Squash Cream Soup Mix,Knorr,0.45,Inventories,Coop,2023-05-23
+6726,26.95,Filippo Berio Extra Virgin Olive Oil,Filippo Berio,2.0,Inventories,Coop,2023-05-23
+6738,4.95,Bull's Eye Smokey Chipotle Sauce,Bull's Eye,0.3,Inventories,Coop,2023-05-23
+6739,2.75,Karl's Sauce Andalouse,Coop,0.3,Inventories,Coop,2023-05-23
+6740,,None,None,0.39,Inventories,Coop,2023-05-23
+6744,3.15,Gautschi Light French Salad Dressing,Gautschi,0.5,Inventories,Coop,2023-05-23
+6749,6.95,Maille Red Wine Vinegar,Maille,0.5,Inventories,Coop,2023-05-23
+6756,3.15,Heinz Hot Chili Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+6758,5.5,Kikkoman Poke Sauce,Kikkoman,0.25,Inventories,Coop,2023-05-23
+6770,9.3,Sabo Avocadoöl,Sabo,0.25,Inventories,Coop,2023-05-23
+6779,14.95,"Olio extravergine italiano, organic olive oil",Coop,0.5,Inventories,Coop,2023-05-23
+6792,3.2,Maggi Seasoning Hot,Maggi,0.1,Inventories,Coop,2023-05-23
+6803,7.5,Fine Food Marushima Shoyu Soya Sauce,Coop,0.15,Inventories,Coop,2023-05-23
+6814,4.6,Little Lunch Bio Tomato Soup,Little Lunch,0.35,Inventories,Coop,2023-05-23
+6816,19.95,Frantoiano Fruity Extra Virgin Olive Oil,Benza,0.5,Inventories,Coop,2023-05-23
+6819,4.95,Cholula Hot Sauce Chipotle,Cholula,0.15,Inventories,Coop,2023-05-23
+6830,14.95,Fine Food Roasted Hazelnut Oil,Coop,0.1,Inventories,Coop,2023-05-23
+6838,2.75,Karl's Sauce Curry & Mango,Coop,0.3,Inventories,Coop,2023-05-23
+6839,5.8,Kikkoman Ponzu Citrus Soy Sauce,Kikkoman,0.25,Inventories,Coop,2023-05-23
+6842,6.25,Heinz Curry Ketchup,Heinz,0.5,Inventories,Coop,2023-05-23
+6848,14.95,Sapori d'Italia Unfiltered Olive Oil,Sapori d'Italia,0.5,Inventories,Coop,2023-05-23
+6858,2.6,THOMY Streetfood Sauce Yoghurt & Mint,Thomy,0.17,Inventories,Coop,2023-05-23
+6859,4.95,Betty Bossi Calabrese Tomato Sauce with Chorizo,Coop,0.24,Inventories,Coop,2023-05-23
+6861,14.95,Mazzetti Aged Balsamic Vinegar,Mazzetti,0.25,Inventories,Coop,2023-05-23
+6862,23.95,Sais Frying Vegetable Oil,Sais,3.0,Inventories,Coop,2023-05-23
+6866,5.15,Heinz Hot Dog Sauce,Heinz,0.4,Inventories,Coop,2023-05-23
+6877,4.95,Knorr nat.fein Tomatensuppe,Knorr,0.45,Inventories,Coop,2023-05-23
+6884,6.95,Little Lunch Bio Little Thai Curry Vegetable Hot Pot,Little Lunch,0.35,Inventories,Coop,2023-05-23
+6885,4.2,Naturaplan Organic Cream of Squash Soup,Coop,0.39,Inventories,Coop,2023-05-23
+6898,4.95,Cholula Hot Sauce Chili Lime,Cholula,0.15,Inventories,Coop,2023-05-23
+6900,6.95,Sabo Grape Seed Oil,Sabo,0.25,Inventories,Coop,2023-05-23
+6905,9.05,San Giuliano Fruttato Extra Virgin Olive Oil,San Giuliano,0.5,Inventories,Coop,2023-05-23
+6918,8.95,Sabo lemon grass & ginger wok oil,Sabo,0.25,Inventories,Coop,2023-05-23
+6922,3.15,Heinz Tartare Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+6926,3.5,Saitaku Sushi Soya Sauce,SAITAKU,0.15,Inventories,Coop,2023-05-23
+6927,9.95,Mazzetti Original Balsamic Vinegar,Mazzetti,0.25,Inventories,Coop,2023-05-23
+6951,3.75,Heinz Sweet & Sour,Heinz,0.22,Inventories,Coop,2023-05-23
+6952,2.75,Karl's Sauce Tartare,Coop,0.3,Inventories,Coop,2023-05-23
+6961,2.75,Karl's Sauce Cocktail,Coop,0.3,Inventories,Coop,2023-05-23
+6962,4.45,Morga Organic Liquid Seasoning,Morga,0.09,Inventories,Coop,2023-05-23
+6964,6.95,San Giuliano Extra Virgin Olive Oil,San Giuliano,0.5,Inventories,Coop,2023-05-23
+6976,5.95,THOMY French Vegan Salad Dressing,Thomy,0.45,Inventories,Coop,2023-05-23
+6977,6.95,Stubb's Barbecue Sauce Original,Stubb's,0.3,Inventories,Coop,2023-05-23
+6986,3.95,Betty Bossi Thousand Island Dressing,Coop,0.33,Inventories,Coop,2023-05-23
+6988,6.95,Little Lunch Bio Moroccan Vegetable Hot Pot,Little Lunch,0.35,Inventories,Coop,2023-05-23
+6992,4.95,Bull's Eye Honey Sauce,Bull's Eye,0.3,Inventories,Coop,2023-05-23
+6994,3.95,Mei Yang fish sauce,Mei Yang,0.15,Inventories,Coop,2023-05-23
+7009,4.95,Naturaplan Bio Mango Essigzubereitung,Coop,0.25,Inventories,Coop,2023-05-23
+7015,4.95,HUGO Salad sauce CH-Honey mustard,HUGO,0.45,Inventories,Coop,2023-05-23
+7016,3.75,Heinz Smokey Baconnaise Sauce,Heinz,0.22,Inventories,Coop,2023-05-23
+7018,17.95,Son Naava Extra Virgin Olive Oil,Son Naava,0.5,Inventories,Coop,2023-05-23
+7024,14.95,Sapori d'Italia Sicilia Olive Oil,Sapori d'Italia,0.5,Inventories,Coop,2023-05-23
+7032,5.95,Lacroix Fish Stock,Lacroix,0.4,Inventories,Coop,2023-05-23
+7052,6.2,Kikkoman organic soy sauce,Kikkoman,0.25,Inventories,Coop,2023-05-23
+7053,5.2,Seetaler Apple Cider Vinegar,Hochstamm Seetal,0.25,Inventories,Coop,2023-05-23
+7060,14.95,Hero French Salad Dressing with Herbs,Hero,2.0,Inventories,Coop,2023-05-23
+7061,6.95,Naturaplan Organic Sylvain & Co Mustard Sauce,Coop,0.5,Inventories,Coop,2023-05-23
+7066,9.95,Jurapark Obstbau Erlenhof Aargau Rapeseed Oil,Erlenhof,0.5,Inventories,Coop,2023-05-23
+7073,3.15,THOMY Vegan Garlic Sauce Squeeze,Thomy,0.3,Inventories,Coop,2023-05-23
+7082,4.95,Hugo Salad Dressing French Honey & Mustard,Hugo Reitzel,0.25,Inventories,Coop,2023-05-23
+7083,9.95,Sélect marée Bisque de homard MSC,Select marée,0.85,Inventories,Coop,2023-05-23
+7093,4.95,Naturaplan Organic Wild Garlic Dressing,Coop,0.5,Inventories,Coop,2023-05-23
+7108,6.95,San Giuliano Amabile Extra Virgin Olive Oil,San Giuliano,0.5,Inventories,Coop,2023-05-23
+7144,2.75,Karl's Sauce Aioli,Coop,0.3,Inventories,Coop,2023-05-23
+7148,19.6,Rincón Subbética Extra Virgin Olive Oil,Rincón Subbética,0.5,Inventories,Coop,2023-05-23
+7157,6.95,Little Lunch Bio Curry Sweet Potato,Little Lunch,0.35,Inventories,Coop,2023-05-23
+7172,3.75,Hugo Salad Dressing French Tradition,Hugo Reitzel,0.25,Inventories,Coop,2023-05-23
+7173,9.95,Tsüri Sauce No.1 The Original,TSÜRI SAUCE,0.2,Inventories,Coop,2023-05-23
+7174,4.95,Bull's Eye Steakhouse BBQ Sauce,Bull's Eye,0.3,Inventories,Coop,2023-05-23
+7186,3.5,Frank's Buffalo Wings Sauce,FRANK'S,0.148,Inventories,Coop,2023-05-23
+7187,6.95,Tsüri Ketchup,TSÜRI SAUCE,0.25,Inventories,Coop,2023-05-23
+7188,13.95,Sabo Swiss Frying Rapeseed Oil,Sabo,2.0,Inventories,Coop,2023-05-23
+7191,8.95,Grillsmoke Hickory Liquid Smoke,Grillsmoke,0.1,Inventories,Coop,2023-05-23
+7199,4.75,HUGO Salad sauce CH-Tradition,HUGO,0.45,Inventories,Coop,2023-05-23
+7208,0.95,Sylvain & Co Grandmother's Salad Dressing,Sylvain & Co,0.05,Inventories,Coop,2023-05-23
+7233,5.2,Naturaplan Organic Swiss Mushroom Broth,Coop,0.23,Inventories,Coop,2023-05-23
+7241,4.95,Kabuki Mild Chilli Dressing,Kabuki,0.27,Inventories,Coop,2023-05-23
+7243,3.95,Bufis Master Tartar,BUFIS,0.11,Inventories,Coop,2023-05-23
+7244,2.95,Sapori Red Wine Vinegar,Sapori d'Italia,0.5,Inventories,Coop,2023-05-23
+7247,5.7,Kikkoman Wok Sauce,Kikkoman,0.25,Inventories,Coop,2023-05-23
+7256,5.95,Tsüri Habanero Sauce No.2,TSÜRI SAUCE,0.05,Inventories,Coop,2023-05-23
+7268,3.75,Heinz Mayo Vegan,Heinz,0.22,Inventories,Coop,2023-05-23
+7277,4.95,Blue Elephant Thai Sweet & Sour,Blue Elephant,0.22,Inventories,Coop,2023-05-23
+7281,2.95,Sapori White Wine Vinegar,Sapori d'Italia,0.5,Inventories,Coop,2023-05-23
+7284,4.95,Kabuki Mango Dressing,Kabuki,0.27,Inventories,Coop,2023-05-23
+7296,29.95,Oliveira da Serra Olive Oil,Oliveira da Serra,2.0,Inventories,Coop,2023-05-23
+7300,3.95,Bufis Sauce Sir Knoblauch,BUFIS,0.11,Inventories,Coop,2023-05-23
+7315,3.95,Thai Kitchen Organic Sweet Chili Sauce,Thai Kitchen,0.25,Inventories,Coop,2023-05-23
+7329,8.95,Sabo Hemp Seed Oil,Sabo,0.25,Inventories,Coop,2023-05-23
+7334,12.75,Oliveira Gourmet Olive Oil,Oliveira da Serra,0.5,Inventories,Coop,2023-05-23
+7337,4.95,HUGO Salad sauce CH-Herbs,HUGO,0.45,Inventories,Coop,2023-05-23
+7349,6.95,Chipeno Original Plant Based,CHIPEÑO,0.3,Inventories,Coop,2023-05-23
+7376,7.15,Iliada Olivenöl Premium e.v. 7.5DL,Iliada,0.75,Inventories,Coop,2023-05-23
+7378,3.75,Heinz Sauce 57,Heinz,0.22,Inventories,Coop,2023-05-23
+7394,15.5,Filippo Berio IGP Tuscan Extra Virgin Olive Oil,Filippo Berio,0.5,Inventories,Coop,2023-05-23
+7412,4.95,Flying Goose Sweet Chilli,FLYING GOOSE BRAND,0.455,Inventories,Coop,2023-05-23
+7431,5.95,Iliada Olivenöl AOP Sitia e.v. 5DL,Iliada,0.5,Inventories,Coop,2023-05-23
+7433,4.95,Bull's Eye Dark Beer BBQ Sauce,Bull's Eye,0.3,Inventories,Coop,2023-05-23
+7441,3.8,Blue Elephant Light Thai Soya Sauce,Blue Elephant,0.2,Inventories,Coop,2023-05-23
+7442,12.95,Filippo Berio Riserva oro Extra Virgin Olive Oil,Filippo Berio,0.5,Inventories,Coop,2023-05-23
+7447,3.95,Bufis Sauce Lady Cocktail,BUFIS,0.11,Inventories,Coop,2023-05-23
+7465,16.95,Slow Food Presidio Argan Oil,Coop,0.1,Inventories,Coop,2023-05-23
+7467,7.95,Tsüri Curry Ketchup Sauce,TSÜRI SAUCE,0.25,Inventories,Coop,2023-05-23
+7469,7.5,Naturaplan Organic Flaxseed Oil,Coop,0.25,Inventories,Coop,2023-05-23
+7488,5.15,Kikkoman Ramen Suppe-basis 250ML,Kikkoman,0.25,Inventories,Coop,2023-05-23
+7489,3.95,Bufis Prince Curry,BUFIS,0.11,Inventories,Coop,2023-05-23
+7500,5.95,Bruno's Best Tomato & Basil Dressing,Brunos,0.5,Inventories,Coop,2023-05-23
+7501,12.95,Tsüri No.4 Mexican Style Sauce,TSÜRI SAUCE,0.2,Inventories,Coop,2023-05-23
+7503,3.95,Robin Schulz BBQ Love me Sauce,Robin Schulz Barbecue,0.3,Inventories,Coop,2023-05-23
+7504,3.95,Robin Schulz BBQ Prayer i Sauce,Robin Schulz Barbecue,0.3,Inventories,Coop,2023-05-23
+7512,7.5,Naturaplan Bio HOLL Raps Bratöl CH 500ml,Coop,0.5,Inventories,Coop,2023-05-23
+7645,3.2,Ovo Protein Drink,Ovomaltine,0.33,Sweets  & Snacks,Coop,2023-05-23
+7688,5.9,Emmi Vanilla High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Sweets  & Snacks,Coop,2023-05-23
+7733,5.9,Emmi Strawberry High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Sweets  & Snacks,Coop,2023-05-23
+7741,5.9,Emmi Chocolate High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Sweets  & Snacks,Coop,2023-05-23
+7778,6.0,Chiefs Choco Mountain Milk Protein Drink 2x  330ml,Chiefs,0.66,Sweets  & Snacks,Coop,2023-05-23
+7799,3.5,Alpro Protein Drink Chocolate,alpro,1.0,Sweets  & Snacks,Coop,2023-05-23
+7973,5.9,Emmi Coffee High Energy Protein Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Sweets  & Snacks,Coop,2023-05-23
+7992,7.1,Emmi High Protein Caffé Latte 2x  370ml,Emmi Caffè Latte,0.74,Sweets  & Snacks,Coop,2023-05-23
+8031,6.0,Chiefs Vanilla Drive Milk Protein Drink 2x  330ml,Chiefs,0.66,Sweets  & Snacks,Coop,2023-05-23
+8196,6.0,Chiefs Milk Protein Coffee County Drink 2x  330ml,Chiefs,0.66,Sweets  & Snacks,Coop,2023-05-23
+8209,10.8,Powerade Mountain Blast Sport Drink 4x50cl,Powerade,2.0,Sweets  & Snacks,Coop,2023-05-23
+8230,8.85,Gatorade Cool Blue Raspberry Sports Beverage 3x  75cl,Gatorade,2.25,Sweets  & Snacks,Coop,2023-05-23
+8309,8.5,Chiefs Salted Caramel Ice Cream,Chiefs,0.5,Sweets  & Snacks,Coop,2023-05-23
+8419,6.0,Emmi Energy Drink Plant Protein Choco 2x  330ml,Emmi Energy Milk,0.66,Sweets  & Snacks,Coop,2023-05-23
+8478,6.2,Emmi Chocolate Nut Whey Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Sweets  & Snacks,Coop,2023-05-23
+8544,8.85,Gatorade Red Orange Sports Beverage 3x  75cl,Gatorade,2.25,Sweets  & Snacks,Coop,2023-05-23
+8572,2.95,PowerBar Protein Shake Smooth Choco,PowerBar,0.33,Sweets  & Snacks,Coop,2023-05-23
+8600,8.85,Gatorade Mandarine Sports Beverage 3x  75cl,Gatorade,2.25,Sweets  & Snacks,Coop,2023-05-23
+8643,6.2,Emmi Energy Milk Whey Drink Vanilla & Strawberry 2x  330ml,Emmi Energy Milk,0.66,Sweets  & Snacks,Coop,2023-05-23
+8746,10.8,Powerade Orange Sport Drink 4x50cl,Powerade,2.0,Sweets  & Snacks,Coop,2023-05-23
+9189,8.95,Chiefs Choc & Nuts Bar 4x73ml,Chiefs,0.292,Sweets  & Snacks,Coop,2023-05-23
+9237,11.95,Mövenpick Vanilla Dream,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9255,15.9,Frisco Rakete Popsicles 12 Pieces 2x  600ml,Frisco,1.2,Frozen,Coop,2023-05-23
+9264,11.95,Mövenpick Swiss Chocolate,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9267,9.7,Magnum After Dinner Mini Chocolate Ice Cream Bars 10 Pieces,Magnum,0.35,Frozen,Coop,2023-05-23
+9274,3.7,Ben&Jerry's Cookie Dough Ice Cream,Ben&Jerry's,0.1,Frozen,Coop,2023-05-23
+9280,9.5,Magnum Almond Ice Cream Bars 6 Pieces,Magnum,0.66,Frozen,Coop,2023-05-23
+9289,8.95,Magnum Mini Classic Almond and White 8x55ml,Magnum,0.44,Frozen,Coop,2023-05-23
+9292,,None,None,1.44,Frozen,Coop,2023-05-23
+9294,10.5,Ben&Jerry's Cookie Dough,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9298,6.1,Snickers Ice Cream 6x53ml,Snickers,0.3018,Frozen,Coop,2023-05-23
+9311,6.95,Solero Exotic Ice Cream Bars 3 Pieces,Lusso,0.27,Frozen,Coop,2023-05-23
+9314,10.95,Frisco Mini Pralinato Ice Cream Pops 12 Pieces,Frisco,0.36,Frozen,Coop,2023-05-23
+9315,,None,None,0.42,Frozen,Coop,2023-05-23
+9316,11.95,Mövenpick Stracciatella,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9320,,None,None,1.2,Frozen,Coop,2023-05-23
+9325,15.1,Frisco Extrême Vanilla & Strawberry Ice Cream Cones 6 Pieces 2x  870ml,Frisco,1.74,Frozen,Coop,2023-05-23
+9331,13.5,Mövenpick Gruyère Double Cream & Meringue,Mövenpick,0.81,Frozen,Coop,2023-05-23
+9332,,None,None,2.5,Frozen,Coop,2023-05-23
+9337,8.95,Magnum Mini Almond Ice Cream Bars 6 Pieces,Magnum,0.33,Frozen,Coop,2023-05-23
+9342,9.5,Magnum Classic Ice Cream Bars 6 Pieces,Magnum,0.66,Frozen,Coop,2023-05-23
+9345,,None,None,0.3,Frozen,Coop,2023-05-23
+9346,11.95,Mövenpick Crunchy Espresso,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9350,10.5,Ben&Jerry's Chocolate Fudge Brownie Ice Cream,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9353,8.9,Oreo Mini Ice Cream Cookie Sandwiches 6x55ml 2x  330ml,Oreo,0.66,Frozen,Coop,2023-05-23
+9359,11.95,Mövenpick Caramelita,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9363,8.95,Fine Food Fior di Latte Gelato,Coop,0.5,Frozen,Coop,2023-05-23
+9368,9.95,Frisco Extrême Mini Ice Cream Cones 12 Pieces,Frisco,0.348,Frozen,Coop,2023-05-23
+9374,7.3,Strawberry Ice Cream Pops 12 Pieces,Coop,0.684,Frozen,Coop,2023-05-23
+9376,10.95,Frisco Extrême Mini Vanilla Strawberry Ice Cream Cones 8 Pieces,Frisco,0.48,Frozen,Coop,2023-05-23
+9378,5.2,Sorbetto Assorted Popsicles 10x62ml,Coop,0.62,Frozen,Coop,2023-05-23
+9380,6.1,Mars Ice Cream 6x51ml,Mars,0.297,Frozen,Coop,2023-05-23
+9383,8.95,Magnum Ice Cream Intense Dark Mini 6-pack,Magnum,0.33,Frozen,Coop,2023-05-23
+9386,,None,None,0.6,Frozen,Coop,2023-05-23
+9388,10.95,Frisco Extrême Stracciatella & Chocolate Ice Cream Cones 6 Pieces,Frisco,0.87,Frozen,Coop,2023-05-23
+9389,7.95,Nuii Salted Caramel & Macadamia 4x90ml,NUII,0.36,Frozen,Coop,2023-05-23
+9390,9.5,Magnum White 6 x 110 ml,Magnum,0.66,Frozen,Coop,2023-05-23
+9392,13.2,Frisco Coffee Ice Cream Cup 4x  190ml,Frisco,0.76,Frozen,Coop,2023-05-23
+9395,5.3,Naturaplan Organic Vanilla Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9403,9.5,Magnum Double Gold Caramel 4x85ml,Magnum,0.34,Frozen,Coop,2023-05-23
+9405,13.5,Mövenpick Blueberry Meringue,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9412,11.95,Mövenpick Maple Walnut,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9415,7.3,Vanilla Ice Cream Pops 12 Pieces,Coop,0.684,Frozen,Coop,2023-05-23
+9422,10.5,Ben&Jerry's Peanut Butter Cup,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9423,9.95,Naturaplan Organic Vanilla Ice Cream,Coop,0.9,Frozen,Coop,2023-05-23
+9432,,None,None,0.5,Frozen,Coop,2023-05-23
+9433,10.5,Lusso Stracciatella ice cream 8x80ml,Lusso,0.64,Frozen,Coop,2023-05-23
+9437,13.5,Mövenpick Raspberry & Strawberry Sorbet,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9440,7.95,Magnum Almond vegan 3x90ml,Magnum,0.27,Frozen,Coop,2023-05-23
+9443,7.95,Frisco Friscolino Vanille & Strawberry Ice Cream Bars 6 Pieces,Frisco,0.45,Frozen,Coop,2023-05-23
+9445,11.95,Mövenpick Panna Cotta Raspberry,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9446,7.95,Smarties Cones 6x 65ml,Smarties,0.39,Frozen,Coop,2023-05-23
+9459,9.5,Frisco Vanilla Ice Cream Sandwiches 8 Pieces,Frisco,0.6,Frozen,Coop,2023-05-23
+9460,7.3,Chocolate Ice Cream Pops 12 Pieces,Coop,0.684,Frozen,Coop,2023-05-23
+9463,5.5,Nestlé Maxibon Ice Cream Pops,Nestlé,0.25,Frozen,Coop,2023-05-23
+9468,,None,None,0.5,Frozen,Coop,2023-05-23
+9469,11.95,Mövenpick Pistachio,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9470,7.95,Nuii Dark Nordic Berry Ice Cream Bars 4 Pieces,NUII,0.36,Frozen,Coop,2023-05-23
+9476,7.5,JaMaDu Tropical Fun Pops 12x50ml,Coop,0.6,Frozen,Coop,2023-05-23
+9477,9.5,Magnum Double Sunlover 4x85ml,Magnum,0.34,Frozen,Coop,2023-05-23
+9478,11.95,Mövenpick Passionfruit Mango & Cream,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9486,6.95,Frisco Pirulo Watermelon 5x73ml,Frisco,0.365,Frozen,Coop,2023-05-23
+9487,8.8,Free From Lactose Free Vanilla Ice Cream,Coop,0.9,Frozen,Coop,2023-05-23
+9490,9.95,Häagen-Dazs Salted Caramel Ice Cream Pint,Häagen Dazs,0.46,Frozen,Coop,2023-05-23
+9498,8.95,Fine Food Mango Sorbet,Coop,0.5,Frozen,Coop,2023-05-23
+9500,13.5,Mövenpick Cold Brew Coffee&Choco,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9501,11.95,Häagen-Dazs Favorite Selection Ice Cream Minicups 4x95ml,Häagen Dazs,0.38,Frozen,Coop,2023-05-23
+9502,13.5,Mövenpick Vanilla Brownie,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9505,6.35,Nuii Mini Adventure New York & Texan 6x55ml,NUII,0.33,Frozen,Coop,2023-05-23
+9509,10.5,Ben&Jerry's Half Baked Cookies,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9510,5.55,Sapori Amarena Stick 6x75ml,Sapori d'Italia,0.45,Frozen,Coop,2023-05-23
+9512,7.95,Naturaplan Organic Almond Mini Ice Cream Lolly 6x60ml,Coop,0.36,Frozen,Coop,2023-05-23
+9518,10.95,Frisco Extrême Mini Coffee & Stracciatella Ice Cream Cones 8 Pieces,Frisco,0.48,Frozen,Coop,2023-05-23
+9519,7.95,Nuii New York Cookies & Cream 4x90ml,NUII,0.36,Frozen,Coop,2023-05-23
+9525,13.5,Mövenpick Lemon & Lime Sorbet,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9527,5.3,Naturaplan Organic Chocolate Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9529,5.95,Vanilla Ice Cream Cones 6 Pieces,Coop,0.75,Frozen,Coop,2023-05-23
+9533,7.95,Nuii Italian Hazelnut Ice Cream 4x90ml,NUII,0.36,Frozen,Coop,2023-05-23
+9535,12.95,Frisco Extrême Ice Cream Café 6x145ml,Frisco,0.87,Frozen,Coop,2023-05-23
+9536,13.5,Mövenpick Passion Fruit & Mango Sorbet,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9538,5.2,Limonetta Ice Cream Pops 6 Pieces,Coop,0.528,Frozen,Coop,2023-05-23
+9540,,None,None,0.64,Frozen,Coop,2023-05-23
+9541,11.95,Häagen-Dazs Classic Collection Ice Cream Minicups 4x95ml,Häagen Dazs,0.38,Frozen,Coop,2023-05-23
+9544,10.5,Ben&Jerry's Sundae Dulce-De-lish 427ml,Ben&Jerry's,0.427,Frozen,Coop,2023-05-23
+9545,5.95,Stracciatella Ice Cream Cones 6 Pieces,Coop,0.75,Frozen,Coop,2023-05-23
+9546,5.8,Naturaplan Organic Birthday Cake Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9548,,None,None,0.3,Frozen,Coop,2023-05-23
+9551,5.95,Alex Jacky Strawberry & Marshmallow Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9552,8.95,Halo Top Sea Salt Caramel Ice Cream,HALO TOP,0.473,Frozen,Coop,2023-05-23
+9553,8.95,Fine Food Coconut Milk Gelato,Coop,0.5,Frozen,Coop,2023-05-23
+9554,13.5,Mövenpick Cookies & Caramel,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9555,8.95,Fine Food Gelato Stracciatella,Coop,0.5,Frozen,Coop,2023-05-23
+9556,8.95,Fine Food Raspberry Sorbet,Coop,0.5,Frozen,Coop,2023-05-23
+9559,11.5,Ben&Jerry's Salted Caramel Brownie vegan,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9561,10.95,Mövenpick Salted Caramel Macadamia vegan,Mövenpick,0.5,Frozen,Coop,2023-05-23
+9566,7.5,Oreo Mini Ice Cream Pops 6x50ml,Oreo,0.3,Frozen,Coop,2023-05-23
+9568,10.5,Ben&Jerry's Netflix Chill'd,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9570,8.95,Naturaplan Organic Strawberry Ice Cream Lolly 8x60ml,Coop,0.48,Frozen,Coop,2023-05-23
+9572,6.95,Karma Oat Ice Lolly 6x60ml,Coop,0.36,Frozen,Coop,2023-05-23
+9574,7.95,Frisco Pirulo Cactus Parade 9x45ml,Frisco,0.405,Frozen,Coop,2023-05-23
+9577,10.95,Frisco Pralinato Vanilla Almond 6x80ml,Frisco,0.48,Frozen,Coop,2023-05-23
+9578,7.5,Calippo Mini Orange Lime 5x80ml,Lusso,0.4,Frozen,Coop,2023-05-23
+9581,9.5,Frisco Family Mix Pack 8x56ml,Frisco,0.448,Frozen,Coop,2023-05-23
+9583,9.5,Magnum Double Starchaser 4x85ml,Magnum,0.34,Frozen,Coop,2023-05-23
+9585,8.5,Chiefs Salted Caramel Ice Cream,Chiefs,0.5,Frozen,Coop,2023-05-23
+9587,7.5,Toblerone Ice Cream Bars 6 Pieces,Toblerone,0.3,Frozen,Coop,2023-05-23
+9588,5.95,Alex Jacky Cherry Chocolate & Marzipan Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9589,13.2,Frisco Vanilla & Cherry Ice Cream Cup with Kirsch 4x  190ml,Frisco,0.76,Frozen,Coop,2023-05-23
+9590,7.95,Frisco Coupe Café Mini Glace 6x70ml,Frisco,0.42,Frozen,Coop,2023-05-23
+9591,13.1,Pralinato Discovery 6x85ml + 1x80ml 2x  590ml,Frisco,1.18,Frozen,Coop,2023-05-23
+9592,9.95,Häagen-Dazs Macadamia Nut Brittle Ice Cream Pint,Häagen Dazs,0.46,Frozen,Coop,2023-05-23
+9594,11.5,Ben&Jerry's Vegan Cookies on Cookie Dough Ice Cream,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9597,10.95,en & Jerry's the classic cool-lection 4x100ml,Ben&Jerry's,0.4,Frozen,Coop,2023-05-23
+9599,10.95,Frisco Extrême Chocolate 6x145ml,Frisco,0.87,Frozen,Coop,2023-05-23
+9600,5.95,Strawberry ice cream cones 6x125ml,Coop,0.75,Frozen,Coop,2023-05-23
+9603,10.95,Frisco Extrême Mini Banana Split 8x60ml,Frisco,0.48,Frozen,Coop,2023-05-23
+9605,6.95,Pirulo Tropical Mini Ice Cream 6x50ml,Frisco,0.3,Frozen,Coop,2023-05-23
+9607,8.95,Fine Food Gelato Fior d.L. Caffè 500ml,Coop,0.5,Frozen,Coop,2023-05-23
+9609,13.5,Mövenpick Tiramisù,Mövenpick,0.81,Frozen,Coop,2023-05-23
+9613,9.95,Häagen-Dazs Strawberry Cheesecake Ice Cream Pint,Häagen Dazs,0.46,Frozen,Coop,2023-05-23
+9616,8.95,Karma Oat Vanilla Cone 6x120ml,Coop,0.72,Frozen,Coop,2023-05-23
+9617,5.95,Alex Jacky Vanilla Caramel & Cookie Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9620,8.5,Chiefs Ice Latte Macchiato,Chiefs,0.5,Frozen,Coop,2023-05-23
+9621,10.95,Frisco Extrême Strawberry 6x145ml,Frisco,0.87,Frozen,Coop,2023-05-23
+9622,9.95,Häagen-Dazs Cookies & Cream Ice Cream Pint,Häagen Dazs,0.46,Frozen,Coop,2023-05-23
+9624,13.5,Mövenpick Chocolate Hazelnut Brittle,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9625,5.8,Naturaplan Organic Exotic Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9626,13.5,Mövenpick Cookie Dough,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9628,,None,None,0.5,Frozen,Coop,2023-05-23
+9629,5.8,Naturaplan Organic Stracciatella Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9630,8.5,Chocolate Ice Cream,Coop,0.9,Frozen,Coop,2023-05-23
+9631,8.5,Colombian Coffee Ice Cream,Coop,0.9,Frozen,Coop,2023-05-23
+9632,6.1,Dose Citron Sorbet,Coop,0.9,Frozen,Coop,2023-05-23
+9634,5.95,Pistachio ice cream cones 6x125ml,Coop,0.75,Frozen,Coop,2023-05-23
+9635,10.5,Ben&Jerry's Cookie Vermont-ster Sundae,Ben&Jerry's,0.427,Frozen,Coop,2023-05-23
+9638,12.95,Frisco Extrême Ice Cream Lemon & Lime 6x145ml,Frisco,0.87,Frozen,Coop,2023-05-23
+9639,8.95,Halo Top Gooey Brownie 473ml,HALO TOP,0.473,Frozen,Coop,2023-05-23
+9642,,None,None,2.5,Frozen,Coop,2023-05-23
+9643,7.5,Fairtrade Can Stracciatella,Coop,2.0,Frozen,Coop,2023-05-23
+9644,8.5,Double Cream & Caramel Ice Cream,Coop,0.9,Frozen,Coop,2023-05-23
+9645,11.95,Häagen-Dazs Caramel Attraction Ice Cream Minicups 4x95ml,Häagen Dazs,0.38,Frozen,Coop,2023-05-23
+9649,7.3,Daim Glace Tub,Daim,0.48,Frozen,Coop,2023-05-23
+9654,9.2,Ovomaltine Crunchy Ice Cream Pops 4 Pieces,Ovomaltine,0.4,Frozen,Coop,2023-05-23
+9655,8.95,Chiefs Ice Bar Raspberry & Cream  4x73ml,Chiefs,0.292,Frozen,Coop,2023-05-23
+9657,9.95,Häagen-Dazs Vanilla Ice Cream Pint,Häagen Dazs,0.46,Frozen,Coop,2023-05-23
+9664,8.95,Magnum Mini Caramel Mix 6x55ml,Magnum,0.33,Frozen,Coop,2023-05-23
+9665,10.95,Frisco Extrême Vanilla & Chocolate Ice Cream Cones 8 Pieces,Frisco,1.16,Frozen,Coop,2023-05-23
+9667,12.95,Frisco Extrême Banana Split 6x145ml,Frisco,0.87,Frozen,Coop,2023-05-23
+9669,8.95,Halo Top Chocolate Chip Cookie Dough,HALO TOP,0.473,Frozen,Coop,2023-05-23
+9672,8.85,Emmi Caffè Latte Ice Cream Macchiato 3x  110ml,Emmi,0.33,Frozen,Coop,2023-05-23
+9673,5.95,Strawberry ice cream tub,Coop,0.9,Frozen,Coop,2023-05-23
+9674,9.95,Ovo Crunchy Ice 8x60ml,Ovomaltine,0.48,Frozen,Coop,2023-05-23
+9676,9.2,Extrême Cookie Cone Caramel 4x110ml,Frisco,0.44,Frozen,Coop,2023-05-23
+9677,11.95,Mövenpick Fior di Latte 900ml,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9679,8.85,Frisco Pirulo Hello Kitty 3x  80ml,Frisco,0.24,Frozen,Coop,2023-05-23
+9681,7.95,Frisco Winnetou Mini Ice Lolly 12-pack,Frisco,0.324,Frozen,Coop,2023-05-23
+9684,5.95,Karma Hazelnut Chocolate Freeze Ice Cream,Coop,0.48,Frozen,Coop,2023-05-23
+9688,10.1,Mövenpick Vegan Strawberry,Mövenpick,0.48,Frozen,Coop,2023-05-23
+9690,5.95,Karma Oat Freeze Salted Caramel,Coop,0.48,Frozen,Coop,2023-05-23
+9692,11.5,Ben&Jerry's Pish Food vegan 465ml,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9693,6.95,Lusso Calippo Super Mix 5x105ml,Lusso,0.525,Frozen,Coop,2023-05-23
+9694,9.5,Mini Twister Pineapple 8x50ml,Lusso,0.05,Frozen,Coop,2023-05-23
+9695,9.95,Häagen Dazs Macaron Double Chocolat Ganache,Häagen Dazs,0.42,Frozen,Coop,2023-05-23
+9696,7.3,Coop Lutscher Exotic 12x57ml,Coop,0.684,Frozen,Coop,2023-05-23
+9698,5.95,Free From Fairtrade Exotic Vanilla 4x100ml,Coop,0.4,Frozen,Coop,2023-05-23
+9701,5.95,Naturaplan Organic Strawberry Sorbet,Coop,0.48,Frozen,Coop,2023-05-23
+9703,9.5,Ovo Crunchy Ice 6x100ml,Ovomaltine,0.6,Frozen,Coop,2023-05-23
+9706,6.95,Vanilla Chocolate Ice Cream Cup,Coop,2.0,Frozen,Coop,2023-05-23
+9709,5.95,Karma Oat Freeze Vanilla,Coop,0.48,Frozen,Coop,2023-05-23
+9710,6.95,Sapori Pistacchio granella Sicilia 600ml,Sapori d'Italia,0.6,Frozen,Coop,2023-05-23
+9711,13.5,Mövenpick Plum,Mövenpick,0.9,Frozen,Coop,2023-05-23
+9712,6.95,Pro Montagna Mountain Blueberry Ice Cream with Yogurt,Coop,0.48,Frozen,Coop,2023-05-23
+9713,14.95,Paleta Organic Mango & Passion Ice Cream 6x80ml,Paleta Loca,0.48,Frozen,Coop,2023-05-23
+9714,7.3,Toblerone Ice Cream Tub,Toblerone,0.48,Frozen,Coop,2023-05-23
+9715,8.95,Cornetto Soft Cookie&Chocolate 4x140ml,Cornetto,0.56,Frozen,Coop,2023-05-23
+9718,,None,None,0.42,Frozen,Coop,2023-05-23
+9719,7.3,Oreo Cookie Ice Cream,Oreo,0.48,Frozen,Coop,2023-05-23
+9722,7.95,Nuii Mini Adventure Salted Caramel & Australian Macadamia 6x55ml,NUII,0.33,Frozen,Coop,2023-05-23
+9725,9.95,Lusso Kids Mix 542ml,Lusso,0.542,Frozen,Coop,2023-05-23
+9726,9.2,Extrême Cookie Cone Vanille 4x110ml,Frisco,0.44,Frozen,Coop,2023-05-23
+9729,6.95,Frisco Winnetou Ice Lolly 6-pack,Frisco,0.48,Frozen,Coop,2023-05-23
+9730,9.2,Frisco Extrême Cookie Strawberry 4x110ml,Frisco,0.44,Frozen,Coop,2023-05-23
+9732,8.95,Karma Cornet Mango/Passion 6x120ml,Coop,0.72,Frozen,Coop,2023-05-23
+9733,10.95,Frisco Pralinato Blond Ice Cream 6-pack,Frisco,0.48,Frozen,Coop,2023-05-23
+9738,5.95,Karma Cocos Freeze Chocolate Chips,Coop,0.48,Frozen,Coop,2023-05-23
+9741,9.95,Häagen Dazs Macaron Strawberry & Raspberry,Häagen Dazs,0.42,Frozen,Coop,2023-05-23
+9743,7.95,Nuii Mini Adventure Italian Roasted Hazelnut & Almond Java Vanilla 6x55ml,NUII,0.33,Frozen,Coop,2023-05-23
+9744,10.95,Frisco Extrême Vanilla 6x145ml,Frisco,0.87,Frozen,Coop,2023-05-23
+9745,7.1,Häagen-Dazs Ice Cream Chocolate Collection Minicups,Häagen Dazs,0.38,Frozen,Coop,2023-05-23
+9746,8.95,Cornetto Soft Caramel & Hazelnut 4x140ml,Cornetto,0.56,Frozen,Coop,2023-05-23
+9747,14.95,Paleta Organic Chocolate Ice Cream 6x80ml,Paleta Loca,0.48,Frozen,Coop,2023-05-23
+9748,10.95,Frisco Extrême Cornets Vanilla & Chocolate assorted 6-pack,Frisco,0.87,Frozen,Coop,2023-05-23
+9751,7.95,Magnum Raspberry vegan 3x90ml,Magnum,0.27,Frozen,Coop,2023-05-23
+9752,8.5,Nestlé Mini Maxibon Ice Cream Sandwiches 6 Pieces,Nestlé,0.51,Frozen,Coop,2023-05-23
+9753,7.3,Mocha Ice Cream Lolly 12x57ml,Coop,0.684,Frozen,Coop,2023-05-23
+9754,14.95,Paleta Organic Hibiscus & Raspberry Ice Cream 6x80ml,Paleta Loca,0.48,Frozen,Coop,2023-05-23
+9755,7.95,Lotus Biscoff Ice Mini White 6x60ml,Lotus,0.36,Frozen,Coop,2023-05-23
+9756,6.95,Lusso Twister Monstaah 4x70ml,Lusso,0.28,Frozen,Coop,2023-05-23
+9757,6.35,Nuii Mini Salted Caramel & Nordic Berry 6x55ml,NUII,0.33,Frozen,Coop,2023-05-23
+9760,9.95,Snickers Glace Tub,Snickers,0.45,Frozen,Coop,2023-05-23
+9762,6.95,Sapori d'Italia Bacio 600ml,Sapori d'Italia,0.6,Frozen,Coop,2023-05-23
+9763,9.2,Big Ice Cream Sticks Caramello 6x120ml,Coop,0.72,Frozen,Coop,2023-05-23
+9765,6.95,Nice Organic Fruit Pops Raspberry & Hibiscus 5x45ml,NICE,0.225,Frozen,Coop,2023-05-23
+9766,10.95,Mövenpick Hazelnnut Choco Cookie vegan,Mövenpick,0.5,Frozen,Coop,2023-05-23
+9768,5.5,Parfait Mokka 4x100ml,Coop,0.4,Frozen,Coop,2023-05-23
+9769,7.1,Häagen Dazs Macaron Collection,Häagen Dazs,0.095,Frozen,Coop,2023-05-23
+9770,8.5,Bourbon Vanilla Tub,Coop,0.9,Frozen,Coop,2023-05-23
+9771,7.95,Lotus Biscoff Ice Cream Mini 6x60ml,Lotus,0.36,Frozen,Coop,2023-05-23
+9773,8.95,Lusso Twinni 9x72ml,Lusso,0.648,Frozen,Coop,2023-05-23
+9776,8.95,Karma Oat Cornets Maple Walnut 6x120ml,Coop,0.72,Frozen,Coop,2023-05-23
+9777,5.8,Naturaplan Organic Ice Cream Yoghurt & Honey,Coop,0.48,Frozen,Coop,2023-05-23
+9779,6.95,Frisco Pirulo Frutti Stick 5x70ml,Frisco,0.35,Frozen,Coop,2023-05-23
+9780,8.8,Lotus Biscoff Mini Ice Cream Bars 8 Pieces,Lotus,0.4,Frozen,Coop,2023-05-23
+9783,8.5,Coop Icream Pistache 900ml,Coop,0.9,Frozen,Coop,2023-05-23
+9784,,None,None,0.498,Frozen,Coop,2023-05-23
+9785,6.95,Nice Fruit Pops Organic Apple & Strawberry 5x45ml,NICE,0.225,Frozen,Coop,2023-05-23
+9786,6.95,Viennetta Vanilla Ice Cream Cake,Viennetta,0.65,Frozen,Coop,2023-05-23
+9788,,None,None,0.252,Frozen,Coop,2023-05-23
+9791,6.95,Sapori Fior di Latte e Amarena 600ml,Sapori d'Italia,0.6,Frozen,Coop,2023-05-23
+9792,5.8,Naturaplan organic chestnut ice cream,Coop,0.48,Frozen,Coop,2023-05-23
+9794,9.2,Big Fairtrade Almond ice creams 6x120 ml,Coop,0.72,Frozen,Coop,2023-05-23
+9796,8.4,Ben&Jerry's Karamel Sutra,Ben&Jerry's,0.465,Frozen,Coop,2023-05-23
+9805,,None,None,1.2,Frozen,Coop,2023-05-23
+9806,,None,None,2.0,Frozen,Coop,2023-05-23
+10299,11.7,Coop,Coop,6.0,Specific Diets,Coop,2023-05-23
+10300,11.7,Coop,Coop,6.0,Specific Diets,Coop,2023-05-23
+10302,2.1,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10305,1.95,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10343,2.1,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10349,1.95,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10353,5.8,Brunos French salad dressing,Brunos,0.5,Specific Diets,Coop,2023-05-23
+10362,3.95,alpro Unsweetened Almond Drink,alpro,1.0,Specific Diets,Coop,2023-05-23
+10365,3.3,Coop,Coop,1.75,Specific Diets,Coop,2023-05-23
+10379,2.4,JaMaDu Apple Juice 4x20cl,Coop,0.8,Specific Diets,Coop,2023-05-23
+10392,,None,None,1.0,Specific Diets,Coop,2023-05-23
+10399,5.6,Fairtrade Orange Juice 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+10410,9.4,Bio Extra Virgin Olive Oil Crete,Coop,0.5,Specific Diets,Coop,2023-05-23
+10424,2.4,Emmi good day,Coop,1.0,Specific Diets,Coop,2023-05-23
+10433,2.0,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10444,6.5,Naturaplan Organic Maple Syrup,Coop,0.25,Specific Diets,Coop,2023-05-23
+10448,1.4,Coop,Coop,0.5,Specific Diets,Coop,2023-05-23
+10459,2.95,alpro Original Soya Drink with Calcium,alpro,1.0,Specific Diets,Coop,2023-05-23
+10463,3.5,alpro Oat drink no sugars,alpro,1.0,Specific Diets,Coop,2023-05-23
+10473,17.95,Naturaplan Bio Oliveoil extra vergine IGP Sicilia,Coop,1.0,Specific Diets,Coop,2023-05-23
+10490,3.4,Fairtrade Ice Tea Lemon 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+10491,2.8,Free From Halbrahm UHT 250ml,Coop,0.25,Specific Diets,Coop,2023-05-23
+10502,3.5,Naturaplan Bio Orangensaft,Coop,0.75,Specific Diets,Coop,2023-05-23
+10506,19.95,Naturaplan Bio Orangensaft 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+10519,3.3,Coop,Coop,1.75,Specific Diets,Coop,2023-05-23
+10521,3.95,Naturaplan Organic Elderflower Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+10535,9.6,Ramseier Naturaplan Organic Apple Schorle 6x50cl,Ramseier,3.0,Specific Diets,Coop,2023-05-23
+10543,9.95,Brunos French salad dressing,Brunos,1.0,Specific Diets,Coop,2023-05-23
+10548,2.0,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10555,2.5,Naturaplan organic plain kefir yoghurt drink,Coop,0.5,Specific Diets,Coop,2023-05-23
+10556,7.8,Filtered Apple Juice 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+10559,2.95,Raspberry Syrup,Coop,0.75,Specific Diets,Coop,2023-05-23
+10567,1.95,Naturaplan Organic Lemon Juice,Coop,0.2,Specific Diets,Coop,2023-05-23
+10569,1.95,Oatly Oat Milk Barista Edition,OATLY,0.5,Specific Diets,Coop,2023-05-23
+10574,2.8,Naturaplan Organic Cider Vinegar,Coop,0.5,Specific Diets,Coop,2023-05-23
+10584,9.4,Naturaplan Organic D.O.P Dauno Olive Oil,Coop,0.5,Specific Diets,Coop,2023-05-23
+10588,3.35,Karma Organic Almond Drink Barista,Coop,1.0,Specific Diets,Coop,2023-05-23
+10592,2.4,Emmi good day Milk Drink UHT,Emmi good day,1.0,Specific Diets,Coop,2023-05-23
+10593,2.25,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10597,1.95,Alpro Soya Cooking Mix,alpro,0.25,Specific Diets,Coop,2023-05-23
+10600,4.95,Naturaplan Organic Raspberry Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+10615,3.7,Strawberry Bifidus Yogurt Drink 2x  500ml,Coop,1.0,Specific Diets,Coop,2023-05-23
+10625,2.95,Naturaplan Organic Apple Juice,Coop,0.75,Specific Diets,Coop,2023-05-23
+10637,2.1,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10639,6.95,Naturaplan organic extra virgin rapeseed oil,Coop,0.5,Specific Diets,Coop,2023-05-23
+10640,2.7,Naturaplan Organic Coffee Cream,Coop,0.5,Specific Diets,Coop,2023-05-23
+10645,7.5,Emmi Double Zero Caffè Latte 3x  230ml,Emmi Caffè Latte,0.69,Specific Diets,Coop,2023-05-23
+10647,6.95,Bio Aceto Balsamico Modena 3 Blatt,Coop,0.5,Specific Diets,Coop,2023-05-23
+10658,2.1,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10660,4.5,Innocent Orange Juice with Pulp,innocent,0.9,Specific Diets,Coop,2023-05-23
+10669,7.9,Fairtrade Zero Lemon Ice Tea 6x1.5l,Coop,9.0,Specific Diets,Coop,2023-05-23
+10672,2.0,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10680,6.85,Emmi Aktifit plus Strawberry Probiotic Drinks 10x65ml,Emmi Aktifit,0.65,Specific Diets,Coop,2023-05-23
+10712,16.8,Ramseier Naturaplan Organic Apple Schorle 6x1.5l,Ramseier,9.0,Specific Diets,Coop,2023-05-23
+10714,3.05,Free From Vollrahm UHT 250ml,Coop,0.25,Specific Diets,Coop,2023-05-23
+10725,1.3,Fairtrade UHT Chocato Milk Drink 2x  250ml,Coop,0.5,Specific Diets,Coop,2023-05-23
+10731,11.4,El Tony Mate 6x  33cl,El Tony,1.98,Specific Diets,Coop,2023-05-23
+10734,2.8,Emmi Yogi Raspberry Yogurts 2x200ml 2x  200ml,Emmi,0.4,Specific Diets,Coop,2023-05-23
+10757,2.0,Karma Bio Sojadrink,Coop,1.0,Specific Diets,Coop,2023-05-23
+10762,3.0,Karma Organic Rice Drink with Calcium,Coop,1.0,Specific Diets,Coop,2023-05-23
+10766,3.75,alpro Barista oat milk,alpro,1.0,Specific Diets,Coop,2023-05-23
+10768,9.7,Magnum After Dinner Mini Chocolate Ice Cream Bars 10 Pieces,Magnum,0.35,Specific Diets,Coop,2023-05-23
+10776,2.25,Naturaplan Organic Fairtrade Mango Lassi,Coop,0.25,Specific Diets,Coop,2023-05-23
+10777,11.5,Naturaplan Organic Unsweetened Alp Herbs Ice Tea 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+10779,3.25,Coop,Coop,0.5,Specific Diets,Coop,2023-05-23
+10780,9.95,Naturaplan Gran Alpin Senza 6x33cl,Coop,1.98,Specific Diets,Coop,2023-05-23
+10784,1.2,Coop,Coop,0.5,Specific Diets,Coop,2023-05-23
+10791,8.95,Red Bull Energy Drink Sugarfree 6x25cl,Red Bull,1.5,Specific Diets,Coop,2023-05-23
+10792,1.55,Naturaplan Organic Natural Sour Buttermilk,Coop,0.5,Specific Diets,Coop,2023-05-23
+10805,23.95,Red Bull Sugarfree 24x25cl,Red Bull,6.0,Specific Diets,Coop,2023-05-23
+10806,3.95,Naturaplan Bio PinkGrapefruitsaft,Coop,0.75,Specific Diets,Coop,2023-05-23
+10815,1.95,Rama,Coop,0.2,Specific Diets,Coop,2023-05-23
+10841,5.9,Biotta Naturaplan Organic Vegetable Cocktail 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+10855,5.1,Andros Clementine Juice,Andros,1.0,Specific Diets,Coop,2023-05-23
+10863,2.0,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10864,3.5,alpro,Coop,1.0,Specific Diets,Coop,2023-05-23
+10867,,None,None,1.5,Specific Diets,Coop,2023-05-23
+10869,3.0,Karma Organic Rice Drink with Almonds,Coop,1.0,Specific Diets,Coop,2023-05-23
+10872,5.9,Biotta Naturaplan Organic Carrot Juice 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+10883,5.0,Emmi Balance Caffè Latte 2x  230ml,Emmi Caffè Latte,0.46,Specific Diets,Coop,2023-05-23
+10887,2.6,Naturaplan Organic Orange Juice,Coop,0.3,Specific Diets,Coop,2023-05-23
+10892,3.0,Karma Bio Haferdrink Mandeln,Coop,1.0,Specific Diets,Coop,2023-05-23
+10899,5.2,Swiss Apple Juice 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+10905,3.75,Oatly Barista Oat Milk Past,OATLY,1.0,Specific Diets,Coop,2023-05-23
+10907,2.05,Coop,Coop,1.0,Specific Diets,Coop,2023-05-23
+10914,,None,None,0.25,Specific Diets,Coop,2023-05-23
+10917,8.95,Naturaplan Organic Flavoured Water 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+10926,2.0,High Protein Drink Choco,Coop,0.5,Specific Diets,Coop,2023-05-23
+10932,11.1,Coop,Coop,6.0,Specific Diets,Coop,2023-05-23
+10936,1.45,Free From Organic full-fat milk pasteurised,Coop,0.5,Specific Diets,Coop,2023-05-23
+10942,1.95,Cider Vinegar,Coop,1.0,Specific Diets,Coop,2023-05-23
+10950,7.2,Red Grape Juice 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+10960,5.95,Naturaplan Organic Flavoured Water 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+10961,3.2,Emmi beleaf Oat Milk,Emmi Beleaf,1.0,Specific Diets,Coop,2023-05-23
+10965,,None,None,0.25,Specific Diets,Coop,2023-05-23
+10966,5.45,Rama for Frying with a Hint of Butter,Rama,0.5,Specific Diets,Coop,2023-05-23
+10967,5.9,Emmi Strawberry High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Specific Diets,Coop,2023-05-23
+10972,11.5,Naturaplan Organic Mint Green Ice Tea 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+10980,13.5,Vitamin Well Awake 6x  50cl,Vitamin Well,3.0,Specific Diets,Coop,2023-05-23
+10981,1.75,Naturaplan Organic Tomato Juice,Coop,0.5,Specific Diets,Coop,2023-05-23
+10983,5.9,Emmi Chocolate High Protein Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Specific Diets,Coop,2023-05-23
+10985,,None,None,9.0,Specific Diets,Coop,2023-05-23
+10988,11.5,Naturaplan Demeter Organic Olive Oil,Coop,0.5,Specific Diets,Coop,2023-05-23
+10995,8.4,Naturaplan Organic Moroccan Mint Green Ice Tea 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11004,,None,None,1.5,Specific Diets,Coop,2023-05-23
+11006,6.5,Naturaplan Organic White Balsamic Vinegar Dressing,Coop,0.5,Specific Diets,Coop,2023-05-23
+11007,2.8,Naturaplan Organic Natural Apple Cider Vinegar,Coop,0.5,Specific Diets,Coop,2023-05-23
+11008,3.6,cocomax,Coop,1.0,Specific Diets,Coop,2023-05-23
+11026,3.0,Karma Organic Rice Drink plain,Coop,1.0,Specific Diets,Coop,2023-05-23
+11028,2.95,Karma Kombucha Curcuma-Ingwer,Coop,0.33,Specific Diets,Coop,2023-05-23
+11033,,None,None,6.0,Specific Diets,Coop,2023-05-23
+11035,12.95,Naturaplan Organic Sunflower Oil,Coop,1.0,Specific Diets,Coop,2023-05-23
+11038,4.7,Thai Kitchen Organic Coconut Milk,Thai Kitchen,0.5,Specific Diets,Coop,2023-05-23
+11039,6.8,Brunos Italian salad dressing,Brunos,0.5,Specific Diets,Coop,2023-05-23
+11042,3.2,Emmi beleaf Hazelnut Oat Milk,Emmi Beleaf,1.0,Specific Diets,Coop,2023-05-23
+11044,15.55,Ramseier Naturaplan Organic Apple Juice 6x1l,Ramseier,6.0,Specific Diets,Coop,2023-05-23
+11050,4.95,Naturaplan Organic Black Currant Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+11054,5.95,Naturaplan Organic Sunflower Oil,Coop,0.5,Specific Diets,Coop,2023-05-23
+11055,1.2,Coop,Coop,0.5,Specific Diets,Coop,2023-05-23
+11058,6.0,Chiefs Choco Mountain Milk Protein Drink 2x  330ml,Chiefs,0.66,Specific Diets,Coop,2023-05-23
+11060,1.75,Coop,Coop,0.5,Specific Diets,Coop,2023-05-23
+11089,3.95,Naturaplan Bio Blutorangensaft,Coop,0.75,Specific Diets,Coop,2023-05-23
+11099,5.8,Kikkoman Tamari Gluten Free Soya Sauce,Kikkoman,0.25,Specific Diets,Coop,2023-05-23
+11101,3.5,Alpro Protein Drink Chocolate,alpro,1.0,Specific Diets,Coop,2023-05-23
+11113,3.9,Caffè Lattesso Fit Coffee with Lactose Free Milk 2x  250ml,Lattesso,0.5,Specific Diets,Coop,2023-05-23
+11114,6.85,Emmi Aktifit Peach Probiotic Drinks 10x65ml,Emmi Aktifit,0.65,Specific Diets,Coop,2023-05-23
+11130,5.2,Andros Bio Orangensaft,Andros,0.75,Specific Diets,Coop,2023-05-23
+11136,,None,None,1.0,Specific Diets,Coop,2023-05-23
+11157,1.95,Rama,Coop,0.2,Specific Diets,Coop,2023-05-23
+11170,7.9,Biotta Naturaplan Organic Vita 7 Juice 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11180,3.6,Strawberry Syrup,Coop,0.75,Specific Diets,Coop,2023-05-23
+11184,9.4,Naturaplan Organic Córdoba Olive Oil,Coop,0.5,Specific Diets,Coop,2023-05-23
+11187,17.95,Red Bull Energy Drink Sugarfree Fridge Pack 12x25cl,Red Bull,3.0,Specific Diets,Coop,2023-05-23
+11192,10.5,Biotta Naturaplan Organic Cranberry Juice 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11196,5.0,Emmi Caffè Latte Popcorn 2x  230ml,Emmi Caffè Latte,0.46,Specific Diets,Coop,2023-05-23
+11202,11.5,Naturaplan Organic Alpen Herb Ice Tea 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+11210,3.25,Karma Organic Plain Oat Drink,Coop,1.0,Specific Diets,Coop,2023-05-23
+11212,24.95,Esta Thé Pesca 24x  33cl,Esta Thé,7.92,Specific Diets,Coop,2023-05-23
+11213,2.5,Naturaplan Bio Blutorangensaft,Coop,0.3,Specific Diets,Coop,2023-05-23
+11214,5.95,innocent Orange Juice with Pulp,innocent,1.5,Specific Diets,Coop,2023-05-23
+11216,3.95,hohes C shots Immun,hohes C,0.33,Specific Diets,Coop,2023-05-23
+11234,3.0,Karma Bio Haferdrink Vanillearoma,Coop,1.0,Specific Diets,Coop,2023-05-23
+11235,17.7,Ocean Spray Light Cranberry Juice 6x1l,Ocean spray,6.0,Specific Diets,Coop,2023-05-23
+11237,3.5,Emmi beleaf Oat Milk Barista,Emmi Beleaf,1.0,Specific Diets,Coop,2023-05-23
+11239,,None,None,0.66,Specific Diets,Coop,2023-05-23
+11247,4.95,Naturaplan Organic IGP Crema con Aceto Balsamico,Coop,0.15,Specific Diets,Coop,2023-05-23
+11263,5.9,Biotta Naturaplan Organic Beet Juice 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11274,5.3,Naturaplan Organic Vanilla Ice Cream,Coop,0.48,Specific Diets,Coop,2023-05-23
+11287,2.0,Strawberry High Protein Drink,Coop,0.5,Specific Diets,Coop,2023-05-23
+11289,5.85,Emmi Benecol Raspberry Zero 6x65ml,Emmi Benecol,0.39,Specific Diets,Coop,2023-05-23
+11298,4.3,THOMY French Salad Dressing,Thomy,0.7,Specific Diets,Coop,2023-05-23
+11313,2.4,JaMaDu Ananas & Orange 4x20cl,Coop,0.8,Specific Diets,Coop,2023-05-23
+11316,3.2,THOMY French Salad Dressing,Thomy,0.45,Specific Diets,Coop,2023-05-23
+11320,4.75,Emmi Aktifit Strawberry Probiotic Drinks 6x65ml,Emmi Aktifit,0.39,Specific Diets,Coop,2023-05-23
+11330,9.95,Naturaplan Gran Alpin Amber 6x33cl,Coop,1.98,Specific Diets,Coop,2023-05-23
+11343,3.95,Naturaplan Organic French Salad Dressing,Coop,0.5,Specific Diets,Coop,2023-05-23
+11344,3.75,Karma Bio Mandeldrink Barista,Coop,1.0,Specific Diets,Coop,2023-05-23
+11345,4.95,innocent Orange and Carrot Juice,innocent,0.9,Specific Diets,Coop,2023-05-23
+11351,4.3,JaMaDu Jamasecco,Coop,0.75,Specific Diets,Coop,2023-05-23
+11352,1.85,Emmi Strawberry Energy Milk Drink,Emmi Energy Milk,0.33,Specific Diets,Coop,2023-05-23
+11353,8.6,Fairtrade Pineapple Juice 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+11359,5.95,Naturaplan Organic Ginger Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+11361,2.6,Naturaplan Organic Wine Vinegar with Herbs,Coop,0.5,Specific Diets,Coop,2023-05-23
+11376,2.0,High Protein Drink Vanilla,Coop,0.5,Specific Diets,Coop,2023-05-23
+11388,24.95,Esta Thé Limone 24x  33cl,Esta Thé,7.92,Specific Diets,Coop,2023-05-23
+11399,9.95,Naturaplan Organic Vanilla Ice Cream,Coop,0.9,Specific Diets,Coop,2023-05-23
+11406,7.1,Emmi High Protein Caffé Latte 2x  370ml,Emmi Caffè Latte,0.74,Specific Diets,Coop,2023-05-23
+11408,4.2,Naturaplan Bio Multifruchtsaft,Coop,0.75,Specific Diets,Coop,2023-05-23
+11409,3.3,Betty Bossi Fairtrade Orange Juice,Coop,0.75,Specific Diets,Coop,2023-05-23
+11411,10.7,Gluten Free Birra da Ris Beer 6x33cl,Appenzeller Bier,1.98,Specific Diets,Coop,2023-05-23
+11412,7.5,Nestea Lemon Zero 6x50cl,Nestea,3.0,Specific Diets,Coop,2023-05-23
+11416,7.9,Biotta Naturaplan Organic Mango Mix Juice 2x50cl 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11418,8.8,Biotta Naturaplan Organic demeter Carrot Orange & Ginger 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11431,8.4,Naturaplan Organic Unsweetened Alpen Herb Ice Tea 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11435,5.4,Lemon Ice Tea 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11441,6.2,innocent Plus Blue Kale Smoothie,innocent,0.75,Specific Diets,Coop,2023-05-23
+11442,0.95,Brunos French salad dressing,Brunos,0.055,Specific Diets,Coop,2023-05-23
+11449,11.5,Naturaplan Organic Ginger Green Ice Tea 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+11450,7.95,Magnum Almond vegan 3x90ml,Magnum,0.27,Specific Diets,Coop,2023-05-23
+11456,4.95,YFood Classic Choco Liquid Meal,YFood,0.5,Specific Diets,Coop,2023-05-23
+11458,4.5,Naturaplan organic orange carrot & ginger juice,Coop,0.75,Specific Diets,Coop,2023-05-23
+11460,5.75,Benecol Special Blueberry Yogurt Drinks 6x65ml,Emmi Benecol,0.39,Specific Diets,Coop,2023-05-23
+11463,4.95,Naturaplan Organic Lemon Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+11475,10.5,Biotta Naturaplan Organic Pomegranate Juice 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11481,6.45,Emmi Cappuccino Caffè Latte 3x  230ml,Emmi Caffè Latte,0.69,Specific Diets,Coop,2023-05-23
+11487,13.5,Vitamin Well Active 6x  50cl,Vitamin Well,3.0,Specific Diets,Coop,2023-05-23
+11497,4.95,YFood Smooth Vanilla Liquid Meal,YFood,0.5,Specific Diets,Coop,2023-05-23
+11505,10.5,Biotta Superfruit Nectar 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11519,6.95,Naturaplan Organic Pomegranate Juice,Coop,0.75,Specific Diets,Coop,2023-05-23
+11531,1.25,JaMaDu Red Fruit & Tea,Coop,0.3,Specific Diets,Coop,2023-05-23
+11533,5.1,Andros Fruit Juice 3 citrus fruits,Andros,1.0,Specific Diets,Coop,2023-05-23
+11536,9.25,Ramseier Naturaplan Organic Zisch Apple Juice 6x50cl,Ramseier,3.0,Specific Diets,Coop,2023-05-23
+11542,10.7,Appenzeller Vollmond Beer 6x33cl,Appenzeller Bier,1.98,Specific Diets,Coop,2023-05-23
+11543,4.95,Naturaplan Organic Rhubarb Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+11546,3.75,Karma Organic Barista Oat Drink,Coop,1.0,Specific Diets,Coop,2023-05-23
+11548,4.95,Naturaplan Organic French Dressing,Coop,0.5,Specific Diets,Coop,2023-05-23
+11551,5.95,Shoyu Naturaplan Organic Soya Sauce,Coop,0.3,Specific Diets,Coop,2023-05-23
+11553,3.25,Naturaplan Organic Fairtrade Coconut Milk Tetra Pak,Coop,0.33,Specific Diets,Coop,2023-05-23
+11556,7.95,Naturaplan Organic Demeter Olive Oil with Lemon,Coop,0.25,Specific Diets,Coop,2023-05-23
+11564,1.25,JaMaDu Fruit & Herbal Tea,Coop,0.3,Specific Diets,Coop,2023-05-23
+11565,1.25,Coop,Coop,0.5,Specific Diets,Coop,2023-05-23
+11568,11.4,El Tony Mate & Ginger 6x  33cl,El Tony,1.98,Specific Diets,Coop,2023-05-23
+11571,8.8,Free From Lactose Free Vanilla Ice Cream,Coop,0.9,Specific Diets,Coop,2023-05-23
+11578,7.8,Fairtrade Every Day ACE 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+11582,5.0,Starbucks Fairtrade Skinny Latte 2x  220ml,Starbucks,0.44,Specific Diets,Coop,2023-05-23
+11584,9.95,Häagen-Dazs Salted Caramel Ice Cream Pint,Häagen Dazs,0.46,Specific Diets,Coop,2023-05-23
+11585,5.2,Naturaplan Organic Poultry Stock,Coop,0.23,Specific Diets,Coop,2023-05-23
+11594,3.2,Naturaplan Organic Mango Passion Fruit Smoothie,Coop,0.25,Specific Diets,Coop,2023-05-23
+11595,17.7,Naturaplan Bio Traubensaft 6x1L,Coop,6.0,Specific Diets,Coop,2023-05-23
+11599,11.4,El Tony mate & mint 6x  33cl,El Tony,1.98,Specific Diets,Coop,2023-05-23
+11600,6.4,Emmi Caffè Latte Mr.Big Double zero 2x  370ml,Emmi Caffè Latte,0.74,Specific Diets,Coop,2023-05-23
+11601,5.95,Brunos Salatsauce Vinaigrette,Brunos,0.5,Specific Diets,Coop,2023-05-23
+11604,2.45,Karma Cooking Cream,Coop,0.2,Specific Diets,Coop,2023-05-23
+11622,1.75,Naturaplan organic spicy tomato juice,Coop,0.5,Specific Diets,Coop,2023-05-23
+11625,8.4,Naturaplan Organic Fruit Tea 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11635,9.2,Erdinger Wheat Beer non-alcoholic 4x50cl,Erdinger,2.0,Specific Diets,Coop,2023-05-23
+11641,13.95,Unser Lager Beer 6x33cl,Unser Bier,1.98,Specific Diets,Coop,2023-05-23
+11646,8.4,Naturaplan Organic Ginger Green Ice Tea 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11647,5.0,Emmi Caffè Latte Double Zero Macchiato 2x  230ml,Emmi Caffè Latte,0.46,Specific Diets,Coop,2023-05-23
+11650,7.9,Biotta Organic Breakfast 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+11652,21.6,Naturaplan Organic Pink Grapefruit Juice 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+11658,1.25,Coop,Coop,0.5,Specific Diets,Coop,2023-05-23
+11659,7.95,Naturaplan Organic Almond Mini Ice Cream Lolly 6x60ml,Coop,0.36,Specific Diets,Coop,2023-05-23
+11662,11.95,Naturaplan Bio Ingwer Shot,Coop,0.5,Specific Diets,Coop,2023-05-23
+11666,4.3,THOMY French Herbs Salad Dressing,Thomy,0.7,Specific Diets,Coop,2023-05-23
+11679,3.95,Betty Bossi Honey Mustard,Coop,0.33,Specific Diets,Coop,2023-05-23
+11682,4.4,Antica Modena Crema Balsamic Vinegar,Antica Modena,0.25,Specific Diets,Coop,2023-05-23
+11691,10.7,Appenzeller Organic Naturperle Beer 6x33cl,Appenzeller Bier,1.98,Specific Diets,Coop,2023-05-23
+11694,9.0,Naturaplan Organic Rhubarb Schorle 6x  50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11696,2.8,Emmi Yogi Mocha Yogurts 2x200ml 2x  200ml,Emmi,0.4,Specific Diets,Coop,2023-05-23
+11705,10.5,Estrella Galicia Glutenfrei,Estrella Galicia,1.98,Specific Diets,Coop,2023-05-23
+11711,3.9,Caffè Lattesso Zero 2x  250ml,Lattesso,0.5,Specific Diets,Coop,2023-05-23
+11718,5.3,Naturaplan Organic Chocolate Ice Cream,Coop,0.48,Specific Diets,Coop,2023-05-23
+11721,6.95,Pear Juice 4x1l,Coop,4.0,Specific Diets,Coop,2023-05-23
+11728,8.4,Naturaplan Organic Alpine Herbal Tea 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11732,6.0,Chiefs Milk Protein Coffee County Drink 2x  330ml,Chiefs,0.66,Specific Diets,Coop,2023-05-23
+11737,4.95,Naturaplan Organic Exotic Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+11738,4.75,Emmi Aktifit Exotic Fruit Probiotic Drinks 6x65ml,Emmi Aktifit,0.39,Specific Diets,Coop,2023-05-23
+11762,5.8,Naturaplan Organic Birthday Cake Ice Cream,Coop,0.48,Specific Diets,Coop,2023-05-23
+11764,5.7,Swiss Alpina+ Raspberry Mineral Water 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11773,5.95,THOMY French Herbs Dressing,Thomy,0.45,Specific Diets,Coop,2023-05-23
+11775,14.95,Naturaplan Organic Mint Green Ice Tea 6x1.5l,Coop,9.0,Specific Diets,Coop,2023-05-23
+11777,3.2,THOMY French Light Salad Dressing,Thomy,0.45,Specific Diets,Coop,2023-05-23
+11789,2.95,Naturaplan Organic Red Wine Vinegar,Coop,0.5,Specific Diets,Coop,2023-05-23
+11793,12.95,Möhl Juicy Apple Cider 6 x 33 cl,Möhl,1.98,Specific Diets,Coop,2023-05-23
+11799,5.95,Brunos Salatsauce Naturelle,Brunos,0.5,Specific Diets,Coop,2023-05-23
+11802,6.6,Fine Food Balsamic Cream with Raspberries,Coop,0.15,Specific Diets,Coop,2023-05-23
+11804,4.95,YFood Cold Brew Coffee Liquid Meal,YFood,0.5,Specific Diets,Coop,2023-05-23
+11805,4.95,Yfood Happy Banana,YFood,0.5,Specific Diets,Coop,2023-05-23
+11808,16.2,Ramseier Naturaplan Organic Zisch Apple Juice 6x1.5l,Ramseier,9.0,Specific Diets,Coop,2023-05-23
+11822,9.6,Naturaplan Organic Apple Schorle 6x50cl,Shorley,3.0,Specific Diets,Coop,2023-05-23
+11834,5.95,Naturaplan Flavoured Water Orange 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11845,3.95,Naturaplan Bio Immunity Juice,Coop,0.25,Specific Diets,Coop,2023-05-23
+11846,8.95,Naturaplan Organic Strawberry Ice Cream Lolly 8x60ml,Coop,0.48,Specific Diets,Coop,2023-05-23
+11848,8.95,Naturaplan Flavoured Water Orange 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+11851,6.95,Karma Oat Ice Lolly 6x60ml,Coop,0.36,Specific Diets,Coop,2023-05-23
+11860,7.2,Happy Classic Cola 6x50cl,Happy,3.0,Specific Diets,Coop,2023-05-23
+11871,9.0,Naturaplan Organic Lemon Lime Schorle 6x  50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11874,4.2,Naturaplan Organic Tomato Soup,Coop,0.39,Specific Diets,Coop,2023-05-23
+11877,5.95,Lacroix Rindfonds,Lacroix,0.4,Specific Diets,Coop,2023-05-23
+11880,6.95,THOMY Balsamico Dressing,Thomy,0.45,Specific Diets,Coop,2023-05-23
+11885,8.5,Chiefs Salted Caramel Ice Cream,Chiefs,0.5,Specific Diets,Coop,2023-05-23
+11886,5.3,Teisseire Grapefruit Syrup no added sugar,Teisseire,0.6,Specific Diets,Coop,2023-05-23
+11902,5.2,Naturaplan Organic Beef Stock,Coop,0.23,Specific Diets,Coop,2023-05-23
+11905,,None,None,1.0,Specific Diets,Coop,2023-05-23
+11907,9.95,Häagen-Dazs Macadamia Nut Brittle Ice Cream Pint,Häagen Dazs,0.46,Specific Diets,Coop,2023-05-23
+11917,5.95,Naturaplan Organic Mint Water 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11918,3.2,Naturaplan Organic Red Berry Smoothie,Coop,0.25,Specific Diets,Coop,2023-05-23
+11928,16.2,Naturaplan Organic Apple Schorle 6x1.5l,Shorley,9.0,Specific Diets,Coop,2023-05-23
+11932,4.95,YFood Crazy Coconut,YFood,0.5,Specific Diets,Coop,2023-05-23
+11936,3.4,Alpro Almond Coffee Drink 2x  235ml,alpro,0.47,Specific Diets,Coop,2023-05-23
+11953,13.8,"Fanta zero Pink Grapefruit 6x1,5l",Fanta,9.0,Specific Diets,Coop,2023-05-23
+11957,3.95,Naturaplan Organic Apple Balsamic Vinegar,Coop,0.25,Specific Diets,Coop,2023-05-23
+11966,2.3,High Protein Choco & Nuts Vegan,Coop,0.5,Specific Diets,Coop,2023-05-23
+11969,7.95,Naturaplan Organic Demeter Olive Oil with Basil,Coop,0.25,Specific Diets,Coop,2023-05-23
+11972,,None,None,0.3,Specific Diets,Coop,2023-05-23
+11976,12.8,Calvinus Lager Beer 6x33cl,Calvinus,1.98,Specific Diets,Coop,2023-05-23
+11977,4.5,Bifidus Berries Yoghurt no added sugar lactose-free 2x  500ml,Coop,1.0,Specific Diets,Coop,2023-05-23
+11994,8.95,Karma Oat Vanilla Cone 6x120ml,Coop,0.72,Specific Diets,Coop,2023-05-23
+11996,5.3,Teisseire Syrup no added sugar Raspberry & Cranberry,Teisseire,0.6,Specific Diets,Coop,2023-05-23
+11997,9.0,Naturaplan Organic Grapefruit Schorle 6x  50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+11999,3.3,Karma Organic Rice Drink with Hazelnut,Coop,1.0,Specific Diets,Coop,2023-05-23
+12001,10.0,Nocco Bcaa Peach 4x  33cl,NOCCO,1.32,Specific Diets,Coop,2023-05-23
+12004,8.4,Naturaplan Organic Fairtrade Earl Grey Tea 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+12007,6.4,Emmi Mr. Big Cappuccino Caffè Latte 2x  370ml,Emmi Caffè Latte,0.74,Specific Diets,Coop,2023-05-23
+12010,8.5,Chiefs Ice Latte Macchiato,Chiefs,0.5,Specific Diets,Coop,2023-05-23
+12012,9.95,Naturaplan Organic Gran Alpin Lager 6x33cl,Coop,1.98,Specific Diets,Coop,2023-05-23
+12014,6.0,Emmi Energy Drink Plant Protein Choco 2x  330ml,Emmi Energy Milk,0.66,Specific Diets,Coop,2023-05-23
+12016,3.75,Harvest Moon original,HARVEST MOON,1.0,Specific Diets,Coop,2023-05-23
+12018,2.95,Karma Kombucha Acerola & Ginger,Coop,0.33,Specific Diets,Coop,2023-05-23
+12021,0.95,Brunos Italian salad dressing,Brunos,0.055,Specific Diets,Coop,2023-05-23
+12025,1.3,Vanillato vanilla drink 2x  250ml,Coop,0.5,Specific Diets,Coop,2023-05-23
+12026,6.4,Emmi Caffè Latte Mr. Big Balance 2x  370ml,Emmi Caffè Latte,0.74,Specific Diets,Coop,2023-05-23
+12030,5.8,Naturaplan Organic Exotic Ice Cream,Coop,0.48,Specific Diets,Coop,2023-05-23
+12033,9.95,Coop,Coop,4.5,Specific Diets,Coop,2023-05-23
+12035,8.0,Tsüri Chimichurri Sauce,TSÜRI SAUCE,0.11,Specific Diets,Coop,2023-05-23
+12044,5.8,Naturaplan Organic Stracciatella Ice Cream,Coop,0.48,Specific Diets,Coop,2023-05-23
+12046,3.5,Naturaplan Organic Pomegranate Juice,Coop,0.3,Specific Diets,Coop,2023-05-23
+12049,6.1,Dose Citron Sorbet,Coop,0.9,Specific Diets,Coop,2023-05-23
+12054,9.9,Biotta Well Blood Pressure 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+12056,3.3,innocent Orange Juice with Pulp,innocent,0.33,Specific Diets,Coop,2023-05-23
+12058,4.2,Naturaplan Organic Ginger Carrot Soup,Coop,0.39,Specific Diets,Coop,2023-05-23
+12062,10.8,Fairtrade Lemon Ice Tea 12x1l,Coop,12.0,Specific Diets,Coop,2023-05-23
+12063,3.95,Betty Bossi Balsamico Dressing,Coop,0.33,Specific Diets,Coop,2023-05-23
+12070,12.95,Frisco Extrême Ice Cream Lemon & Lime 6x145ml,Frisco,0.87,Specific Diets,Coop,2023-05-23
+12076,6.2,Emmi Chocolate Nut Whey Energy Milk Drink 2x  330ml,Emmi Energy Milk,0.66,Specific Diets,Coop,2023-05-23
+12077,3.95,hohes C shots Antiox,hohes C,0.33,Specific Diets,Coop,2023-05-23
+12080,6.5,Chipeno Original,CHIPEÑO,0.3,Specific Diets,Coop,2023-05-23
+12083,14.95,Naturaplan Organic Ginger Green Ice Tea 6x1.5l,Coop,9.0,Specific Diets,Coop,2023-05-23
+12084,9.9,Biotta Well Immune 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+12088,8.4,Naturaplan Bio Mate 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+12089,2.6,Naturaplan Organic Multi-Fruit Juice,Coop,0.3,Specific Diets,Coop,2023-05-23
+12099,4.95,Bio Himbeeren Essigzubereitung 250ml,Coop,0.25,Specific Diets,Coop,2023-05-23
+12107,23.7,Naturaplan organic Orange-Mango juice 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12108,8.95,Chiefs Ice Bar Raspberry & Cream  4x73ml,Chiefs,0.292,Specific Diets,Coop,2023-05-23
+12113,11.5,Naturaplan Bio fairtrade Earl Grey 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12114,26.4,Naturaplan Bio Multifruchtsaft 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12115,3.95,Naturaplan Organic Orange Vinegar Preparation,Coop,0.25,Specific Diets,Coop,2023-05-23
+12125,3.3,Betty Bossi Blood Orange Juice,Coop,0.75,Specific Diets,Coop,2023-05-23
+12126,19.95,Bio Aceto Balsamico Modena 4 Blatt,Coop,0.25,Specific Diets,Coop,2023-05-23
+12136,11.95,Naturaplan Organic Styrian GGA Pumpkin Seed Oil,Coop,0.25,Specific Diets,Coop,2023-05-23
+12138,0.75,Betty Bossi House Salad Dressing,Coop,0.075,Specific Diets,Coop,2023-05-23
+12143,,None,None,0.72,Specific Diets,Coop,2023-05-23
+12147,12.95,Möhl Spritz Apple Cider 6x33cl,Möhl,1.98,Specific Diets,Coop,2023-05-23
+12148,14.95,Unser Amber Beer 6x33cl,Unser Bier,1.98,Specific Diets,Coop,2023-05-23
+12160,,None,None,0.72,Specific Diets,Coop,2023-05-23
+12166,3.95,Organic Italian Salad Dressing,Coop,0.5,Specific Diets,Coop,2023-05-23
+12169,3.3,Karma 5-Cereal Drink,Coop,1.0,Specific Diets,Coop,2023-05-23
+12187,3.15,Gautschi Light French Salad Dressing,Gautschi,0.5,Specific Diets,Coop,2023-05-23
+12195,8.4,Naturaplan Organic Lemon and Verbena 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+12196,3.95,Naturaplan Bio Impulse Juice,Coop,0.25,Specific Diets,Coop,2023-05-23
+12199,2.95,PowerBar Protein Shake Smooth Choco,PowerBar,0.33,Specific Diets,Coop,2023-05-23
+12204,6.6,Ice Tea Watermelon 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+12221,9.95,Coop,Coop,4.5,Specific Diets,Coop,2023-05-23
+12229,23.7,Naturaplan Organic Orange Pineapple & Ginger 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12237,5.95,Karma Hazelnut Chocolate Freeze Ice Cream,Coop,0.48,Specific Diets,Coop,2023-05-23
+12254,5.95,Karma Oat Freeze Salted Caramel,Coop,0.48,Specific Diets,Coop,2023-05-23
+12257,3.6,Karma Bio Cashewdrink 1L,Coop,1.0,Specific Diets,Coop,2023-05-23
+12262,3.3,true fruits Smoothie Pink,true fruits,0.25,Specific Diets,Coop,2023-05-23
+12263,3.3,true fruits Smoothie Yellow,true fruits,0.25,Specific Diets,Coop,2023-05-23
+12270,9.5,Mini Twister Pineapple 8x50ml,Lusso,0.05,Specific Diets,Coop,2023-05-23
+12272,6.2,Emmi Energy Milk Whey Drink Vanilla & Strawberry 2x  330ml,Emmi Energy Milk,0.66,Specific Diets,Coop,2023-05-23
+12281,6.95,Little Lunch Bio Little Thai Curry Vegetable Hot Pot,Little Lunch,0.35,Specific Diets,Coop,2023-05-23
+12282,4.2,Naturaplan Organic Cream of Squash Soup,Coop,0.39,Specific Diets,Coop,2023-05-23
+12290,5.95,Free From Fairtrade Exotic Vanilla 4x100ml,Coop,0.4,Specific Diets,Coop,2023-05-23
+12301,5.95,Naturaplan Organic Strawberry Sorbet,Coop,0.48,Specific Diets,Coop,2023-05-23
+12303,7.8,Swiss Alpina+ Passion Fruit 6 x 1 l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12309,5.5,YFood Vegan Berry,YFood,0.5,Specific Diets,Coop,2023-05-23
+12317,4.95,Karma Coconut Water,Coop,0.47,Specific Diets,Coop,2023-05-23
+12318,1.4,Andros Kids Tropical Juice,Andros,0.15,Specific Diets,Coop,2023-05-23
+12323,2.6,Lattesso Organic Macchiato less sweet,Lattesso,0.25,Specific Diets,Coop,2023-05-23
+12330,4.45,Morga Organic Liquid Seasoning,Morga,0.09,Specific Diets,Coop,2023-05-23
+12333,5.95,Karma Oat Freeze Vanilla,Coop,0.48,Specific Diets,Coop,2023-05-23
+12339,5.5,Capri Sun Sirup Berry Mix,Capri Sun,0.6,Specific Diets,Coop,2023-05-23
+12340,5.7,Swiss Alpina+ Passion Fruit 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+12347,6.5,true fruits triple Smoothie Pink,true fruits,0.75,Specific Diets,Coop,2023-05-23
+12348,5.5,YFood Trinkmahlzeit vegan Choco 500ml,YFood,0.5,Specific Diets,Coop,2023-05-23
+12350,5.95,THOMY French Vegan Salad Dressing,Thomy,0.45,Specific Diets,Coop,2023-05-23
+12351,14.95,Paleta Organic Mango & Passion Ice Cream 6x80ml,Paleta Loca,0.48,Specific Diets,Coop,2023-05-23
+12367,4.95,Naturaplan Bio Mango Essigzubereitung,Coop,0.25,Specific Diets,Coop,2023-05-23
+12369,2.5,Karma Organic Refresher Hibiscus,Coop,0.5,Specific Diets,Coop,2023-05-23
+12372,3.2,"Naturaplan Organic Apple, Pear & Elderflower Smoothie",Coop,0.25,Specific Diets,Coop,2023-05-23
+12375,5.7,Swiss Alpina+ Elderberry Carbonated Mineral Water 6x50cl,Coop,3.0,Specific Diets,Coop,2023-05-23
+12393,14.95,Hero French Salad Dressing with Herbs,Hero,2.0,Specific Diets,Coop,2023-05-23
+12394,6.95,Naturaplan Organic Sylvain & Co Mustard Sauce,Coop,0.5,Specific Diets,Coop,2023-05-23
+12397,8.95,Karma Cornet Mango/Passion 6x120ml,Coop,0.72,Specific Diets,Coop,2023-05-23
+12412,3.5,Bio Land ginger shot,Coop,0.05,Specific Diets,Coop,2023-05-23
+12419,5.95,Karma Cocos Freeze Chocolate Chips,Coop,0.48,Specific Diets,Coop,2023-05-23
+12422,4.95,Naturaplan Organic Wild Garlic Dressing,Coop,0.5,Specific Diets,Coop,2023-05-23
+12431,5.5,YFood Smooth vegan Coffee,YFood,0.5,Specific Diets,Coop,2023-05-23
+12456,6.95,Little Lunch Bio Curry Sweet Potato,Little Lunch,0.35,Specific Diets,Coop,2023-05-23
+12458,5.5,YFood Smooth vegan Banana,YFood,0.5,Specific Diets,Coop,2023-05-23
+12461,14.95,Paleta Organic Chocolate Ice Cream 6x80ml,Paleta Loca,0.48,Specific Diets,Coop,2023-05-23
+12477,5.5,YFood Smooth vegan Vanilla,YFood,0.5,Specific Diets,Coop,2023-05-23
+12496,0.95,Sylvain & Co Grandmother's Salad Dressing,Sylvain & Co,0.05,Specific Diets,Coop,2023-05-23
+12502,8.4,Naturaplan Bio Fairtrade Schwarztee mit Ingwer 6x50CL,Coop,3.0,Specific Diets,Coop,2023-05-23
+12506,6.95,Andros Orange Juice,Andros,1.5,Specific Diets,Coop,2023-05-23
+12513,3.2,Karma Organic Refresher Hibiscus,Coop,0.75,Specific Diets,Coop,2023-05-23
+12514,5.2,Naturaplan Organic Swiss Mushroom Broth,Coop,0.23,Specific Diets,Coop,2023-05-23
+12519,5.7,Happy Cola Classic 6x25cl,Happy,1.5,Specific Diets,Coop,2023-05-23
+12520,2.5,Karma Organic Refresher Alpine Herbs,Coop,0.5,Specific Diets,Coop,2023-05-23
+12539,5.95,Tsüri Habanero Sauce No.2,TSÜRI SAUCE,0.05,Specific Diets,Coop,2023-05-23
+12546,10.5,Rivella Naturaplan Organic Swiss Mint 6x50cl,Rivella,3.0,Specific Diets,Coop,2023-05-23
+12550,4.95,Kabuki Mango Dressing,Kabuki,0.27,Specific Diets,Coop,2023-05-23
+12554,2.95,High Protein Shot Iced Coffee,Layenberger,0.2,Specific Diets,Coop,2023-05-23
+12557,14.5,Unser Wheat Beer 6x33cl,Unser Bier,1.98,Specific Diets,Coop,2023-05-23
+12558,3.5,Karma Antiox Skin Mango & Passionfruit,Coop,0.25,Specific Diets,Coop,2023-05-23
+12585,2.95,High Protein Shot Double Choc,Layenberger,0.2,Specific Diets,Coop,2023-05-23
+12589,6.95,Chipeno Original Plant Based,CHIPEÑO,0.3,Specific Diets,Coop,2023-05-23
+12599,8.95,Karma Oat Cornets Maple Walnut 6x120ml,Coop,0.72,Specific Diets,Coop,2023-05-23
+12600,5.8,Naturaplan Organic Ice Cream Yoghurt & Honey,Coop,0.48,Specific Diets,Coop,2023-05-23
+12606,12.95,Jasmine Organic Rice Beer 6x33cl,CROWN SELECTION,1.98,Specific Diets,Coop,2023-05-23
+12620,5.95,Mövenpick Caffé Espresso Zero 3x200ml,Mövenpick,0.6,Specific Diets,Coop,2023-05-23
+12646,,None,None,1.5,Specific Diets,Coop,2023-05-23
+12648,7.2,Happy Cola Zero Yuzu Flavor 6x50CL,Happy,3.0,Specific Diets,Coop,2023-05-23
+12651,14.95,San Martino Organic La Helles Beer 6x33cl,San Martino,1.98,Specific Diets,Coop,2023-05-23
+12661,15.95,Öufi Organic Red Beer 6x33cl,ÖUFI,1.98,Specific Diets,Coop,2023-05-23
+12662,5.8,Naturaplan organic chestnut ice cream,Coop,0.48,Specific Diets,Coop,2023-05-23
+12663,3.95,Naturaplan Organic Alpine Herbs Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+12666,7.5,Naturaplan Organic Flaxseed Oil,Coop,0.25,Specific Diets,Coop,2023-05-23
+12673,9.9,Biotta Well Antioxidant 2x  50cl,Biotta,1.0,Specific Diets,Coop,2023-05-23
+12678,4.95,Naturaplan Organic Pink Grapefruit Syrup,Coop,0.5,Specific Diets,Coop,2023-05-23
+12694,10.5,Happy Cola Classic Soda 6x1l,Happy,6.0,Specific Diets,Coop,2023-05-23
+12695,11.5,Naturaplan Bio Mate Tea 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12696,22.95,Naturaplan Demeter Organic Apple Juice 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12697,3.5,Karma Juice Energy & Immunity,Coop,0.25,Specific Diets,Coop,2023-05-23
+12698,3.5,Karma Juice Refresh & Reload,Coop,0.25,Specific Diets,Coop,2023-05-23
+12699,11.5,Naturaplan Bio Fruit Tea 6x1l,Coop,6.0,Specific Diets,Coop,2023-05-23
+12700,16.8,Coop Apfeldirektsaft trüb o.CO2 6x1.5L,Coop,9.0,Specific Diets,Coop,2023-05-23
+12701,15.55,Naturaplan Organic Ramseier Clear Apple Juice 6x1l,Ramseier,6.0,Specific Diets,Coop,2023-05-23
+12707,5.95,Bruno's Best Tomato & Basil Dressing,Brunos,0.5,Specific Diets,Coop,2023-05-23
+12708,7.5,Naturaplan Bio HOLL Raps Bratöl CH 500ml,Coop,0.5,Specific Diets,Coop,2023-05-23
+12714,,None,None,2.0,Specific Diets,Coop,2023-05-23
+12715,1.5,Organic Sparkling Passion Fruit,Coop,0.5,Specific Diets,Coop,2023-05-23

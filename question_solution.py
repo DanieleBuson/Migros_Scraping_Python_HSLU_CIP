@@ -12,13 +12,32 @@ import numpy as np
 ## average quantity in grams and in liters, plus general information on a keyword.
 
 
-## extraction of all the data from CSV 
+## extraction of all the data from CSV and TXT from Migros (first) and Coop (second)
 migros_total_float_price = pd.read_csv("data/migros_dataset_fp.txt")
-migros_total = pd.read_csv("data/migros_dataset.txt")
-migros_total_g = pd.read_csv("data/migros_dataset_g.txt")
-migros_total_l = pd.read_csv("data/migros_dataset_l.txt")
+migros_total_float_price.rename(columns={"Type of food": "TypeOfFood"}, inplace=True)
+migros_total_float_price = migros_total_float_price[["Price","Product","Producer","Quantity","TypeOfFood","Supermarket","Date"]]
 
-print(migros_total)
+migros_total_g = pd.read_csv("data/migros_dataset_g.txt")
+migros_total_g.rename(columns={"Type of food": "TypeOfFood"}, inplace=True)
+migros_total_g = migros_total_g[["Price","Product","Producer","Quantity","TypeOfFood","Supermarket","Date"]]
+
+migros_total_l = pd.read_csv("data/migros_dataset_l.txt")
+migros_total_l.rename(columns={"Type of food": "TypeOfFood"}, inplace=True)
+migros_total_l = migros_total_l[["Price","Product","Producer","Quantity","TypeOfFood","Supermarket","Date"]]
+
+
+food_coop = pd.read_csv("data/Food_output.csv")
+food_coop = food_coop[["Price","Product","Producer","Quantity","TypeOfFood","Supermarket","Date"]]
+food_coop_g = pd.read_csv("data/Table_g_Food_output.csv")
+food_coop_g = food_coop_g[["Price","Product","Producer","Quantity","TypeOfFood","Supermarket","Date"]]
+food_coop_l = pd.read_csv("data/Table_l_Food_output.csv")
+food_coop_l = food_coop_l[["Price","Product","Producer","Quantity","TypeOfFood","Supermarket","Date"]]
+
+total_float_price = pd.concat([migros_total_float_price, food_coop], ignore_index=True)
+total_g = pd.concat([migros_total_g, food_coop_g], ignore_index=True)
+total_l = pd.concat([migros_total_l, food_coop_l], ignore_index=True)
+
+
 
 ## We create a interactive program to search a specific keyword from different dataset (dataset with price in float,dataset with grams in float or liters in float)
 cond = True
@@ -45,18 +64,19 @@ while cond:
             minimum_product = ""
             sum_val = 0
             sum_val_squared = 0
-            for i in range(len(migros_total_float_price)):
-                if keyword.lower() in migros_total_float_price.loc[i, "Product"].lower():
-                    print("Product: ", migros_total_float_price.loc[i, "Product"], "\nProducer: ", migros_total_float_price.loc[i, "Producer"], "\nPrice: ", migros_total_float_price.loc[i, "Price"])
+            for i in range(len(total_float_price)):
+                if keyword.lower() in total_float_price.loc[i, "Product"].lower():
+                    print("Product: ", total_float_price.loc[i, "Product"], "\nProducer: ", total_float_price.loc[i, "Producer"], 
+                        "\nPrice: ", total_float_price.loc[i, "Price"], "\nSupermarket: ", total_float_price.loc[i, "Supermarket"], "\n")
                     count += 1
-                    sum_val += migros_total_float_price.loc[i, "Price"]
-                    sum_val_squared += migros_total_float_price.loc[i, "Price"]**2
-                    if migros_total_float_price.loc[i,"Price"] > maximum_price:
-                        maximum_price = migros_total_float_price.loc[i, "Price"]
-                        maximum_product = str(migros_total_float_price.loc[i,"Product"]) + ", price: " + str(maximum_price)
-                    if migros_total_float_price.loc[i,"Price"] < minimum_price:
-                        minimum_price = migros_total_float_price.loc[i, "Price"]
-                        minimum_product = str(migros_total_float_price.loc[i,"Product"]) + ", price: " + str(minimum_price)
+                    sum_val += total_float_price.loc[i, "Price"]
+                    sum_val_squared += total_float_price.loc[i, "Price"]**2
+                    if total_float_price.loc[i,"Price"] > maximum_price:
+                        maximum_price = total_float_price.loc[i, "Price"]
+                        maximum_product = str(total_float_price.loc[i,"Product"]) + ", price: " + str(maximum_price)
+                    if total_float_price.loc[i,"Price"] < minimum_price:
+                        minimum_price = total_float_price.loc[i, "Price"]
+                        minimum_product = str(total_float_price.loc[i,"Product"]) + ", price: " + str(minimum_price)
 
             ## we display number of records, most expensive and cheapest product, average price and variance of price
             print("\nNumber of records:  ", count)
@@ -76,18 +96,19 @@ while cond:
             minimum_product = ""
             sum_val = 0
             sum_val_squared = 0
-            for i in range(len(migros_total_g)):
-                if keyword.lower() in migros_total_g.loc[i, "Product"].lower():
-                    print("Product: ", migros_total_g.loc[i, "Product"], "\nProducer: ", migros_total_g.loc[i, "Producer"], "\nPrice: ", migros_total_g.loc[i, "Price"])
+            for i in range(len(total_g)):
+                if keyword.lower() in total_g.loc[i, "Product"].lower():
+                    print("Product: ", total_g.loc[i, "Product"], "\nProducer: ", total_g.loc[i, "Producer"], 
+                        "\nPrice: ", total_g.loc[i, "Price"], "\nSupermarket: ", total_g.loc[i, "Supermarket"], "\n")
                     count += 1
-                    sum_val += float(migros_total_g.loc[i,"Price"])/float(migros_total_g.loc[i,"Quantity"])
-                    sum_val_squared += (float(migros_total_g.loc[i,"Price"])/float(migros_total_g.loc[i,"Quantity"]))**2
-                    if float(migros_total_g.loc[i,"Price"])/float(migros_total_g.loc[i,"Quantity"]) > maximum_pricexquantity:
-                        maximum_pricexquantity = float(migros_total_g.loc[i,"Price"])/float(migros_total_g.loc[i,"Quantity"]) 
-                        maximum_product = str(migros_total_g.loc[i,"Product"]) + ", price: " + str(maximum_pricexquantity)
-                    if float(migros_total_g.loc[i,"Price"])/float(migros_total_g.loc[i,"Quantity"])  < minimum_pricexquantity:
-                        minimum_pricexquantity = float(migros_total_g.loc[i,"Price"])/float(migros_total_g.loc[i,"Quantity"]) 
-                        minimum_product = str(migros_total_g.loc[i,"Product"]) + ", price: " + str(minimum_pricexquantity)
+                    sum_val += float(total_g.loc[i,"Price"])/float(total_g.loc[i,"Quantity"])
+                    sum_val_squared += (float(total_g.loc[i,"Price"])/float(total_g.loc[i,"Quantity"]))**2
+                    if float(total_g.loc[i,"Price"])/float(total_g.loc[i,"Quantity"]) > maximum_pricexquantity:
+                        maximum_pricexquantity = float(total_g.loc[i,"Price"])/float(total_g.loc[i,"Quantity"]) 
+                        maximum_product = str(total_g.loc[i,"Product"]) + ", price: " + str(maximum_pricexquantity)
+                    if float(total_g.loc[i,"Price"])/float(total_g.loc[i,"Quantity"])  < minimum_pricexquantity:
+                        minimum_pricexquantity = float(total_g.loc[i,"Price"])/float(total_g.loc[i,"Quantity"]) 
+                        minimum_product = str(total_g.loc[i,"Product"]) + ", price: " + str(minimum_pricexquantity)
 
             ## we display number of records, heaviest product and lightests product, average quantity and standard deviation
             print("\n\nNumber of records:  ", count)
@@ -107,18 +128,19 @@ while cond:
             minimum_product = ""
             sum_val = 0
             sum_val_squared = 0
-            for i in range(len(migros_total_l)):
-                if keyword.lower() in migros_total_l.loc[i, "Product"].lower():
-                    print("Product: ", migros_total_l.loc[i, "Product"], "\nProducer: ", migros_total_l.loc[i, "Producer"], "\nPrice: ", migros_total_l.loc[i, "Price"])
+            for i in range(len(total_l)):
+                if keyword.lower() in total_l.loc[i, "Product"].lower():
+                    print("Product: ", total_l.loc[i, "Product"], "\nProducer: ", total_l.loc[i, "Producer"], 
+                    "\nPrice: ", total_l.loc[i, "Price"], "\nSupermarket: ", total_l.loc[i, "Supermarket"], "\n")
                     count += 1
-                    sum_val += float(migros_total_l.loc[i,"Price"])/float(migros_total_l.loc[i,"Quantity"])
-                    sum_val_squared += (float(migros_total_l.loc[i,"Price"])/float(migros_total_l.loc[i,"Quantity"]))**2
-                    if float(migros_total_l.loc[i,"Quantity"]) > maximum_pricexquantity:
-                        maximum_pricexquantity = float(migros_total_l.loc[i,"Price"])/float(migros_total_l.loc[i,"Quantity"])
-                        maximum_product = str(migros_total_l.loc[i,"Product"]) + ", price per liter: " + str(maximum_pricexquantity)
-                    if float(migros_total_l.loc[i,"Quantity"]) < minimum_pricexquantity:
-                        minimum_pricexquantity = float(migros_total_l.loc[i,"Price"])/float(migros_total_l.loc[i,"Quantity"])
-                        minimum_product = str(migros_total_l.loc[i,"Product"]) + ", price per liter: " + str(minimum_pricexquantity)
+                    sum_val += float(total_l.loc[i,"Price"])/float(total_l.loc[i,"Quantity"])
+                    sum_val_squared += (float(total_l.loc[i,"Price"])/float(total_l.loc[i,"Quantity"]))**2
+                    if float(total_l.loc[i,"Quantity"]) > maximum_pricexquantity:
+                        maximum_pricexquantity = float(total_l.loc[i,"Price"])/float(total_l.loc[i,"Quantity"])
+                        maximum_product = str(total_l.loc[i,"Product"]) + ", price per liter: " + str(maximum_pricexquantity)
+                    if float(total_l.loc[i,"Quantity"]) < minimum_pricexquantity:
+                        minimum_pricexquantity = float(total_l.loc[i,"Price"])/float(total_l.loc[i,"Quantity"])
+                        minimum_product = str(total_l.loc[i,"Product"]) + ", price per liter: " + str(minimum_pricexquantity)
             ## we display number of records, heaviest product and lightests product, average quantity and standard deviation
             print("\n\nNumber of records:  ", count)
             print("\nMost expensive product:  ", maximum_product)
@@ -134,3 +156,58 @@ while cond:
             
 
 ############# Third Question #############
+
+tabDf_g = pd.read_csv("data/average_prices_grams_prices.csv")
+tabDf_l = pd.read_csv("data/average_prices_liters_price.csv")
+
+CRED = '\033[101m'
+CEND = '\033[0m'
+CGRE = '\33[102m'
+
+for j in range(len(tabDf_g)):
+    print("\n" + tabDf_g.loc[j, "item_description"] + "\n")
+    total = 0
+    count = 0
+    average = 0
+    for i in range(len(total_g)):
+
+        if tabDf_g.loc[j, "item_description"].lower() in total_g.loc[i, "Product"].lower():
+            total += (float(total_g.loc[i, "Price"])*1000)/float(total_g.loc[i, "Quantity"])
+            count += 1
+            # if float(tabDf_g.loc[j, "avg_price_chf"]) < (float(total_g.loc[i, "Price"])*1000)/float(total_g.loc[i, "Quantity"]):
+            #     print(CRED + "The product " + total_g.loc[i, "Product"] + " in "+ total_g.loc[i, "Supermarket"] +" is above the average price!" + CEND)
+            # else:
+            #     print(CGRE + "The product " + total_g.loc[i, "Product"] + " in "+ total_g.loc[i, "Supermarket"] +" is below the average price!" + CEND)
+    
+    print("\n\n")
+    average = float(total)/float(count)
+    if average < float(tabDf_g.loc[j, "avg_price_chf"]):
+        print(CRED + "The average price of " + tabDf_g.loc[j, "item_description"] + " is below the estimation done scraping Migros and Coop data! => Migros and Coop are more expansive" + CEND)
+    else:
+        print(CGRE + "The average price of " + tabDf_g.loc[j, "item_description"] + " is above or in line with the estimation done scraping Migros and Coop data! => Migros and Coop are in line with prices" + CEND)
+    print("\n\n") 
+
+
+
+for j in range(len(tabDf_l)):
+    print("\n" + tabDf_l.loc[j, "item_description"] + "\n")
+    total = 0
+    count = 0
+    average = 0
+    for i in range(len(total_l)):
+
+        if tabDf_l.loc[j, "item_description"].lower() in total_l.loc[i, "Product"].lower():
+            total += (float(total_l.loc[i, "Price"]))/float(total_l.loc[i, "Quantity"])
+            count += 1
+            # if float(tabDf_l.loc[j, "avg_price_chf"]) < (float(total_l.loc[i, "Price"]))/float(total_l.loc[i, "Quantity"]):
+            #     print(CRED + "The product " + total_l.loc[i, "Product"] + " in "+ total_l.loc[i, "Supermarket"] +" is above the average price!" + CEND)
+            # else:
+            #     print(CGRE + "The product " + total_l.loc[i, "Product"] + " in "+ total_l.loc[i, "Supermarket"] +" is below the average price!" + CEND)
+    
+    print("\n\n")
+    average = float(total)/float(count)
+    if average < float(tabDf_l.loc[j, "avg_price_chf"]):
+        print(CRED + "The average price of " + tabDf_l.loc[j, "item_description"] + " is below the estimation done scraping Migros and Coop data! => Migros and Coop are more expansive" + CEND)
+    else:
+        print(CGRE + "The average price of " + tabDf_l.loc[j, "item_description"] + " is above or in line with the estimation done scraping Migros and Coop data! => Migros and Coop are in line with prices" + CEND)
+    print("\n\n") 

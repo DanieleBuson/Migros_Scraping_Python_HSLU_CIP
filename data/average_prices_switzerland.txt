@@ -1,0 +1,25 @@
+,item_description,price_chf,price_usd,price_euro
+0,a local beer (0.3 liter bottle),1.3,1.4,1.3
+1,"a local beer (0,5 liter bottle)",1.6,1.8,1.7
+2,"an imported beer (0,3 liter bottle)",2.0,2.2,2.1
+3,"an imported beer (0,5 liter bottle)",5.1,5.6,5.3
+4,table wine,12.0,13.0,13.0
+5,cigarettes,8.1,9.0,8.3
+6,a Cola/Pepsi (0.33 liter bottle),4.0,4.4,4.1
+7,Perrier water (0.33 liter bottle),3.5,3.9,3.6
+8,water (1.5 liter bottle),1.1,1.2,1.2
+9,milk (1 liter bottle),1.5,1.7,1.5
+10,"bread (0,5 kg)",2.6,2.9,2.7
+11,eggs (10 pieces),4.6,5.1,4.7
+12,cheese (1kg),19.0,21.0,20.0
+13,cottage cheese price,0.75,0.83,0.77
+14,a sausage (1kg),35.0,39.0,36.0
+15,a chicken (1kg),25.0,28.0,26.0
+16,apples (1kg),3.9,4.3,4.0
+17,pears (1kg),4.6,5.1,4.7
+18,a oranges (1kg),3.5,3.9,3.6
+19,potatoes (1kg),2.4,2.6,2.4
+20,a lettuce,2.0,2.2,2.1
+21,white rice (1kg),2.5,2.8,2.6
+22,tomatoes (1Kg),4.1,4.5,4.2
+23,a cucumbers (1kg),2.2,2.5,2.3

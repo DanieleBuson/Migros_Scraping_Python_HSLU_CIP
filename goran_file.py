@@ -89,5 +89,5 @@ tabDF.columns = ["item_description", "price_chf", "price_usd", "price_euro"]
 # The DataFrame is printed to the console for checking the final output.
 print(tabDF)
 
-with open("average_prices_switzerland.txt", "w") as csv_file: 
+with open("data/average_prices_switzerland.txt", "w") as csv_file: 
     tabDF.to_csv(csv_file)
