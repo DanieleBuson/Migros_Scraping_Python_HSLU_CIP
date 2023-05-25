@@ -110,7 +110,7 @@ while cond:
             sum_val = 0
             sum_val_squared = 0
             for i in range(len(total_float_price)):
-                if keyword.lower() in total_float_price.loc[i, "Product"].lower():
+                if keyword.lower() in str(total_float_price.loc[i, "Product"]).lower():
                     print("Product: ", total_float_price.loc[i, "Product"], "\nProducer: ", total_float_price.loc[i, "Producer"], 
                         "\nPrice: ", total_float_price.loc[i, "Price"], "\nSupermarket: ", total_float_price.loc[i, "Supermarket"], "\n")
                     count += 1
@@ -142,7 +142,7 @@ while cond:
             sum_val = 0
             sum_val_squared = 0
             for i in range(len(total_g)):
-                if keyword.lower() in total_g.loc[i, "Product"].lower():
+                if keyword.lower() in (total_g.loc[i, "Product"]).lower():
                     print("Product: ", total_g.loc[i, "Product"], "\nProducer: ", total_g.loc[i, "Producer"], 
                         "\nPrice: ", total_g.loc[i, "Price"], "\nSupermarket: ", total_g.loc[i, "Supermarket"], "\n")
                     count += 1
