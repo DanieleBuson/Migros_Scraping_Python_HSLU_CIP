@@ -1,6 +1,51 @@
 import pandas as pd
 import numpy as np
 ############# First Question #############
+Table_l = pd.read_csv("data/Table_l_Food_output.csv")
+Table_g = pd.read_csv("data/Table_g_Food_output.csv")
+
+coop_total=pd.concat([Table_g[["Price", "Product", "Producer", "Quantity", "Date"]],
+                      Table_l[["Price", "Product", "Producer", "Quantity", "Date"]]], ignore_index=True)
+
+migrosL= pd.read_csv("data/migros_dataset_l.txt")
+migrosG= pd.read_csv("data/migros_dataset_g.txt")
+migros_brands=list(migrosL['Producer'].unique())+list(migrosG['Producer'].unique())
+coop_brands = list(Table_l['Producer'].unique())+list(Table_g['Producer'].unique())
+common_brands=list(set(coop_brands) & set(migros_brands))
+Migros_tot=pd.concat([migrosL[["Price", "Product", "Producer", "Quantity", "Date"]],
+                     migrosG[["Price", "Product", "Producer", "Quantity", "Date"]]], ignore_index=True)
+
+CRED = '\033[101m'
+CEND = '\033[0m'
+CGRE = '\33[102m'
+
+for i in common_brands:
+    sumMigros = 0
+    countMigros = 0
+    sumCoop = 0
+    countCoop =0 
+    
+    for j in range(len(Migros_tot)):
+        # print(Migros_tot.loc[j, "Producer"])
+        if i == Migros_tot.loc[j, "Producer"]:
+            sumMigros += float(Migros_tot.loc[j, "Price"])
+            countMigros += 1
+    
+    for k in range(len(Migros_tot)):
+        if i == coop_total.loc[k, "Producer"]:
+            sumCoop += float(coop_total.loc[k, "Price"])
+            countCoop += 1
+    print("Migros", sumMigros)
+    print("Coop", sumCoop)
+    try:
+        averageMigros = sumMigros/countMigros
+        averageCoop = sumCoop/countCoop
+        if averageMigros > averageCoop:
+            print(CRED+'For the brand '+i+' Coop is on average more convenient than Migros'+CEND)
+        else:
+            print(CGRE+'For the brand '+i+' Migros is on average more convenient than Coop'+CEND)
+    except Exception:
+        print("\n")
 
 
 ############# Second Question #############
@@ -157,6 +202,7 @@ while cond:
 
 ############# Third Question #############
 
+## Extract the data from the CSV files
 tabDf_g = pd.read_csv("data/average_prices_grams_prices.csv")
 tabDf_l = pd.read_csv("data/average_prices_liters_price.csv")
 
@@ -164,13 +210,16 @@ CRED = '\033[101m'
 CEND = '\033[0m'
 CGRE = '\33[102m'
 
+## loop through the goods in the CSV files
 for j in range(len(tabDf_g)):
-    print("\n" + tabDf_g.loc[j, "item_description"] + "\n")
+    # print("\n" + tabDf_g.loc[j, "item_description"] + "\n")
+    ## We prepare the count to extract the average from the total data.
     total = 0
     count = 0
     average = 0
+    ## we loop trhough the products
     for i in range(len(total_g)):
-
+        ## if the keyword in tabDF is also in the product string then we extract the price per grams and we update the count
         if tabDf_g.loc[j, "item_description"].lower() in total_g.loc[i, "Product"].lower():
             total += (float(total_g.loc[i, "Price"])*1000)/float(total_g.loc[i, "Quantity"])
             count += 1
@@ -180,7 +229,9 @@ for j in range(len(tabDf_g)):
             #     print(CGRE + "The product " + total_g.loc[i, "Product"] + " in "+ total_g.loc[i, "Supermarket"] +" is below the average price!" + CEND)
     
     print("\n\n")
+    ## we calculate the average 
     average = float(total)/float(count)
+    ## We show in green if the average is below the Swiss average value, we display in red the result if the average is above the Swiss average.
     if average < float(tabDf_g.loc[j, "avg_price_chf"]):
         print(CRED + "The average price of " + tabDf_g.loc[j, "item_description"] + " is below the estimation done scraping Migros and Coop data! => Migros and Coop are more expansive" + CEND)
     else:
@@ -188,7 +239,7 @@ for j in range(len(tabDf_g)):
     print("\n\n") 
 
 
-
+## We do the same for liters.
 for j in range(len(tabDf_l)):
     print("\n" + tabDf_l.loc[j, "item_description"] + "\n")
     total = 0
