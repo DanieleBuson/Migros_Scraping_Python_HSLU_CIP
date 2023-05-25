@@ -13,10 +13,12 @@ import numpy as np
 
 
 ## extraction of all the data from CSV 
-migros_total_float_price = pd.read_csv("migros_dataset_fp.txt")
-migros_total = pd.read_csv("migros_dataset.txt")
-migros_total_g = pd.read_csv("migros_dataset_g.txt")
-migros_total_l = pd.read_csv("migros_dataset_l.txt")
+migros_total_float_price = pd.read_csv("data/migros_dataset_fp.txt")
+migros_total = pd.read_csv("data/migros_dataset.txt")
+migros_total_g = pd.read_csv("data/migros_dataset_g.txt")
+migros_total_l = pd.read_csv("data/migros_dataset_l.txt")
+
+print(migros_total)
 
 ## We create a interactive program to search a specific keyword from different dataset (dataset with price in float,dataset with grams in float or liters in float)
 cond = True
